@@ -1,0 +1,13 @@
+Name: §eDaily Key
+Virtual: false
+Item:
+  Material: STICK
+  Custom_Model_Data: 141
+  Amount: 1
+  Durability: 0
+  Name: '&eDaily Key'
+  Lore:
+  - '&7With this key you'
+  - '&7can open daily crate'
+  Item_Flags: []
+  Unbreakable: false

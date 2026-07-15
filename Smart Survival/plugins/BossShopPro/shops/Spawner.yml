@@ -1,0 +1,501 @@
+ShopName: Spawners
+DisplayName: '&f⻔⻔⻔⻔⻔⻔⻔⻔'
+Command: Spawners
+signs:
+  text: '[Spawners]'
+  NeedPermissionToCreateSign: true
+shop:
+  0:
+    MenuItem:
+    - 'name: &fBat Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWU5OWRlZWY5MTlkYjY2YWMyYmQyOGQ2MzAyNzU2Y2NkNTdjN2Y4YjEyYjlkY2E4ZjQxYzNlMGEwNGFjMWNjIn19fQ==
+    - amount:1
+    - 'lore1: &fBuy a &7bat spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% bat_spawn_egg 1
+    PriceType: MONEY
+    Price: 2800
+    Message: '&f &fYou bought a &ebat spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 3
+  1:
+    MenuItem:
+    - 'name: &fBee Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI3MjRhOWE0Y2RkNjhiYTQ5NDE1NTYwZTViZTQwYjRhMWM0N2NiNWJlMWQ2NmFlZGI1MmEzMGU2MmVmMmQ0NyJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7bee spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% bee_spawn_egg 1
+    PriceType: MONEY
+    Price: 3500
+    Message: '&f &fYou bought a &ebee spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 4
+  2:
+    MenuItem:
+    - 'name: &fCat Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmIyNTNmYzZiNjU2OTg4NDUzYTJkNzEzOGZjYTRkMWYyNzUyZjQ3NjkxZjBjNDM0ZTQzMjE4Mzc3MWNmZTEifX19
+    - amount:1
+    - 'lore1: &fBuy a &7cat spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% cat_spawn_egg 1
+    PriceType: MONEY
+    Price: 5750
+    Message: '&f &fYou bought a &ecat_spawn_egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 5
+  3:
+    MenuItem:
+    - 'name: &fCod Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg5MmQ3ZGQ2YWFkZjM1Zjg2ZGEyN2ZiNjNkYTRlZGRhMjExZGY5NmQyODI5ZjY5MTQ2MmE0ZmIxY2FiMCJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7cod spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% cod_spawn_egg 1
+    PriceType: MONEY
+    Price: 3000
+    Message: '&f &fYou bought a &ecod spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 6
+  4:
+    MenuItem:
+    - 'name: &fDolphin Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGU5Njg4Yjk1MGQ4ODBiNTViN2FhMmNmY2Q3NmU1YTBmYTk0YWFjNmQxNmY3OGU4MzNmNzQ0M2VhMjlmZWQzIn19fQ==
+    - amount:1
+    - 'lore1: &fBuy a &7dolphin spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% dolphin_spawn_egg 1
+    PriceType: MONEY
+    Price: 6500
+    Message: '&f &fYou bought a &edolphin spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 7
+  5:
+    MenuItem:
+    - 'name: &fDonkey Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjE0NGJkYWQ2YmMxOGEzNzE2YjE5NmRjNGE0YmQ2OTUyNjVlY2NhYWRkMGQ5NDViZWI5NzY0NDNmODI2OTNiIn19fQ==
+    - amount:1
+    - 'lore1: &fBuy a &7donkey spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% donkey_spawn_egg 1
+    PriceType: MONEY
+    Price: 4350
+    Message: '&f &fYou bought a &edonkey spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 11
+  6:
+    MenuItem:
+    - 'name: &fFox Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM3ZDhiNDQ5NGY1YTNhZjdlZWM4N2RiYjM0NjZjZDNkZGE3ODM1Y2Y1ZDNhMzVkMWQ2YTFmYTQzMzdlMGIzIn19fQ==
+    - amount:1
+    - 'lore1: &fBuy a &7fox spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% fox_spawn_egg 1
+    PriceType: MONEY
+    Price: 6000
+    Message: '&f &fYou bought a &efox spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 12
+  6frog:
+    MenuItem:
+    - 'name: &fFrog Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjcyYjllNjYzNzQxZmZmMDdiMGFhZjUxNGFlYmI3MGJiODE0ZjE2ODhlNzk4NDY4MjNjYjRmOTE0NzBkNTYxIn19fQ==
+    - amount:1
+    - 'lore1: &fBuy a &7frog spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% frog_spawn_egg 1
+    PriceType: MONEY
+    Price: 8000
+    Message: '&f &fYou bought a &efox spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 13
+  7:
+    MenuItem:
+    - 'name: &fHorse Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWYxNWMyN2NiN2MzNWE2ZTdhYTc2MzU3M2RkYmZmOTgwODUxNmJkYWJjMjNmMWNiNTE2MzkxOGM0YTEzOTIifX19
+    - amount:1
+    - 'lore1: &fBuy a &7horse spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% horse_spawn_egg 1
+    PriceType: MONEY
+    Price: 3800
+    Message: '&f &fYou bought a &ehorse spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 14
+  8:
+    MenuItem:
+    - 'name: &fLlama Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNkOWI1OTE1OTEyZmZjMmI4NTc2MWQ2YWRjYjQyOGE4MTJmOWI4M2ZmNjM0ZTMzMTE2MmNlNDZjOTllOSJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7llama spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% llama_spawn_egg 1
+    PriceType: MONEY
+    Price: 5000
+    Message: '&f &fYou bought a &ellama spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 15
+  9:
+    MenuItem:
+    - 'name: &fMule Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZkY2RhMjY1ZTU3ZTRmNTFiMTQ1YWFjYmY1YjU5YmRjNjA5OWZmZDNjY2UwYTY2MWIyYzAwNjVkODA5MzBkOCJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7mule spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% mule_spawn_egg 1
+    PriceType: MONEY
+    Price: 3750
+    Message: '&f &fYou bought a &emule spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 16
+  10:
+    MenuItem:
+    - 'name: &fMooshroom Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmI1Mjg0MWYyZmQ1ODllMGJjODRjYmFiZjllMWMyN2NiNzBjYWM5OGY4ZDZiM2RkMDY1ZTU1YTRkY2I3MGQ3NyJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7mooshroom spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% mooshroom_spawn_egg 1
+    PriceType: MONEY
+    Price: 11500
+    Message: '&f &fYou bought a &emooshroom spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 17
+  11:
+    MenuItem:
+    - 'name: &fOcelot Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY1N2NkNWMyOTg5ZmY5NzU3MGZlYzRkZGNkYzY5MjZhNjhhMzM5MzI1MGMxYmUxZjBiMTE0YTFkYjEifX19
+    - amount:1
+    - 'lore1: &fBuy an &7ocelot spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% ocelot_spawn_egg 1
+    PriceType: MONEY
+    Price: 5200
+    Message: '&f &fYou bought an &eocelot spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 20
+  12:
+    MenuItem:
+    - 'name: &fPanda Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDE4OGM5ODBhYWNmYTk0Y2YzMzA4ODUxMmIxYjk1MTdiYTgyNmIxNTRkNGNhZmMyNjJhZmY2OTc3YmU4YSJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7panda spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% panda_spawn_egg 1
+    PriceType: MONEY
+    Price: 7000
+    Message: '&f &fYou bought a &epanda spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 21
+  13:
+    MenuItem:
+    - 'name: &fParrot Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZkNjQ3ZTY4OWQ5MTFjNGY4NTFhMWY2Zjg2MzQwYzU3MzdiMmI1ZjUxODBlZmI3Y2M4MTY1ZjNhZjY4ZDEifX19
+    - amount:1
+    - 'lore1: &fBuy a &7parrot spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% parrot_spawn_egg 1
+    PriceType: MONEY
+    Price: 6300
+    Message: '&f &fYou bought a &eparrot spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 22
+  14:
+    MenuItem:
+    - 'name: &fPolar Bear Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ2ZDIzZjA0ODQ2MzY5ZmEyYTM3MDJjMTBmNzU5MTAxYWY3YmZlODQxOTk2NjQyOTUzM2NkODFhMTFkMmIifX19
+    - amount:1
+    - 'lore1: &fBuy a &7polar bear spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% polar_bear_spawn_egg 1
+    PriceType: MONEY
+    Price: 6700
+    Message: '&f &fYou bought a &epolar bear spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 23
+  15:
+    MenuItem:
+    - 'name: &fPufferfish Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNiMTk1NWQzYjZlYjQyZjUwZTUzNmMxYTMyODVhYjczZWQ3ZTJiZTA1MWIwOWIyMWUxNzgxMWYxYTZkIn19fQ==
+    - amount:1
+    - 'lore1: &fBuy a &7pufferfish spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% pufferfish_spawn_egg 1
+    PriceType: MONEY
+    Price: 3500
+    Message: '&f &fYou bought a &epufferfish spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 24
+  16:
+    MenuItem:
+    - 'name: &fSalmon Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGFlYjIxYTI1ZTQ2ODA2Y2U4NTM3ZmJkNjY2ODI4MWNmMTc2Y2VhZmU5NWFmOTBlOTRhNWZkODQ5MjQ4NzgifX19
+    - amount:1
+    - 'lore1: &fBuy a &7salmon spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% salmon_spawn_egg 1
+    PriceType: MONEY
+    Price: 3200
+    Message: '&f &fYou bought a &esalmon_spawn_egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 25
+  17:
+    MenuItem:
+    - 'name: &fTrader Llama Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzA4N2E1NTZkNGZmYTk1ZWNkMjg0NGYzNTBkYzQzZTI1NGU1ZDUzNWZhNTk2ZjU0MGQ3ZTc3ZmE2N2RmNDY5NiJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7trader llama spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% trader_llama_spawn_egg 1
+    PriceType: MONEY
+    Price: 5750
+    Message: '&f &fYou bought a &etrader llama spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 26
+  18:
+    MenuItem:
+    - 'name: &fTropical Fish Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZkZDVlNmFkZGI1NmFjYmM2OTRlYTRiYTU5MjNiMWIyNTY4ODE3OGZlZmZhNzIyOTAyOTllMjUwNWM5NzI4MSJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7tropical fish spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% tropical_fish_spawn_egg 1
+    PriceType: MONEY
+    Price: 3700
+    Message: '&f &fYou bought a &etropical_fish_spawn_egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 29
+  19:
+    MenuItem:
+    - 'name: &fTurtle Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMGE0MDUwZTdhYWNjNDUzOTIwMjY1OGZkYzMzOWRkMTgyZDdlMzIyZjlmYmNjNGQ1Zjk5YjU3MThhIn19fQ==
+    - amount:1
+    - 'lore1: &fBuy a &7turtle spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% turtle_spawn_egg 1
+    PriceType: MONEY
+    Price: 5250
+    Message: '&f &fYou bought a &eturtle spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 30
+  20:
+    MenuItem:
+    - 'name: &fVillager Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFiODMwZWI0MDgyYWNlYzgzNmJjODM1ZTQwYTExMjgyYmI1MTE5MzMxNWY5MTE4NDMzN2U4ZDM1NTU1ODMifX19
+    - amount:1
+    - 'lore1: &fBuy a &7villager spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% villager_spawn_egg 1
+    PriceType: MONEY
+    Price: 6000
+    Message: '&f &fYou bought a &evillager spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 32
+  21:
+    MenuItem:
+    - 'name: &fWandereing Trader Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYxMzc5YTgyMjkwZDdhYmUxZWZhYWJiYzcwNzEwZmYyZWMwMmRkMzRhZGUzODZiYzAwYzkzMGM0NjFjZjkzMiJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7wandering trader spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% wandering_trader_spawn_egg 1
+    PriceType: MONEY
+    Price: 7000
+    Message: '&f &fYou bought a &ewandering trader spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 34
+  22:
+    MenuItem:
+    - 'name: &fWolf Spawn Egg'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjlkMWQzMTEzZWM0M2FjMjk2MWRkNTlmMjgxNzVmYjQ3MTg4NzNjNmM0NDhkZmNhODcyMjMxN2Q2NyJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7wolf spawn egg &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - give %player% wolf_spawn_egg 1
+    PriceType: MONEY
+    Price: 5000
+    Message: '&f &fYou bought a &ewolf spawn egg &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 35
+  23:
+    MenuItem:
+    - 'name: &fChicken Spawner'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZlNGNjOTYzZjI2MTcyYmFkNTM2NWFjYTIwOTExZGVkNzQ0YTJiNzQzNjc2YjExMmQ5YThjNDNlZjY1OSJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7chicken spawner &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - ms give %player% chicken 1
+    PriceType: MONEY
+    Price: 25000
+    Message: '&f &fYou bought a &echicken spawner &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 31
+  24:
+    MenuItem:
+    - 'name: &fCow Spawner'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RmYTBhYzM3YmFiYTJhYTI5MGU0ZmFlZTQxOWE2MTNjZDYxMTdmYTU2OGU3MDlkOTAzNzQ3NTNjMDMyZGNiMCJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7cow spawner &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - ms give %player% cow 1
+    PriceType: MONEY
+    Price: 34000
+    Message: '&f &fYou bought a &ecow spawner &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 33
+  25:
+    MenuItem:
+    - 'name: &fPig Spawner'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjIxNjY4ZWY3Y2I3OWRkOWMyMmNlM2QxZjNmNGNiNmUyNTU5ODkzYjZkZjRhNDY5NTE0ZTY2N2MxNmFhNCJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7pig spawner &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - ms give %player% pig 1
+    PriceType: MONEY
+    Price: 27000
+    Message: '&f &fYou bought a &epig spawner &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 39
+  26:
+    MenuItem:
+    - 'name: &fRabbit Spawner'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2QxMTY5YjI2OTRhNmFiYTgyNjM2MDk5MjM2NWJjZGE1YTEwYzg5YTNhYTJiNDhjNDM4NTMxZGQ4Njg1YzNhNyJ9fX0=
+    - amount:1
+    - 'lore1: &fBuy a &7rabbit spawner &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - ms give %player% rabbit 1
+    PriceType: MONEY
+    Price: 23000
+    Message: '&f &fYou bought a &erabbit spawner &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 40
+  27:
+    MenuItem:
+    - 'name: &fSheep Spawner'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjMxZjljY2M2YjNlMzJlY2YxM2I4YTExYWMyOWNkMzNkMThjOTVmYzczZGI4YTY2YzVkNjU3Y2NiOGJlNzAifX19
+    - amount:1
+    - 'lore1: &fBuy a &7sheep spawner &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - ms give %player% sheep 1
+    PriceType: MONEY
+    Price: 32000
+    Message: '&f &fYou bought a &esheep spawner &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 42
+  28:
+    MenuItem:
+    - 'name: &fSquid Spawner'
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMDE0MzNiZTI0MjM2NmFmMTI2ZGE0MzRiODczNWRmMWViNWIzY2IyY2VkZTM5MTQ1OTc0ZTljNDgzNjA3YmFjIn19fQ==
+    - amount:1
+    - 'lore1: &fBuy a &7squid spawner &ffor &a%price% #&8(Left-Click)'
+    RewardType: COMMAND
+    Reward:
+    - ms give %player% squid 1
+    PriceType: MONEY
+    Price: 42000
+    Message: '&f &fYou bought a &esquid spawner &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 43
+####################################################################################################################
+  Back:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  Back2:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  Back3:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  NextPage:
+    MenuItem:
+    - name:&8ɴᴇxᴛ ᴘᴀɢᴇ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Spawners2
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 53
+

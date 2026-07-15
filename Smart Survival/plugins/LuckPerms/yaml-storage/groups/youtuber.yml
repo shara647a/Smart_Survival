@@ -1,0 +1,8 @@
+name: youtuber
+permissions:
+- displayname.
+parents:
+- default
+prefixes:
+- '&f#fe0001':
+    priority: 999

@@ -1,0 +1,26 @@
+location: world:-131.477:70.300:-5.474
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: ''
+    height: 0.2
+  - content: '&eᴍᴀʀᴋᴇᴛᴘʟᴀᴄᴇ'
+    height: 0.3
+  - content: ''
+    height: 0.2
+  - content: '&7ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ꜱᴛᴏʀᴇ, ᴡɪᴛʜ'
+    height: 0.3
+  - content: '&7ᴀʟʟ ᴛʜᴇ ɴᴇᴄᴇꜱꜱᴀʀʏ ᴍᴀᴛᴇʀɪᴀʟꜱ'
+    height: 0.3
+  - content: '&7ᴏɴʟʏ ᴀ ᴄʟɪᴄᴋ ᴀᴡᴀʏ'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  - content: '#ICON: golden_apple'
+    height: 0.3
+  actions: {}

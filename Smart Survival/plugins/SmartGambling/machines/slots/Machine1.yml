@@ -1,0 +1,302 @@
+Items:
+  Septar:
+    material: AMETHYST_SHARD
+    name: ''
+    chance: 1
+    sound: 'rare_item'
+  Struguri:
+    material: GLOW_BERRIES
+    name: ''
+    chance: 10
+  Pepeni:
+    material: CHORUS_FRUIT
+    name: ''
+    chance: 10
+  Stea:
+    material: NETHER_STAR
+    name: ''
+    chance: 10
+    equivalent:
+      - Septar
+      - Struguri
+      - Pepeni
+      - Pruna
+      - Lamaie
+      - Portocale
+      - Cirese
+  Pruna:
+    material: GOLDEN_CARROT
+    name: ''
+    chance: 20
+  Lamaie:
+    material: GLISTERING_MELON_SLICE
+    name: ''
+    chance: 20
+  Portocale:
+    material: SWEET_BERRIES
+    name: ''
+    chance: 20
+  Cirese:
+    material: BEETROOT
+    name: ''
+    chance: 30
+
+######################################
+
+Categories:
+  Valoare:
+    - Struguri
+    - Pepeni
+
+######################################
+
+Rewards:
+  '1':
+    Requirements:
+      type: 'row'
+      item: 'Septar'
+      amount: 3
+    Reward:
+      moneyMultiplier: 10
+      sound: 'jackpot'
+  '2':
+    Requirements:
+      type: 'row'
+      item: 'Septar'
+      amount: 4
+    Reward:
+      moneyMultiplier: 20
+      sound: 'jackpot'
+  '3':
+    Requirements:
+      type: 'row'
+      item: 'Septar'
+      amount: 5
+    Reward:
+      moneyMultiplier: 50
+      sound: 'jackpot'
+  '4':
+    Requirements:
+      type: 'row'
+      item: 'Septar'
+      amount: 3
+      startingLine: 1
+    Reward:
+      moneyMultiplier: 25
+      sound: 'jackpot'
+  '5':
+    Requirements:
+      type: 'row'
+      item: 'Septar'
+      amount: 2
+      startingLine: 1
+    Reward:
+      moneyMultiplier: 3
+      sound: 'jackpot'
+  '6':
+    Requirements:
+      type: 'row'
+      item: 'Struguri'
+      amount: 3
+    Reward:
+      moneyMultiplier: 5
+      sound: 'rareWin'
+  '7':
+    Requirements:
+      type: 'row'
+      item: 'Struguri'
+      amount: 4
+    Reward:
+      moneyMultiplier: 10
+      sound: 'rareWin'
+  '8':
+    Requirements:
+      type: 'row'
+      item: 'Struguri'
+      amount: 5
+    Reward:
+      moneyMultiplier: 20
+      sound: 'rareWin'
+  '9':
+    Requirements:
+      type: 'row'
+      item: 'Pepeni'
+      amount: 3
+    Reward:
+      moneyMultiplier: 5
+      sound: 'rareWin'
+  '10':
+    Requirements:
+      type: 'row'
+      item: 'Pepeni'
+      amount: 4
+    Reward:
+      moneyMultiplier: 10
+      sound: 'rareWin'
+  '11':
+    Requirements:
+      type: 'row'
+      item: 'Pepeni'
+      amount: 5
+    Reward:
+      moneyMultiplier: 20
+      sound: 'rareWin'
+  '12':
+    Requirements:
+      type: 'row'
+      item: 'Valoare'
+      amount: 5
+    Reward:
+      moneyMultiplier: 10
+      sound: 'rareWin'
+  '13':
+    Requirements:
+      type: 'row'
+      item: 'Stea'
+      amount: 4
+    Reward:
+      moneyMultiplier: 5
+      sound: 'slotsWin'
+  '14':
+    Requirements:
+      type: 'row'
+      item: 'Stea'
+      amount: 5
+    Reward:
+      moneyMultiplier: 15
+      sound: 'slotsWin'
+  '15':
+    Requirements:
+      type: 'row'
+      item: 'Pruna'
+      amount: 3
+    Reward:
+      moneyMultiplier: 2
+      sound: 'slotsWin'
+  '16':
+    Requirements:
+      type: 'row'
+      item: 'Pruna'
+      amount: 4
+    Reward:
+      moneyMultiplier: 4
+      sound: 'slotsWin'
+  '17':
+    Requirements:
+      type: 'row'
+      item: 'Pruna'
+      amount: 5
+    Reward:
+      moneyMultiplier: 10
+      sound: 'slotsWin'
+  '18':
+    Requirements:
+      type: 'row'
+      item: 'Lamaie'
+      amount: 3
+    Reward:
+      moneyMultiplier: 2
+      sound: 'slotsWin'
+  '19':
+    Requirements:
+      type: 'row'
+      item: 'Lamaie'
+      amount: 4
+    Reward:
+      moneyMultiplier: 4
+      sound: 'slotsWin'
+  '20':
+    Requirements:
+      type: 'row'
+      item: 'Lamaie'
+      amount: 5
+    Reward:
+      moneyMultiplier: 10
+      sound: 'slotsWin'
+  '21':
+    Requirements:
+      type: 'row'
+      item: 'Portocale'
+      amount: 3
+    Reward:
+      moneyMultiplier: 2
+      sound: 'slotsWin'
+  '22':
+    Requirements:
+      type: 'row'
+      item: 'Portocale'
+      amount: 4
+    Reward:
+      moneyMultiplier: 4
+      sound: 'slotsWin'
+  '23':
+    Requirements:
+      type: 'row'
+      item: 'Portocale'
+      amount: 5
+    Reward:
+      moneyMultiplier: 10
+      sound: 'slotsWin'
+  '24':
+    Requirements:
+      type: 'row'
+      item: 'Cirese'
+      amount: 4
+    Reward:
+      moneyMultiplier: 2
+      sound: 'slotsWin'
+  '25':
+    Requirements:
+      type: 'row'
+      item: 'Cirese'
+      amount: 5
+    Reward:
+      moneyMultiplier: 5
+      sound: 'slotsWin'
+
+######################################
+defaultBet: 100
+
+GUI:
+  size: 54
+  title: '&8ꜱʟᴏᴛ ᴍᴀᴄʜɪɴᴇ &7- &e%bet%$'
+  animationDuration: 80
+  spinButton: [48, 49, 50]
+  moneyButton: [53]
+  displaySlots: [[11, 20, 29], [12, 21, 30], [13, 22, 31], [14, 23, 32], [15, 24, 33]]
+
+  Items:
+    '1':
+      slots: [0, 1, 2, 3, 4, 5, 6, 7, 8, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+      material: GRAY_STAINED_GLASS_PANE
+      name: '&f'
+      animation:
+        materials:
+          - BLUE_STAINED_GLASS_PANE
+          - WHITE_STAINED_GLASS_PANE
+        delay: 10
+        vary: 2
+        dependent: true
+    '2':
+      slots: [18, 19, 25, 26]
+      material: MAGENTA_STAINED_GLASS_PANE
+      name: '&f'
+    '4':
+      slot: 53
+      material: GOLD_INGOT
+      name: '&6ᴄʜᴏᴏꜱᴇ ʙᴇᴛ ᴀᴍᴏᴜɴᴛ'
+      lore:
+        - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴏᴏꜱᴇ!'
+    '5':
+      slots: [48, 49, 50]
+      material: EMERALD_BLOCK
+      name: '&aꜱᴘɪɴ'
+      lore:
+        - '&7ᴄʟɪᴄᴋ ᴛᴏ ꜱᴘɪɴ!'
+    '6':
+      slots: [11, 12, 13, 14, 15, 29, 30, 31, 32, 33]
+      material: AMETHYST_SHARD
+    '7':
+      slots: [ 20, 21, 22, 23, 24 ]
+      material: GLOW_BERRIES
+

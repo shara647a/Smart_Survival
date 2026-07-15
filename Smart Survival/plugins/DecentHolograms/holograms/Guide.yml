@@ -1,0 +1,30 @@
+location: world:-45.521:69.700:-65.509
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: ''
+    height: 0.2
+  - content: '&bɢᴜɪᴅᴇ'
+    height: 0.3
+  - content: ''
+    height: 0.2
+  - content: '&7ᴀʟʟ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴛʜᴇ'
+    height: 0.3
+  - content: '&7ꜱʏꜱᴛᴇᴍꜱ ᴘʀᴇꜱᴇɴᴛ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    height: 0.3
+  - content: '&7ᴘᴜᴛ ɪɴ ᴀ ꜱɪɴɢʟᴇ ᴍᴇɴᴜ'
+    height: 0.3
+  - content: '&f'
+    height: 0.3
+  - content: '&eʀɪɢʜᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴜꜱᴇ'
+    height: 0.3
+  - content: ''
+    height: 0.1
+  - content: '#ICON: PLAYER_HEAD (eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjcwNWZkOTRhMGM0MzE5MjdmYjRlNjM5YjBmY2ZiNDk3MTdlNDEyMjg1YTAyYjQzOWUwMTEyZGEyMmIyZTJlYyJ9fX0=)'
+    height: 0.1
+  actions: {}

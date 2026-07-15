@@ -1,0 +1,28 @@
+location: world:-115.525:67.600:6.458
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: ''
+    height: 0.3
+  - content: '&aꜰᴀʀᴍꜱ'
+    height: 0.3
+  - content: ''
+    height: 0.2
+  - content: '&7ᴘʟᴀʏᴇʀꜱ ᴡʜᴏ ʜᴀᴠᴇ ꜱᴘᴇɴᴛ ʟᴇꜱꜱ ᴛʜᴀɴ 5 ʜᴏᴜʀꜱ ᴏɴ'
+    height: 0.3
+  - content: '&7ᴛʜᴇ ꜱᴇʀᴠᴇʀ ʜᴀᴠᴇ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜᴇ ꜰᴀʀᴍꜱ.'
+    height: 0.3
+  - content: '&7ʜᴇʀᴇ ᴛʜᴇʏ ᴄᴀɴ ɢᴇᴛ ꜰᴏᴏᴅ ᴏʀ ᴘʟᴀɴᴛ'
+    height: 0.3
+  - content: '&7ꜱᴇᴇᴅʟɪɴɢꜱ ꜰᴏʀ ᴛʜᴇɪʀ ꜰᴀʀᴍꜱ'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  - content: '#ICON: apple'
+    height: 0.3
+  actions: {}

@@ -1,0 +1,14 @@
+location: world:-60.413:67.000:10.512
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: ''
+    height: 0.3
+  - content: '#ICON: yellow_dye {CustomModelData:2003}'
+    height: 0.4
+  actions: {}

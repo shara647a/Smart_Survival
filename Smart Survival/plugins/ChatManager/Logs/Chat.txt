@@ -1,0 +1,1209 @@
+[Fri Feb 25 19:19:55 EET 2022] MihiBlu: assd <chat=a690f470-5ddd-4af8-a24e-265f91a6c597>
+[Fri Feb 25 19:20:01 EET 2022] MihiBlu: asd <chat=a690f470-5ddd-4af8-a24e-265f91a6c597>
+[Sun Mar 20 11:42:13 EET 2022] MihiBlu: &eads
+[Sun Mar 20 11:42:17 EET 2022] MihiBlu: &3ads
+[Sun Mar 20 11:43:01 EET 2022] MihiBlu: &3ads
+[Tue Mar 22 16:35:36 EET 2022] MihiBlu: ggi
+[Tue Mar 22 16:35:38 EET 2022] MihiBlu: gigi
+[Wed Jun 01 15:24:00 EEST 2022] MihiBlu: spin_mystery
+[Wed Jun 01 15:24:17 EEST 2022] MihiBlu: exit
+[Wed Jun 01 15:26:18 EEST 2022] MihiBlu: spin_csgo
+[Wed Jun 01 15:27:35 EEST 2022] MihiBlu: spin_wander
+[Wed Jun 01 15:28:03 EEST 2022] MihiBlu: exit
+[Wed Jun 01 15:28:09 EEST 2022] MihiBlu: spin_csgo
+[Wed Jun 01 15:28:31 EEST 2022] MihiBlu: spin_rows_3
+[Wed Jun 01 15:28:41 EEST 2022] MihiBlu: spin_wander
+[Tue Jun 07 23:10:14 EEST 2022] MihiBlu: &aWAX_OFF
+[Tue Jun 07 23:12:07 EEST 2022] MihiBlu: &aDUST_COLOR_TRANSITION
+[Tue Jun 07 23:12:36 EEST 2022] MihiBlu: &aWATER_WAKE
+[Tue Jun 07 23:12:41 EEST 2022] MihiBlu: &aWHITE_ASH
+[Tue Jun 07 23:13:19 EEST 2022] MihiBlu: &aWAX_ON
+[Tue Jun 07 23:13:22 EEST 2022] MihiBlu: &aWAX_OFF
+[Tue Jun 07 23:13:26 EEST 2022] MihiBlu: &aWATER_WAKE
+[Tue Jun 07 23:13:31 EEST 2022] MihiBlu: &aWATER_SPLASH
+[Tue Jun 07 23:13:37 EEST 2022] MihiBlu: &aWATER_DROP
+[Tue Jun 07 23:13:40 EEST 2022] MihiBlu: &aWATER_BUBBLE
+[Tue Jun 07 23:13:42 EEST 2022] MihiBlu: &aWARPED_SPORE
+[Tue Jun 07 23:14:02 EEST 2022] MihiBlu: &aWARPED_SPORE
+[Tue Jun 07 23:14:35 EEST 2022] MihiBlu: &aWHITE_ASH
+[Tue Jun 07 23:15:39 EEST 2022] MihiBlu: &aVIBRATION
+[Tue Jun 07 23:15:51 EEST 2022] MihiBlu: &aSUSPENDED
+[Tue Jun 07 23:15:58 EEST 2022] MihiBlu: &aVILLAGER_ANGRY
+[Tue Jun 07 23:16:01 EEST 2022] MihiBlu: &aSPIT
+[Tue Jun 07 23:16:04 EEST 2022] MihiBlu: &aSPORE_BLOSSOM_AIR
+[Tue Jun 07 23:16:09 EEST 2022] MihiBlu: &aSQUID_INK
+[Tue Jun 07 23:16:15 EEST 2022] MihiBlu: &aMOB_APPEARANCE
+[Tue Jun 07 23:16:46 EEST 2022] MihiBlu: &aBLOCK_CRACK
+[Tue Jun 07 23:16:50 EEST 2022] MihiBlu: &aSNOW_SHOVEL
+[Tue Jun 07 23:16:54 EEST 2022] MihiBlu: &aSOUL
+[Tue Jun 07 23:16:59 EEST 2022] MihiBlu: &aSCRAPE
+[Tue Jun 07 23:17:19 EEST 2022] MihiBlu: &aPORTAL
+[Tue Jun 07 23:20:46 EEST 2022] MihiBlu: &ablue
+[Tue Jun 07 23:21:12 EEST 2022] MihiBlu: blue
+[Tue Jun 07 23:21:41 EEST 2022] MihiBlu: &aepic
+[Tue Jun 07 23:21:56 EEST 2022] MihiBlu: &avalentine
+[Tue Jun 07 23:22:08 EEST 2022] MihiBlu: &axmas
+[Tue Jun 07 23:43:36 EEST 2022] MihiBlu: &adaily
+[Tue Jun 07 23:50:15 EEST 2022] MihiBlu: &abalanced
+[Tue Jun 07 23:53:27 EEST 2022] MihiBlu: &adiversity
+[Thu Aug 11 15:49:06 EEST 2022] MihiBlu: asd
+[Thu Aug 11 15:49:37 EEST 2022] MihiBlu: ce pizda mati ma
+[Thu Aug 11 15:53:50 EEST 2022] MihiBlu: @MihiBlu
+[Thu Aug 11 22:45:23 EEST 2022] MihiBlu: 4as
+[Thu Aug 11 22:45:24 EEST 2022] MihiBlu: asd
+[Thu Aug 11 22:45:36 EEST 2022] MihiBlu: ads
+[Sun Sep 18 10:28:40 EEST 2022] MihiBlu: a
+[Sat Sep 24 21:44:19 EEST 2022] MihiBlu: as
+[Sat Oct 15 19:58:55 UTC 2022] Alexandru_: aaa
+[Sat Oct 15 19:59:02 UTC 2022] Alexandru_: tu ai pus scoreboardu vechi?
+[Sat Oct 15 19:59:07 UTC 2022] Alexandru_: gen ala fara textura
+[Sat Oct 15 19:59:23 UTC 2022] MihiBlu: am dat replace
+[Sat Oct 15 19:59:26 UTC 2022] MihiBlu: dar am backup
+[Sat Oct 15 19:59:31 UTC 2022] MihiBlu: spune mi ce fisiere sa ti trimit de acolo
+[Sat Oct 15 19:59:33 UTC 2022] MihiBlu: ca am tot
+[Sat Oct 15 19:59:44 UTC 2022] Alexandru_: pai
+[Sat Oct 15 19:59:46 UTC 2022] Alexandru_: nimic
+[Sat Oct 15 19:59:49 UTC 2022] Alexandru_: fac eu altcv
+[Sat Oct 15 19:59:55 UTC 2022] Alexandru_: deci
+[Sat Oct 15 20:00:02 UTC 2022] Alexandru_: asta e sserverul
+[Sat Oct 15 20:00:04 UTC 2022] Alexandru_: in mare
+[Sat Oct 15 20:00:05 UTC 2022] Alexandru_: nu?
+[Sat Oct 15 20:00:21 UTC 2022] MihiBlu: o s aiti fac imediat o lista cu fisierele in care ma mai bag eu si le modific
+[Sat Oct 15 20:00:24 UTC 2022] MihiBlu: sa nu le moodifici degeaba tu
+[Sat Oct 15 20:00:29 UTC 2022] MihiBlu: sunt cateva
+[Sat Oct 15 20:00:32 UTC 2022] Alexandru_: ce e cu bara aia rosie
+[Sat Oct 15 20:00:34 UTC 2022] Alexandru_: din stanga?
+[Sat Oct 15 20:00:40 UTC 2022] Alexandru_: si &c(!)
+[Sat Oct 15 20:00:41 UTC 2022] MihiBlu: noul update
+[Sat Oct 15 20:00:45 UTC 2022] MihiBlu: asa e minecraft acum
+[Sat Oct 15 20:00:49 UTC 2022] Alexandru_: tf
+[Sat Oct 15 20:00:50 UTC 2022] MihiBlu: sunt mesaje neverificate din ce am inteles
+[Sat Oct 15 20:00:54 UTC 2022] MihiBlu: fii atent ce am patit
+[Sat Oct 15 20:00:59 UTC 2022] MihiBlu: am dat update la server jar
+[Sat Oct 15 20:01:02 UTC 2022] MihiBlu: aveam versiunea 128
+[Sat Oct 15 20:01:05 UTC 2022] MihiBlu: 127 ceva n genu
+[Sat Oct 15 20:01:06 UTC 2022] MihiBlu: la 1.19.2
+[Sat Oct 15 20:01:08 UTC 2022] MihiBlu: si am pus 211
+[Sat Oct 15 20:01:12 UTC 2022] Alexandru_: asa
+[Sat Oct 15 20:01:13 UTC 2022] MihiBlu: nu mai merg 2 pluginuri
+[Sat Oct 15 20:01:18 UTC 2022] MihiBlu: si am mai multe erori la ele
+[Sat Oct 15 20:01:21 UTC 2022] Alexandru_: ia vezi
+[Sat Oct 15 20:01:21 UTC 2022] MihiBlu: ca si cum s ar schimba
+[Sat Oct 15 20:01:25 UTC 2022] MihiBlu: de la 1.18 la 1.198
+[Sat Oct 15 20:01:31 UTC 2022] Alexandru_: vezi daca ai niste versiuni noi
+[Sat Oct 15 20:01:33 UTC 2022] MihiBlu: si nici downgrade nu mai merge
+[Sat Oct 15 20:01:34 UTC 2022] Alexandru_: de la pluginuri
+[Sat Oct 15 20:01:41 UTC 2022] MihiBlu: totul e pe ultima verssiune
+[Sat Oct 15 20:01:42 UTC 2022] MihiBlu: la pluginuri
+[Sat Oct 15 20:01:45 UTC 2022] MihiBlu: inseara updatat
+[Sat Oct 15 20:01:50 UTC 2022] Alexandru_: atunci s-ar putea sa nu fie compatibile
+[Sat Oct 15 20:01:51 UTC 2022] MihiBlu: daca faci light api
+[Sat Oct 15 20:01:55 UTC 2022] MihiBlu: rezolvi tot
+[Sat Oct 15 20:01:57 UTC 2022] MihiBlu: ala nu merge
+[Sat Oct 15 20:01:59 UTC 2022] Alexandru_: f
+[Sat Oct 15 20:02:10 UTC 2022] MihiBlu: meniu de rewards e gata
+[Sat Oct 15 20:02:14 UTC 2022] MihiBlu: the riftul asa ramane
+[Sat Oct 15 20:02:18 UTC 2022] MihiBlu: battlepassul la fel
+[Sat Oct 15 20:02:21 UTC 2022] MihiBlu: daca vrei sa le modifici si pe astea
+[Sat Oct 15 20:02:24 UTC 2022] Alexandru_: ok
+[Sat Oct 15 20:02:29 UTC 2022] Alexandru_: pai creca ma bag la treaba
+[Sat Oct 15 20:02:32 UTC 2022] MihiBlu: dar mai am upgrades, profile, stats, ranks unde refac tot
+[Sat Oct 15 20:02:41 UTC 2022] Alexandru_: tu fa-le baza in mare
+[Sat Oct 15 20:02:44 UTC 2022] Alexandru_: ca le finisez eu
+[Sat Oct 15 20:02:52 UTC 2022] MihiBlu: asta vreau sa fac
+[Sat Oct 15 20:03:00 UTC 2022] MihiBlu: shopul trebuie sa l termin
+[Sat Oct 15 20:03:04 UTC 2022] MihiBlu: dar ala il fac pe localhost
+[Sat Oct 15 20:03:08 UTC 2022] MihiBlu: ca am mai multe chesturi puse pe acolo
+[Sat Oct 15 20:03:15 UTC 2022] Alexandru_: ba, daca nu mai face ala mapa
+[Sat Oct 15 20:03:15 UTC 2022] MihiBlu: si l mut aici dupa
+[Sat Oct 15 20:03:20 UTC 2022] Alexandru_: vrei sa modific eu pe aici prin spawn?
+[Sat Oct 15 20:03:26 UTC 2022] MihiBlu: pai mapa e facuta
+[Sat Oct 15 20:03:29 UTC 2022] MihiBlu: sappt asta care vine
+[Sat Oct 15 20:03:30 UTC 2022] MihiBlu: o termina
+[Sat Oct 15 20:03:31 UTC 2022] MihiBlu: :))
+[Sat Oct 15 20:03:33 UTC 2022] Alexandru_: aa
+[Sat Oct 15 20:03:36 UTC 2022] MihiBlu: da ti tp la mine
+[Sat Oct 15 20:03:43 UTC 2022] MihiBlu: asta va fi zona de spawn
+[Sat Oct 15 20:03:46 UTC 2022] MihiBlu: cum ti s pare?
+[Sat Oct 15 20:03:48 UTC 2022] Alexandru_: ohooo
+[Sat Oct 15 20:03:49 UTC 2022] Alexandru_: altceva
+[Sat Oct 15 20:03:55 UTC 2022] MihiBlu: a uitat sa o termine
+[Sat Oct 15 20:03:56 UTC 2022] MihiBlu: ca era gata
+[Sat Oct 15 20:03:59 UTC 2022] MihiBlu: i am si platit
+[Sat Oct 15 20:04:04 UTC 2022] MihiBlu: trebuie sa faca interioare
+[Sat Oct 15 20:04:11 UTC 2022] MihiBlu: si completeaza drumul
+[Sat Oct 15 20:04:14 UTC 2022] Alexandru_: bun
+[Sat Oct 15 20:04:17 UTC 2022] MihiBlu: dar nu mai baga nimic dessign extra
+[Sat Oct 15 20:04:21 UTC 2022] MihiBlu: si daca ai putea mai decora tu
+[Sat Oct 15 20:04:22 UTC 2022] MihiBlu: ar fi perfect
+[Sat Oct 15 20:04:28 UTC 2022] Alexandru_: as cam vra
+[Sat Oct 15 20:04:30 UTC 2022] Alexandru_: sa mai modific
+[Sat Oct 15 20:04:33 UTC 2022] MihiBlu: linistit
+[Sat Oct 15 20:04:36 UTC 2022] Alexandru_: de exemplu pamantu
+[Sat Oct 15 20:04:38 UTC 2022] Alexandru_: grasu asta
+[Sat Oct 15 20:04:42 UTC 2022] Alexandru_: si mai pun si niste dirt
+[Sat Oct 15 20:04:44 UTC 2022] Alexandru_: niste chestii
+[Sat Oct 15 20:04:46 UTC 2022] Alexandru_: stii ce zic?
+[Sat Oct 15 20:04:47 UTC 2022] MihiBlu: linistit
+[Sat Oct 15 20:04:48 UTC 2022] Alexandru_: nisste sand
+[Sat Oct 15 20:04:58 UTC 2022] MihiBlu: am vazut niste clipuri smechere pe youtube
+[Sat Oct 15 20:05:03 UTC 2022] MihiBlu: cu chestii de decorat spawnuri medievale
+[Sat Oct 15 20:05:11 UTC 2022] MihiBlu: si daca mai adaugam npcuri prin spawn
+[Sat Oct 15 20:05:11 UTC 2022] Alexandru_: le recreez eu daca vr :))
+[Sat Oct 15 20:05:18 UTC 2022] MihiBlu: le putem face si tematici
+[Sat Oct 15 20:05:32 UTC 2022] MihiBlu: case nu mai isi au rostul zic eu
+[Sat Oct 15 20:05:48 UTC 2022] MihiBlu: doar cu dessign daca mai infrumusetam putin spawnul
+[Sat Oct 15 20:05:49 UTC 2022] Alexandru_: baa stii ce mi am adus aminte cuaie
+[Sat Oct 15 20:05:49 UTC 2022] MihiBlu: si terraforming
+[Sat Oct 15 20:05:50 UTC 2022] MihiBlu: si aia e
+[Sat Oct 15 20:05:54 UTC 2022] MihiBlu: :)?
+[Sat Oct 15 20:05:57 UTC 2022] Alexandru_: am si eu o mapa drc
+[Sat Oct 15 20:06:03 UTC 2022] MihiBlu: medievala?
+[Sat Oct 15 20:06:04 UTC 2022] Alexandru_: cumparata
+[Sat Oct 15 20:06:05 UTC 2022] MihiBlu: sau pentru server
+[Sat Oct 15 20:06:05 UTC 2022] Alexandru_: daaa
+[Sat Oct 15 20:06:15 UTC 2022] Alexandru_: nu stiu daca o mai stii
+[Sat Oct 15 20:06:17 UTC 2022] Alexandru_: o aveam pe sv
+[Sat Oct 15 20:06:20 UTC 2022] Alexandru_: era pe ocean
+[Sat Oct 15 20:06:20 UTC 2022] MihiBlu: aia cu multe casute?
+[Sat Oct 15 20:06:21 UTC 2022] Alexandru_: cu sat medieval
+[Sat Oct 15 20:06:22 UTC 2022] Alexandru_: da
+[Sat Oct 15 20:06:30 UTC 2022] Alexandru_: poate o folosim pe setup nou
+[Sat Oct 15 20:06:36 UTC 2022] Alexandru_: ca nu am dat bani degeaba pe ea
+[Sat Oct 15 20:06:37 UTC 2022] MihiBlu: ar merge
+[Sat Oct 15 20:06:39 UTC 2022] MihiBlu: vedem
+[Sat Oct 15 20:06:43 UTC 2022] MihiBlu: dar pentru skyblock
+[Sat Oct 15 20:06:46 UTC 2022] MihiBlu: sigur trebuie altceva
+[Sat Oct 15 20:06:51 UTC 2022] Alexandru_: da pt skyblock logic:))
+[Sat Oct 15 20:06:58 UTC 2022] Alexandru_: e mapa pe o insuladrc
+[Sat Oct 15 20:07:02 UTC 2022] MihiBlu: acum nu mai primesti iteme ampulea in invetar
+[Sat Oct 15 20:07:05 UTC 2022] MihiBlu: le iei direct din meniu
+[Sat Oct 15 20:07:06 UTC 2022] MihiBlu: la rewards
+[Sat Oct 15 20:07:18 UTC 2022] Alexandru_: mama coae
+[Sat Oct 15 20:07:25 UTC 2022] Alexandru_: ce pokemon ai facut player profile asta din inventar
+[Sat Oct 15 20:07:27 UTC 2022] Alexandru_: smr :))))))
+[Sat Oct 15 20:07:34 UTC 2022] Alexandru_: gen
+[Sat Oct 15 20:07:36 UTC 2022] Alexandru_: titlu
+[Sat Oct 15 20:07:37 UTC 2022] Alexandru_: la item
+[Sat Oct 15 20:07:38 UTC 2022] Alexandru_: ma refer
+[Sat Oct 15 20:07:42 UTC 2022] MihiBlu: :))))
+[Sat Oct 15 20:07:46 UTC 2022] MihiBlu: consuma cam multe resurse
+[Sat Oct 15 20:07:47 UTC 2022] MihiBlu: dar shhh
+[Sat Oct 15 20:07:51 UTC 2022] MihiBlu: inca nu s a plans nimeni
+[Sat Oct 15 20:07:59 UTC 2022] Alexandru_: :))
+[Sat Oct 15 20:08:00 UTC 2022] Alexandru_: ba
+[Sat Oct 15 20:08:06 UTC 2022] Alexandru_: ma duc sa ma uit putin pe mcm si ma apuc de treaba
+[Sat Oct 15 20:08:09 UTC 2022] MihiBlu: ok
+[Sat Oct 15 20:08:12 UTC 2022] MihiBlu: iti las pe discord
+[Sat Oct 15 20:08:14 UTC 2022] Alexandru_: ok
+[Sat Oct 15 20:08:16 UTC 2022] MihiBlu: un mic to do
+[Sat Oct 15 20:44:51 UTC 2022] Alexandru_: &6&l◤ ◥
+[Sun Oct 16 17:57:57 UTC 2022] Alexandru_: &c&l┋
+[Sun Oct 16 18:06:32 UTC 2022] Alexandru_: F
+[Mon Oct 17 20:23:10 UTC 2022] Alexandru_: afa
+[Tue Oct 18 19:18:35 UTC 2022] MihiBlu: baw
+[Tue Oct 18 19:19:00 UTC 2022] 5hax: wassup
+[Tue Oct 18 19:19:47 UTC 2022] MihiBlu: casinoul credca va fi cel mai greu de mobilat :))
+[Tue Oct 18 19:19:59 UTC 2022] 5hax: yep
+[Tue Oct 18 19:20:02 UTC 2022] 5hax: nu stiu cand il voi face
+[Tue Oct 18 19:20:07 UTC 2022] 5hax: dar probabil ca va dura]
+[Tue Oct 18 19:20:24 UTC 2022] MihiBlu: doar pe margini si ceva in centru daca e
+[Tue Oct 18 19:20:33 UTC 2022] MihiBlu: ca o sa mi trebuiasca putin loc pentru ruleta si slots
+[Tue Oct 18 19:20:56 UTC 2022] 5hax: ai ceva in minte exact?
+[Tue Oct 18 19:21:16 UTC 2022] MihiBlu: ti am spawnat o ruleta
+[Tue Oct 18 19:21:23 UTC 2022] MihiBlu: ssa vezi cum arata, eventual poate o integrezi cumva :))
+[Tue Oct 18 19:21:29 UTC 2022] MihiBlu: si sloturile inca nu stiu cum vor fi
+[Tue Oct 18 19:21:38 UTC 2022] MihiBlu: dar credca blocuri 1/2
+[Tue Oct 18 19:21:57 UTC 2022] MihiBlu: trebuie configurata
+[Tue Oct 18 19:21:59 UTC 2022] MihiBlu: acu e baga asa la misto
+[Tue Oct 18 19:22:09 UTC 2022] 5hax: arata misto
+[Tue Oct 18 19:22:57 UTC 2022] MihiBlu: castigasi :))
+[Tue Oct 18 19:23:04 UTC 2022] 5hax: sunt milionar plec acasa
+[Tue Oct 18 19:23:06 UTC 2022] 5hax: am dat all in
+[Tue Oct 18 19:23:08 UTC 2022] MihiBlu: :)))
+[Tue Oct 18 19:23:14 UTC 2022] 5hax: life savings x2
+[Tue Oct 18 19:23:24 UTC 2022] MihiBlu: ./roullete create NAME type
+[Tue Oct 18 19:23:27 UTC 2022] MihiBlu: daca vrei sa o integrezi tu
+[Tue Oct 18 19:23:37 UTC 2022] MihiBlu: una americana si una europeana credca pun
+[Tue Oct 18 19:24:26 UTC 2022] 5hax: care e faza cu harta
+[Tue Oct 18 19:24:35 UTC 2022] MihiBlu: e pentru castigatori
+[Tue Oct 18 19:24:37 UTC 2022] MihiBlu: asa e configul default
+[Tue Oct 18 19:25:18 UTC 2022] 5hax: well
+[Tue Oct 18 19:25:21 UTC 2022] 5hax: casa asta e gata
+[Tue Oct 18 19:25:32 UTC 2022] MihiBlu: arata super bine
+[Tue Oct 18 19:25:33 UTC 2022] MihiBlu: n am ce sa zica
+[Tue Oct 18 19:25:55 UTC 2022] 5hax: uhh
+[Tue Oct 18 19:26:11 UTC 2022] MihiBlu: casa asta asa e dorita, putin in pamant, nu :))?
+[Tue Oct 18 19:26:57 UTC 2022] 5hax: well
+[Tue Oct 18 19:27:00 UTC 2022] MihiBlu: mama ce smecher :))
+[Tue Oct 18 19:27:02 UTC 2022] 5hax: that'd be cool
+[Tue Oct 18 19:27:08 UTC 2022] 5hax: pacat ca zboara caznioul
+[Tue Oct 18 19:27:10 UTC 2022] 5hax: cazinoul
+[Tue Oct 18 19:27:11 UTC 2022] 5hax: :))
+[Tue Oct 18 19:27:14 UTC 2022] 5hax: care casa
+[Tue Oct 18 19:27:18 UTC 2022] 5hax: asta?
+[Tue Oct 18 19:27:26 UTC 2022] MihiBlu: da
+[Tue Oct 18 19:27:28 UTC 2022] 5hax: da
+[Tue Oct 18 19:27:41 UTC 2022] 5hax: ah ca e gen geamul asa
+[Tue Oct 18 19:28:06 UTC 2022] 5hax: well da
+[Tue Oct 18 19:28:10 UTC 2022] 5hax: e mai sus decat tin minte
+[Tue Oct 18 19:28:11 UTC 2022] 5hax: dar da
+[Tue Oct 18 19:28:20 UTC 2022] MihiBlu: arata bine
+[Tue Oct 18 19:28:21 UTC 2022] MihiBlu: n am treaba'
+[Tue Oct 18 19:28:21 UTC 2022] 5hax: oricum nu prea se uita lumea pe geam
+[Tue Oct 18 19:28:31 UTC 2022] MihiBlu: e pusa mai la sanky asa
+[Tue Oct 18 19:28:39 UTC 2022] MihiBlu: oare aici la cazinou ai putea face te rog 2 etaje?
+[Tue Oct 18 19:28:47 UTC 2022] MihiBlu: sa delimitezi ceva in genu asta
+[Tue Oct 18 19:28:55 UTC 2022] MihiBlu: sau ar da mai bine sa fie open space?
+[Tue Oct 18 19:29:10 UTC 2022] 5hax: depinde ce vrei la etaj
+[Tue Oct 18 19:29:21 UTC 2022] MihiBlu: nu stiu
+[Tue Oct 18 19:29:26 UTC 2022] MihiBlu: las totul pe mana ta
+[Tue Oct 18 19:29:38 UTC 2022] MihiBlu: ca mereu m ai suprins pplacut
+[Tue Oct 18 19:29:44 UTC 2022] 5hax: :))
+[Tue Oct 18 19:29:56 UTC 2022] 5hax: well mi-ar fi mai eficient sa fac doar un etaj
+[Tue Oct 18 19:30:07 UTC 2022] 5hax: dar depinde de cei vrei sa faci sus
+[Tue Oct 18 19:30:14 UTC 2022] MihiBlu: n am nimic planuit
+[Tue Oct 18 19:30:19 UTC 2022] 5hax: daca este ceva util de nevoie atunci se face
+[Tue Oct 18 19:30:22 UTC 2022] MihiBlu: dar daca e open space asa, ai putea baga un policandru ceva ))?
+[Tue Oct 18 19:30:32 UTC 2022] MihiBlu: mie mi ar incapea tot ce mi am propus jos
+[Tue Oct 18 19:30:38 UTC 2022] 5hax: damn ce confusing este aici
+[Tue Oct 18 19:31:32 UTC 2022] 5hax: curat putin interiorul
+[Tue Oct 18 19:31:41 UTC 2022] 5hax: apoi delimitam camerele unde e nevoie
+[Tue Oct 18 19:31:49 UTC 2022] 5hax: si iti pui mesele unde vrei
+[Tue Oct 18 19:32:00 UTC 2022] MihiBlu: la mine daca sunt 2 mese
+[Tue Oct 18 19:32:01 UTC 2022] MihiBlu: e suficient
+[Tue Oct 18 19:32:03 UTC 2022] 5hax: apoi ulterior fac interiorul
+[Tue Oct 18 19:32:07 UTC 2022] MihiBlu: de asta ziceam ca poate le pui tu fix cum iti pica bine
+[Tue Oct 18 19:32:18 UTC 2022] 5hax: ah I see
+[Tue Oct 18 19:32:25 UTC 2022] 5hax: mi-ar placea mai multe ca arata misto
+[Tue Oct 18 19:32:26 UTC 2022] 5hax: poate 4
+[Tue Oct 18 19:32:29 UTC 2022] 5hax: sau 3
+[Tue Oct 18 19:32:39 UTC 2022] MihiBlu: ok atunci
+[Tue Oct 18 19:32:48 UTC 2022] 5hax: doua asa aici
+[Tue Oct 18 19:32:48 UTC 2022] MihiBlu: pune cum crezi ca ti ar fi mai usor
+[Tue Oct 18 19:33:13 UTC 2022] 5hax: si una pe aici
+[Tue Oct 18 19:33:29 UTC 2022] MihiBlu: ar da bine
+[Tue Oct 18 19:33:31 UTC 2022] 5hax: pe orizontala
+[Tue Oct 18 19:33:38 UTC 2022] MihiBlu: eu am pe server si furniture dasstea
+[Tue Oct 18 19:33:44 UTC 2022] MihiBlu: daca crezi ca te ar ajuta
+[Tue Oct 18 19:33:51 UTC 2022] MihiBlu: din shop le iei :))
+[Tue Oct 18 19:34:01 UTC 2022] MihiBlu: ./shop
+[Tue Oct 18 19:34:29 UTC 2022] 5hax: te-ai zgarcit
+[Tue Oct 18 19:34:42 UTC 2022] 5hax: numa 100
+[Tue Oct 18 19:34:48 UTC 2022] MihiBlu: 100k :))
+[Tue Oct 18 19:34:53 UTC 2022] MihiBlu: poti sa ti dai cati ai nevoie
+[Tue Oct 18 19:35:06 UTC 2022] 5hax: pai vorbim in sute de mii clar
+[Tue Oct 18 19:35:09 UTC 2022] 5hax: :))))
+[Tue Oct 18 19:35:24 UTC 2022] 5hax: bruhh
+[Tue Oct 18 19:35:26 UTC 2022] MihiBlu: daca te uiti la balanta mea, am 200 si atat :)))
+[Tue Oct 18 19:35:27 UTC 2022] 5hax: what is this
+[Tue Oct 18 19:35:37 UTC 2022] 5hax: cum integrez asta
+[Tue Oct 18 19:35:39 UTC 2022] 5hax: =))
+[Tue Oct 18 19:35:48 UTC 2022] 5hax: ah
+[Tue Oct 18 19:35:50 UTC 2022] MihiBlu: aia e gaura direct afara :))?
+[Tue Oct 18 19:35:50 UTC 2022] 5hax: easy
+[Tue Oct 18 19:35:59 UTC 2022] 5hax: da doar ca block-ul asta era gen
+[Tue Oct 18 19:36:00 UTC 2022] 5hax: mandatory
+[Tue Oct 18 19:36:17 UTC 2022] 5hax: nu il puteai integra
+[Tue Oct 18 19:36:40 UTC 2022] 5hax: anyways o sa ies acum
+[Tue Oct 18 19:36:49 UTC 2022] MihiBlu: okok
+[Tue Oct 18 19:36:53 UTC 2022] MihiBlu: noppate buna
+[Tue Oct 18 19:36:55 UTC 2022] MihiBlu: totusi
+[Tue Oct 18 19:36:56 UTC 2022] 5hax: si tie
+[Tue Oct 18 19:36:59 UTC 2022] MihiBlu: inca o intrebare
+[Tue Oct 18 19:37:02 UTC 2022] 5hax: ?
+[Tue Oct 18 19:37:11 UTC 2022] MihiBlu: tot cu zonele alea am treaba
+[Tue Oct 18 19:37:14 UTC 2022] MihiBlu: :)))
+[Tue Oct 18 19:37:19 UTC 2022] MihiBlu: pe aici as mai decoora
+[Tue Oct 18 19:37:20 UTC 2022] MihiBlu: in partea asta
+[Tue Oct 18 19:37:39 UTC 2022] MihiBlu: cat ar fi ok pentru tine?
+[Tue Oct 18 19:37:49 UTC 2022] MihiBlu: sa se merite adica
+[Tue Oct 18 19:37:56 UTC 2022] 5hax: Nu prea mai e rentabil sa construiesc in general
+[Tue Oct 18 19:38:07 UTC 2022] MihiBlu: ah, inteleg
+[Tue Oct 18 19:38:09 UTC 2022] 5hax: mi-ar lua cam o zi sa-ti fac zonele respective
+[Tue Oct 18 19:38:17 UTC 2022] MihiBlu: doar una
+[Tue Oct 18 19:38:19 UTC 2022] MihiBlu: in parteea asta
+[Tue Oct 18 19:38:20 UTC 2022] 5hax: iar intr-o zi normala fac vreo ~300 de lei
+[Tue Oct 18 19:38:29 UTC 2022] 5hax: by default
+[Tue Oct 18 19:38:32 UTC 2022] 5hax: prin alte chesiti
+[Tue Oct 18 19:38:39 UTC 2022] MihiBlu: stiu, te inteleg perfect
+[Tue Oct 18 19:38:41 UTC 2022] 5hax: deci orice peste 300 de lei
+[Tue Oct 18 19:38:44 UTC 2022] 5hax: :)))
+[Tue Oct 18 19:38:53 UTC 2022] 5hax: which is too much for minecraft
+[Tue Oct 18 19:39:02 UTC 2022] MihiBlu: nu neaparat
+[Tue Oct 18 19:39:03 UTC 2022] MihiBlu: :)))
+[Tue Oct 18 19:39:06 UTC 2022] MihiBlu: unii dau banii astea
+[Tue Oct 18 19:39:14 UTC 2022] MihiBlu: fara niciun stres
+[Tue Oct 18 19:39:26 UTC 2022] 5hax: eh da
+[Tue Oct 18 19:39:31 UTC 2022] 5hax: sunt siguri ca ii fac inapoi
+[Tue Oct 18 19:39:32 UTC 2022] MihiBlu: sa zic ca o singura zona ti ar lua cam 2 3h
+[Tue Oct 18 19:39:44 UTC 2022] MihiBlu: si ar veni un 60 90 lei
+[Tue Oct 18 19:39:56 UTC 2022] MihiBlu: deci cam 15-20e ma gandesc
+[Tue Oct 18 19:40:13 UTC 2022] 5hax: pentru fiecare zona?
+[Tue Oct 18 19:40:17 UTC 2022] MihiBlu: da
+[Tue Oct 18 19:40:39 UTC 2022] MihiBlu: dar initial ma interesseaza doar zona asta
+[Tue Oct 18 19:40:39 UTC 2022] 5hax: adica sa-ti fac caravane si alte detalii ca intr-o piata medievala
+[Tue Oct 18 19:40:51 UTC 2022] MihiBlu: sa mi faci orice ar da bine
+[Tue Oct 18 19:40:56 UTC 2022] MihiBlu: adica sa fie ceva fain, unic in spawn
+[Tue Oct 18 19:41:02 UTC 2022] 5hax: ah I see
+[Tue Oct 18 19:41:04 UTC 2022] MihiBlu: si sa nu para ca e vorba despre doar astea 3 case
+[Tue Oct 18 19:41:15 UTC 2022] 5hax: inteleg
+[Tue Oct 18 19:41:26 UTC 2022] 5hax: cam asa ceva I guess
+[Tue Oct 18 19:41:42 UTC 2022] 5hax: doar ca si pentru pretul ala overpriced
+[Tue Oct 18 19:41:49 UTC 2022] 5hax: nu stiu cat timp as avea
+[Tue Oct 18 19:42:00 UTC 2022] 5hax: adica vezi cat a durat sa fac interioarele si casile
+[Tue Oct 18 19:42:03 UTC 2022] 5hax: :))
+[Tue Oct 18 19:42:20 UTC 2022] MihiBlu: zonele astea momentan nu sunt sigur
+[Tue Oct 18 19:42:28 UTC 2022] MihiBlu: dar oricum daca merge setupul iar bine
+[Tue Oct 18 19:42:33 UTC 2022] MihiBlu: ma bag sa extind spawnul
+[Tue Oct 18 19:42:47 UTC 2022] 5hax: deja am ptsd de la build-ul asta
+[Tue Oct 18 19:42:54 UTC 2022] 5hax: nu cred ca ar functiona
+[Tue Oct 18 19:43:04 UTC 2022] MihiBlu: nu stiu ce e ptsd :)))
+[Tue Oct 18 19:43:04 UTC 2022] 5hax: trebuie sa-ti gasesti alt builder :)))
+[Tue Oct 18 19:43:14 UTC 2022] 5hax: ptsd
+[Tue Oct 18 19:43:18 UTC 2022] 5hax: adica traume
+[Tue Oct 18 19:43:21 UTC 2022] MihiBlu: a :))))
+[Tue Oct 18 19:43:27 UTC 2022] MihiBlu: cat te am stresat
+[Tue Oct 18 19:43:40 UTC 2022] MihiBlu: normal eu cu bercea am vorbit pentru el
+[Tue Oct 18 19:43:44 UTC 2022] MihiBlu: dar daca asa se intampla
+[Tue Oct 18 19:43:52 UTC 2022] 5hax: well nu a fost deloc vina ta
+[Tue Oct 18 19:44:00 UTC 2022] 5hax: plus ca am vrut sa te ajut
+[Tue Oct 18 19:44:05 UTC 2022] 5hax: puteam sa-ti dau ghosting oricand
+[Tue Oct 18 19:44:12 UTC 2022] MihiBlu: da, si de asta apreciez mult
+[Tue Oct 18 19:44:22 UTC 2022] MihiBlu: adica oricum cazinoul valora avansul
+[Tue Oct 18 19:44:31 UTC 2022] 5hax: I guess
+[Tue Oct 18 19:44:47 UTC 2022] MihiBlu: dar nici un builder calumea, de calitate
+[Tue Oct 18 19:44:53 UTC 2022] MihiBlu: nu am gasit
+[Tue Oct 18 19:45:15 UTC 2022] 5hax: mi se pare ciudat ca e asa greu sa gasesti unul decent :))
+[Tue Oct 18 19:45:30 UTC 2022] MihiBlu: ce peripetii am avut eu cu ei
+[Tue Oct 18 19:45:39 UTC 2022] MihiBlu: mai bine platesc un pic overprice
+[Tue Oct 18 19:45:46 UTC 2022] MihiBlu: care eu il consider
+[Tue Oct 18 19:45:48 UTC 2022] MihiBlu: pret foarte ok
+[Tue Oct 18 19:45:53 UTC 2022] MihiBlu: in raport cu ce primesc
+[Tue Oct 18 19:45:56 UTC 2022] 5hax: adica avand in vedere ca am facut asta cam aproape pe gratis nu m-am chinuit foarte mult pe detalii
+[Tue Oct 18 19:46:03 UTC 2022] 5hax: si totusi e decent
+[Tue Oct 18 19:46:13 UTC 2022] MihiBlu: dar tu in general nu mai construiesti deloc?
+[Tue Oct 18 19:46:18 UTC 2022] 5hax: mi se pare greu de crezut ca nu ai gasit alt builder
+[Tue Oct 18 19:46:19 UTC 2022] 5hax: :))
+[Tue Oct 18 19:46:29 UTC 2022] 5hax: doar part time
+[Tue Oct 18 19:46:31 UTC 2022] 5hax: destul de rar
+[Tue Oct 18 19:46:33 UTC 2022] MihiBlu: am avut 3 derbiuri cu builders refuge
+[Tue Oct 18 19:46:40 UTC 2022] MihiBlu: unul care mi a facut un spawn
+[Tue Oct 18 19:46:43 UTC 2022] MihiBlu: numai bun de dat cut
+[Tue Oct 18 19:46:49 UTC 2022] MihiBlu: unul care construia la nivelul meu
+[Tue Oct 18 19:46:49 UTC 2022] 5hax: =))
+[Tue Oct 18 19:46:51 UTC 2022] MihiBlu: si unu nu mai retin
+[Tue Oct 18 19:47:06 UTC 2022] MihiBlu: iti trimit imediat daca vrei, cat era de talentat omul
+[Tue Oct 18 19:47:12 UTC 2022] MihiBlu: am o poza pe confa cu bercea, ce cazino imi facuse
+[Tue Oct 18 19:47:19 UTC 2022] MihiBlu: zici ca lua schematice de pe net si le plasa pe aici din spawn
+[Tue Oct 18 19:47:42 UTC 2022] 5hax: aoleu
+[Tue Oct 18 19:47:50 UTC 2022] MihiBlu: si un spawn de dimensiuni 100x100 sa zicem, cat ai considera tentant?
+[Tue Oct 18 19:47:53 UTC 2022] MihiBlu: intreb pentru viitor :))
+[Tue Oct 18 19:48:03 UTC 2022] MihiBlu: nu foarte incarcat
+[Tue Oct 18 19:48:05 UTC 2022] MihiBlu: case si detalii
+[Tue Oct 18 19:48:13 UTC 2022] 5hax: nu cred ca as face indiferent de pret :))
+[Tue Oct 18 19:48:26 UTC 2022] MihiBlu: nici pe un 100e :))?
+[Tue Oct 18 19:48:38 UTC 2022] 5hax: nu cred
+[Tue Oct 18 19:48:51 UTC 2022] 5hax: chiar daca este un pret foarte bun
+[Tue Oct 18 19:49:00 UTC 2022] 5hax: 1e pe block e un pret foarte bun
+[Tue Oct 18 19:49:12 UTC 2022] 5hax: la build-urile asa mici
+[Tue Oct 18 19:49:23 UTC 2022] MihiBlu: cam asta e piata
+[Tue Oct 18 19:49:26 UTC 2022] MihiBlu: 80-120e
+[Tue Oct 18 19:49:29 UTC 2022] 5hax: in orice caz, timpul nu-mi ajunge
+[Tue Oct 18 19:49:31 UTC 2022] MihiBlu: din ce am vazut
+[Tue Oct 18 19:49:49 UTC 2022] MihiBlu: cat timp doar incasezi, nu cred ca iti poti dori altceva de la viata :))
+[Tue Oct 18 19:49:52 UTC 2022] 5hax: numai builderii italieni faceau 20e pe 250x250
+[Tue Oct 18 19:49:55 UTC 2022] 5hax: :))
+[Tue Oct 18 19:50:01 UTC 2022] 5hax: cam asa ceva
+[Tue Oct 18 19:50:12 UTC 2022] MihiBlu: nu te mai retin nici eu
+[Tue Oct 18 19:50:15 UTC 2022] 5hax: plus ca ideea e ca am facultate, munca si proiecte multe pe langa
+[Tue Oct 18 19:50:29 UTC 2022] MihiBlu: la ce faculta esti?
+[Tue Oct 18 19:50:39 UTC 2022] 5hax: info
+[Tue Oct 18 19:50:48 UTC 2022] MihiBlu: inseamna ca bagi puteric :))
+[Tue Oct 18 19:50:49 UTC 2022] MihiBlu: cluj?
+[Tue Oct 18 19:51:06 UTC 2022] 5hax: Arad la mine
+[Tue Oct 18 19:51:12 UTC 2022] MihiBlu: ah
+[Tue Oct 18 19:51:18 UTC 2022] 5hax: sunt anul I :))
+[Tue Oct 18 19:51:40 UTC 2022] MihiBlu: ai stat un an acasa cred :))
+[Tue Oct 18 19:51:43 UTC 2022] MihiBlu: ca anu asta n ai avut bacu
+[Tue Oct 18 19:51:46 UTC 2022] 5hax: yep
+[Tue Oct 18 19:52:00 UTC 2022] MihiBlu: e frumoasa zona aia a tarii
+[Tue Oct 18 19:52:11 UTC 2022] MihiBlu: nici eu nu cred ca as da timisoara pe cluj
+[Tue Oct 18 19:52:36 UTC 2022] MihiBlu: oricum, eu am iesit
+[Tue Oct 18 19:52:39 UTC 2022] MihiBlu: numai bine!
+[Tue Oct 18 19:52:41 UTC 2022] 5hax: nu te duce la timi
+[Tue Oct 18 19:52:48 UTC 2022] 5hax: salutari
+[Tue Oct 18 19:52:52 UTC 2022] MihiBlu: mie imi place asa
+[Tue Oct 18 19:52:56 UTC 2022] MihiBlu: ca si aspect
+[Tue Oct 18 19:52:58 UTC 2022] MihiBlu: centru cultural
+[Tue Oct 18 19:53:02 UTC 2022] MihiBlu: ca eu la cluj ma duc
+[Tue Oct 18 19:53:10 UTC 2022] 5hax: bafta acolo
+[Tue Oct 18 19:53:17 UTC 2022] MihiBlu: mersi mult
+[Tue Oct 18 19:53:25 UTC 2022] MihiBlu: papa
+[Wed Oct 19 19:30:09 UTC 2022] Alexandru_: fa
+[Wed Oct 19 19:36:18 UTC 2022] Alexandru_: fafa
+[Wed Oct 19 19:41:19 UTC 2022] Alexandru_: afa
+[Wed Oct 19 19:41:31 UTC 2022] Alexandru_: afa
+[Wed Oct 19 19:44:05 UTC 2022] Alexandru_: afa
+[Wed Oct 19 19:44:40 UTC 2022] Alexandru_: fa
+[Wed Oct 19 19:44:46 UTC 2022] Alexandru_: afa
+[Wed Oct 19 19:45:05 UTC 2022] Alexandru_: afa
+[Sat Oct 22 00:26:30 UTC 2022] Alexandru_: afa
+[Sat Oct 22 01:19:18 UTC 2022] Alexandru_: f
+[Sat Oct 22 01:38:18 UTC 2022] Alexandru_: afa
+[Sat Oct 22 23:11:49 UTC 2022] Alexandru_: f
+[Sat Oct 22 23:55:49 UTC 2022] Alexandru_: test
+[Sat Oct 22 23:56:26 UTC 2022] Alexandru_: t
+[Sat Oct 22 23:56:40 UTC 2022] Alexandru_: test
+[Sun Oct 23 16:44:05 UTC 2022] MihiBlu: afa
+[Sun Oct 23 16:57:50 UTC 2022] MihiBlu: faf
+[Sun Oct 23 16:58:02 UTC 2022] MihiBlu: afa
+[Sun Oct 23 16:58:13 UTC 2022] MihiBlu: fa
+[Sun Oct 23 16:59:14 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:00:04 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:00:07 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:04:24 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:04:26 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:07:11 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:07:32 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:07:52 UTC 2022] MihiBlu: fafa
+[Sun Oct 23 17:08:02 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:08:28 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:08:38 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:08:46 UTC 2022] MihiBlu: faf
+[Sun Oct 23 17:09:00 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:09:11 UTC 2022] MihiBlu: afa
+[Sun Oct 23 17:11:21 UTC 2022] MihiBlu: fafa
+[Mon Oct 24 21:39:55 UTC 2022] MihiBlu: f
+[Mon Oct 24 21:40:53 UTC 2022] MihiBlu: fa
+[Mon Oct 24 22:28:31 UTC 2022] MihiBlu: fa
+[Tue Oct 25 22:28:58 UTC 2022] MihiBlu: afa
+[Wed Oct 26 00:38:55 UTC 2022] Alexandru_: afa
+[Thu Oct 27 23:57:17 UTC 2022] MihiBlu: f
+[Fri Oct 28 01:03:04 UTC 2022] MihiBlu: ⏏
+[Fri Oct 28 02:11:22 UTC 2022] MihiBlu: fa
+[Fri Oct 28 07:00:57 UTC 2022] Alexandru_: f
+[Fri Oct 28 07:01:00 UTC 2022] Alexandru_: vb aici
+[Fri Oct 28 07:01:03 UTC 2022] Alexandru_: ca mi se blocheaza ragalia
+[Fri Oct 28 07:02:12 UTC 2022] Alexandru_: aici
+[Fri Oct 28 07:02:14 UTC 2022] Alexandru_: e cu cealalta
+[Fri Oct 28 07:02:15 UTC 2022] Alexandru_: textura
+[Fri Oct 28 07:02:18 UTC 2022] Alexandru_: ai bagato?
+[Fri Oct 28 07:02:21 UTC 2022] MihiBlu: acu am vazut
+[Fri Oct 28 07:02:26 UTC 2022] MihiBlu: da
+[Fri Oct 28 07:02:30 UTC 2022] MihiBlu: le am pe ambele
+[Fri Oct 28 07:02:33 UTC 2022] MihiBlu: prima am vazut o
+[Fri Oct 28 07:02:46 UTC 2022] Alexandru_: aici nu putem folosii tot
+[Fri Oct 28 07:02:49 UTC 2022] Alexandru_: serveru inca are
+[Fri Oct 28 07:02:51 UTC 2022] Alexandru_: unele chestii
+[Fri Oct 28 07:03:03 UTC 2022] MihiBlu: tu stii sa le schimbi culorile la astea?
+[Fri Oct 28 07:03:48 UTC 2022] Alexandru_: care
+[Fri Oct 28 07:03:59 UTC 2022] MihiBlu: ce smecher e asta
+[Fri Oct 28 07:04:04 UTC 2022] Alexandru_: sunt multe rau
+[Fri Oct 28 07:04:15 UTC 2022] Alexandru_: uita-te
+[Fri Oct 28 07:04:16 UTC 2022] MihiBlu: oricum la ala nou cumparam dastea
+[Fri Oct 28 07:04:21 UTC 2022] MihiBlu: :))))
+[Fri Oct 28 07:05:40 UTC 2022] Alexandru_: la ce intrebai
+[Fri Oct 28 07:05:42 UTC 2022] Alexandru_: de culori
+[Fri Oct 28 07:05:42 UTC 2022] Alexandru_: ?
+[Fri Oct 28 07:05:46 UTC 2022] MihiBlu: la itemele 3d
+[Fri Oct 28 07:05:48 UTC 2022] MihiBlu: in general
+[Fri Oct 28 07:05:53 UTC 2022] Alexandru_: nu stiu sigur
+[Fri Oct 28 07:05:56 UTC 2022] Alexandru_: stai sa bag armor standuri
+[Fri Oct 28 07:05:58 UTC 2022] Alexandru_: sa vedem
+[Fri Oct 28 07:06:06 UTC 2022] Alexandru_: dau restart dupa ce il bag ca nu mrge cu plugin manager
+[Fri Oct 28 07:06:08 UTC 2022] MihiBlu: hai ca trac din mc realms ce consider util
+[Fri Oct 28 07:06:17 UTC 2022] Alexandru_: st 2 sec
+[Fri Oct 28 07:09:28 UTC 2022] MihiBlu: ia sa mai dau un ochi cum au aia meniurile
+[Fri Oct 28 07:28:09 UTC 2022] MihiBlu: uneltele sunt smechere rau on hand
+[Fri Oct 28 07:28:13 UTC 2022] MihiBlu: dar in inventar nu sunt cine stie ce uele
+[Fri Oct 28 07:31:31 UTC 2022] Alexandru_: mama ce misto s-a facut si asta
+[Fri Oct 28 07:31:35 UTC 2022] Alexandru_: poti edita armor standuri
+[Fri Oct 28 07:31:37 UTC 2022] Alexandru_: mmult mai usor
+[Fri Oct 28 07:34:13 UTC 2022] Alexandru_: ce dracu vrei sa faci cu armele astea
+[Fri Oct 28 07:34:19 UTC 2022] MihiBlu: bag la skills
+[Fri Oct 28 07:34:23 UTC 2022] MihiBlu: in meniu
+[Fri Oct 28 07:34:24 UTC 2022] MihiBlu: ce zici?
+[Fri Oct 28 07:34:31 UTC 2022] Alexandru_: cum vr
+[Fri Oct 28 07:34:36 UTC 2022] Alexandru_: da nu arata bn asa
+[Fri Oct 28 07:34:46 UTC 2022] MihiBlu: stiu
+[Fri Oct 28 07:34:51 UTC 2022] Alexandru_: uite astea arata bn
+[Fri Oct 28 07:35:22 UTC 2022] MihiBlu: da, dar sunt toate aceiasi culoare
+[Fri Oct 28 07:35:22 UTC 2022] Alexandru_: alea arata mai binisor
+[Fri Oct 28 07:35:30 UTC 2022] Alexandru_: mai bine decat
+[Fri Oct 28 07:35:31 UTC 2022] MihiBlu: ca initial m am gandit si eu asa
+[Fri Oct 28 07:35:32 UTC 2022] Alexandru_: curcubeu
+[Fri Oct 28 07:35:57 UTC 2022] MihiBlu: dap
+[Fri Oct 28 07:36:17 UTC 2022] Alexandru_: avem si niste seeduri dastea
+[Fri Oct 28 07:36:20 UTC 2022] Alexandru_: am putea face planta noua
+[Fri Oct 28 07:36:22 UTC 2022] Alexandru_: :)))
+[Fri Oct 28 07:36:34 UTC 2022] MihiBlu: alt setup
+[Fri Oct 28 07:36:39 UTC 2022] Alexandru_: logic
+[Fri Oct 28 07:36:41 UTC 2022] Alexandru_: ca nu aici
+[Fri Oct 28 07:36:42 UTC 2022] Alexandru_: :))
+[Fri Oct 28 07:38:14 UTC 2022] MihiBlu: bagam si niste palarii in shop?
+[Fri Oct 28 07:39:03 UTC 2022] Alexandru_: nuj ce sa zic
+[Fri Oct 28 07:40:19 UTC 2022] MihiBlu: ba
+[Fri Oct 28 07:40:21 UTC 2022] MihiBlu: dar totusi
+[Fri Oct 28 07:40:26 UTC 2022] MihiBlu: nu putem avea ceva problema cu textura?
+[Fri Oct 28 07:40:29 UTC 2022] MihiBlu: adica sa zica ca e ciordelita
+[Fri Oct 28 07:40:33 UTC 2022] MihiBlu: astea au drepturi de autor ceva?
+[Fri Oct 28 07:41:23 UTC 2022] Alexandru_: cn sa iti zica
+[Fri Oct 28 07:41:35 UTC 2022] MihiBlu: idk
+[Fri Oct 28 07:41:44 UTC 2022] MihiBlu: idk
+[Fri Oct 28 07:42:33 UTC 2022] Alexandru_: ma duc la atm
+[Fri Oct 28 07:42:33 UTC 2022] MihiBlu: uite ce smechera e asta
+[Fri Oct 28 07:42:36 UTC 2022] Alexandru_: scot un tank de cash
+[Fri Oct 28 07:42:38 UTC 2022] MihiBlu: pentru o viitoare animatie
+[Fri Oct 28 07:42:46 UTC 2022] MihiBlu: pentru o viitoare animatie
+[Fri Oct 28 07:44:24 UTC 2022] Alexandru_: ba mor
+[Fri Oct 28 07:44:30 UTC 2022] MihiBlu: pentru o viitoare animatie
+[Fri Oct 28 07:44:30 UTC 2022] Alexandru_: am pus o pasta si nici n am vz
+[Fri Oct 28 07:44:31 UTC 2022] Alexandru_: ce misto e
+[Fri Oct 28 07:44:38 UTC 2022] Alexandru_: cracanata asta
+[Fri Oct 28 07:44:41 UTC 2022] MihiBlu: :)))))
+[Fri Oct 28 07:44:42 UTC 2022] MihiBlu: lol
+[Fri Oct 28 07:45:42 UTC 2022] Alexandru_: o sa fie misto rau trofele astea
+[Fri Oct 28 07:45:46 UTC 2022] Alexandru_: unu pt
+[Fri Oct 28 07:45:49 UTC 2022] Alexandru_: cele mai multe kiluri
+[Fri Oct 28 07:45:52 UTC 2022] Alexandru_: top voter
+[Fri Oct 28 07:45:54 UTC 2022] Alexandru_: chestii de genu
+[Fri Oct 28 07:45:56 UTC 2022] Alexandru_: top donor
+[Fri Oct 28 07:46:09 UTC 2022] MihiBlu: eu am ceva treaba cateva ore
+[Fri Oct 28 07:46:11 UTC 2022] MihiBlu: reintru diseara
+[Fri Oct 28 07:46:15 UTC 2022] MihiBlu: sa mai vedem cu textura
+[Fri Oct 28 07:46:22 UTC 2022] Alexandru_: ok
+[Sat Oct 29 01:37:11 UTC 2022] Alexandru_: - 49
+[Sat Oct 29 07:59:16 UTC 2022] MihiBlu: cf?
+[Sat Oct 29 08:00:07 UTC 2022] MihiBlu: cf?
+[Sat Oct 29 08:01:48 UTC 2022] Alexandru_: te descurci sa te uiti la alea?
+[Sat Oct 29 08:01:59 UTC 2022] MihiBlu: da
+[Sat Oct 29 08:02:44 UTC 2022] MihiBlu: tu cf acum?
+[Sat Oct 29 08:02:58 UTC 2022] Alexandru_: faf
+[Sat Oct 29 08:03:23 UTC 2022] Alexandru_: afa
+[Sat Oct 29 08:03:29 UTC 2022] MihiBlu: afara?
+[Sat Oct 29 08:05:35 UTC 2022] Alexandru_: af
+[Sat Oct 29 08:05:38 UTC 2022] Alexandru_: afa
+[Sat Oct 29 08:06:05 UTC 2022] Alexandru_: MihiBlu
+[Sat Oct 29 08:06:07 UTC 2022] MihiBlu: ?
+[Sat Oct 29 08:17:41 UTC 2022] Alexandru_: fafa
+[Sat Oct 29 08:17:49 UTC 2022] Alexandru_: afa
+[Sat Oct 29 08:34:21 UTC 2022] Alexandru_: ce mic e
+[Sat Oct 29 08:34:22 UTC 2022] Alexandru_: smrfm
+[Sat Oct 29 08:34:24 UTC 2022] Alexandru_: =))))))
+[Sat Oct 29 08:34:29 UTC 2022] Alexandru_: da e cute asa
+[Sat Oct 29 08:34:37 UTC 2022] MihiBlu: pune l pe un item ceva :))
+[Sat Oct 29 08:35:16 UTC 2022] MihiBlu: pune le doar
+[Sat Oct 29 08:35:19 UTC 2022] MihiBlu: ca le leg eu
+[Sat Oct 29 08:35:48 UTC 2022] Alexandru_: gatea
+[Sat Oct 29 08:36:35 UTC 2022] MihiBlu: lasa cu barrier
+[Sat Oct 29 08:37:03 UTC 2022] Alexandru_: rasa matii
+[Sat Oct 29 08:37:36 UTC 2022] MihiBlu: sa termin drq battlepasu
+[Sat Oct 29 08:37:40 UTC 2022] MihiBlu: ma bag in config
+[Sat Oct 29 08:37:42 UTC 2022] MihiBlu: nu mai vad chatu
+[Sat Oct 29 08:53:30 UTC 2022] Alexandru_: ia vinoncoa
+[Sat Oct 29 08:53:49 UTC 2022] MihiBlu: dap
+[Sat Oct 29 08:53:50 UTC 2022] MihiBlu: asa da
+[Sat Oct 29 08:54:02 UTC 2022] MihiBlu: pune le asa
+[Sat Oct 29 08:54:23 UTC 2022] MihiBlu: crateurile sunt din textura aia nefolosita?
+[Sat Oct 29 08:54:26 UTC 2022] Alexandru_: da
+[Sat Oct 29 08:54:29 UTC 2022] MihiBlu: okok
+[Sat Oct 29 08:55:45 UTC 2022] MihiBlu: Daca ai pune niste taguri dalea, pe placute ca la rankuri, cu left click si right click
+[Sat Oct 29 08:55:49 UTC 2022] MihiBlu: ar da demential parerea mea
+[Sat Oct 29 08:55:55 UTC 2022] MihiBlu: in holograme
+[Sat Oct 29 09:01:30 UTC 2022] Alexandru_: gata sefule
+[Sat Oct 29 09:01:38 UTC 2022] Alexandru_: ma duc sa fumez
+[Sat Oct 29 09:01:43 UTC 2022] MihiBlu: okok
+[Sat Oct 29 09:02:09 UTC 2022] MihiBlu: okok
+[Sun Oct 30 06:04:38 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:04:47 UTC 2022] Alexandru_: af
+[Sun Oct 30 06:05:02 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:05:06 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:05:12 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:05:31 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:06:52 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:07:06 UTC 2022] Alexandru_: AFA
+[Sun Oct 30 06:07:22 UTC 2022] Alexandru_: af
+[Sun Oct 30 06:07:30 UTC 2022] Alexandru_: AFA
+[Sun Oct 30 06:07:38 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:08:02 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:08:34 UTC 2022] Alexandru_: af
+[Sun Oct 30 06:08:37 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:08:49 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:08:57 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:09:15 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:09:36 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:10:52 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:11:16 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:11:21 UTC 2022] Alexandru_: fafa
+[Sun Oct 30 06:11:52 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:12:13 UTC 2022] Alexandru_: afaf
+[Sun Oct 30 06:12:24 UTC 2022] Alexandru_: af
+[Sun Oct 30 06:12:29 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:13:55 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:16:23 UTC 2022] Alexandru_: afa
+[Sun Oct 30 06:59:39 UTC 2022] Alexandru_: *9a
+[Sun Oct 30 06:59:41 UTC 2022] Alexandru_: &8a
+[Sun Oct 30 10:33:26 UTC 2022] MihiBlu: aaa
+[Sun Oct 30 10:33:27 UTC 2022] MihiBlu: ai op
+[Sun Oct 30 10:33:38 UTC 2022] 5hax: ?
+[Sun Oct 30 10:33:56 UTC 2022] MihiBlu: nu stiam cn esti
+[Sun Oct 30 10:33:57 UTC 2022] MihiBlu: scuze
+[Sun Oct 30 10:34:00 UTC 2022] 5hax: lol
+[Sun Oct 30 10:34:01 UTC 2022] MihiBlu: ca-s pe contu lu mihi
+[Sun Oct 30 10:39:49 UTC 2022] MihiBlu: pot sa te intreb ceva?
+[Sun Oct 30 10:39:55 UTC 2022] 5hax: cred ca poti
+[Sun Oct 30 10:40:05 UTC 2022] MihiBlu: dc construiesti cu daste
+[Sun Oct 30 10:40:12 UTC 2022] 5hax: daste?
+[Sun Oct 30 10:40:17 UTC 2022] MihiBlu: dastea
+[Sun Oct 30 10:40:41 UTC 2022] 5hax: vreau sa-i dau un contrast colorat
+[Sun Oct 30 10:40:54 UTC 2022] 5hax: in teorie se va lega cu ce mai adaug
+[Sun Oct 30 10:41:03 UTC 2022] 5hax: altfel voi schimba pur si simplu culoarea
+[Sun Oct 30 10:41:07 UTC 2022] MihiBlu: ma gandeam eu la ceva de genul
+[Sun Oct 30 10:41:09 UTC 2022] MihiBlu: ca nu prea se leaga
+[Sun Oct 30 10:41:11 UTC 2022] MihiBlu: lemnul asta
+[Sun Oct 30 10:41:13 UTC 2022] MihiBlu: cu albastru
+[Sun Oct 30 10:41:28 UTC 2022] 5hax: e ok, momentan nu e foarte important sa se lege
+[Sun Oct 30 10:41:34 UTC 2022] 5hax: nu sunt inca detalii
+[Sun Oct 30 10:41:35 UTC 2022] MihiBlu: dah
+[Sun Oct 30 10:41:39 UTC 2022] MihiBlu: eu te las, scuze pt kick
+[Sun Oct 30 10:41:43 UTC 2022] MihiBlu: ca nu stiam cn esti
+[Sun Oct 30 10:50:48 UTC 2022] 5hax: all good
+[Sun Oct 30 23:24:23 UTC 2022] MihiBlu: afa
+[Sun Oct 30 23:24:26 UTC 2022] MihiBlu: agagagg
+[Sun Oct 30 23:24:37 UTC 2022] MihiBlu: agagag
+[Sun Oct 30 23:24:40 UTC 2022] MihiBlu: agagag
+[Sun Oct 30 23:24:42 UTC 2022] MihiBlu: agagag
+[Sun Oct 30 23:24:44 UTC 2022] MihiBlu: w
+[Sun Oct 30 23:24:44 UTC 2022] MihiBlu: a
+[Sun Oct 30 23:24:45 UTC 2022] MihiBlu: at
+[Sun Oct 30 23:24:45 UTC 2022] MihiBlu: a
+[Sun Oct 30 23:24:45 UTC 2022] MihiBlu: a
+[Sun Oct 30 23:24:46 UTC 2022] MihiBlu: a
+[Sun Oct 30 23:24:46 UTC 2022] MihiBlu: a
+[Sun Oct 30 23:24:46 UTC 2022] MihiBlu: a
+[Mon Oct 31 09:23:38 UTC 2022] MihiBlu: f
+[Mon Oct 31 10:36:01 UTC 2022] Alexandru_: af
+[Mon Oct 31 22:43:05 UTC 2022] MihiBlu: ghasts
+[Wed Nov 02 16:43:33 UTC 2022] Alexandru_: fa
+[Wed Nov 02 16:43:39 UTC 2022] Alexandru_: afa
+[Thu Nov 03 12:29:47 UTC 2022] MihiBlu: asd
+[Thu Nov 03 12:29:57 UTC 2022] MihiBlu: asd
+[Thu Nov 03 19:01:54 UTC 2022] Alexandru_: f
+[Thu Nov 03 19:02:35 UTC 2022] Alexandru_: esti aici?
+[Thu Nov 03 19:06:44 UTC 2022] MihiBlu: restart
+[Thu Nov 03 19:06:46 UTC 2022] MihiBlu: la mc
+[Thu Nov 03 19:06:48 UTC 2022] MihiBlu: sa bag textura
+[Thu Nov 03 19:09:33 UTC 2022] Alexandru_: da tu de ce dai restart?
+[Thu Nov 03 19:09:43 UTC 2022] MihiBlu: la mc
+[Thu Nov 03 19:09:44 UTC 2022] MihiBlu: nu la server
+[Thu Nov 03 19:10:11 UTC 2022] MihiBlu: ba
+[Thu Nov 03 19:10:14 UTC 2022] MihiBlu: nu iti tre cumva optifine?
+[Thu Nov 03 19:10:37 UTC 2022] Alexandru_: a
+[Thu Nov 03 19:10:39 UTC 2022] Alexandru_: logic drc
+[Thu Nov 03 19:10:44 UTC 2022] Alexandru_: ca trb optifine :))
+[Thu Nov 03 19:10:45 UTC 2022] MihiBlu: si nu poti face fara?
+[Thu Nov 03 19:10:52 UTC 2022] Alexandru_: nu
+[Thu Nov 03 19:10:59 UTC 2022] Alexandru_: cum coaie, tu joci fara optifine?
+[Thu Nov 03 19:11:03 UTC 2022] MihiBlu: da
+[Thu Nov 03 19:11:06 UTC 2022] MihiBlu: :)))
+[Thu Nov 03 19:11:10 UTC 2022] Alexandru_: vai de pula mea
+[Thu Nov 03 19:11:15 UTC 2022] MihiBlu: pai drq
+[Thu Nov 03 19:11:15 UTC 2022] Alexandru_: de asta nu iti mergea
+[Thu Nov 03 19:11:18 UTC 2022] MihiBlu: am pus optiifne pe 1.19
+[Thu Nov 03 19:11:20 UTC 2022] MihiBlu: lanseaza 1.19.1
+[Thu Nov 03 19:11:22 UTC 2022] MihiBlu: am pus pe 1.19.1
+[Thu Nov 03 19:11:24 UTC 2022] MihiBlu: lanseaza 1.19.2
+[Thu Nov 03 19:11:27 UTC 2022] MihiBlu: mi am bagat pula
+[Thu Nov 03 19:11:33 UTC 2022] Alexandru_: descarca-ti tlauncheru
+[Thu Nov 03 19:11:38 UTC 2022] Alexandru_: e mult mai usor
+[Thu Nov 03 19:11:42 UTC 2022] Alexandru_: descarci toate versiunile
+[Thu Nov 03 19:11:44 UTC 2022] Alexandru_: pe care le vr
+[Thu Nov 03 19:11:47 UTC 2022] MihiBlu: stiu
+[Thu Nov 03 19:11:48 UTC 2022] Alexandru_: le vezi frumos pe toate
+[Thu Nov 03 19:11:50 UTC 2022] MihiBlu: de asta nu vad nici crateurile?
+[Thu Nov 03 19:12:00 UTC 2022] Alexandru_: nus
+[Thu Nov 03 19:12:02 UTC 2022] Alexandru_: uita-te
+[Thu Nov 03 19:12:04 UTC 2022] MihiBlu: tu le vezi?>
+[Thu Nov 03 19:12:06 UTC 2022] Alexandru_: crate-urile sunt cu modele
+[Thu Nov 03 19:12:18 UTC 2022] MihiBlu: eu nu vad nimic
+[Thu Nov 03 19:12:19 UTC 2022] Alexandru_: creca s-au sters armor standurile
+[Thu Nov 03 19:12:20 UTC 2022] Alexandru_: :)))
+[Thu Nov 03 19:12:30 UTC 2022] MihiBlu: pai tre vazut oleaca drq
+[Thu Nov 03 19:12:32 UTC 2022] MihiBlu: de ce se sterg
+[Thu Nov 03 19:12:34 UTC 2022] MihiBlu: ca ma fut si pe mine
+[Thu Nov 03 19:12:40 UTC 2022] Alexandru_: creca de la clear lag
+[Thu Nov 03 19:12:42 UTC 2022] MihiBlu: ca imi sterge mobii din dungeons
+[Thu Nov 03 19:12:50 UTC 2022] MihiBlu: parca e setat sa nu stearga armorstanduri
+[Thu Nov 03 19:16:39 UTC 2022] MihiBlu: nu am gasit nimic in clearlagg
+[Thu Nov 03 19:16:42 UTC 2022] MihiBlu: inaintea n avea nici pe drq
+[Thu Nov 03 19:16:43 UTC 2022] MihiBlu: acu nush ce are
+[Thu Nov 03 19:16:51 UTC 2022] Alexandru_: sau le-oi fi sters eu
+[Thu Nov 03 19:16:53 UTC 2022] Alexandru_: atunci
+[Thu Nov 03 19:17:07 UTC 2022] MihiBlu: idk
+[Thu Nov 03 19:17:08 UTC 2022] MihiBlu: sau serveru
+[Thu Nov 03 19:17:10 UTC 2022] MihiBlu: pizda amsi
+[Thu Nov 03 19:17:13 UTC 2022] MihiBlu: sau essentialu
+[Thu Nov 03 19:17:22 UTC 2022] MihiBlu: sa revin la meniu cu settings
+[Thu Nov 03 19:17:25 UTC 2022] MihiBlu: sa l termin si pe ala drq inseara
+[Thu Nov 03 19:17:32 UTC 2022] MihiBlu: trimite mi te rog un ss cum vezi tu theriftu
+[Thu Nov 03 19:17:54 UTC 2022] Alexandru_: cu aceleasi sageti ca tn
+[Thu Nov 03 19:17:58 UTC 2022] Alexandru_: ia st sa ma uit
+[Thu Nov 03 19:18:01 UTC 2022] Alexandru_: in textura
+[Thu Nov 03 19:23:50 UTC 2022] MihiBlu: tu iti dai hostpot?
+[Thu Nov 03 19:25:27 UTC 2022] Alexandru_: nu?
+[Thu Nov 03 19:25:32 UTC 2022] Alexandru_: ce ecu intrebarea asta?
+[Thu Nov 03 19:25:41 UTC 2022] MihiBlu: aveai ping 150
+[Thu Nov 03 19:26:02 UTC 2022] Alexandru_: am net de cacat
+[Thu Nov 03 19:31:22 UTC 2022] MihiBlu: kasa
+[Thu Nov 03 19:31:36 UTC 2022] MihiBlu: kasa da nu prea
+[Thu Nov 03 19:43:18 UTC 2022] MihiBlu: ?
+[Thu Nov 03 19:43:26 UTC 2022] Alexandru_: i am in combat
+[Thu Nov 03 19:43:28 UTC 2022] Alexandru_: ahahahaah
+[Thu Nov 03 19:43:29 UTC 2022] Alexandru_: =))))))
+[Thu Nov 03 19:43:36 UTC 2022] MihiBlu: mie nu imi scire in bara
+[Thu Nov 03 19:43:38 UTC 2022] MihiBlu: imi scrie in chat
+[Thu Nov 03 19:43:40 UTC 2022] MihiBlu: si arata ca drq
+[Thu Nov 03 19:43:44 UTC 2022] Alexandru_: da scrie pe chat
+[Thu Nov 03 19:43:48 UTC 2022] Alexandru_: da asa era combatlogx ul
+[Thu Nov 03 19:43:52 UTC 2022] Alexandru_: iti aparea in actionbar
+[Thu Nov 03 19:43:57 UTC 2022] MihiBlu: e configurabil
+[Thu Nov 03 19:43:59 UTC 2022] MihiBlu: te ocupi tu?
+[Thu Nov 03 19:44:02 UTC 2022] MihiBlu: sau sa l fac ue?
+[Thu Nov 03 19:44:04 UTC 2022] MihiBlu: sau sa l fac eu?*
+[Thu Nov 03 19:44:18 UTC 2022] Alexandru_: cum vrei, eu inca ma chinui cu sagetiile
+[Thu Nov 03 19:44:22 UTC 2022] MihiBlu: il fac eu
+[Thu Nov 03 19:44:34 UTC 2022] MihiBlu: daca ma culc si l las pe maine te anunt, poate te plictisesti la noapte :))
+[Thu Nov 03 19:44:49 UTC 2022] MihiBlu: oricum mai tre parcurse odata pluginurile si testate asa
+[Thu Nov 03 19:44:51 UTC 2022] MihiBlu: mesajele si cum functioneaza
+[Thu Nov 03 19:44:54 UTC 2022] MihiBlu: acu bag jocu in bara
+[Thu Nov 03 21:21:39 UTC 2022] Alexandru_: bag cv sa scot si numerele din dreapta
+[Thu Nov 03 21:21:41 UTC 2022] Alexandru_: dinscoreboard
+[Thu Nov 03 21:21:55 UTC 2022] MihiBlu: pai poti pune ce numere vrei
+[Thu Nov 03 21:21:58 UTC 2022] MihiBlu: sau mai bine le scoti
+[Thu Nov 03 22:06:36 UTC 2022] Alexandru_: f
+[Thu Nov 03 23:24:14 UTC 2022] Alexandru_: afa
+[Fri Nov 04 09:09:28 UTC 2022] Alexandru_: afa
+[Fri Nov 04 11:09:08 UTC 2022] Alexandru_: afa
+[Fri Nov 04 11:09:16 UTC 2022] Alexandru_: afa
+[Fri Nov 04 11:09:28 UTC 2022] Alexandru_: faf
+[Fri Nov 04 14:42:27 UTC 2022] Alexandru_: af
+[Fri Nov 04 18:23:04 UTC 2022] Alexandru_: f
+[Fri Nov 04 18:26:52 UTC 2022] Alexandru_: f
+[Fri Nov 04 19:11:14 UTC 2022] Alexandru_: ce npc-uri baros
+[Fri Nov 04 19:11:27 UTC 2022] Alexandru_: astia din dungeon si mina?
+[Fri Nov 04 19:11:50 UTC 2022] Alexandru_: ?
+[Fri Nov 04 19:12:00 UTC 2022] MihiBlu: ai vazut cum functioneaza?
+[Fri Nov 04 19:12:05 UTC 2022] Alexandru_: nu
+[Fri Nov 04 19:12:10 UTC 2022] MihiBlu: da click dreapta
+[Fri Nov 04 19:12:16 UTC 2022] Alexandru_: a lol
+[Fri Nov 04 19:12:27 UTC 2022] Alexandru_: tare
+[Fri Nov 04 19:12:46 UTC 2022] MihiBlu: macar merg drq skripturile
+[Fri Nov 04 19:12:48 UTC 2022] MihiBlu: nu mai tre si astea futute
+[Fri Nov 04 19:12:51 UTC 2022] MihiBlu: ai minat pe aici?
+[Fri Nov 04 19:12:54 UTC 2022] Alexandru_: nu
+[Fri Nov 04 19:14:35 UTC 2022] MihiBlu: futui morti masii
+[Fri Nov 04 19:14:48 UTC 2022] MihiBlu: futui morti masii
+[Fri Nov 04 19:15:37 UTC 2022] MihiBlu: uite unde i dracu
+[Fri Nov 04 19:15:49 UTC 2022] MihiBlu: muta l te rog tu sus
+[Fri Nov 04 19:16:35 UTC 2022] MihiBlu: Alex?
+[Fri Nov 04 19:21:09 UTC 2022] MihiBlu: asd
+[Fri Nov 04 19:21:54 UTC 2022] Alexandru_: ce
+[Fri Nov 04 19:23:48 UTC 2022] MihiBlu: la keyle astea doar descrierea daca o mai formatezio
+[Fri Nov 04 19:23:51 UTC 2022] MihiBlu: daca schimbi numele, imi strici sistemu
+[Fri Nov 04 19:23:52 UTC 2022] MihiBlu: :)))
+[Fri Nov 04 19:28:39 UTC 2022] Alexandru_: ok
+[Fri Nov 04 19:29:15 UTC 2022] MihiBlu: pss
+[Fri Nov 04 19:29:30 UTC 2022] MihiBlu: daca muti keyle pe tripwire hook in textura e kasa
+[Fri Nov 04 19:29:44 UTC 2022] Alexandru_: pai?
+[Fri Nov 04 19:29:55 UTC 2022] MihiBlu: e cu mult mai putina munca decat sa schimb eu totul din tripwire hook in stick
+[Fri Nov 04 19:30:02 UTC 2022] Alexandru_: k
+[Fri Nov 04 19:30:11 UTC 2022] Alexandru_: si aici ce ar trb sa se intample
+[Fri Nov 04 19:30:27 UTC 2022] MihiBlu: nu sunt mobi
+[Fri Nov 04 19:30:28 UTC 2022] MihiBlu: ?
+[Fri Nov 04 19:30:30 UTC 2022] Alexandru_: nu
+[Fri Nov 04 19:30:32 UTC 2022] MihiBlu: asta vrei :)))?
+[Fri Nov 04 19:30:44 UTC 2022] MihiBlu: baiatu
+[Fri Nov 04 19:30:51 UTC 2022] Alexandru_: te am intrebat
+[Fri Nov 04 19:30:54 UTC 2022] Alexandru_: ce ar trb sa se intample
+[Fri Nov 04 19:30:58 UTC 2022] MihiBlu: vrei sa ti sspawnez mobi?
+[Fri Nov 04 19:31:04 UTC 2022] Alexandru_: ia
+[Fri Nov 04 20:02:09 UTC 2022] MihiBlu: merg toate
+[Fri Nov 04 20:02:10 UTC 2022] MihiBlu: te pwp
+[Fri Nov 04 20:04:43 UTC 2022] Alexandru_: auzi
+[Fri Nov 04 20:04:56 UTC 2022] Alexandru_: MihiBlu
+[Fri Nov 04 20:05:07 UTC 2022] Alexandru_: baga si tu holograma de la Noah asta de la /warp mines din nou
+[Fri Nov 04 20:05:10 UTC 2022] Alexandru_: am sterso crezand ca e alta
+[Fri Nov 04 20:05:43 UTC 2022] MihiBlu: :)))))
+[Fri Nov 04 20:05:51 UTC 2022] MihiBlu: sa ma bata tata daca inteleg cum stergi hologramele aseta
+[Fri Nov 04 20:05:54 UTC 2022] MihiBlu: si asa in general
+[Fri Nov 04 20:05:58 UTC 2022] MihiBlu: iti trimit pe disscord
+[Fri Nov 04 20:05:59 UTC 2022] MihiBlu: din backup
+[Fri Nov 04 20:06:17 UTC 2022] Alexandru_: credeam ca e alta
+[Fri Nov 04 20:06:21 UTC 2022] Alexandru_: dasta am sterso
+[Fri Nov 04 20:06:29 UTC 2022] MihiBlu: eu fac backup ca ma astept sa mi dispara serverul de pe host
+[Fri Nov 04 20:06:34 UTC 2022] MihiBlu: dar bine ca se rezolva usor
+[Fri Nov 04 20:06:35 UTC 2022] MihiBlu: :))))
+[Fri Nov 04 20:07:23 UTC 2022] Alexandru_: aa dc credeam ca e o holograma mai lunga
+[Fri Nov 04 20:07:25 UTC 2022] Alexandru_: domane ce prost sunt
+[Fri Nov 04 20:07:28 UTC 2022] Alexandru_: co faceam la loc imediat
+[Fri Nov 04 20:09:49 UTC 2022] MihiBlu: ce frumos era sa mi dau rollback la munca 15m
+[Fri Nov 04 20:12:44 UTC 2022] Alexandru_: ai pus npc asta
+[Fri Nov 04 20:12:46 UTC 2022] Alexandru_: mancatias pula ta
+[Fri Nov 04 20:12:48 UTC 2022] Alexandru_: dupa stalp
+[Fri Nov 04 20:13:01 UTC 2022] MihiBlu: uita te ce skinuri au saracii
+[Fri Nov 04 20:13:03 UTC 2022] MihiBlu: ce sa mai zic de stalpp
+[Fri Nov 04 20:13:07 UTC 2022] Alexandru_: =)))))))))))))))))
+[Fri Nov 04 20:13:11 UTC 2022] Alexandru_: da pe bune
+[Fri Nov 04 20:13:55 UTC 2022] MihiBlu: da ./invsee la mine
+[Fri Nov 04 20:13:58 UTC 2022] MihiBlu: sa vezi ce frumos arata totul
+[Fri Nov 04 20:14:00 UTC 2022] MihiBlu: si ia cateva
+[Fri Nov 04 20:14:02 UTC 2022] MihiBlu: si da click dreapta
+[Fri Nov 04 20:14:06 UTC 2022] MihiBlu: coins
+[Fri Nov 04 20:14:38 UTC 2022] Alexandru_: ce sa arate frumos
+[Fri Nov 04 20:14:40 UTC 2022] Alexandru_: nu vad nimic
+[Fri Nov 04 20:14:41 UTC 2022] MihiBlu: coinurile
+[Fri Nov 04 20:14:47 UTC 2022] MihiBlu: sau n ai textura?
+[Fri Nov 04 20:14:55 UTC 2022] Alexandru_: care coinuri
+[Fri Nov 04 20:14:57 UTC 2022] Alexandru_: nai nimic
+[Fri Nov 04 20:14:59 UTC 2022] Alexandru_: in inventar
+[Fri Nov 04 20:15:02 UTC 2022] MihiBlu: le ai luat tu sau?
+[Fri Nov 04 20:15:14 UTC 2022] Alexandru_: da :))
+[Fri Nov 04 20:15:23 UTC 2022] Alexandru_: punele si tu drc numele galbene sau cuva
+[Fri Nov 04 20:15:24 UTC 2022] Alexandru_: cumva
+[Fri Nov 04 20:15:25 UTC 2022] MihiBlu: mai omor monstrii
+[Fri Nov 04 20:15:26 UTC 2022] Alexandru_: nu albe :))
+[Fri Nov 04 20:15:34 UTC 2022] MihiBlu: lasa le asa
+[Fri Nov 04 20:15:38 UTC 2022] MihiBlu: ca tre sa schimb prea mult
+[Fri Nov 04 20:15:52 UTC 2022] MihiBlu: ca skriptul e setat cu tot cu culoare
+[Fri Nov 04 20:17:03 UTC 2022] MihiBlu: Asa smechera mi se pare arena2. 
+[Fri Nov 04 20:17:04 UTC 2022] MihiBlu: Si asa fun. 
+[Fri Nov 04 20:21:01 UTC 2022] MihiBlu: e kasa
+[Fri Nov 04 20:21:08 UTC 2022] MihiBlu: daca mai pui si teme
+[Fri Nov 04 20:21:09 UTC 2022] MihiBlu: iteme
+[Fri Nov 04 20:21:11 UTC 2022] MihiBlu: ca la ala de miner
+[Fri Nov 04 20:21:14 UTC 2022] MihiBlu: cele mai smechere
+[Fri Nov 04 20:22:18 UTC 2022] MihiBlu: ar trb sa te joci si tu la dungeons oleaca
+[Fri Nov 04 20:22:20 UTC 2022] MihiBlu: cand ai timp
+[Fri Nov 04 20:22:22 UTC 2022] MihiBlu: sa vezi ce fun e
+[Fri Nov 04 20:22:24 UTC 2022] MihiBlu: dar si try hard
+[Fri Nov 04 20:22:26 UTC 2022] MihiBlu: pe hard
+[Fri Nov 04 20:22:31 UTC 2022] MihiBlu: tre ssa o joci extrem de bine
+[Fri Nov 04 20:23:01 UTC 2022] Alexandru_: le am pus la fel
+[Fri Nov 04 20:23:06 UTC 2022] Alexandru_: cate o arma si o bucata de armura
+[Fri Nov 04 20:24:47 UTC 2022] MihiBlu: ba
+[Fri Nov 04 20:24:54 UTC 2022] MihiBlu: ?
+[Fri Nov 04 20:25:09 UTC 2022] Alexandru_: ?
+[Fri Nov 04 20:26:17 UTC 2022] MihiBlu: am o problema, dar stai sa vad poate iar am gresit eu ceva
+[Fri Nov 04 20:28:08 UTC 2022] Alexandru_: ce ar trebuii sa mai fac?
+[Fri Nov 04 20:28:15 UTC 2022] MihiBlu: comanda aia
+[Fri Nov 04 20:28:17 UTC 2022] MihiBlu: de dat armura
+[Fri Nov 04 20:28:20 UTC 2022] MihiBlu: sa mearga drq
+[Fri Nov 04 20:30:39 UTC 2022] MihiBlu: era vina mea, am rezolvat
+[Fri Nov 04 20:31:27 UTC 2022] Alexandru_: ce?
+[Fri Nov 04 20:31:43 UTC 2022] MihiBlu: imi dadea paper in loc de coin la cateva dropuri
+[Fri Nov 04 20:34:45 UTC 2022] MihiBlu: ba
+[Fri Nov 04 20:34:46 UTC 2022] MihiBlu: Alex?
+[Fri Nov 04 20:35:31 UTC 2022] Alexandru_: zi
+[Fri Nov 04 20:35:39 UTC 2022] MihiBlu: ai idee de ce nu se mai vad bine din textura keyle de la crateuri?
+[Fri Nov 04 20:35:57 UTC 2022] Alexandru_: cumadica nu se mai vad bine
+[Fri Nov 04 20:36:11 UTC 2022] MihiBlu: discord
+[Fri Nov 04 20:49:05 UTC 2022] MihiBlu: ce drq
+[Fri Nov 04 20:49:20 UTC 2022] MihiBlu: :)))
+[Fri Nov 04 20:49:21 UTC 2022] MihiBlu: e bun
+[Fri Nov 04 20:50:11 UTC 2022] Alexandru_: aa
+[Fri Nov 04 20:50:13 UTC 2022] Alexandru_: gata stiu dc
+[Fri Nov 04 20:50:16 UTC 2022] Alexandru_: nu ne putem bate
+[Fri Nov 04 20:50:17 UTC 2022] Alexandru_: :)))
+[Fri Nov 04 20:50:21 UTC 2022] MihiBlu: ce lucrasi :))?
+[Fri Nov 04 20:50:31 UTC 2022] Alexandru_: am pus invincible in spawn
+[Fri Nov 04 20:50:35 UTC 2022] Alexandru_: sa nu mai scada hungeru
+[Fri Nov 04 20:50:37 UTC 2022] Alexandru_: ))
+[Fri Nov 04 20:50:40 UTC 2022] Alexandru_: ca imi era lene
+[Fri Nov 04 20:50:42 UTC 2022] MihiBlu: scoate l
+[Fri Nov 04 20:50:43 UTC 2022] Alexandru_: sa caut aia de hunger
+[Fri Nov 04 20:50:46 UTC 2022] MihiBlu: :))
+[Fri Nov 04 20:50:55 UTC 2022] MihiBlu: era sa mi faci o lucrare puternica :)))
+[Fri Nov 04 20:51:04 UTC 2022] Alexandru_: leam scos
+[Fri Nov 04 20:51:15 UTC 2022] Alexandru_: ce drc
+[Fri Nov 04 20:51:44 UTC 2022] MihiBlu: mai ai de facut formatari pe ici pe colo :))
+[Fri Nov 04 20:52:02 UTC 2022] MihiBlu: bag pula n le
+[Fri Nov 04 20:52:10 UTC 2022] Alexandru_: mama coiae
+[Fri Nov 04 20:52:11 UTC 2022] Alexandru_: lol
+[Fri Nov 04 20:52:14 UTC 2022] MihiBlu: ?
+[Fri Nov 04 20:52:17 UTC 2022] Alexandru_: ce au bagat astia la worldguard
+[Fri Nov 04 20:52:23 UTC 2022] Alexandru_: dai direct /rg flags spawn
+[Fri Nov 04 20:52:25 UTC 2022] Alexandru_: si iti apar toate
+[Fri Nov 04 20:52:27 UTC 2022] Alexandru_: cu allow deny
+[Fri Nov 04 20:52:41 UTC 2022] MihiBlu: eu asa l stiu din totdeauna
+[Fri Nov 04 20:52:44 UTC 2022] MihiBlu: :))))
+[Fri Nov 04 20:52:51 UTC 2022] MihiBlu: :))))
+[Fri Nov 04 20:53:02 UTC 2022] MihiBlu: tu ce drq nu iei damage?
+[Fri Nov 04 20:53:37 UTC 2022] MihiBlu: e bine
+[Fri Nov 04 20:53:39 UTC 2022] Alexandru_: ia reintra
+[Fri Nov 04 20:54:04 UTC 2022] MihiBlu: nu prea ma omoara
+[Fri Nov 04 20:54:04 UTC 2022] MihiBlu: vad
+[Fri Nov 04 20:54:04 UTC 2022] Alexandru_: dai in n
+[Fri Nov 04 20:54:06 UTC 2022] MihiBlu: :)))))))
+[Fri Nov 04 20:54:08 UTC 2022] Alexandru_: mn
+[Fri Nov 04 20:54:08 UTC 2022] MihiBlu: da mi deop
+[Fri Nov 04 20:54:08 UTC 2022] Alexandru_: aia e
+[Fri Nov 04 20:54:14 UTC 2022] MihiBlu: Acu da un combat. 
+[Fri Nov 04 20:54:50 UTC 2022] Alexandru_: aia e dal in sula mia
+[Fri Nov 04 20:54:55 UTC 2022] Alexandru_: sal raporteze
+[Fri Nov 04 20:54:59 UTC 2022] Alexandru_: sil facem noi alta data
+[Fri Nov 04 20:54:59 UTC 2022] MihiBlu: Tre futut. 
+[Fri Nov 04 20:55:02 UTC 2022] MihiBlu: Bag pula n el. 
+[Fri Nov 04 20:55:08 UTC 2022] Alexandru_: da tu dc nu poti da in mn?
+[Fri Nov 04 20:55:25 UTC 2022] MihiBlu: b ine ca spawn merge
+[Fri Nov 04 20:55:32 UTC 2022] Alexandru_: =))))))
+[Fri Nov 04 20:55:39 UTC 2022] MihiBlu: bun
+[Fri Nov 04 20:55:42 UTC 2022] MihiBlu: eu ies pe inseara
+[Fri Nov 04 20:55:47 UTC 2022] MihiBlu: tu ce vrei sa faci?
+[Fri Nov 04 20:55:56 UTC 2022] Alexandru_: sa ma apuc de aia
+[Fri Nov 04 20:56:12 UTC 2022] MihiBlu: Vrei ssa ti las pcul desschis?
+[Fri Nov 04 20:56:18 UTC 2022] Alexandru_: ia stai
+[Fri Nov 04 20:56:19 UTC 2022] Alexandru_: pe loc
+[Fri Nov 04 20:56:32 UTC 2022] Alexandru_: coaie
+[Fri Nov 04 20:56:36 UTC 2022] Alexandru_: cum dracu se ascundea mesaju
+[Fri Nov 04 20:56:38 UTC 2022] Alexandru_: de la regiune
+[Fri Nov 04 20:57:04 UTC 2022] MihiBlu: maine kkturi dastea avem de lucrat
+[Sat Nov 05 09:21:13 UTC 2022] Alexandru_: f
+[Sat Nov 05 09:21:22 UTC 2022] Alexandru_: f
+[Sat Nov 05 09:21:32 UTC 2022] Alexandru_: f
+[Sat Nov 05 09:21:37 UTC 2022] Alexandru_: f
+[Sat Nov 05 09:21:42 UTC 2022] Alexandru_: f
+[Sat Nov 05 09:22:47 UTC 2022] Alexandru_: f
+[Sat Nov 05 09:22:54 UTC 2022] Alexandru_: asfa
+[Sat Nov 05 09:23:00 UTC 2022] Alexandru_: f
+[Sun Nov 06 11:57:56 UTC 2022] Alexandru_: af
+[Sun Nov 06 11:58:02 UTC 2022] Alexandru_: f
+[Sun Nov 06 16:17:18 UTC 2022] Alexandru_: o/
+[Sun Nov 06 16:18:09 UTC 2022] Alexandru_: @Alexandru_
+[Sun Nov 06 16:18:16 UTC 2022] Alexandru_: @Alexandru_
+[Sun Nov 06 16:19:03 UTC 2022] Alexandru_: [item]
+[Sun Nov 06 16:19:51 UTC 2022] Alexandru_: [item]
+[Sun Nov 06 16:20:32 UTC 2022] Alexandru_: @Alexandru_
+[Sun Nov 06 16:20:43 UTC 2022] Alexandru_: @Alexandru_
+[Sun Nov 06 16:20:52 UTC 2022] Alexandru_: @Alexandru_
+[Sun Nov 06 16:26:03 UTC 2022] Alexandru_: @Alexandru_
+[Sun Nov 06 16:47:15 UTC 2022] Alexandru_: [inv]
+[Sun Nov 06 16:47:22 UTC 2022] Alexandru_: [money]
+[Sun Nov 06 16:47:30 UTC 2022] Alexandru_: [enderchest]
+[Sun Nov 06 16:47:34 UTC 2022] Alexandru_: [ping]
+[Mon Nov 07 20:09:28 UTC 2022] MihiBlu: ads
+[Mon Nov 07 20:20:38 UTC 2022] MihiBlu: Asa da. 
+[Mon Nov 07 20:20:49 UTC 2022] Alexandru_: ce
+[Mon Nov 07 20:20:51 UTC 2022] Alexandru_: Ti-a mers? 
+[Mon Nov 07 20:20:54 UTC 2022] Alexandru_: Ti-a mers? 
+[Mon Nov 07 20:20:56 UTC 2022] MihiBlu: da
+[Mon Nov 07 20:20:56 UTC 2022] Alexandru_: Ca mie nu mi merge. 
+[Mon Nov 07 20:23:17 UTC 2022] Alexandru_: Si rezolv. 
+[Mon Nov 07 20:23:19 UTC 2022] Alexandru_: Aici? 
+[Mon Nov 07 20:23:24 UTC 2022] Alexandru_: Aici scoreboardu. 
+[Mon Nov 07 20:23:25 UTC 2022] Alexandru_: sau?
+[Mon Nov 07 20:23:27 UTC 2022] Alexandru_: sau?
+[Mon Nov 07 20:23:33 UTC 2022] MihiBlu: ?
+[Mon Nov 07 20:23:34 UTC 2022] MihiBlu: da
+[Mon Nov 07 20:23:39 UTC 2022] MihiBlu: Da, tot rezolvam aici. 
+[Mon Nov 07 20:23:51 UTC 2022] Alexandru_: Ces cu npc astea ma. 
+[Mon Nov 07 20:24:01 UTC 2022] MihiBlu: Care? 
+[Mon Nov 07 20:24:04 UTC 2022] Alexandru_: Din spawn. 
+[Mon Nov 07 20:24:36 UTC 2022] MihiBlu: Astea npcurile vechi. 
+[Mon Nov 07 20:24:39 UTC 2022] MihiBlu: Dar nu stiu cum au ajuns aici. 
+[Mon Nov 07 20:25:35 UTC 2022] Alexandru_: Creca ce backup ai facut si tu. 
+[Mon Nov 07 20:25:40 UTC 2022] Alexandru_: =))))). 
+[Mon Nov 07 20:25:57 UTC 2022] MihiBlu: Nu stiu cum drq au ajuns aici. 
+[Mon Nov 07 20:25:58 UTC 2022] Alexandru_: Ai salvat serveru pe bucati si lai pus aici. 
+[Mon Nov 07 20:26:02 UTC 2022] MihiBlu: nu
+[Mon Nov 07 20:26:10 UTC 2022] MihiBlu: Am luat pe ala. 
+[Mon Nov 07 20:26:13 UTC 2022] MihiBlu: De unde am lucrat. 
+[Mon Nov 07 20:26:17 UTC 2022] MihiBlu: Am sters data base. 
+[Mon Nov 07 20:26:19 UTC 2022] MihiBlu: Am sters ce era pe asta. 
+[Mon Nov 07 20:26:28 UTC 2022] MihiBlu: Am adaugat versiunea beta de smart. 
+[Mon Nov 07 20:26:31 UTC 2022] MihiBlu: Si am dat start. 
+[Mon Nov 07 20:26:34 UTC 2022] MihiBlu: Initial nu era niciun npc. 
+[Mon Nov 07 20:26:43 UTC 2022] MihiBlu: Ca am sters citizens si tot ce era jar dependent. 
+[Mon Nov 07 20:26:50 UTC 2022] MihiBlu: Si am adaugat doar jarurile dependente. 
+[Mon Nov 07 20:26:53 UTC 2022] MihiBlu: De pe spigot descarcate. 
+[Mon Nov 07 20:27:03 UTC 2022] MihiBlu: Daca faceam pe bucati pierdeam mult mai mult. 
+[Mon Nov 07 20:27:12 UTC 2022] Alexandru_: Am sters citizens. 
+[Mon Nov 07 20:27:14 UTC 2022] Alexandru_: Baga-l iar. 
+[Mon Nov 07 20:27:18 UTC 2022] Alexandru_: Si dau restart. 
+[Mon Nov 07 20:27:20 UTC 2022] MihiBlu: Foolderu? 
+[Mon Nov 07 20:27:24 UTC 2022] Alexandru_: Si pluginu. 
+[Mon Nov 07 20:27:30 UTC 2022] MihiBlu: ok
+[Mon Nov 07 20:27:31 UTC 2022] MihiBlu: Da vezi ca. 
+[Mon Nov 07 20:33:27 UTC 2022] MihiBlu: Scoreboardul l ai rezolvat vad. 
+[Mon Nov 07 20:35:08 UTC 2022] Alexandru_: @MihiBlu. 
+[Mon Nov 07 20:35:27 UTC 2022] Alexandru_: Sa pui si hideflags:all la armura din the rift. 
+[Mon Nov 07 20:35:46 UTC 2022] MihiBlu: Pai adaugasi armura? 
+[Mon Nov 07 20:35:52 UTC 2022] MihiBlu: Cu comanda? 
+[Mon Nov 07 20:35:56 UTC 2022] Alexandru_: nu
+[Mon Nov 07 20:36:04 UTC 2022] Alexandru_: Cand dracu sa o adaug. 
+[Mon Nov 07 20:36:06 UTC 2022] MihiBlu: Pai cand pui comanda, pune si alea te rog. 
+[Mon Nov 07 20:36:06 UTC 2022] Alexandru_: Ca n am mai intrat. 
+[Mon Nov 07 20:36:19 UTC 2022] MihiBlu: Eu nici nu stiu ce comanda tre pun drq. 
+[Mon Nov 07 20:36:26 UTC 2022] MihiBlu: Sa fie in inventar ce trb. 
+[Mon Nov 07 20:36:41 UTC 2022] Alexandru_: ce?
+[Mon Nov 07 20:37:43 UTC 2022] Alexandru_: Si de unde ai vrea sa stiu eu ce trb sa pun ca sa dea item. 
+[Mon Nov 07 20:37:46 UTC 2022] Alexandru_: In bossshoppro :)). 
+[Mon Nov 07 20:37:54 UTC 2022] MihiBlu: Comanda. 
+[Mon Nov 07 20:37:54 UTC 2022] MihiBlu: drq
+[Mon Nov 07 20:38:00 UTC 2022] MihiBlu: Ti am lasat acolo facut daor as pui comanda. 
+[Mon Nov 07 20:38:16 UTC 2022] Alexandru_: unde
+[Mon Nov 07 20:38:21 UTC 2022] Alexandru_: Nam vazut :)). 
+[Mon Nov 07 20:38:32 UTC 2022] MihiBlu: La ymlurile. 
+[Mon Nov 07 20:38:34 UTC 2022] MihiBlu: Rift 1 2 3 4. 
+[Mon Nov 07 20:38:36 UTC 2022] MihiBlu: Rift 1 2 3 4. 
+[Mon Nov 07 20:39:43 UTC 2022] Alexandru_: ./creward3 asta? 
+[Mon Nov 07 20:39:50 UTC 2022] MihiBlu: Ce ma>. 
+[Mon Nov 07 20:39:57 UTC 2022] MihiBlu: Tu tre sa pui o comanda de /give acolo. 
+[Mon Nov 07 20:40:00 UTC 2022] MihiBlu: Da mi mie comanda. 
+[Mon Nov 07 20:40:04 UTC 2022] MihiBlu: Cu care iti dai armura din joc. 
+[Mon Nov 07 20:40:04 UTC 2022] Alexandru_: Nu vad nimic coaie. 
+[Mon Nov 07 20:40:08 UTC 2022] MihiBlu: Da mi mie comanda. 
+[Mon Nov 07 20:40:13 UTC 2022] MihiBlu: Ca o pun eu. 
+[Mon Nov 07 20:40:18 UTC 2022] Alexandru_: Ai rabdare. 
+[Mon Nov 07 20:40:24 UTC 2022] Alexandru_: Am ajuns mai chior ca tn sau nu caut unde trb. 
+[Mon Nov 07 20:40:35 UTC 2022] Alexandru_: Am facut si motdul. 
+[Mon Nov 07 20:40:35 UTC 2022] MihiBlu: Pai tu acum ce cauti? 
+[Mon Nov 07 20:40:45 UTC 2022] Alexandru_: Sunt in rift. 
+[Mon Nov 07 20:40:54 UTC 2022] Alexandru_: Ma uit la item. 
+[Mon Nov 07 20:42:33 UTC 2022] Alexandru_: Da mi si mie op. 
+[Mon Nov 07 20:42:40 UTC 2022] MihiBlu: Eu n am op. 
+[Mon Nov 07 20:42:42 UTC 2022] MihiBlu: Eu testez jocu. 
+[Mon Nov 07 20:43:40 UTC 2022] Alexandru_: ce drc coaie
+[Mon Nov 07 20:43:54 UTC 2022] MihiBlu: ?
+[Mon Nov 07 20:43:58 UTC 2022] Alexandru_: ia muto prin inventar
+[Mon Nov 07 20:44:03 UTC 2022] Alexandru_: se shcimba
+[Mon Nov 07 20:44:05 UTC 2022] Alexandru_: in continu?
+[Mon Nov 07 20:44:09 UTC 2022] MihiBlu: nu
+[Mon Nov 07 20:44:15 UTC 2022] MihiBlu: E un simplu diamond helmet. 
+[Mon Nov 07 20:46:25 UTC 2022] MihiBlu: ba
+[Mon Nov 07 20:46:25 UTC 2022] MihiBlu: ?
+[Mon Nov 07 20:46:34 UTC 2022] MihiBlu: Tu ce drq ai facut prin fisiere la pluginuri? 
+[Mon Nov 07 20:46:42 UTC 2022] MihiBlu: Le ai sters toate alea configurate de mine ssi ai lasat defaultul? 
+[Mon Nov 07 20:46:53 UTC 2022] Alexandru_: la care?
+[Mon Nov 07 20:47:00 UTC 2022] MihiBlu: La claims, la holomobhealth. 
+[Mon Nov 07 20:47:12 UTC 2022] Alexandru_: le am sters cu totu ca nu mergeau
+[Mon Nov 07 20:47:16 UTC 2022] Alexandru_: bn la claims, credeam ca e diferit
+[Mon Nov 07 20:47:38 UTC 2022] MihiBlu: Tre reconfigurate atunci :)). 
+[Mon Nov 07 20:47:56 UTC 2022] Alexandru_: pai i am facut meniul
+[Mon Nov 07 20:47:59 UTC 2022] Alexandru_: ce trebuie mai mult
+[Mon Nov 07 20:48:07 UTC 2022] MihiBlu: Ce meniu? 
+[Mon Nov 07 20:48:39 UTC 2022] MihiBlu: Mie mi se pare totul default. 
+[Mon Nov 07 20:49:54 UTC 2022] Alexandru_: ma coaie
+[Mon Nov 07 20:51:47 UTC 2022] Alexandru_: ma coaie\
+[Mon Nov 07 20:51:50 UTC 2022] Alexandru_: mie nu mi se da itemu
+[Mon Nov 07 20:51:52 UTC 2022] Alexandru_: cu nume
+[Mon Nov 07 20:51:54 UTC 2022] Alexandru_: ce pizda masi
+[Mon Nov 07 20:54:39 UTC 2022] MihiBlu: Klasa. 
+[Mon Nov 07 20:54:41 UTC 2022] MihiBlu: kasa
+[Mon Nov 07 20:54:46 UTC 2022] MihiBlu: Care e comanda? 
+[Tue Nov 08 15:28:58 UTC 2022] Alexandru_: &22
+[Tue Nov 08 15:30:33 UTC 2022] Alexandru_: f
+[Tue Nov 08 15:30:45 UTC 2022] Alexandru_: faf
+[Tue Nov 08 15:30:50 UTC 2022] Alexandru_: f
+[Tue Nov 08 15:31:19 UTC 2022] Alexandru_: afa
+[Tue Nov 08 15:31:25 UTC 2022] Alexandru_: af
+[Tue Nov 08 15:32:45 UTC 2022] Alexandru_: afa
+[Tue Nov 08 15:32:53 UTC 2022] Alexandru_: fa
+[Tue Nov 08 15:32:58 UTC 2022] Alexandru_: afa
+[Tue Nov 08 15:34:54 UTC 2022] Alexandru_: am si uitat de astea
+[Tue Nov 08 16:04:35 UTC 2022] MihiBlu: Eu nu pot intelege de ce nu au permisiune gradele asteea la kituri. 
+[Tue Nov 08 16:12:15 UTC 2022] MihiBlu: Sa dau si eu de o padure frumoasa. 
+[Tue Nov 08 16:12:52 UTC 2022] Alexandru_: nu merge coaie
+[Tue Nov 08 16:12:54 UTC 2022] Alexandru_: sa modific asta
+[Tue Nov 08 16:12:58 UTC 2022] Alexandru_: ori o scot ori o las asa
+[Tue Nov 08 16:13:00 UTC 2022] Alexandru_: aia cu health
+[Tue Nov 08 16:13:29 UTC 2022] Alexandru_: puteai apasa
+[Tue Nov 08 16:13:30 UTC 2022] Alexandru_: F1
+[Tue Nov 08 16:13:32 UTC 2022] Alexandru_: coaie
+[Tue Nov 08 16:19:11 UTC 2022] Alexandru_: da sal schimb si pasta umpic
+[Tue Nov 08 16:19:13 UTC 2022] Alexandru_: am facut poza
+[Tue Nov 08 16:19:14 UTC 2022] Alexandru_: doar la meniu
+[Tue Nov 08 16:20:18 UTC 2022] Alexandru_: tinel deschis
+[Tue Nov 08 16:24:46 UTC 2022] Alexandru_: bai coaie
+[Tue Nov 08 16:24:51 UTC 2022] Alexandru_: >> de unde morti masi o editez
+[Tue Nov 08 16:24:53 UTC 2022] Alexandru_: ca no gasesc
+[Tue Nov 08 16:24:57 UTC 2022] Alexandru_: sunt chior rau
+[Tue Nov 08 16:29:00 UTC 2022] Alexandru_: ai sters combatlogu?
+[Tue Nov 08 16:29:03 UTC 2022] Alexandru_: io vad cai acelasi
+[Tue Nov 08 17:15:13 UTC 2022] MihiBlu: hai la mine
+[Tue Nov 08 17:15:25 UTC 2022] Alexandru_: af
+[Tue Nov 08 17:15:56 UTC 2022] Alexandru_: ma coaie
+[Tue Nov 08 17:15:58 UTC 2022] Alexandru_: da sageata aia
+[Tue Nov 08 17:16:00 UTC 2022] Alexandru_: ce mortii masi
+[Tue Nov 08 17:16:02 UTC 2022] Alexandru_: de unde e
+[Tue Nov 08 17:16:12 UTC 2022] MihiBlu: opa
+[Tue Nov 08 17:16:48 UTC 2022] Alexandru_: ms de iteme
+[Tue Nov 08 17:17:00 UTC 2022] MihiBlu: acu poti sa l formatezzi linistit
+[Tue Nov 08 17:17:08 UTC 2022] Alexandru_: combatlogu?
+[Tue Nov 08 17:17:10 UTC 2022] MihiBlu: da
+[Tue Nov 08 17:17:30 UTC 2022] MihiBlu: poate l terminam si noi
+[Tue Nov 08 17:17:33 UTC 2022] MihiBlu: la versiunea finala
+[Tue Nov 08 17:17:35 UTC 2022] MihiBlu: pana pe la 8
+[Tue Nov 08 17:19:25 UTC 2022] Alexandru_: afa
+[Tue Nov 08 17:26:38 UTC 2022] MihiBlu: @Alexandru_
+[Tue Nov 08 17:26:41 UTC 2022] MihiBlu: da mi un tag
+[Tue Nov 08 17:27:03 UTC 2022] Alexandru_: @MihiBlu
+[Tue Nov 08 17:27:07 UTC 2022] MihiBlu: pwp
+[Tue Nov 08 17:27:08 UTC 2022] MihiBlu: merge
+[Tue Nov 08 17:27:34 UTC 2022] Alexandru_: @Alexandru_
+[Tue Nov 08 17:29:53 UTC 2022] Alexandru_: ce dracu coaie
+[Tue Nov 08 17:29:56 UTC 2022] Alexandru_: ce culori are asta
+[Tue Nov 08 17:30:02 UTC 2022] Alexandru_: vreau sa pun &d
+[Tue Nov 08 17:34:22 UTC 2022] Alexandru_: coaie
+[Tue Nov 08 17:34:27 UTC 2022] Alexandru_: are doar 3 culori asta
+[Tue Nov 08 17:34:29 UTC 2022] Alexandru_: sa mi bag pula
+[Tue Nov 08 17:34:46 UTC 2022] Alexandru_: il las galben
+[Tue Nov 08 17:34:48 UTC 2022] Alexandru_: simi bag pula
+[Tue Nov 08 17:34:54 UTC 2022] MihiBlu: ok
+[Tue Nov 08 17:35:07 UTC 2022] MihiBlu: am inchis teamviewerul
+[Tue Nov 08 17:35:08 UTC 2022] MihiBlu: brb
+[Tue Nov 08 17:35:13 UTC 2022] MihiBlu: mai fa te rog frumos si claims
+[Tue Nov 08 17:35:17 UTC 2022] MihiBlu: dupa ce termini asta
+[Tue Nov 08 17:35:18 UTC 2022] Alexandru_: ce drc sa fac
+[Tue Nov 08 17:35:19 UTC 2022] MihiBlu: cat mananc
+[Tue Nov 08 17:35:20 UTC 2022] Alexandru_: la claims
+[Tue Nov 08 17:35:27 UTC 2022] MihiBlu: fa mesajele ca celelalte
+[Tue Nov 08 17:35:29 UTC 2022] MihiBlu: ca sunt gri
+[Tue Nov 08 17:35:31 UTC 2022] MihiBlu: in actionbar
+[Tue Nov 08 17:35:36 UTC 2022] MihiBlu: si mai vezi prin meniu daca e ceva
+[Tue Nov 08 17:35:39 UTC 2022] MihiBlu: ce poti face mai frumos
+[Tue Nov 08 18:04:56 UTC 2022] Alexandru_: hai scriemi pe chat
+[Tue Nov 08 18:04:58 UTC 2022] MihiBlu: hai ca ii dau start
+[Tue Nov 08 18:05:15 UTC 2022] MihiBlu: lux
+[Tue Nov 08 18:05:19 UTC 2022] MihiBlu: mama
+[Tue Nov 08 18:05:24 UTC 2022] MihiBlu: stai
+[Tue Nov 08 18:05:25 UTC 2022] MihiBlu: ca s prost
+[Tue Nov 08 18:05:42 UTC 2022] MihiBlu: nu era jocu full screen
+[Tue Nov 08 18:05:47 UTC 2022] MihiBlu: dai
+[Tue Nov 08 18:06:00 UTC 2022] MihiBlu: asa
+[Tue Nov 08 18:06:01 UTC 2022] MihiBlu: casa
+[Tue Nov 08 18:06:07 UTC 2022] MihiBlu: la claims fac eu acu
+[Tue Nov 08 18:08:08 UTC 2022] Alexandru_: poti sa vii aici daca ai terminat
+[Tue Nov 08 18:09:53 UTC 2022] Alexandru_: fale poza
+[Tue Nov 08 18:11:34 UTC 2022] Alexandru_: pai stam
+[Tue Nov 08 18:11:41 UTC 2022] MihiBlu: stai
+[Tue Nov 08 18:11:51 UTC 2022] MihiBlu: cand dau eu hit, atunci incepem
+[Tue Nov 08 18:13:36 UTC 2022] MihiBlu: stai
+[Tue Nov 08 18:13:42 UTC 2022] Alexandru_: ./da
+[Tue Nov 08 18:13:43 UTC 2022] Alexandru_: ./day. 
+[Tue Nov 08 18:13:45 UTC 2022] Alexandru_: ./da
+[Tue Nov 08 18:13:46 UTC 2022] Alexandru_: ./day. 
+[Tue Nov 08 18:13:56 UTC 2022] MihiBlu: cand iti dau hit incepem
+[Fri Nov 18 21:12:50 EET 2022] MihiBlu: [item]
+[Fri Nov 18 21:12:55 EET 2022] MihiBlu: [item]
+[Fri Nov 18 21:13:00 EET 2022] MihiBlu: [item]
+[Fri Nov 18 21:13:07 EET 2022] MihiBlu: [inventory]
+[Fri Nov 18 23:07:43 EET 2022] MihiBlu: [item]
+[Fri Nov 18 23:07:54 EET 2022] MihiBlu: [item]
+[Fri Nov 18 23:08:08 EET 2022] MihiBlu: [inv[
+[Fri Nov 18 23:08:09 EET 2022] MihiBlu: [inv]
+[Fri Nov 18 23:08:13 EET 2022] MihiBlu: [pos]
+[Fri Nov 18 23:08:18 EET 2022] MihiBlu: [ping]
+[Fri Nov 18 23:08:24 EET 2022] MihiBlu: [gametime]
+[Fri Nov 18 23:10:39 EET 2022] MihiBlu: [item]. 
+[Fri Nov 18 23:10:45 EET 2022] MihiBlu: [ping]. 

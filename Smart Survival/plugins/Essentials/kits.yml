@@ -1,0 +1,100 @@
+# EssentialsX kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - name[:durability] amount [enchantment:level]... [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# To make the kit execute a command, add /<command> to the items list. Use {USERNAME} to specify the player receiving the kit.
+# {PLAYER} will show the player's displayname instead of username.
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  color:
+    delay: 6000
+    items:
+      - writtenbook 1 title:&4Book_&9o_&6Colors author:KHobbits lore:Ingame_color_codes book:Colors
+  Start:
+    delay: -1
+    items:
+      - golden_sword 1 sharpness:1 name:&e{USERNAME}'s_&fsword
+      - iron_pickaxe 1 efficiency:1 name:&e{USERNAME}'s_&fpickaxe
+      - stone_axe 1 efficiency:1 name:&e{USERNAME}'s_&faxe
+      - iron_shovel 1 efficiency:1 name:&e{USERNAME}'s_&fshovel
+      - golden_hoe 1 name:&e{USERNAME}'s_&fhoe
+      - bow 1 name:&e{USERNAME}'s_&fbow
+      - bread 12 name:&e{USERNAME}'s_&ffood
+      - arrow 24 name:&e{USERNAME}'s_&farrows
+      - iron_helmet 1 unbreaking:1 name:&e{USERNAME}'s_&fhelmet
+      - chainmail_chestplate 1 unbreaking:1 name:&e{USERNAME}'s_&fchestplate
+      - chainmail_leggings 1 unbreaking:1 name:&e{USERNAME}'s_&fleggings
+      - golden_boots 1 unbreaking:1 name:&e{USERNAME}'s_&fboots
+  VIP:
+    delay: 259200
+    items:
+      - Golden_sword 1 sharpness:2 unbreaking:2 name:&eVIP_&fsword
+      - Diamond_pickaxe 1 efficiency:1 unbreaking:1 name:&eVIP_&fpickaxe
+      - iron_axe 1 efficiency:2 unbreaking:2 name:&eVIP_&faxe
+      - golden_shovel 1 efficiency:1 unbreaking:2 name:&eVIP_&fshovel
+      - bow 1 power:2 unbreaking:1 flame:1 name:&eVIP_&fbow
+      - shield 1 unbreaking:2 name:&eVIP_&fshield
+      - cooked_mutton 32 name:&eVIP_&ffood
+      - arrow 56 name:&eVIP_&farrows
+      - diamond_helmet 1 protection:1 unbreaking:2 name:&eVIP_&fhelmet
+      - iron_chestplate 1 protection:1 unbreaking:2 name:&eVIP_&fchestplate
+      - golden_leggings 1 protection:1 unbreaking:2 name:&eVIP_&fleggings
+      - diamond_boots 1 protection:1 unbreaking:2 name:&eVIP_&fboots
+  MVP:
+    delay: 259200
+    items:
+      - diamond_sword 1 sharpness:1 unbreaking:1 name:&eMVP_&fsword
+      - diamond_pickaxe 1 efficiency:1 unbreaking:1 name:&eMVP_&fpickaxe
+      - iron_axe 1 efficiency:3 unbreaking:2 name:&eMVP_&faxe
+      - diamond_shovel 1 efficiency:1 unbreaking:1 name:&eMVP_&fshovel
+      - fishing_rod 1 unbreaking:2 name:&eMVP_&ffishing_rod
+      - shears 1 unbreaking:2 name:&eMVP_&fshears
+      - cooked_porkchop 48 name:&eMVP_&ffood
+      - arrow 64 name:&eMVP_&farrows
+      - netherite_helmet 1 protection:1 unbreaking:1 name:&eMVP_&fhelmet
+      - diamond_chestplate 1 protection:2 unbreaking:1 name:&eMVP_&fchestplate
+      - diamond_leggings 1 protection:2 unbreaking:1 name:&eMVP_&fleggings
+      - diamond_boots 1 protection:2 unbreaking:2 feather_falling:2 name:&eMVP_&fboots
+  Legend:
+    delay: 259200
+    items:
+      - netherite_sword 1 sharpness:1 unbreaking:1 name:&eLegend_&fsword
+      - netherite_pickaxe 1 efficiency:1 unbreaking:1 name:&eLegend_&fpickaxe
+      - diamond_axe 1 efficiency:3 unbreaking:1 name:&eLegend_&faxe
+      - diamond_shovel 1 efficiency:3 unbreaking:2 name:&eLegend_&fshovel
+      - netherite_hoe 1 unbreaking:1 name:&eLegend_&fhoe
+      - crossbow 1 quick_charge:1 unbreaking:1 name:&eLegend_&fcrossbow
+      - golden_apple 8 name:&eLegend_&ffood
+      - spectral_arrow 48 name:&eLegend_&farrows
+      - diamond_helmet 1 protection:3 unbreaking:2 name:&eLegend_&fhelmet
+      - netherite_chestplate 1 protection:1 unbreaking:1 name:&eLegend_&fchestplate
+      - diamond_leggings 1 protection:3 unbreaking:2 name:&eLegend_&fleggings
+      - netherite_boots 1 protection:1 unbreaking:1 name:&eLegend_&fboots
+  Worker:
+    delay: 259200
+    items:
+      - netherite_pickaxe 1 efficiency:1 name:&eWorker_&fpickaxe
+      - iron_axe 1 efficiency:1 unbreaking:3 name:&eWorker_&faxe
+      - diamond_shovel 1 efficiency:2 unbreaking:1 name:&eWorker_&fshovel
+      - iron_hoe 1 unbreaking:3 name:&eWorker_&fhoe
+      - fishing_rod 1 luck:1 unbreaking:2 name:&eWorker_&ffishing_rod
+      - shears 1 unbreaking:2 name:&eWorker_&fshears
+      - cooked_chicken 48 name:&eWorker_&ffood
+      - flint_and_steel 1 name:&eWorker_&fflint_and_steel
+  Fighter:
+    delay: 259200
+    items:
+      - diamond_sword 1 sharpness:2 unbreaking:1 fire_aspect:1 looting:1 name:&eFighter_&fsword
+      - bow 1 power:2 unbreaking:2 flame:1 name:&eFighter_&fbow
+      - diamond_helmet 1 protection:2 unbreaking:2 projectile_protection:1 name:&eFighter_&fhelmet
+      - iron_chestplate 1 protection:2 unbreaking:2 projectile_protection:1 name:&eFighter_&fchestplate
+      - diamond_leggings 1 protection:2 unbreaking:2 projectile_protection:1 name:&eFighter_&fleggings
+      - diamond_boots 1 protection:2 unbreaking:2 projectile_protection:1 name:&eFighter_&fboots
+      - shield 1 unbreaking:2 name:&eFighter_&fshield 
+      - spectral_arrow 32 name:&eFighter_&farrows
+    

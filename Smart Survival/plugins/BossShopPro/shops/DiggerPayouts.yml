@@ -1,0 +1,490 @@
+ShopName: DiggerPayouts
+DisplayName: '&8Digger Payouts'
+Command: DiggerPo
+signs:
+  text: '[DiggerPo]'
+  NeedPermissionToCreateSign: true
+shop:
+  Menu:
+    RewardType: shop
+    Reward: Jobs
+    PriceType: nothing
+    MenuItem:
+    - name:&eBack
+    - amount:1
+    - type:glowstone_dust
+    Message: ''
+    InventoryLocation: 50
+    ExtraPermission: ''
+  1:
+    MenuItem:
+    - name:&aGrass Block
+    - amount:1
+    - type:grass_block
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  2:
+    MenuItem:
+    - name:&aGrass Path
+    - amount:1
+    - type:grass_path
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  3:
+    MenuItem:
+    - name:&aDirt
+    - amount:1
+    - type:dirt
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  4:
+    MenuItem:
+    - name:&aFarmland
+    - amount:1
+    - type:farmland
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a-0.5 ⛃'
+    - 'lore5:&f▪ Exp: &7-0.5'
+    - 'lore6:&f▪ Points: &7-0.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  5:
+    MenuItem:
+    - name:&aGravel
+    - amount:1
+    - type:gravel
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.7 ⛃'
+    - 'lore5:&f▪ Exp: &70.7'
+    - 'lore6:&f▪ Points: &70.7'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  6:
+    MenuItem:
+    - name:&aSand
+    - amount:1
+    - type:sand
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  7:
+    MenuItem:
+    - name:&aRed Sand
+    - amount:1
+    - type:red_sand
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  8:
+    MenuItem:
+    - name:&aClay
+    - amount:1
+    - type:clay
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.2⛃'
+    - 'lore5:&f▪ Exp: &71.2'
+    - 'lore6:&f▪ Points: &71.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  9:
+    MenuItem:
+    - name:&aCoarse Dirt
+    - amount:1
+    - type:coarse_dirt
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  10:
+    MenuItem:
+    - name:&aPodzol
+    - amount:1
+    - type:podzol
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  11:
+    MenuItem:
+    - name:&aMycelium
+    - amount:1
+    - type:mycelium
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  12:
+    MenuItem:
+    - name:&aCrimson Nylium
+    - amount:1
+    - type:crimson_nylium
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.2 ⛃'
+    - 'lore5:&f▪ Exp: &71.2'
+    - 'lore6:&f▪ Points: &71.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  13:
+    MenuItem:
+    - name:&aWarped Nylium
+    - amount:1
+    - type:warped_nylium
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  14:
+    MenuItem:
+    - name:&aSoul Sand
+    - amount:1
+    - type:soul_sand
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.7 ⛃'
+    - 'lore5:&f▪ Exp: &70.7'
+    - 'lore6:&f▪ Points: &70.7'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  15:
+    MenuItem:
+    - name:&aSoul Soil
+    - amount:1
+    - type:soul_soil
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  glassgray1:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 1
+  glassgray2:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+  glassgray3:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 3
+  glassgray4:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 4
+  glassgray5:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 5
+  glassgray6:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 6
+  glassgray7:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 7
+  glassgray8:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+  glassgray9:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 9
+  glassgray10:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 10
+  glassgray11:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 18
+  glassgray12:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 19
+  glassgray13:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+  glassgray14:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+  glassgray15:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+  glassgray16:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 37
+  glassgray17:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 45
+  glassgray18:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 46
+  glassgray19:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 47
+  glassgray20:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 48
+  glassgray21:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  glassgray22:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  glassgray23:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  glassgray24:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 52
+  glassgray25:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 53
+  glassgray26:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54
+    
+    

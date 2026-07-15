@@ -1,0 +1,388 @@
+ShopName: FighterPreview
+DisplayName: '&8Fighter Preview'
+signs:
+  text: '[FighterPreview]'
+  NeedPermissionToCreateSign: true
+shop:
+  1:
+    MenuItem:
+    - name:&eFighter &fsword
+    - amount:1
+    - type:diamond_sword
+    - enchantment:fire_aspect#1
+    - enchantment:looting#1
+    - enchantment:sharpness#2
+    - enchantment:unbreaking#1
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  2:
+    MenuItem:
+    - name:&eFighter &fbow
+    - amount:1
+    - type:bow
+    - enchantment:flame#1
+    - enchantment:power#2
+    - enchantment:unbreaking#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  3:
+    MenuItem:
+    - name:&eFighter &fhelmet
+    - amount:1
+    - type:diamond_helmet
+    - enchantment:projectile_protection#1
+    - enchantment:protection#2
+    - enchantment:unbreaking#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  4:
+    MenuItem:
+    - name:&eFighter &fchestplate
+    - amount:1
+    - type:iron_chestplate
+    - enchantment:projectile_protection#1
+    - enchantment:protection#2
+    - enchantment:unbreaking#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  5:
+    MenuItem:
+    - name:&eFighter &fleggings
+    - amount:1
+    - type:diamond_leggings
+    - enchantment:projectile_protection#1
+    - enchantment:protection#2
+    - enchantment:unbreaking#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  6:
+    MenuItem:
+    - name:&eFighter &fboots
+    - amount:1
+    - type:diamond_boots
+    - enchantment:projectile_protection#1
+    - enchantment:protection#2
+    - enchantment:unbreaking#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  7:
+    MenuItem:
+    - name:&eFighter &fshield
+    - amount:1
+    - type:shield
+    - enchantment:unbreaking#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  8:
+    MenuItem:
+    - name:&eFighter &farrows
+    - amount:32
+    - type:spectral_arrow
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  Back:
+    MenuItem:
+    - name:&eBack
+    - amount:1
+    - type:glowstone_dust
+    RewardType: SHOP
+    Reward: Kits
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  glassgray1:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    - 'lore1:&8 ▪ &f'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 1
+  glassgray2:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+  glassgray3:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 3
+  glassgray4:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 4
+  glassgray5:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 5
+  glassgray6:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 6
+  glassgray7:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 7
+  glassgray8:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+  glassgray9:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 9
+  glassgray10:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 10
+  glassgray11:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  glassgray12:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  glassgray13:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 18
+  glassgray14:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 19
+  glassgray15:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  glassgray16:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  glassgray17:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  glassgray18:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  glassgray19:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+  glassgray20:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+  glassgray21:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  glassgray22:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  glassgray23:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  glassgray24:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  glassgray25:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  glassgray26:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  glassgray27:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36

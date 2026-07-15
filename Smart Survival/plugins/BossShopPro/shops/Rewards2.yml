@@ -1,0 +1,1072 @@
+ShopName: Rewards2
+DisplayName: '&8Rewards'
+Command: Rewards2
+signs:
+  text: '[Rewards]'
+  NeedPermissionToCreateSign: true
+shop:
+  one:
+    MenuItem:
+    - name:&aDaily Reward
+    - amount:1
+    - type:tripwire_hook
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Daily Key &7x1'
+    - 'lore5:&eUnlock with command /daily'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 3
+  two:
+    MenuItem:
+    - name:&aEvery 3 Hour Reward
+    - amount:1
+    - type:tripwire_hook
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Balanced Key &7x1'
+    - 'lore5:&eUnlock at every 3 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 6
+  19geted:
+    MenuItem:
+    - name:&aReward 19
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1'
+    - 'lore5:&cAlready received!'
+    - enchantment:LOOTING#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+    Condition:
+    - type:permission
+    - match:reward.take.19
+  20geted:
+    MenuItem:
+    - name:&aReward 20
+    - amount:1
+    - type:netherite_helmet
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Netherite Helmet &7x1'
+    - 'lore4:&f▪ Dungeons Key - Medium &7x1'
+    - 'lore6:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+    Condition:
+    - type:permission
+    - match:reward.take.20
+  21geted:
+    MenuItem:
+    - name:&aReward 21
+    - amount:1
+    - type:ender_chest
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Ender Chest &7x1'
+    - 'lore5:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+    Condition:
+    - type:permission
+    - match:reward.take.21
+  22geted:
+    MenuItem:
+    - name:&aReward 22
+    - amount:1
+    - type:wither_skeleton_skull
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Wither Skeleton Skull &7x1'
+    - 'lore4:&f▪ Potion of Strength II &7x2'
+    - 'lore6:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+    Condition:
+    - type:permission
+    - match:reward.take.22
+  23geted:
+    MenuItem:
+    - name:&aReward 23
+    - amount:5
+    - type:hopper
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Hopper &7x5'
+    - 'lore5:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+    Condition:
+    - type:permission
+    - match:reward.take.23
+  24geted:
+    MenuItem:
+    - name:&aReward 24
+    - amount:1
+    - type:yellow_shulker_box
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Yellow Shulker Box &7x1'
+    - 'lore4:&f▪ Firework Rocket &7x12'
+    - 'lore6:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+    Condition:
+    - type:permission
+    - match:reward.take.24
+  25geted:
+    MenuItem:
+    - name:&aReward 25
+    - amount:1
+    - type:name_tag
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Name Tag &7x1'
+    - 'lore4:&f▪ Diamond Horse Armor &7x1'
+    - 'lore6:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+    Condition:
+    - type:permission
+    - match:reward.take.25
+  26geted:
+    MenuItem:
+    - name:&aReward 26
+    - amount:1
+    - type:player_head
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNlMDE2OTlmNzk2Y2JkZTk1Yzg0OWJlZTNjYzM2OTg3ODQ1MmI0MGE0MTE0NDM2NmQ2NmI0YTA4MjZjZmFhMCJ9fX0=
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Backpack - Tier III &7x1'
+    - 'lore5:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+    Condition:
+    - type:permission
+    - match:reward.take.26
+  27geted:
+    MenuItem:
+    - name:&aReward 27
+    - amount:1
+    - type:honeycomb
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Honeycomb &7x1'
+    - 'lore4:&f▪ Auto Tool System'
+    - 'lore5:&f▪ Worker Kit'
+    - 'lore7:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+    Condition:
+    - type:permission
+    - match:reward.take.27
+  28geted:
+    MenuItem:
+    - name:&aReward 28
+    - amount:1
+    - type:disc_fragment_5
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Disc 15 &7x1'
+    - 'lore4:&f▪ Diversity Key &7x1'
+    - 'lore5:&f▪ Dungeons Key - Medium &7x1'
+    - 'lore7:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+    Condition:
+    - type:permission
+    - match:reward.take.28
+  29geted:
+    MenuItem:
+    - name:&aReward 29
+    - amount:1
+    - type:parrot_spawn_egg
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Parrot Spawn Egg &7x1'
+    - 'lore5:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+    Condition:
+    - type:permission
+    - match:reward.take.29
+  30geted:
+    MenuItem:
+    - name:&aReward 30
+    - amount:12
+    - type:sweet_berries
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sweet Berries &7x12'
+    - 'lore4:&f▪ Epic Key &7x1'
+    - 'lore6:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+    Condition:
+    - type:permission
+    - match:reward.take.30
+  31geted:
+    MenuItem:
+    - name:&aReward 31
+    - amount:12
+    - type:glow_berries
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Glow Berries &7x12'
+    - 'lore4:&f▪ Dungeons Key - Hard &7x1'
+    - 'lore6:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+    Condition:
+    - type:permission
+    - match:reward.take.31
+  32geted:
+    MenuItem:
+    - name:&aReward 32
+    - amount:1
+    - type:book
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Wax Candle &7x3'
+    - 'lore4:&f▪ Flower Pot &7x6'
+    - 'lore5:&f▪ TV &7x1'
+    - 'lore7:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+    Condition:
+    - type:permission
+    - match:reward.take.32
+  33geted:
+    MenuItem:
+    - name:&aReward 33
+    - amount:1
+    - type:spawner
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Rabbit Spawner &7x1'
+    - 'lore5:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+    Condition:
+    - type:permission
+    - match:reward.take.33
+  34geted:
+    MenuItem:
+    - name:&aReward 34
+    - amount:1
+    - type:bell
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Bell &7x1'
+    - 'lore4:&f▪ Inventory Pickup System'
+    - 'lore5:&f▪ Fighter Kit'
+    - 'lore7:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+    Condition:
+    - type:permission
+    - match:reward.take.34
+  35geted:
+    MenuItem:
+    - name:&aReward 35
+    - amount:3
+    - type:light_blue_candle
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Light Blue Candle &7x3'
+    - 'lore4:&f▪ Dungeons Key - Hard &7x2'
+    - 'lore6:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+    Condition:
+    - type:permission
+    - match:reward.take.35
+  36geted:
+    MenuItem:
+    - name:&aReward 35
+    - amount:1
+    - type:large_amethyst_bud
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Large Amethyst Bud &7x1'
+    - 'lore4:&f▪ Epic Key &7x1'
+    - 'lore5:&f▪ Lumberjack System'
+    - 'lore7:&cAlready received!'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+    Condition:
+    - type:permission
+    - match:reward.take.36
+  19get:
+    MenuItem:
+    - name:&aReward 19
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1'
+    - 'lore5:&eClick to receive'
+    - enchantment:LOOTING#2
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.19
+    - give %player% enchanted_book 1 looting:2
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+    Condition:
+    - type:permission
+    - match:reward.ready.19
+  20get:
+    MenuItem:
+    - name:&aReward 20
+    - amount:1
+    - type:netherite_helmet
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Netherite Helmet &7x1'
+    - 'lore4:&f▪ Dungeons Key - Medium &7x1'
+    - 'lore6:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.20
+    - give %player% netherite_helmet 1
+    - dkey %player% medium
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+    Condition:
+    - type:permission
+    - match:reward.ready.20
+  21get:
+    MenuItem:
+    - name:&aReward 21
+    - amount:1
+    - type:ender_chest
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Ender Chest &7x1'
+    - 'lore5:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.21
+    - give %player% ender_chest 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+    Condition:
+    - type:permission
+    - match:reward.ready.21
+  22get:
+    MenuItem:
+    - name:&aReward 22
+    - amount:1
+    - type:wither_skeleton_skull
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Wither Skeleton Skull &7x1'
+    - 'lore4:&f▪ Potion of Strength II &7x2'
+    - 'lore6:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.22
+    - give %player% wither_skeleton_skull 1
+    - give %player% potionofstrength2 2
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+    Condition:
+    - type:permission
+    - match:reward.ready.22
+  23get:
+    MenuItem:
+    - name:&aReward 23
+    - amount:5
+    - type:hopper
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Hopper &7x5'
+    - 'lore5:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.23
+    - give %player% hopper 5
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+    Condition:
+    - type:permission
+    - match:reward.ready.23
+  24get:
+    MenuItem:
+    - name:&aReward 24
+    - amount:1
+    - type:yellow_shulker_box
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Yellow Shulker Box &7x1'
+    - 'lore4:&f▪ Firework Rocket &7x12'
+    - 'lore6:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.24
+    - give %player% yellow_shulker_box 1
+    - give %player% firework_rocket 12
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+    Condition:
+    - type:permission
+    - match:reward.ready.24
+  25get:
+    MenuItem:
+    - name:&aReward 25
+    - amount:1
+    - type:name_tag
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Name Tag &7x1'
+    - 'lore4:&f▪ Diamond Horse Armor &7x1'
+    - 'lore6:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.25
+    - give %player% name_tag 1
+    - give %player% diamond_horse_armor 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+    Condition:
+    - type:permission
+    - match:reward.ready.25
+  26get:
+    MenuItem:
+    - name:&aReward 26
+    - amount:1
+    - type:player_head
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNlMDE2OTlmNzk2Y2JkZTk1Yzg0OWJlZTNjYzM2OTg3ODQ1MmI0MGE0MTE0NDM2NmQ2NmI0YTA4MjZjZmFhMCJ9fX0=
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Backpack - Tier III &7x1'
+    - 'lore5:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.26
+    - betterbackpack give %player% 3
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+    Condition:
+    - type:permission
+    - match:reward.ready.26
+  27get:
+    MenuItem:
+    - name:&aReward 27
+    - amount:1
+    - type:honeycomb
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Honeycomb &7x1'
+    - 'lore4:&f▪ Auto Tool System'
+    - 'lore5:&f▪ Worker Kit'
+    - 'lore7:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.27
+    - give %player% honeycomb 1
+    - lp user %player% permission set autotool.use
+    - lp user %player% permission set essentials.kits.worker
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+    Condition:
+    - type:permission
+    - match:reward.ready.27
+  28get:
+    MenuItem:
+    - name:&aReward 28
+    - amount:1
+    - type:disc_fragment_5
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Disc 15 &7x1'
+    - 'lore4:&f▪ Diversity Key &7x1'
+    - 'lore5:&f▪ Dungeons Key - Medium &7x1'
+    - 'lore7:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.28
+    - give %player% disc15 1
+    - crate key give %player% diversity 1
+    - dkey %player% medium
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+    Condition:
+    - type:permission
+    - match:reward.ready.28
+  29get:
+    MenuItem:
+    - name:&aReward 29
+    - amount:1
+    - type:parrot_spawn_egg
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Parrot Spawn Egg &7x1'
+    - 'lore5:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.29
+    - give %player% parrot_spawn_egg 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+    Condition:
+    - type:permission
+    - match:reward.ready.29
+  30get:
+    MenuItem:
+    - name:&aReward 30
+    - amount:12
+    - type:sweet_berries
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sweet Berries &7x12'
+    - 'lore4:&f▪ Epic Key &7x1'
+    - 'lore6:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.30
+    - give %player% sweet_berries 12
+    - crate key give %player% epic 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+    Condition:
+    - type:permission
+    - match:reward.ready.30
+  31get:
+    MenuItem:
+    - name:&aReward 31
+    - amount:12
+    - type:glow_berries
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Glow Berries &7x12'
+    - 'lore4:&f▪ Dungeons Key - Hard &7x1'
+    - 'lore6:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.31
+    - give %player% glow_berries 12
+    - dkey %player% hard
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+    Condition:
+    - type:permission
+    - match:reward.ready.31
+  32get:
+    MenuItem:
+    - name:&aReward 32
+    - amount:1
+    - type:book
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Wax Candle &7x3'
+    - 'lore4:&f▪ Flower Pot &7x6'
+    - 'lore5:&f▪ TV &7x1'
+    - 'lore7:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.32
+    - furniture give WaxCandle %player% 3
+    - furniture give flowerpot %player% 6
+    - furniture give tv %player% 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+    Condition:
+    - type:permission
+    - match:reward.ready.32
+  33get:
+    MenuItem:
+    - name:&aReward 33
+    - amount:1
+    - type:spawner
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Rabbit Spawner &7x1'
+    - 'lore5:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.33
+    - ms give %player% rabbit 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+    Condition:
+    - type:permission
+    - match:reward.ready.33
+  34get:
+    MenuItem:
+    - name:&aReward 34
+    - amount:1
+    - type:bell
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Bell &7x1'
+    - 'lore4:&f▪ Inventory Pickup System'
+    - 'lore5:&f▪ Fighter Kit'
+    - 'lore7:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.34
+    - give %player% bell 1
+    - lp user %player% permission set essentials.kits.fighter
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+    Condition:
+    - type:permission
+    - match:reward.ready.34
+  35get:
+    MenuItem:
+    - name:&aReward 35
+    - amount:3
+    - type:light_blue_candle
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Light Blue Candle &7x3'
+    - 'lore4:&f▪ Dungeons Key - Hard &7x2'
+    - 'lore6:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.35
+    - give %player% light_blue_candle 3
+    - dkey %player% hard
+    - dkey %player% hard
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+    Condition:
+    - type:permission
+    - match:reward.ready.35
+  36get:
+    MenuItem:
+    - name:&aReward 35
+    - amount:1
+    - type:large_amethyst_bud
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Large Amethyst Bud &7x1'
+    - 'lore4:&f▪ Epic Key &7x1'
+    - 'lore5:&f▪ Lumberjack System'
+    - 'lore7:&eClick to receive'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set reward.take.36
+    - give %player% large_amethyst_bud 1
+    - crate key give %player% epic 1
+    - lp user %player% permission set lumberjack.use
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+    Condition:
+    - type:permission
+    - match:reward.ready.36
+  19:
+    MenuItem:
+    - name:&aReward 19
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1'
+    - 'lore5:&eUnlock at 4 hours played'
+    - enchantment:LOOTING#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  20:
+    MenuItem:
+    - name:&aReward 20
+    - amount:1
+    - type:netherite_helmet
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Netherite Helmet &7x1'
+    - 'lore4:&f▪ Dungeons Key - Medium &7x1'
+    - 'lore6:&eUnlock at 5 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  21:
+    MenuItem:
+    - name:&aReward 21
+    - amount:1
+    - type:ender_chest
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Ender Chest &7x1'
+    - 'lore5:&eUnlock at 6 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  22:
+    MenuItem:
+    - name:&aReward 22
+    - amount:1
+    - type:wither_skeleton_skull
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Wither Skeleton Skull &7x1'
+    - 'lore4:&f▪ Potion of Strength II &7x2'
+    - 'lore6:&eUnlock at 7 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  23:
+    MenuItem:
+    - name:&aReward 23
+    - amount:5
+    - type:hopper
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Hopper &7x5'
+    - 'lore5:&eUnlock at 8 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  24:
+    MenuItem:
+    - name:&aReward 24
+    - amount:1
+    - type:yellow_shulker_box
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Yellow Shulker Box &7x1'
+    - 'lore4:&f▪ Firework Rocket &7x12'
+    - 'lore6:&eUnlock at 9 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  25:
+    MenuItem:
+    - name:&aReward 25
+    - amount:1
+    - type:name_tag
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Name Tag &7x1'
+    - 'lore4:&f▪ Diamond Horse Armor &7x1'
+    - 'lore6:&eUnlock at 10 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  26:
+    MenuItem:
+    - name:&aReward 26
+    - amount:1
+    - type:player_head
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNlMDE2OTlmNzk2Y2JkZTk1Yzg0OWJlZTNjYzM2OTg3ODQ1MmI0MGE0MTE0NDM2NmQ2NmI0YTA4MjZjZmFhMCJ9fX0=
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Backpack - Tier III &7x1'
+    - 'lore5:&eUnlock at 12 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  27:
+    MenuItem:
+    - name:&aReward 27
+    - amount:1
+    - type:honeycomb
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Honeycomb &7x1'
+    - 'lore4:&f▪ Auto Tool System'
+    - 'lore5:&f▪ Worker Kit'
+    - 'lore7:&eUnlock at 15 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  28:
+    MenuItem:
+    - name:&aReward 28
+    - amount:1
+    - type:disc_fragment_5
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Disc 15 &7x1'
+    - 'lore4:&f▪ Diversity Key &7x1'
+    - 'lore5:&f▪ Dungeons Key - Medium &7x1'
+    - 'lore7:&eUnlock at 18 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  29:
+    MenuItem:
+    - name:&aReward 29
+    - amount:1
+    - type:parrot_spawn_egg
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Parrot Spawn Egg &7x1'
+    - 'lore5:&eUnlock at 21 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  30:
+    MenuItem:
+    - name:&aReward 30
+    - amount:12
+    - type:sweet_berries
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sweet Berries &7x12'
+    - 'lore4:&f▪ Epic Key &7x1'
+    - 'lore6:&eUnlock at 24 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  31:
+    MenuItem:
+    - name:&aReward 31
+    - amount:12
+    - type:glow_berries
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Glow Berries &7x12'
+    - 'lore4:&f▪ Dungeons Key - Hard &7x1'
+    - 'lore6:&eUnlock at 28 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  32:
+    MenuItem:
+    - name:&aReward 32
+    - amount:1
+    - type:book
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Wax Candle &7x3'
+    - 'lore4:&f▪ Flower Pot &7x6'
+    - 'lore5:&f▪ TV &7x1'
+    - 'lore7:&eUnlock at 32 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  33:
+    MenuItem:
+    - name:&aReward 33
+    - amount:1
+    - type:spawner
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Rabbit Spawner &7x1'
+    - 'lore5:&eUnlock at 36 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  34:
+    MenuItem:
+    - name:&aReward 34
+    - amount:1
+    - type:bell
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Bell &7x1'
+    - 'lore4:&f▪ Inventory Pickup System'
+    - 'lore5:&f▪ Fighter Kit'
+    - 'lore7:&eUnlock at 40 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  35:
+    MenuItem:
+    - name:&aReward 35
+    - amount:3
+    - type:light_blue_candle
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Light Blue Candle &7x3'
+    - 'lore4:&f▪ Dungeons Key - Hard &7x2'
+    - 'lore6:&eUnlock at 44 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+  36:
+    MenuItem:
+    - name:&aReward 35
+    - amount:1
+    - type:large_amethyst_bud
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Large Amethyst Bud &7x1'
+    - 'lore4:&f▪ Epic Key &7x1'
+    - 'lore5:&f▪ Lumberjack System'
+    - 'lore7:&eUnlock at 48 hours played'
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  Previous:
+    RewardType: shop
+    Reward: rewards
+    PriceType: nothing
+    MenuItem:
+    - name:&cPrevious Page
+    - amount:1
+    - type:arrow
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 37
+  glassgray1:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:ORANGE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 5
+  glassgray2:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 1
+  glassgray3:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 10
+  glassgray4:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+  glassgray5:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 9
+  glassgray6:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+  glassgray7:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 45
+  glassgray8:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  glassgray9:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38

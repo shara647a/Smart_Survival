@@ -1,0 +1,171 @@
+ShopName: HatsShop
+DisplayName: '&f⻔⻔⻔⻔⻔⻔⻔⻔'
+Command: HatsShop
+signs:
+  text: '[Hats]'
+  NeedPermissionToCreateSign: true
+shop:
+  1:
+    MenuItem:
+    - 'lore1: &f  ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - name:&aHat 1
+    - amount:1
+    - type:feather
+    - custommodeldata:6
+    RewardType: COMMAND
+    Reward:
+    - give %player% feather 1 {CustomModelData:6,display:{Name:'[{"text":"&8▪ &fHat","italic":false}]'}}
+    PriceType: MONEY
+    Price: 1750
+    Message: '&f &fYou bought a &eHat &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 11
+  2:
+    MenuItem:
+    - 'lore1: &f  ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - name:&aHat 2
+    - amount:1
+    - type:feather
+    - custommodeldata:7
+    RewardType: COMMAND
+    Reward:
+    - give %player% feather 1 {CustomModelData:7,display:{Name:'[{"text":"&8▪ &fHat 2","italic":false}]'}}
+    PriceType: MONEY
+    Price: 2100
+    Message: '&f &fYou bought a &eHat &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 12
+  3:
+    MenuItem:
+    - 'lore1: &f  ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - name:&aWitch Hat
+    - amount:1
+    - type:feather
+    - custommodeldata:2
+    RewardType: COMMAND
+    Reward:
+    - give %player% feather 1 {CustomModelData:2,display:{Name:'[{"text":"&8▪ &fWitch Hat","italic":false}]'}}
+    PriceType: MONEY
+    Price: 3300
+    Message: '&f &fYou bought a &eWitch Hat &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 13
+  4:
+    MenuItem:
+    - 'lore1: &f  ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - name:&aTiki Hat
+    - amount:1
+    - type:feather
+    - custommodeldata:1
+    RewardType: COMMAND
+    Reward:
+    - give %player% feather 1 {CustomModelData:1,display:{Name:'[{"text":"&8▪ &fTiki Hat","italic":false}]'}}
+    PriceType: MONEY
+    Price: 4000
+    Message: '&f &fYou bought a &eTiki Hat &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 14
+  5:
+    MenuItem:
+    - 'lore1: &f  ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - name:&aViking Horns Hat
+    - amount:1
+    - type:feather
+    - custommodeldata:5
+    RewardType: COMMAND
+    Reward:
+    - give %player% feather 1 {CustomModelData:5,display:{Name:'[{"text":"&8▪ &fViking Horns Hat","italic":false}]'}}
+    PriceType: MONEY
+    Price: 5500
+    Message: '&f &fYou bought a &eViking Horns Hat &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 15
+  6:
+    MenuItem:
+    - 'lore1: &f  ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - name:&aViking Hat
+    - amount:1
+    - type:feather
+    - custommodeldata:3
+    RewardType: COMMAND
+    Reward:
+    - give %player% feather 1 {CustomModelData:3,display:{Name:'[{"text":"&8▪ &fViking Hat","italic":false}]'}}
+    PriceType: MONEY
+    Price: 6250
+    Message: '&f &fYou bought a &eViking Hat &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 16
+  7:
+    MenuItem:
+    - 'lore1: &f  ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - name:&aViking Helmet
+    - amount:1
+    - type:feather
+    - custommodeldata:4
+    RewardType: COMMAND
+    Reward:
+    - give %player% feather 1 {CustomModelData:4,display:{Name:'[{"text":"&8▪ &fViking Helmet","italic":false}]'}}
+    PriceType: MONEY
+    Price: 7000
+    Message: '&f &fYou bought a &eViking Helmet &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 17
+  HAT_BLOCK:
+    MenuItem:
+    - name:&aHat Command
+    - amount:1
+    - type:book
+    - 'lore1:&7To wear these hats you need #&f/hat &7command.'
+    - 'lore3:&dAlready purchased!'
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+    Condition:
+    - type:permission
+    - match:essentials.hat
+  HAT:
+    MenuItem:
+    - name:&aHat Command
+    - amount:1
+    - type:book
+    - 'lore1:&7To wear these hats you need #&f/hat &7command.'
+    - 'lore3:&eClick to purchase for 3500$'
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set essentials.hat
+    PriceType: MONEY
+    Price: 3500
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+####################################################################################################################
+  Back:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  Back2:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  Back3:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51

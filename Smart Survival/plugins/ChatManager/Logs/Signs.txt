@@ -1,0 +1,512 @@
+[Sun Sep 18 16:05:57 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 0 | Shop
+[Sun Sep 18 16:05:57 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 1 | 
+[Sun Sep 18 16:05:57 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 2 | 
+[Sun Sep 18 16:05:57 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 3 | 
+[Sun Sep 18 16:06:04 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -5 | Line: 0 | Jobs
+[Sun Sep 18 16:06:04 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -5 | Line: 1 | +
+[Sun Sep 18 16:06:04 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -5 | Line: 2 | Autotool
+[Sun Sep 18 16:06:04 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -5 | Line: 3 | 
+[Sun Sep 18 16:06:55 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -5 | Line: 0 | Jobs
+[Sun Sep 18 16:06:55 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -5 | Line: 1 | +
+[Sun Sep 18 16:06:55 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -5 | Line: 2 | Autotool
+[Sun Sep 18 16:06:55 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -5 | Line: 3 | 
+[Sun Sep 18 16:15:53 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 0 | Shop
+[Sun Sep 18 16:15:53 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 1 | 
+[Sun Sep 18 16:15:53 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 2 | 
+[Sun Sep 18 16:15:53 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 3 | 
+[Sun Sep 18 16:28:18 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 0 | Shop
+[Sun Sep 18 16:28:18 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 1 | 
+[Sun Sep 18 16:28:18 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 2 | 
+[Sun Sep 18 16:28:18 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 3 | 
+[Sun Sep 18 17:28:56 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:28:56 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -6 | Line: 1 | 
+[Sun Sep 18 17:28:56 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:28:56 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:28:57 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:28:57 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 1 | 
+[Sun Sep 18 17:28:57 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:28:57 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:28:58 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:28:58 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -6 | Line: 1 | 
+[Sun Sep 18 17:28:58 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:28:58 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:28:58 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:28:58 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -6 | Line: 1 | 
+[Sun Sep 18 17:28:58 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:28:58 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:29:00 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:29:00 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -6 | Line: 1 | 
+[Sun Sep 18 17:29:00 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:29:00 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:29:00 EEST 2022] MihiBlu | Location: X: -65 Y: 64 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:29:00 EEST 2022] MihiBlu | Location: X: -65 Y: 64 Z: -6 | Line: 1 | 
+[Sun Sep 18 17:29:00 EEST 2022] MihiBlu | Location: X: -65 Y: 64 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:29:00 EEST 2022] MihiBlu | Location: X: -65 Y: 64 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:29:01 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:29:01 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 1 | 
+[Sun Sep 18 17:29:01 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:29:01 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:29:05 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:29:05 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 1 | 
+[Sun Sep 18 17:29:05 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:29:05 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:29:06 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:29:06 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 1 | 
+[Sun Sep 18 17:29:06 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:29:06 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:29:07 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:29:07 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -4 | Line: 1 | 
+[Sun Sep 18 17:29:07 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:29:07 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:29:08 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:29:08 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 1 | 
+[Sun Sep 18 17:29:08 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:29:08 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:29:08 EEST 2022] MihiBlu | Location: X: -71 Y: 64 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:29:08 EEST 2022] MihiBlu | Location: X: -71 Y: 64 Z: -4 | Line: 1 | 
+[Sun Sep 18 17:29:08 EEST 2022] MihiBlu | Location: X: -71 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:29:08 EEST 2022] MihiBlu | Location: X: -71 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:29:57 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:29:57 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 1 | Primary Blocks
+[Sun Sep 18 17:29:57 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:29:57 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:30:27 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:30:27 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 1 | 
+[Sun Sep 18 17:30:27 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:30:27 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:30:47 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:30:47 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 1 | Wood
+[Sun Sep 18 17:30:47 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:30:47 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:30:54 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:30:54 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 1 | Ores
+[Sun Sep 18 17:30:54 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:30:54 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:31:06 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:31:06 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 1 | Peculair Blocks
+[Sun Sep 18 17:31:06 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:31:06 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:31:13 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:31:13 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -4 | Line: 1 | Fancy Blocks
+[Sun Sep 18 17:31:13 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:31:13 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:32:01 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:32:01 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 1 | Useful Blocks
+[Sun Sep 18 17:32:01 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:32:01 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:32:11 EEST 2022] MihiBlu | Location: X: -71 Y: 64 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:32:11 EEST 2022] MihiBlu | Location: X: -71 Y: 64 Z: -4 | Line: 1 | Garden
+[Sun Sep 18 17:32:11 EEST 2022] MihiBlu | Location: X: -71 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:32:11 EEST 2022] MihiBlu | Location: X: -71 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:32:20 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:32:20 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -6 | Line: 1 | Ores
+[Sun Sep 18 17:32:20 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:32:20 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:32:25 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:32:25 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 1 | Food
+[Sun Sep 18 17:32:25 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:32:25 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:32:53 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:32:53 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 1 | Food
+[Sun Sep 18 17:32:53 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:32:53 EEST 2022] MihiBlu | Location: X: -69 Y: 64 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:33:40 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 0 | 
+[Sun Sep 18 17:33:40 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 1 | Primary Blocks
+[Sun Sep 18 17:33:40 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 2 | 
+[Sun Sep 18 17:33:40 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 3 | 
+[Sun Sep 18 17:33:45 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 0 | 
+[Sun Sep 18 17:33:45 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 1 | Primary Blocks
+[Sun Sep 18 17:33:45 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 2 | 
+[Sun Sep 18 17:33:45 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 3 | 
+[Sun Sep 18 17:33:53 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:33:53 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 1 | Primary Blocks
+[Sun Sep 18 17:33:53 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:33:53 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:34:02 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:34:02 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 1 | wood
+[Sun Sep 18 17:34:02 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:34:02 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:34:07 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:34:07 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 1 | Garden
+[Sun Sep 18 17:34:07 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:34:07 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:34:16 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:34:16 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 1 | Fancy Blocks
+[Sun Sep 18 17:34:16 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:34:16 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:34:27 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:34:27 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 1 | wood Blocks
+[Sun Sep 18 17:34:27 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:34:27 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:34:32 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 0 |  
+[Sun Sep 18 17:34:32 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 1 | Garden Blocks
+[Sun Sep 18 17:34:32 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:34:32 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:34:46 EEST 2022] MihiBlu | Location: X: -73 Y: 65 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:34:46 EEST 2022] MihiBlu | Location: X: -73 Y: 65 Z: -4 | Line: 1 | Useful Blocks
+[Sun Sep 18 17:34:46 EEST 2022] MihiBlu | Location: X: -73 Y: 65 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:34:46 EEST 2022] MihiBlu | Location: X: -73 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:34:51 EEST 2022] MihiBlu | Location: X: -73 Y: 64 Z: -4 | Line: 0 | 
+[Sun Sep 18 17:34:51 EEST 2022] MihiBlu | Location: X: -73 Y: 64 Z: -4 | Line: 1 | Redstone
+[Sun Sep 18 17:34:51 EEST 2022] MihiBlu | Location: X: -73 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 18 17:34:51 EEST 2022] MihiBlu | Location: X: -73 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 18 17:35:05 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:35:05 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -6 | Line: 1 | Farms
+[Sun Sep 18 17:35:05 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:35:05 EEST 2022] MihiBlu | Location: X: -67 Y: 65 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:35:21 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:35:21 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -6 | Line: 1 | Mob Drops
+[Sun Sep 18 17:35:21 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:35:21 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -6 | Line: 3 | 
+[Sun Sep 18 17:35:36 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -7 | Line: 0 | 
+[Sun Sep 18 17:35:36 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -7 | Line: 1 | Miscellaunes
+[Sun Sep 18 17:35:36 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -7 | Line: 2 | 
+[Sun Sep 18 17:35:36 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -7 | Line: 3 | 
+[Sun Sep 18 17:52:57 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 0 | 
+[Sun Sep 18 17:52:57 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 1 | For othes
+[Sun Sep 18 17:52:57 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 2 | 
+[Sun Sep 18 17:52:57 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 3 | 
+[Wed Sep 21 18:37:46 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 0 | 
+[Wed Sep 21 18:37:46 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 1 | Primary Blocks
+[Wed Sep 21 18:37:46 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 2 | 
+[Wed Sep 21 18:37:46 EEST 2022] MihiBlu | Location: X: -65 Y: 65 Z: -5 | Line: 3 | 
+[Wed Sep 21 18:38:10 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 0 | Shop
+[Wed Sep 21 18:38:10 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 1 | 
+[Wed Sep 21 18:38:10 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 2 | 
+[Wed Sep 21 18:38:10 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 3 | 
+[Wed Sep 21 18:41:42 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 0 | 
+[Wed Sep 21 18:41:42 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 1 | Peculair Blocks
+[Wed Sep 21 18:41:42 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 2 | 
+[Wed Sep 21 18:41:42 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 3 | 
+[Wed Sep 21 18:44:32 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 0 | Shop
+[Wed Sep 21 18:44:32 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 1 | 
+[Wed Sep 21 18:44:32 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 2 | 
+[Wed Sep 21 18:44:32 EEST 2022] MihiBlu | Location: X: -74 Y: 64 Z: -3 | Line: 3 | 
+[Wed Sep 21 19:40:19 EEST 2022] MihiBlu | Location: X: -67 Y: 66 Z: -4 | Line: 0 | 
+[Wed Sep 21 19:40:19 EEST 2022] MihiBlu | Location: X: -67 Y: 66 Z: -4 | Line: 1 | Wood Block
+[Wed Sep 21 19:40:19 EEST 2022] MihiBlu | Location: X: -67 Y: 66 Z: -4 | Line: 2 | 
+[Wed Sep 21 19:40:19 EEST 2022] MihiBlu | Location: X: -67 Y: 66 Z: -4 | Line: 3 | 
+[Wed Sep 21 19:40:30 EEST 2022] MihiBlu | Location: X: -65 Y: 64 Z: -5 | Line: 0 | 
+[Wed Sep 21 19:40:30 EEST 2022] MihiBlu | Location: X: -65 Y: 64 Z: -5 | Line: 1 | Primary blocks
+[Wed Sep 21 19:40:30 EEST 2022] MihiBlu | Location: X: -65 Y: 64 Z: -5 | Line: 2 | 
+[Wed Sep 21 19:40:30 EEST 2022] MihiBlu | Location: X: -65 Y: 64 Z: -5 | Line: 3 | 
+[Wed Sep 21 19:59:25 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 0 | 
+[Wed Sep 21 19:59:25 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 1 | Peculair Blocks
+[Wed Sep 21 19:59:25 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 2 | 
+[Wed Sep 21 19:59:25 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 3 | 
+[Wed Sep 21 19:59:41 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 0 | 
+[Wed Sep 21 19:59:41 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 1 | Peculair Blocks
+[Wed Sep 21 19:59:41 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 2 | 
+[Wed Sep 21 19:59:41 EEST 2022] MihiBlu | Location: X: -69 Y: 65 Z: -4 | Line: 3 | 
+[Wed Sep 21 20:01:20 EEST 2022] MihiBlu | Location: X: -67 Y: 66 Z: -4 | Line: 0 | 
+[Wed Sep 21 20:01:20 EEST 2022] MihiBlu | Location: X: -67 Y: 66 Z: -4 | Line: 1 | Wood Block
+[Wed Sep 21 20:01:20 EEST 2022] MihiBlu | Location: X: -67 Y: 66 Z: -4 | Line: 2 | 
+[Wed Sep 21 20:01:20 EEST 2022] MihiBlu | Location: X: -67 Y: 66 Z: -4 | Line: 3 | 
+[Sat Sep 24 21:05:58 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 0 | 
+[Sat Sep 24 21:05:58 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 1 | Fancy Blocks
+[Sat Sep 24 21:05:58 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 2 | 
+[Sat Sep 24 21:05:58 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 3 | 
+[Sat Sep 24 22:33:35 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 0 | 
+[Sat Sep 24 22:33:35 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 1 | Fancy Blocks
+[Sat Sep 24 22:33:35 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 2 | 
+[Sat Sep 24 22:33:35 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -4 | Line: 3 | 
+[Sun Sep 25 17:10:48 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 0 |  
+[Sun Sep 25 17:10:48 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 1 | Garden Blocks
+[Sun Sep 25 17:10:48 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 2 | 
+[Sun Sep 25 17:10:48 EEST 2022] MihiBlu | Location: X: -67 Y: 64 Z: -4 | Line: 3 | 
+[Sun Sep 25 19:39:57 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 0 | 
+[Sun Sep 25 19:39:57 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 1 | For othes
+[Sun Sep 25 19:39:57 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 2 | 
+[Sun Sep 25 19:39:57 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 3 | 
+[Sun Sep 25 19:59:50 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 0 | 
+[Sun Sep 25 19:59:50 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 1 | For othes
+[Sun Sep 25 19:59:50 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 2 | 
+[Sun Sep 25 19:59:50 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 3 | 
+[Sun Sep 25 21:07:46 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 0 | 
+[Sun Sep 25 21:07:46 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 1 | For othes
+[Sun Sep 25 21:07:46 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 2 | 
+[Sun Sep 25 21:07:46 EEST 2022] MihiBlu | Location: X: -71 Y: 65 Z: -6 | Line: 3 | 
+[Mon Oct 17 15:19:22 UTC 2022] 5hax | Location: X: -17 Y: 68 Z: -58 | Line: 0 | 
+[Mon Oct 17 15:19:22 UTC 2022] 5hax | Location: X: -17 Y: 68 Z: -58 | Line: 1 | 
+[Mon Oct 17 15:19:22 UTC 2022] 5hax | Location: X: -17 Y: 68 Z: -58 | Line: 2 | 
+[Mon Oct 17 15:19:22 UTC 2022] 5hax | Location: X: -17 Y: 68 Z: -58 | Line: 3 | 
+[Mon Oct 17 15:19:23 UTC 2022] 5hax | Location: X: -18 Y: 68 Z: -58 | Line: 0 | 
+[Mon Oct 17 15:19:23 UTC 2022] 5hax | Location: X: -18 Y: 68 Z: -58 | Line: 1 | 
+[Mon Oct 17 15:19:23 UTC 2022] 5hax | Location: X: -18 Y: 68 Z: -58 | Line: 2 | 
+[Mon Oct 17 15:19:23 UTC 2022] 5hax | Location: X: -18 Y: 68 Z: -58 | Line: 3 | 
+[Mon Oct 17 15:19:25 UTC 2022] 5hax | Location: X: -16 Y: 68 Z: -58 | Line: 0 | 
+[Mon Oct 17 15:19:25 UTC 2022] 5hax | Location: X: -16 Y: 68 Z: -58 | Line: 1 | 
+[Mon Oct 17 15:19:25 UTC 2022] 5hax | Location: X: -16 Y: 68 Z: -58 | Line: 2 | 
+[Mon Oct 17 15:19:25 UTC 2022] 5hax | Location: X: -16 Y: 68 Z: -58 | Line: 3 | 
+[Mon Oct 17 15:29:06 UTC 2022] 5hax | Location: X: -21 Y: 68 Z: -57 | Line: 0 | 
+[Mon Oct 17 15:29:06 UTC 2022] 5hax | Location: X: -21 Y: 68 Z: -57 | Line: 1 | 
+[Mon Oct 17 15:29:06 UTC 2022] 5hax | Location: X: -21 Y: 68 Z: -57 | Line: 2 | 
+[Mon Oct 17 15:29:06 UTC 2022] 5hax | Location: X: -21 Y: 68 Z: -57 | Line: 3 | 
+[Mon Oct 17 15:29:07 UTC 2022] 5hax | Location: X: -23 Y: 68 Z: -57 | Line: 0 | 
+[Mon Oct 17 15:29:07 UTC 2022] 5hax | Location: X: -23 Y: 68 Z: -57 | Line: 1 | 
+[Mon Oct 17 15:29:07 UTC 2022] 5hax | Location: X: -23 Y: 68 Z: -57 | Line: 2 | 
+[Mon Oct 17 15:29:07 UTC 2022] 5hax | Location: X: -23 Y: 68 Z: -57 | Line: 3 | 
+[Tue Oct 18 18:38:39 UTC 2022] 5hax | Location: X: -41 Y: 68 Z: -90 | Line: 0 | 
+[Tue Oct 18 18:38:39 UTC 2022] 5hax | Location: X: -41 Y: 68 Z: -90 | Line: 1 | 
+[Tue Oct 18 18:38:39 UTC 2022] 5hax | Location: X: -41 Y: 68 Z: -90 | Line: 2 | 
+[Tue Oct 18 18:38:39 UTC 2022] 5hax | Location: X: -41 Y: 68 Z: -90 | Line: 3 | 
+[Tue Oct 18 18:38:41 UTC 2022] 5hax | Location: X: -39 Y: 68 Z: -90 | Line: 0 | 
+[Tue Oct 18 18:38:41 UTC 2022] 5hax | Location: X: -39 Y: 68 Z: -90 | Line: 1 | 
+[Tue Oct 18 18:38:41 UTC 2022] 5hax | Location: X: -39 Y: 68 Z: -90 | Line: 2 | 
+[Tue Oct 18 18:38:41 UTC 2022] 5hax | Location: X: -39 Y: 68 Z: -90 | Line: 3 | 
+[Tue Oct 18 18:54:22 UTC 2022] 5hax | Location: X: -46 Y: 68 Z: -93 | Line: 0 | 
+[Tue Oct 18 18:54:22 UTC 2022] 5hax | Location: X: -46 Y: 68 Z: -93 | Line: 1 | 
+[Tue Oct 18 18:54:22 UTC 2022] 5hax | Location: X: -46 Y: 68 Z: -93 | Line: 2 | 
+[Tue Oct 18 18:54:22 UTC 2022] 5hax | Location: X: -46 Y: 68 Z: -93 | Line: 3 | 
+[Tue Oct 18 18:54:45 UTC 2022] 5hax | Location: X: -45 Y: 68 Z: -92 | Line: 0 | 
+[Tue Oct 18 18:54:45 UTC 2022] 5hax | Location: X: -45 Y: 68 Z: -92 | Line: 1 | 
+[Tue Oct 18 18:54:45 UTC 2022] 5hax | Location: X: -45 Y: 68 Z: -92 | Line: 2 | 
+[Tue Oct 18 18:54:45 UTC 2022] 5hax | Location: X: -45 Y: 68 Z: -92 | Line: 3 | 
+[Tue Oct 18 18:54:56 UTC 2022] 5hax | Location: X: -45 Y: 68 Z: -92 | Line: 0 | 
+[Tue Oct 18 18:54:56 UTC 2022] 5hax | Location: X: -45 Y: 68 Z: -92 | Line: 1 | 
+[Tue Oct 18 18:54:56 UTC 2022] 5hax | Location: X: -45 Y: 68 Z: -92 | Line: 2 | 
+[Tue Oct 18 18:54:56 UTC 2022] 5hax | Location: X: -45 Y: 68 Z: -92 | Line: 3 | 
+[Tue Oct 18 19:19:06 UTC 2022] 5hax | Location: X: -47 Y: 68 Z: -86 | Line: 0 | 
+[Tue Oct 18 19:19:06 UTC 2022] 5hax | Location: X: -47 Y: 68 Z: -86 | Line: 1 | 
+[Tue Oct 18 19:19:06 UTC 2022] 5hax | Location: X: -47 Y: 68 Z: -86 | Line: 2 | 
+[Tue Oct 18 19:19:06 UTC 2022] 5hax | Location: X: -47 Y: 68 Z: -86 | Line: 3 | 
+[Tue Oct 18 19:19:09 UTC 2022] 5hax | Location: X: -47 Y: 68 Z: -84 | Line: 0 | 
+[Tue Oct 18 19:19:09 UTC 2022] 5hax | Location: X: -47 Y: 68 Z: -84 | Line: 1 | 
+[Tue Oct 18 19:19:09 UTC 2022] 5hax | Location: X: -47 Y: 68 Z: -84 | Line: 2 | 
+[Tue Oct 18 19:19:09 UTC 2022] 5hax | Location: X: -47 Y: 68 Z: -84 | Line: 3 | 
+[Tue Oct 18 19:19:45 UTC 2022] 5hax | Location: X: -48 Y: 68 Z: -89 | Line: 0 | 
+[Tue Oct 18 19:19:45 UTC 2022] 5hax | Location: X: -48 Y: 68 Z: -89 | Line: 1 | 
+[Tue Oct 18 19:19:45 UTC 2022] 5hax | Location: X: -48 Y: 68 Z: -89 | Line: 2 | 
+[Tue Oct 18 19:19:45 UTC 2022] 5hax | Location: X: -48 Y: 68 Z: -89 | Line: 3 | 
+[Wed Oct 26 03:23:30 UTC 2022] Alexandru_ | Location: X: -90 Y: 67 Z: -32 | Line: 0 | 
+[Wed Oct 26 03:23:30 UTC 2022] Alexandru_ | Location: X: -90 Y: 67 Z: -32 | Line: 1 | 
+[Wed Oct 26 03:23:30 UTC 2022] Alexandru_ | Location: X: -90 Y: 67 Z: -32 | Line: 2 | 
+[Wed Oct 26 03:23:30 UTC 2022] Alexandru_ | Location: X: -90 Y: 67 Z: -32 | Line: 3 | 
+[Wed Oct 26 03:23:31 UTC 2022] Alexandru_ | Location: X: -92 Y: 67 Z: -35 | Line: 0 | 
+[Wed Oct 26 03:23:31 UTC 2022] Alexandru_ | Location: X: -92 Y: 67 Z: -35 | Line: 1 | 
+[Wed Oct 26 03:23:31 UTC 2022] Alexandru_ | Location: X: -92 Y: 67 Z: -35 | Line: 2 | 
+[Wed Oct 26 03:23:31 UTC 2022] Alexandru_ | Location: X: -92 Y: 67 Z: -35 | Line: 3 | 
+[Wed Oct 26 03:23:33 UTC 2022] Alexandru_ | Location: X: -92 Y: 67 Z: -38 | Line: 0 | 
+[Wed Oct 26 03:23:33 UTC 2022] Alexandru_ | Location: X: -92 Y: 67 Z: -38 | Line: 1 | 
+[Wed Oct 26 03:23:33 UTC 2022] Alexandru_ | Location: X: -92 Y: 67 Z: -38 | Line: 2 | 
+[Wed Oct 26 03:23:33 UTC 2022] Alexandru_ | Location: X: -92 Y: 67 Z: -38 | Line: 3 | 
+[Wed Oct 26 03:23:35 UTC 2022] Alexandru_ | Location: X: -90 Y: 67 Z: -41 | Line: 0 | 
+[Wed Oct 26 03:23:35 UTC 2022] Alexandru_ | Location: X: -90 Y: 67 Z: -41 | Line: 1 | 
+[Wed Oct 26 03:23:35 UTC 2022] Alexandru_ | Location: X: -90 Y: 67 Z: -41 | Line: 2 | 
+[Wed Oct 26 03:23:35 UTC 2022] Alexandru_ | Location: X: -90 Y: 67 Z: -41 | Line: 3 | 
+[Wed Oct 26 03:23:38 UTC 2022] Alexandru_ | Location: X: -85 Y: 67 Z: -39 | Line: 0 | 
+[Wed Oct 26 03:23:38 UTC 2022] Alexandru_ | Location: X: -85 Y: 67 Z: -39 | Line: 1 | 
+[Wed Oct 26 03:23:38 UTC 2022] Alexandru_ | Location: X: -85 Y: 67 Z: -39 | Line: 2 | 
+[Wed Oct 26 03:23:38 UTC 2022] Alexandru_ | Location: X: -85 Y: 67 Z: -39 | Line: 3 | 
+[Wed Oct 26 03:23:46 UTC 2022] Alexandru_ | Location: X: -85 Y: 67 Z: -36 | Line: 0 | 
+[Wed Oct 26 03:23:46 UTC 2022] Alexandru_ | Location: X: -85 Y: 67 Z: -36 | Line: 1 | 
+[Wed Oct 26 03:23:46 UTC 2022] Alexandru_ | Location: X: -85 Y: 67 Z: -36 | Line: 2 | 
+[Wed Oct 26 03:23:46 UTC 2022] Alexandru_ | Location: X: -85 Y: 67 Z: -36 | Line: 3 | 
+[Wed Oct 26 03:23:48 UTC 2022] Alexandru_ | Location: X: -87 Y: 67 Z: -33 | Line: 0 | 
+[Wed Oct 26 03:23:48 UTC 2022] Alexandru_ | Location: X: -87 Y: 67 Z: -33 | Line: 1 | 
+[Wed Oct 26 03:23:48 UTC 2022] Alexandru_ | Location: X: -87 Y: 67 Z: -33 | Line: 2 | 
+[Wed Oct 26 03:23:48 UTC 2022] Alexandru_ | Location: X: -87 Y: 67 Z: -33 | Line: 3 | 
+[Wed Oct 26 03:23:49 UTC 2022] Alexandru_ | Location: X: -87 Y: 67 Z: -29 | Line: 0 | 
+[Wed Oct 26 03:23:49 UTC 2022] Alexandru_ | Location: X: -87 Y: 67 Z: -29 | Line: 1 | 
+[Wed Oct 26 03:23:49 UTC 2022] Alexandru_ | Location: X: -87 Y: 67 Z: -29 | Line: 2 | 
+[Wed Oct 26 03:23:49 UTC 2022] Alexandru_ | Location: X: -87 Y: 67 Z: -29 | Line: 3 | 
+[Thu Oct 27 21:04:19 UTC 2022] MihiBlu | Location: X: -37 Y: 66 Z: -62 | Line: 0 | 
+[Thu Oct 27 21:04:19 UTC 2022] MihiBlu | Location: X: -37 Y: 66 Z: -62 | Line: 1 | PLAYER MENU!
+[Thu Oct 27 21:04:19 UTC 2022] MihiBlu | Location: X: -37 Y: 66 Z: -62 | Line: 2 | 
+[Thu Oct 27 21:04:19 UTC 2022] MihiBlu | Location: X: -37 Y: 66 Z: -62 | Line: 3 | 
+[Fri Oct 28 03:10:09 UTC 2022] MihiBlu | Location: X: -40 Y: 66 Z: -67 | Line: 0 | aici vezi alea ce 
+[Fri Oct 28 03:10:09 UTC 2022] MihiBlu | Location: X: -40 Y: 66 Z: -67 | Line: 1 | ti am trimsi eu
+[Fri Oct 28 03:10:09 UTC 2022] MihiBlu | Location: X: -40 Y: 66 Z: -67 | Line: 2 | 
+[Fri Oct 28 03:10:09 UTC 2022] MihiBlu | Location: X: -40 Y: 66 Z: -67 | Line: 3 | 
+[Fri Oct 28 03:10:19 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -73 | Line: 0 | aici e alta
+[Fri Oct 28 03:10:19 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -73 | Line: 1 | textura
+[Fri Oct 28 03:10:19 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -73 | Line: 2 | 
+[Fri Oct 28 03:10:19 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -73 | Line: 3 | 
+[Fri Oct 28 03:14:45 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -73 | Line: 0 | 
+[Fri Oct 28 03:14:45 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -73 | Line: 1 | 
+[Fri Oct 28 03:14:45 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -73 | Line: 2 | 
+[Fri Oct 28 03:14:45 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -73 | Line: 3 | 
+[Fri Oct 28 03:14:50 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -72 | Line: 0 | MINERAZE
+[Fri Oct 28 03:14:50 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -72 | Line: 1 | 
+[Fri Oct 28 03:14:50 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -72 | Line: 2 | 
+[Fri Oct 28 03:14:50 UTC 2022] MihiBlu | Location: X: -34 Y: 66 Z: -72 | Line: 3 | 
+[Fri Oct 28 03:14:55 UTC 2022] MihiBlu | Location: X: -38 Y: 66 Z: -69 | Line: 0 | mcrealms
+[Fri Oct 28 03:14:55 UTC 2022] MihiBlu | Location: X: -38 Y: 66 Z: -69 | Line: 1 | 
+[Fri Oct 28 03:14:55 UTC 2022] MihiBlu | Location: X: -38 Y: 66 Z: -69 | Line: 2 | 
+[Fri Oct 28 03:14:55 UTC 2022] MihiBlu | Location: X: -38 Y: 66 Z: -69 | Line: 3 | 
+[Fri Oct 28 07:24:52 UTC 2022] MihiBlu | Location: X: -40 Y: 66 Z: -65 | Line: 0 | Ce ramane?!
+[Fri Oct 28 07:24:52 UTC 2022] MihiBlu | Location: X: -40 Y: 66 Z: -65 | Line: 1 | 
+[Fri Oct 28 07:24:52 UTC 2022] MihiBlu | Location: X: -40 Y: 66 Z: -65 | Line: 2 | 
+[Fri Oct 28 07:24:52 UTC 2022] MihiBlu | Location: X: -40 Y: 66 Z: -65 | Line: 3 | 
+[Fri Oct 28 07:49:23 UTC 2022] Alexandru_ | Location: X: -40 Y: 66 Z: -65 | Line: 0 | Ce ramane?!
+[Fri Oct 28 07:49:23 UTC 2022] Alexandru_ | Location: X: -40 Y: 66 Z: -65 | Line: 1 | 
+[Fri Oct 28 07:49:23 UTC 2022] Alexandru_ | Location: X: -40 Y: 66 Z: -65 | Line: 2 | 
+[Fri Oct 28 07:49:23 UTC 2022] Alexandru_ | Location: X: -40 Y: 66 Z: -65 | Line: 3 | 
+[Sat Oct 29 22:49:02 UTC 2022] 5hax | Location: X: -9 Y: 74 Z: -98 | Line: 0 | 
+[Sat Oct 29 22:49:02 UTC 2022] 5hax | Location: X: -9 Y: 74 Z: -98 | Line: 1 | 
+[Sat Oct 29 22:49:02 UTC 2022] 5hax | Location: X: -9 Y: 74 Z: -98 | Line: 2 | 
+[Sat Oct 29 22:49:02 UTC 2022] 5hax | Location: X: -9 Y: 74 Z: -98 | Line: 3 | 
+[Sat Oct 29 22:49:05 UTC 2022] 5hax | Location: X: -9 Y: 74 Z: -100 | Line: 0 | 
+[Sat Oct 29 22:49:05 UTC 2022] 5hax | Location: X: -9 Y: 74 Z: -100 | Line: 1 | 
+[Sat Oct 29 22:49:05 UTC 2022] 5hax | Location: X: -9 Y: 74 Z: -100 | Line: 2 | 
+[Sat Oct 29 22:49:05 UTC 2022] 5hax | Location: X: -9 Y: 74 Z: -100 | Line: 3 | 
+[Sat Oct 29 22:51:01 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -96 | Line: 0 | 
+[Sat Oct 29 22:51:01 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -96 | Line: 1 | 
+[Sat Oct 29 22:51:01 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -96 | Line: 2 | 
+[Sat Oct 29 22:51:01 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -96 | Line: 3 | 
+[Sat Oct 29 22:51:03 UTC 2022] 5hax | Location: X: -10 Y: 73 Z: -100 | Line: 0 | 
+[Sat Oct 29 22:51:03 UTC 2022] 5hax | Location: X: -10 Y: 73 Z: -100 | Line: 1 | 
+[Sat Oct 29 22:51:03 UTC 2022] 5hax | Location: X: -10 Y: 73 Z: -100 | Line: 2 | 
+[Sat Oct 29 22:51:03 UTC 2022] 5hax | Location: X: -10 Y: 73 Z: -100 | Line: 3 | 
+[Sat Oct 29 22:51:03 UTC 2022] 5hax | Location: X: -8 Y: 74 Z: -101 | Line: 0 | 
+[Sat Oct 29 22:51:03 UTC 2022] 5hax | Location: X: -8 Y: 74 Z: -101 | Line: 1 | 
+[Sat Oct 29 22:51:03 UTC 2022] 5hax | Location: X: -8 Y: 74 Z: -101 | Line: 2 | 
+[Sat Oct 29 22:51:03 UTC 2022] 5hax | Location: X: -8 Y: 74 Z: -101 | Line: 3 | 
+[Sat Oct 29 22:51:04 UTC 2022] 5hax | Location: X: -8 Y: 73 Z: -100 | Line: 0 | 
+[Sat Oct 29 22:51:04 UTC 2022] 5hax | Location: X: -8 Y: 73 Z: -100 | Line: 1 | 
+[Sat Oct 29 22:51:04 UTC 2022] 5hax | Location: X: -8 Y: 73 Z: -100 | Line: 2 | 
+[Sat Oct 29 22:51:04 UTC 2022] 5hax | Location: X: -8 Y: 73 Z: -100 | Line: 3 | 
+[Sat Oct 29 22:51:06 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -98 | Line: 0 | 
+[Sat Oct 29 22:51:06 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -98 | Line: 1 | 
+[Sat Oct 29 22:51:06 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -98 | Line: 2 | 
+[Sat Oct 29 22:51:06 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -98 | Line: 3 | 
+[Sat Oct 29 22:51:06 UTC 2022] 5hax | Location: X: -8 Y: 73 Z: -102 | Line: 0 | 
+[Sat Oct 29 22:51:06 UTC 2022] 5hax | Location: X: -8 Y: 73 Z: -102 | Line: 1 | 
+[Sat Oct 29 22:51:06 UTC 2022] 5hax | Location: X: -8 Y: 73 Z: -102 | Line: 2 | 
+[Sat Oct 29 22:51:06 UTC 2022] 5hax | Location: X: -8 Y: 73 Z: -102 | Line: 3 | 
+[Sat Oct 29 22:51:07 UTC 2022] 5hax | Location: X: -10 Y: 73 Z: -102 | Line: 0 | 
+[Sat Oct 29 22:51:07 UTC 2022] 5hax | Location: X: -10 Y: 73 Z: -102 | Line: 1 | 
+[Sat Oct 29 22:51:07 UTC 2022] 5hax | Location: X: -10 Y: 73 Z: -102 | Line: 2 | 
+[Sat Oct 29 22:51:07 UTC 2022] 5hax | Location: X: -10 Y: 73 Z: -102 | Line: 3 | 
+[Sat Oct 29 23:03:09 UTC 2022] 5hax | Location: X: 2 Y: 73 Z: -87 | Line: 0 | WIP
+[Sat Oct 29 23:03:09 UTC 2022] 5hax | Location: X: 2 Y: 73 Z: -87 | Line: 1 | 
+[Sat Oct 29 23:03:09 UTC 2022] 5hax | Location: X: 2 Y: 73 Z: -87 | Line: 2 | 
+[Sat Oct 29 23:03:09 UTC 2022] 5hax | Location: X: 2 Y: 73 Z: -87 | Line: 3 | 
+[Sun Oct 30 11:24:56 UTC 2022] 5hax | Location: X: 10 Y: 73 Z: -102 | Line: 0 | 
+[Sun Oct 30 11:24:56 UTC 2022] 5hax | Location: X: 10 Y: 73 Z: -102 | Line: 1 | 
+[Sun Oct 30 11:24:56 UTC 2022] 5hax | Location: X: 10 Y: 73 Z: -102 | Line: 2 | 
+[Sun Oct 30 11:24:56 UTC 2022] 5hax | Location: X: 10 Y: 73 Z: -102 | Line: 3 | 
+[Sun Oct 30 11:25:05 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -100 | Line: 0 | 
+[Sun Oct 30 11:25:05 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -100 | Line: 1 | 
+[Sun Oct 30 11:25:05 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -100 | Line: 2 | 
+[Sun Oct 30 11:25:05 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -100 | Line: 3 | 
+[Sun Oct 30 11:26:38 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -100 | Line: 0 | 
+[Sun Oct 30 11:26:38 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -100 | Line: 1 | 
+[Sun Oct 30 11:26:38 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -100 | Line: 2 | 
+[Sun Oct 30 11:26:38 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -100 | Line: 3 | 
+[Sun Oct 30 11:26:39 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -98 | Line: 0 | 
+[Sun Oct 30 11:26:39 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -98 | Line: 1 | 
+[Sun Oct 30 11:26:39 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -98 | Line: 2 | 
+[Sun Oct 30 11:26:39 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -98 | Line: 3 | 
+[Sun Oct 30 11:26:45 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -99 | Line: 0 | 
+[Sun Oct 30 11:26:45 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -99 | Line: 1 | 
+[Sun Oct 30 11:26:45 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -99 | Line: 2 | 
+[Sun Oct 30 11:26:45 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -99 | Line: 3 | 
+[Sun Oct 30 11:26:46 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -97 | Line: 0 | 
+[Sun Oct 30 11:26:46 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -97 | Line: 1 | 
+[Sun Oct 30 11:26:46 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -97 | Line: 2 | 
+[Sun Oct 30 11:26:46 UTC 2022] 5hax | Location: X: 11 Y: 73 Z: -97 | Line: 3 | 
+[Sun Oct 30 11:27:02 UTC 2022] 5hax | Location: X: 7 Y: 74 Z: -97 | Line: 0 | 
+[Sun Oct 30 11:27:02 UTC 2022] 5hax | Location: X: 7 Y: 74 Z: -97 | Line: 1 | 
+[Sun Oct 30 11:27:02 UTC 2022] 5hax | Location: X: 7 Y: 74 Z: -97 | Line: 2 | 
+[Sun Oct 30 11:27:02 UTC 2022] 5hax | Location: X: 7 Y: 74 Z: -97 | Line: 3 | 
+[Sun Oct 30 11:27:02 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -98 | Line: 0 | 
+[Sun Oct 30 11:27:02 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -98 | Line: 1 | 
+[Sun Oct 30 11:27:02 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -98 | Line: 2 | 
+[Sun Oct 30 11:27:02 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -98 | Line: 3 | 
+[Sun Oct 30 11:27:04 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -96 | Line: 0 | 
+[Sun Oct 30 11:27:04 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -96 | Line: 1 | 
+[Sun Oct 30 11:27:04 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -96 | Line: 2 | 
+[Sun Oct 30 11:27:04 UTC 2022] 5hax | Location: X: 7 Y: 73 Z: -96 | Line: 3 | 
+[Sun Oct 30 11:55:06 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -76 | Line: 0 | 
+[Sun Oct 30 11:55:06 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -76 | Line: 1 | 
+[Sun Oct 30 11:55:06 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -76 | Line: 2 | 
+[Sun Oct 30 11:55:06 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -76 | Line: 3 | 
+[Sun Oct 30 11:55:09 UTC 2022] 5hax | Location: X: -11 Y: 73 Z: -77 | Line: 0 | 
+[Sun Oct 30 11:55:09 UTC 2022] 5hax | Location: X: -11 Y: 73 Z: -77 | Line: 1 | 
+[Sun Oct 30 11:55:09 UTC 2022] 5hax | Location: X: -11 Y: 73 Z: -77 | Line: 2 | 
+[Sun Oct 30 11:55:09 UTC 2022] 5hax | Location: X: -11 Y: 73 Z: -77 | Line: 3 | 
+[Sun Oct 30 11:55:10 UTC 2022] 5hax | Location: X: -11 Y: 73 Z: -75 | Line: 0 | 
+[Sun Oct 30 11:55:10 UTC 2022] 5hax | Location: X: -11 Y: 73 Z: -75 | Line: 1 | 
+[Sun Oct 30 11:55:10 UTC 2022] 5hax | Location: X: -11 Y: 73 Z: -75 | Line: 2 | 
+[Sun Oct 30 11:55:10 UTC 2022] 5hax | Location: X: -11 Y: 73 Z: -75 | Line: 3 | 
+[Sun Oct 30 11:55:12 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -75 | Line: 0 | 
+[Sun Oct 30 11:55:12 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -75 | Line: 1 | 
+[Sun Oct 30 11:55:12 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -75 | Line: 2 | 
+[Sun Oct 30 11:55:12 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -75 | Line: 3 | 
+[Sun Oct 30 11:55:12 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -77 | Line: 0 | 
+[Sun Oct 30 11:55:12 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -77 | Line: 1 | 
+[Sun Oct 30 11:55:12 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -77 | Line: 2 | 
+[Sun Oct 30 11:55:12 UTC 2022] 5hax | Location: X: -9 Y: 73 Z: -77 | Line: 3 | 
+[Mon Oct 31 04:01:14 UTC 2022] MihiBlu | Location: X: -77 Y: 65 Z: -67 | Line: 0 | 
+[Mon Oct 31 04:01:14 UTC 2022] MihiBlu | Location: X: -77 Y: 65 Z: -67 | Line: 1 | 
+[Mon Oct 31 04:01:14 UTC 2022] MihiBlu | Location: X: -77 Y: 65 Z: -67 | Line: 2 | 
+[Mon Oct 31 04:01:14 UTC 2022] MihiBlu | Location: X: -77 Y: 65 Z: -67 | Line: 3 | 
+[Mon Oct 31 04:01:15 UTC 2022] MihiBlu | Location: X: -77 Y: 66 Z: -67 | Line: 0 | 
+[Mon Oct 31 04:01:15 UTC 2022] MihiBlu | Location: X: -77 Y: 66 Z: -67 | Line: 1 | 
+[Mon Oct 31 04:01:15 UTC 2022] MihiBlu | Location: X: -77 Y: 66 Z: -67 | Line: 2 | 
+[Mon Oct 31 04:01:15 UTC 2022] MihiBlu | Location: X: -77 Y: 66 Z: -67 | Line: 3 | 
+[Mon Oct 31 04:01:16 UTC 2022] MihiBlu | Location: X: -77 Y: 67 Z: -67 | Line: 0 | 
+[Mon Oct 31 04:01:16 UTC 2022] MihiBlu | Location: X: -77 Y: 67 Z: -67 | Line: 1 | 
+[Mon Oct 31 04:01:16 UTC 2022] MihiBlu | Location: X: -77 Y: 67 Z: -67 | Line: 2 | 
+[Mon Oct 31 04:01:16 UTC 2022] MihiBlu | Location: X: -77 Y: 67 Z: -67 | Line: 3 | 
+[Mon Oct 31 04:08:43 UTC 2022] MihiBlu | Location: X: -1273 Y: 0 Z: -1377 | Line: 0 | 
+[Mon Oct 31 04:08:43 UTC 2022] MihiBlu | Location: X: -1273 Y: 0 Z: -1377 | Line: 1 | 
+[Mon Oct 31 04:08:43 UTC 2022] MihiBlu | Location: X: -1273 Y: 0 Z: -1377 | Line: 2 | 
+[Mon Oct 31 04:08:43 UTC 2022] MihiBlu | Location: X: -1273 Y: 0 Z: -1377 | Line: 3 | 
+[Mon Oct 31 04:08:44 UTC 2022] MihiBlu | Location: X: -1273 Y: 1 Z: -1377 | Line: 0 | 
+[Mon Oct 31 04:08:44 UTC 2022] MihiBlu | Location: X: -1273 Y: 1 Z: -1377 | Line: 1 | 
+[Mon Oct 31 04:08:44 UTC 2022] MihiBlu | Location: X: -1273 Y: 1 Z: -1377 | Line: 2 | 
+[Mon Oct 31 04:08:44 UTC 2022] MihiBlu | Location: X: -1273 Y: 1 Z: -1377 | Line: 3 | 
+[Mon Oct 31 04:11:41 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 0 | 
+[Mon Oct 31 04:11:41 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 1 | 
+[Mon Oct 31 04:11:41 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 2 | 
+[Mon Oct 31 04:11:41 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 3 | 
+[Mon Oct 31 04:12:55 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 0 | 
+[Mon Oct 31 04:12:55 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 1 | 
+[Mon Oct 31 04:12:55 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 2 | 
+[Mon Oct 31 04:12:55 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 3 | 
+[Mon Oct 31 04:12:56 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 0 | 
+[Mon Oct 31 04:12:56 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 1 | 
+[Mon Oct 31 04:12:56 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 2 | 
+[Mon Oct 31 04:12:56 UTC 2022] MihiBlu | Location: X: -1263 Y: 68 Z: -1394 | Line: 3 | 
+[Mon Oct 31 04:12:57 UTC 2022] MihiBlu | Location: X: -1263 Y: 67 Z: -1394 | Line: 0 | 
+[Mon Oct 31 04:12:57 UTC 2022] MihiBlu | Location: X: -1263 Y: 67 Z: -1394 | Line: 1 | 
+[Mon Oct 31 04:12:57 UTC 2022] MihiBlu | Location: X: -1263 Y: 67 Z: -1394 | Line: 2 | 
+[Mon Oct 31 04:12:57 UTC 2022] MihiBlu | Location: X: -1263 Y: 67 Z: -1394 | Line: 3 | 
+[Mon Oct 31 04:12:58 UTC 2022] MihiBlu | Location: X: -1263 Y: 69 Z: -1394 | Line: 0 | 
+[Mon Oct 31 04:12:58 UTC 2022] MihiBlu | Location: X: -1263 Y: 69 Z: -1394 | Line: 1 | 
+[Mon Oct 31 04:12:58 UTC 2022] MihiBlu | Location: X: -1263 Y: 69 Z: -1394 | Line: 2 | 
+[Mon Oct 31 04:12:58 UTC 2022] MihiBlu | Location: X: -1263 Y: 69 Z: -1394 | Line: 3 | 
+[Mon Oct 31 09:45:34 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1533 | Line: 0 | test
+[Mon Oct 31 09:45:34 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1533 | Line: 1 | 
+[Mon Oct 31 09:45:34 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1533 | Line: 2 | 
+[Mon Oct 31 09:45:34 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1533 | Line: 3 | 
+[Mon Oct 31 09:45:43 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1534 | Line: 0 | 
+[Mon Oct 31 09:45:43 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1534 | Line: 1 | 
+[Mon Oct 31 09:45:43 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1534 | Line: 2 | 
+[Mon Oct 31 09:45:43 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1534 | Line: 3 | 
+[Mon Oct 31 09:45:45 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1534 | Line: 0 | 
+[Mon Oct 31 09:45:45 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1534 | Line: 1 | 
+[Mon Oct 31 09:45:45 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1534 | Line: 2 | 
+[Mon Oct 31 09:45:45 UTC 2022] Alexandru_ | Location: X: -3013 Y: 66 Z: 1534 | Line: 3 | 
+[Mon Oct 31 09:45:51 UTC 2022] Alexandru_ | Location: X: -3013 Y: 67 Z: 1533 | Line: 0 | 
+[Mon Oct 31 09:45:51 UTC 2022] Alexandru_ | Location: X: -3013 Y: 67 Z: 1533 | Line: 1 | 
+[Mon Oct 31 09:45:51 UTC 2022] Alexandru_ | Location: X: -3013 Y: 67 Z: 1533 | Line: 2 | 
+[Mon Oct 31 09:45:51 UTC 2022] Alexandru_ | Location: X: -3013 Y: 67 Z: 1533 | Line: 3 | 
+[Mon Oct 31 09:45:53 UTC 2022] Alexandru_ | Location: X: -3013 Y: 67 Z: 1533 | Line: 0 | 
+[Mon Oct 31 09:45:53 UTC 2022] Alexandru_ | Location: X: -3013 Y: 67 Z: 1533 | Line: 1 | 
+[Mon Oct 31 09:45:53 UTC 2022] Alexandru_ | Location: X: -3013 Y: 67 Z: 1533 | Line: 2 | 
+[Mon Oct 31 09:45:53 UTC 2022] Alexandru_ | Location: X: -3013 Y: 67 Z: 1533 | Line: 3 | 
+[Thu Nov 03 12:28:01 UTC 2022] MihiBlu | Location: X: -90 Y: 67 Z: -32 | Line: 0 | 
+[Thu Nov 03 12:28:01 UTC 2022] MihiBlu | Location: X: -90 Y: 67 Z: -32 | Line: 1 | 
+[Thu Nov 03 12:28:01 UTC 2022] MihiBlu | Location: X: -90 Y: 67 Z: -32 | Line: 2 | 
+[Thu Nov 03 12:28:01 UTC 2022] MihiBlu | Location: X: -90 Y: 67 Z: -32 | Line: 3 | 
+[Fri Nov 04 11:15:04 UTC 2022] Alexandru_ | Location: X: -36 Y: 66 Z: -69 | Line: 0 | 
+[Fri Nov 04 11:15:04 UTC 2022] Alexandru_ | Location: X: -36 Y: 66 Z: -69 | Line: 1 | 
+[Fri Nov 04 11:15:04 UTC 2022] Alexandru_ | Location: X: -36 Y: 66 Z: -69 | Line: 2 | 
+[Fri Nov 04 11:15:04 UTC 2022] Alexandru_ | Location: X: -36 Y: 66 Z: -69 | Line: 3 | 
+[Fri Nov 04 11:15:05 UTC 2022] Alexandru_ | Location: X: -36 Y: 66 Z: -69 | Line: 0 | 
+[Fri Nov 04 11:15:05 UTC 2022] Alexandru_ | Location: X: -36 Y: 66 Z: -69 | Line: 1 | 
+[Fri Nov 04 11:15:05 UTC 2022] Alexandru_ | Location: X: -36 Y: 66 Z: -69 | Line: 2 | 
+[Fri Nov 04 11:15:05 UTC 2022] Alexandru_ | Location: X: -36 Y: 66 Z: -69 | Line: 3 | 

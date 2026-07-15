@@ -1,0 +1,271 @@
+ShopName: Furniture4
+DisplayName: '&f⻔⻔⻔⻔⻔⻔⻔⻔'
+signs:
+  text: '[Furniture4]'
+  NeedPermissionToCreateSign: true
+shop:
+  Furniture1:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - name:&fCampfire
+    - 'lore1: &7A decorative campfire.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give campfire %player%
+    PriceType: MONEY
+    Price: 500
+    Message: '&f &fYou bought a &ecampfire &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 3
+  Furniture2:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - name:&fRennwagen
+    - 'lore1: &7A car for collectors,#&7ideal to have in a garage.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give rennwagen %player%
+    PriceType: MONEY
+    Price: 15000
+    Message: '&f &fYou bought a &erennwagen &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 4
+  Furniture3:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - name:&fStreet Lamp
+    - 'lore1: &7A medieval lamp ideal#&7for lighting the street.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give streetlamp %player%
+    PriceType: MONEY
+    Price: 800
+    Message: '&f &fYou bought a &estreet lamp &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 5
+  Furniture4:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - 'name:&fStreet Lamp #2'
+    - 'lore1: &7A modern and simple lamp,#&7ideal in a luxurious yard.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give streetlamp2 %player%
+    PriceType: MONEY
+    Price: 2100
+    Message: '&f &fYou bought a &estreet lamp 2 &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 6
+  Furniture5:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - 'name:&fStreet Lamp #3'
+    - 'lore1: &7A rustic style lamp but with #&7modern elements, ideal in any place.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give streetlamp3 %player%
+    PriceType: MONEY
+    Price: 1900
+    Message: '&f &fYou bought a &estreet lamp 3 &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 7
+  Furniture6:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - 'name:&fSleeping Bag'
+    - 'lore1: &7Sleeping bag with#&7a decorative role.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give sleepingbag %player%
+    PriceType: MONEY
+    Price: 300
+    Message: '&f &fYou bought a &esleeping bag &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 11
+  Furniture7:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - 'name:&fTent #1'
+    - 'lore1: &7A modern and useful tent,#&7ideal for small spaces.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give tent1 %player%
+    PriceType: MONEY
+    Price: 1800
+    Message: '&f &fYou bought a &etent 1 &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 12
+  Furniture8:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - 'name:&fTent #2'
+    - 'lore1: &7A grandiose tent, with bed and#&7chest, ideal for exploring.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give tent2 %player%
+    PriceType: MONEY
+    Price: 2500
+    Message: '&f &fYou bought a &etent 2 &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 13
+  Furniture9:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - 'name:&fToilet'
+    - 'lore1: &7A modern and practical toilet,#&7ideal for decorating a bathroom.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give toilet %player%
+    PriceType: MONEY
+    Price: 1200
+    Message: '&f &fYou bought a &etoilet &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 14
+  Furniture10:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - name:&fTrunk
+    - 'lore1: &7An interactive log#&7ideal for a campfire'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give trunk %player%
+    PriceType: MONEY
+    Price: 400
+    Message: '&f &fYou bought a &etrunk &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 15
+  Furniture11:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - 'name:&fWashstand'
+    - 'lore1: &7A sink with mirror, ideal#&7for modern bathrooms.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give washstand %player%
+    PriceType: MONEY
+    Price: 1400
+    Message: '&f &fYou bought a &ewashstand &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 16
+  Furniture12:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - name:&fWell
+    - 'lore1: &7A rustic 4x4 fountain,#&7ideal in a village.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give well %player%
+    PriceType: MONEY
+    Price: 2850
+    Message: '&f &fYou bought a &ewell &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 17
+  Furniture13:
+    MenuItem:
+    - type:BOOK
+    - amount:1
+    - name:&fDog
+    - 'lore1: &7A decorative dog.'
+    - 'lore3:&f ▪ ᴄᴀᴛᴇɢᴏʀʏ: &aᴍɪꜱᴄ'
+    - 'lore4:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%'
+    - 'lore6:&f'
+    RewardType: COMMAND
+    Reward:
+    - furniture give dog %player%
+    PriceType: MONEY
+    Price: 1450
+    Message: '&f &fYou bought a &edog &ffor &a%price%'
+    ExtraPermission: ''
+    InventoryLocation: 20
+####################################################################################################################
+  Back:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  Back2:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  Back3:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+
+  PreviousPage:
+    MenuItem:
+    - name:&8ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Furniture3
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 47

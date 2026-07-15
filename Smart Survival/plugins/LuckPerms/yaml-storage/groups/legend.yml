@@ -1,0 +1,37 @@
+name: legend
+permissions:
+- angelchest.fetch
+- angelchest.protect
+- auctionmaster.limit.auctions.24
+- auctionmaster.limit.duration.36
+- betterrtp.bypass.delay
+- chatmanager.bypass.ignored
+- chatmanager.colors
+- chatmanager.formats
+- displayname.
+- essentials.getpos.others
+- essentials.invsee
+- essentials.kits.legend
+- essentials.nick
+- essentials.sethome.multiple.legend
+- essentials.top
+- essentials.tptoggle
+- furniture.globallimit.50
+- furniture.limit.50
+- furniture.limit.legend
+- jobs.max.3
+- lumberjack.use
+- pci.blast-furnace
+- pci.enchant.use-max-level
+- pci.enchanttable
+- pci.smoker
+- ultimateclaims.lock
+- ultimateclaims.maxclaims.25
+- ultimateclaims.toggle.fly
+- ultimateclaims.toggle.pvp
+- ultimateclaims.toggle.tnt
+parents:
+- mvp
+prefixes:
+- '&f&6':
+    priority: 999

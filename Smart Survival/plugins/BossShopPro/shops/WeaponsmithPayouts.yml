@@ -1,0 +1,1123 @@
+ShopName: WeaponsmithPayouts
+DisplayName: '&8Weaponsmith Payouts'
+Command: WeaponsmithPO
+signs:
+  text: '[WeaponsmithPO]'
+  NeedPermissionToCreateSign: true
+shop:
+  1:
+    MenuItem:
+    - name:&aWooden Sword 
+    - amount:1
+    - type:wooden_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1.0 ⛃'
+    - 'lore5:&f▪ Exp: &71.0'
+    - 'lore6:&f▪ Points: &72.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a1.0 ⛃'
+    - 'lore10:&f▪ Exp: &71.0'
+    - 'lore11:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  2:
+    MenuItem:
+    - name:&aWooden Pickaxe 
+    - amount:1
+    - type:wooden_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &72.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a1.5 ⛃'
+    - 'lore10:&f▪ Exp: &71.5'
+    - 'lore11:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  3:
+    MenuItem:
+    - name:&aWooden Axe 
+    - amount:1
+    - type:wooden_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &72.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a1.5 ⛃'
+    - 'lore10:&f▪ Exp: &71.5'
+    - 'lore11:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  4:
+    MenuItem:
+    - name:&aWooden Shovel 
+    - amount:1
+    - type:wooden_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &72.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a0.6 ⛃'
+    - 'lore10:&f▪ Exp: &70.6'
+    - 'lore11:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  5:
+    MenuItem:
+    - name:&aWooden Hoe 
+    - amount:1
+    - type:wooden_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1.1 ⛃'
+    - 'lore5:&f▪ Exp: &71.1'
+    - 'lore6:&f▪ Points: &72.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a1.1 ⛃'
+    - 'lore10:&f▪ Exp: &71.1'
+    - 'lore11:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  6:
+    MenuItem:
+    - name:&aLeather Boots 
+    - amount:1
+    - type:leather_boots 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a1.5 ⛃'
+    - 'lore10:&f▪ Exp: &71.5'
+    - 'lore11:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  7:
+    MenuItem:
+    - name:&aLeather Chestplate 
+    - amount:1
+    - type:leather_chestplate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a1.5 ⛃'
+    - 'lore10:&f▪ Exp: &71.5'
+    - 'lore11:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  8:
+    MenuItem:
+    - name:&aLeather Helmet 
+    - amount:1
+    - type:leather_helmet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a1.5 ⛃'
+    - 'lore10:&f▪ Exp: &71.5'
+    - 'lore11:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  9:
+    MenuItem:
+    - name:&aLeather Leggings 
+    - amount:1
+    - type:leather_leggings 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a1.5 ⛃'
+    - 'lore10:&f▪ Exp: &71.5'
+    - 'lore11:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  10:
+    MenuItem:
+    - name:&aStone Sword 
+    - amount:1
+    - type:stone_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a2.5 ⛃'
+    - 'lore10:&f▪ Exp: &72.5'
+    - 'lore11:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  11:
+    MenuItem:
+    - name:&aStone Pickaxe 
+    - amount:1
+    - type:stone_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4 ⛃'
+    - 'lore5:&f▪ Exp: &74'
+    - 'lore6:&f▪ Points: &74'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a2.5 ⛃'
+    - 'lore10:&f▪ Exp: &72.5'
+    - 'lore11:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  12:
+    MenuItem:
+    - name:&aStone Axe 
+    - amount:1
+    - type:stone_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4 ⛃'
+    - 'lore5:&f▪ Exp: &74'
+    - 'lore6:&f▪ Points: &74'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a2.5 ⛃'
+    - 'lore10:&f▪ Exp: &72.5'
+    - 'lore11:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  13:
+    MenuItem:
+    - name:&aStone Shovel 
+    - amount:1
+    - type:stone_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a2.5 ⛃'
+    - 'lore10:&f▪ Exp: &72.5'
+    - 'lore11:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  14:
+    MenuItem:
+    - name:&aStone Hoe 
+    - amount:1
+    - type:stone_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a2.5 ⛃'
+    - 'lore10:&f▪ Exp: &72.5'
+    - 'lore11:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  15:
+    MenuItem:
+    - name:&aIron Sword 
+    - amount:1
+    - type:iron_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a4.0 ⛃'
+    - 'lore10:&f▪ Exp: &74.0'
+    - 'lore11:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  16:
+    MenuItem:
+    - name:&aIron Pickaxe 
+    - amount:1
+    - type:iron_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a6 ⛃'
+    - 'lore5:&f▪ Exp: &76'
+    - 'lore6:&f▪ Points: &76'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a4.0 ⛃'
+    - 'lore10:&f▪ Exp: &74.0'
+    - 'lore11:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  17:
+    MenuItem:
+    - name:&aIron Axe 
+    - amount:1
+    - type:iron_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a6 ⛃'
+    - 'lore5:&f▪ Exp: &76'
+    - 'lore6:&f▪ Points: &76'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a4.0 ⛃'
+    - 'lore10:&f▪ Exp: &74.0'
+    - 'lore11:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  18:
+    MenuItem:
+    - name:&aIron Shovel 
+    - amount:1
+    - type:iron_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &74'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a4.0 ⛃'
+    - 'lore10:&f▪ Exp: &74.0'
+    - 'lore11:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  19:
+    MenuItem:
+    - name:&aIron Hoe 
+    - amount:1
+    - type:iron_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a4.0 ⛃'
+    - 'lore10:&f▪ Exp: &74.0'
+    - 'lore11:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  20:
+    MenuItem:
+    - name:&aIron Boots 
+    - amount:1
+    - type:iron_boots 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a4.0 ⛃'
+    - 'lore10:&f▪ Exp: &74.0'
+    - 'lore11:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  21:
+    MenuItem:
+    - name:&aIron Chestplate 
+    - amount:1
+    - type:iron_chestplate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a13.0 ⛃'
+    - 'lore5:&f▪ Exp: &713.0'
+    - 'lore6:&f▪ Points: &713.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a4.0 ⛃'
+    - 'lore10:&f▪ Exp: &74.0'
+    - 'lore11:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  22:
+    MenuItem:
+    - name:&aIron Helmet 
+    - amount:1
+    - type:iron_helmet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a8.5 ⛃'
+    - 'lore5:&f▪ Exp: &78.5'
+    - 'lore6:&f▪ Points: &78.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a4.0 ⛃'
+    - 'lore10:&f▪ Exp: &74.0'
+    - 'lore11:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  23:
+    MenuItem:
+    - name:&aIron Leggings 
+    - amount:1
+    - type:iron_leggings 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a11.5 ⛃'
+    - 'lore5:&f▪ Exp: &711.5'
+    - 'lore6:&f▪ Points: &711.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a4.0 ⛃'
+    - 'lore10:&f▪ Exp: &74.0'
+    - 'lore11:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  24:
+    MenuItem:
+    - name:&aGolden Sword 
+    - amount:1
+    - type:golden_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a7.5 ⛃'
+    - 'lore5:&f▪ Exp: &77.5'
+    - 'lore6:&f▪ Points: &77.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a5.0 ⛃'
+    - 'lore10:&f▪ Exp: &75.0'
+    - 'lore11:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+  25:
+    MenuItem:
+    - name:&aGolden Pickaxe 
+    - amount:1
+    - type:golden_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a5.0 ⛃'
+    - 'lore10:&f▪ Exp: &75.0'
+    - 'lore11:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  26:
+    MenuItem:
+    - name:&aGolden Axe 
+    - amount:1
+    - type:golden_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a5.0 ⛃'
+    - 'lore10:&f▪ Exp: &75.0'
+    - 'lore11:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  27:
+    MenuItem:
+    - name:&aGolden Shovel 
+    - amount:1
+    - type:golden_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a6.0 ⛃'
+    - 'lore5:&f▪ Exp: &76.0'
+    - 'lore6:&f▪ Points: &76.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a5.0 ⛃'
+    - 'lore10:&f▪ Exp: &75.0'
+    - 'lore11:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  28:
+    MenuItem:
+    - name:&aGolden Hoe 
+    - amount:1
+    - type:golden_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a7.5 ⛃'
+    - 'lore5:&f▪ Exp: &77.5'
+    - 'lore6:&f▪ Points: &77.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a5.0 ⛃'
+    - 'lore10:&f▪ Exp: &75.0'
+    - 'lore11:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  29:
+    MenuItem:
+    - name:&aGold Boots 
+    - amount:1
+    - type:gold_boots 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a11.0 ⛃'
+    - 'lore5:&f▪ Exp: &711.0'
+    - 'lore6:&f▪ Points: &711.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a5.0 ⛃'
+    - 'lore10:&f▪ Exp: &75.0'
+    - 'lore11:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 59
+  30:
+    MenuItem:
+    - name:&aGolden Chestplate 
+    - amount:1
+    - type:golden_chestplate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a24.0 ⛃'
+    - 'lore5:&f▪ Exp: &724.0'
+    - 'lore6:&f▪ Points: &724.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a5.0 ⛃'
+    - 'lore10:&f▪ Exp: &75.0'
+    - 'lore11:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 57
+  31:
+    MenuItem:
+    - name:&aGolden Helmet 
+    - amount:1
+    - type:golden_helmet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a14.5 ⛃'
+    - 'lore5:&f▪ Exp: &714.5'
+    - 'lore6:&f▪ Points: &714.5'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a5.0 ⛃'
+    - 'lore10:&f▪ Exp: &75.0'
+    - 'lore11:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 56
+  32:
+    MenuItem:
+    - name:&aGolden Leggings 
+    - amount:1
+    - type:golden_leggings 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a21.0 ⛃'
+    - 'lore5:&f▪ Exp: &721.0'
+    - 'lore6:&f▪ Points: &721.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a5.0 ⛃'
+    - 'lore10:&f▪ Exp: &75.0'
+    - 'lore11:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 58
+  33:
+    MenuItem:
+    - name:&aDiamond Sword 
+    - amount:1
+    - type:diamond_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a12.0 ⛃'
+    - 'lore5:&f▪ Exp: &712.0'
+    - 'lore6:&f▪ Points: &712.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a7.0 ⛃'
+    - 'lore10:&f▪ Exp: &77.0'
+    - 'lore11:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 60
+  34:
+    MenuItem:
+    - name:&aDiamond Pickaxe 
+    - amount:1
+    - type:diamond_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a15.0 ⛃'
+    - 'lore5:&f▪ Exp: &715.0'
+    - 'lore6:&f▪ Points: &715.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a7.0 ⛃'
+    - 'lore10:&f▪ Exp: &77.0'
+    - 'lore11:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 61
+  35:
+    MenuItem:
+    - name:&aDiamond Axe 
+    - amount:1
+    - type:diamond_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a15.0 ⛃'
+    - 'lore5:&f▪ Exp: &715.0'
+    - 'lore6:&f▪ Points: &715.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a7.0 ⛃'
+    - 'lore10:&f▪ Exp: &77.0'
+    - 'lore11:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 62
+  36:
+    MenuItem:
+    - name:&aDiamond Shovel 
+    - amount:1
+    - type:diamond_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a10.0 ⛃'
+    - 'lore5:&f▪ Exp: &710.0'
+    - 'lore6:&f▪ Points: &710.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a7.0 ⛃'
+    - 'lore10:&f▪ Exp: &77.0'
+    - 'lore11:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 65
+  37:
+    MenuItem:
+    - name:&aDiamond Hoe 
+    - amount:1
+    - type:diamond_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a12.0 ⛃'
+    - 'lore5:&f▪ Exp: &712.0'
+    - 'lore6:&f▪ Points: &712.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a7.0 ⛃'
+    - 'lore10:&f▪ Exp: &77.0'
+    - 'lore11:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 66
+  38:
+    MenuItem:
+    - name:&aDiamond Helmet 
+    - amount:1
+    - type:diamond_helmet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a19.0 ⛃'
+    - 'lore5:&f▪ Exp: &719.0'
+    - 'lore6:&f▪ Points: &719.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a7.0 ⛃'
+    - 'lore10:&f▪ Exp: &77.0'
+    - 'lore11:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 67
+  39:
+    MenuItem:
+    - name:&aDiamond Chestplate 
+    - amount:1
+    - type:diamond_chestplate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a33.0 ⛃'
+    - 'lore5:&f▪ Exp: &733.0'
+    - 'lore6:&f▪ Points: &733.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a7.0 ⛃'
+    - 'lore10:&f▪ Exp: &77.0'
+    - 'lore11:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 68
+  40:
+    MenuItem:
+    - name:&aDiamond Leggings 
+    - amount:1
+    - type:diamond_leggings 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a30.0 ⛃'
+    - 'lore5:&f▪ Exp: &730.0'
+    - 'lore6:&f▪ Points: &730.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a7.0 ⛃'
+    - 'lore10:&f▪ Exp: &77.0'
+    - 'lore11:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 69
+  41:
+    MenuItem:
+    - name:&aDiamond Boots 
+    - amount:1
+    - type:diamond_boots 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a17.0 ⛃'
+    - 'lore5:&f▪ Exp: &717.0'
+    - 'lore6:&f▪ Points: &732.0'
+    - 'lore8:&f▪ Action: &7Repair'
+    - 'lore9:&f▪ Money: &a7.0 ⛃'
+    - 'lore10:&f▪ Exp: &77.0'
+    - 'lore11:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 70
+  42:
+    MenuItem:
+    - name:&aNetherite Ingot 
+    - amount:1
+    - type:netherite_ingot 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a10.0 ⛃'
+    - 'lore5:&f▪ Exp: &710.0'
+    - 'lore6:&f▪ Points: &715.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 71
+  43:
+    MenuItem:
+    - name:&aBow 
+    - amount:1
+    - type:bow 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 74
+  44:
+    MenuItem:
+    - name:&aCrossbow 
+    - amount:1
+    - type:crossbow 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 75
+  45:
+    MenuItem:
+    - name:&aFishing Rod 
+    - amount:1
+    - type:fishing_rod 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 76
+  46:
+    MenuItem:
+    - name:&aFlint And Steel 
+    - amount:1
+    - type:flint_and_steel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 77
+  47:
+    MenuItem:
+    - name:&aShears 
+    - amount:1
+    - type:shears 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 78
+  48:
+    MenuItem:
+    - name:&aBucket 
+    - amount:1
+    - type:bucket 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 79
+  49:
+    MenuItem:
+    - name:&aClock 
+    - amount:1
+    - type:clock 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 80
+  50:
+    MenuItem:
+    - name:&aCompass 
+    - amount:1
+    - type:compass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 83
+  51:
+    MenuItem:
+    - name:&aShulker Box 
+    - amount:1
+    - type:shulker_box 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a6 ⛃'
+    - 'lore5:&f▪ Exp: &76'
+    - 'lore6:&f▪ Points: &76'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 84
+  52:
+    MenuItem:
+    - name:&aMap 
+    - amount:1
+    - type:map 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 85
+  53:
+    MenuItem:
+    - name:&aArrow 
+    - amount:1
+    - type:arrow 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.8 ⛃'
+    - 'lore5:&f▪ Exp: &70.8'
+    - 'lore6:&f▪ Points: &70.8'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 86
+  54:
+    MenuItem:
+    - name:&aSpectral Arrow 
+    - amount:1
+    - type:arrow 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1.2 ⛃'
+    - 'lore5:&f▪ Exp: &71.2'
+    - 'lore6:&f▪ Points: &71.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 87
+  55:
+    MenuItem:
+    - name:&aLeather Horse Armor 
+    - amount:1
+    - type:leather_horse_armor 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a5 ⛃'
+    - 'lore5:&f▪ Exp: &75'
+    - 'lore6:&f▪ Points: &75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 88
+  56:
+    MenuItem:
+    - name:&aShield 
+    - amount:1
+    - type:shield 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 89
+  57:
+    MenuItem:
+    - name:&aNetherite Sword
+    - amount:1
+    - type:netherite_sword
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Repair'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 101
+  58:
+    MenuItem:
+    - name:&aNetherite Pickaxe
+    - amount:1
+    - type:netherite_pickaxe
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Repair'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 102
+  59:
+    MenuItem:
+    - name:&aNetherite Axe
+    - amount:1
+    - type:netherite_axe
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Repair'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 103
+  60:
+    MenuItem:
+    - name:&aNetherite Shovel
+    - amount:1
+    - type:netherite_shovel
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Repair'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 104
+  61:
+    MenuItem:
+    - name:&aNetherite Hoe
+    - amount:1
+    - type:netherite_hoe
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Repair'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 105
+  62:
+    MenuItem:
+    - name:&aNetherite Helmet
+    - amount:1
+    - type:netherite_helmet
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Repair'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 106
+  63:
+    MenuItem:
+    - name:&aNetherite Chestplate
+    - amount:1
+    - type:netherite_chestplate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Repair'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 107
+  64:
+    MenuItem:
+    - name:&aNetherite Leggings
+    - amount:1
+    - type:netherite_leggings
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Repair'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 110
+  65:
+    MenuItem:
+    - name:&aNetherite Boots
+    - amount:1
+    - type:netherite_boots
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Repair'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 111
+  66:
+    MenuItem:
+    - name:&aIron Ingot
+    - amount:1
+    - type:iron_ingot
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a2.8 ⛃'
+    - 'lore5:&f▪ Exp: &72.8'
+    - 'lore6:&f▪ Points: &72.8'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 112
+  67:
+    MenuItem:
+    - name:&aGold Ingot
+    - amount:1
+    - type:gold_ingot
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a2.8 ⛃'
+    - 'lore5:&f▪ Exp: &72.8'
+    - 'lore6:&f▪ Points: &72.8'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 113
+  68:
+    MenuItem:
+    - name:&aNetherite Scrap
+    - amount:1
+    - type:netherite_scrap
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 114

@@ -1,0 +1,1301 @@
+ShopName: FarmerPayouts
+DisplayName: '&8Farmer Payouts'
+Command: FarmerPO
+signs:
+  text: '[FarmerPO]'
+  NeedPermissionToCreateSign: true
+shop:
+  1:
+    MenuItem:
+    - name:&aWolf
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjlkMWQzMTEzZWM0M2FjMjk2MWRkNTlmMjgxNzVmYjQ3MTg4NzNjNmM0NDhkZmNhODcyMjMxN2Q2NyJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Tame'
+    - 'lore4:&f▪ Money: &a8.0 ⛃'
+    - 'lore5:&f▪ Exp: &78.0'
+    - 'lore6:&f▪ Points: &78.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  2:
+    MenuItem:
+    - name:&aCat
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmIyNTNmYzZiNjU2OTg4NDUzYTJkNzEzOGZjYTRkMWYyNzUyZjQ3NjkxZjBjNDM0ZTQzMjE4Mzc3MWNmZTEifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Tame'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  3:
+    MenuItem:
+    - name:&aHorse
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWYxNWMyN2NiN2MzNWE2ZTdhYTc2MzU3M2RkYmZmOTgwODUxNmJkYWJjMjNmMWNiNTE2MzkxOGM0YTEzOTIifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Tame'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  4:
+    MenuItem:
+    - name:&aDonkey
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjE0NGJkYWQ2YmMxOGEzNzE2YjE5NmRjNGE0YmQ2OTUyNjVlY2NhYWRkMGQ5NDViZWI5NzY0NDNmODI2OTNiIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Tame'
+    - 'lore4:&f▪ Money: &a7.5 ⛃'
+    - 'lore5:&f▪ Exp: &77.5'
+    - 'lore6:&f▪ Points: &77.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  5:
+    MenuItem:
+    - name:&aMule
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZkY2RhMjY1ZTU3ZTRmNTFiMTQ1YWFjYmY1YjU5YmRjNjA5OWZmZDNjY2UwYTY2MWIyYzAwNjVkODA5MzBkOCJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Tame'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  6:
+    MenuItem:
+    - name:&aLlama
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzA4N2E1NTZkNGZmYTk1ZWNkMjg0NGYzNTBkYzQzZTI1NGU1ZDUzNWZhNTk2ZjU0MGQ3ZTc3ZmE2N2RmNDY5NiJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Tame'
+    - 'lore4:&f▪ Money: &a8.0 ⛃'
+    - 'lore5:&f▪ Exp: &78.0'
+    - 'lore6:&f▪ Points: &78.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  7:
+    MenuItem:
+    - name:&aParrot
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZkNjQ3ZTY4OWQ5MTFjNGY4NTFhMWY2Zjg2MzQwYzU3MzdiMmI1ZjUxODBlZmI3Y2M4MTY1ZjNhZjY4ZDEifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Tame'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  8:
+    MenuItem:
+    - name:&aFox
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM3ZDhiNDQ5NGY1YTNhZjdlZWM4N2RiYjM0NjZjZDNkZGE3ODM1Y2Y1ZDNhMzVkMWQ2YTFmYTQzMzdlMGIzIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Tame'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  9:
+    MenuItem:
+    - name:&aBee
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI3MjRhOWE0Y2RkNjhiYTQ5NDE1NTYwZTViZTQwYjRhMWM0N2NiNWJlMWQ2NmFlZGI1MmEzMGU2MmVmMmQ0NyJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  10:
+    MenuItem:
+    - name:&aCat
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmIyNTNmYzZiNjU2OTg4NDUzYTJkNzEzOGZjYTRkMWYyNzUyZjQ3NjkxZjBjNDM0ZTQzMjE4Mzc3MWNmZTEifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  11:
+    MenuItem:
+    - name:&aDolphin
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGU5Njg4Yjk1MGQ4ODBiNTViN2FhMmNmY2Q3NmU1YTBmYTk0YWFjNmQxNmY3OGU4MzNmNzQ0M2VhMjlmZWQzIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  12:
+    MenuItem:
+    - name:&aDonkey
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjE0NGJkYWQ2YmMxOGEzNzE2YjE5NmRjNGE0YmQ2OTUyNjVlY2NhYWRkMGQ5NDViZWI5NzY0NDNmODI2OTNiIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  13:
+    MenuItem:
+    - name:&aFox
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM3ZDhiNDQ5NGY1YTNhZjdlZWM4N2RiYjM0NjZjZDNkZGE3ODM1Y2Y1ZDNhMzVkMWQ2YTFmYTQzMzdlMGIzIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  14:
+    MenuItem:
+    - name:&aHorse
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWYxNWMyN2NiN2MzNWE2ZTdhYTc2MzU3M2RkYmZmOTgwODUxNmJkYWJjMjNmMWNiNTE2MzkxOGM0YTEzOTIifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  15:
+    MenuItem:
+    - name:&aLlama
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNkOWI1OTE1OTEyZmZjMmI4NTc2MWQ2YWRjYjQyOGE4MTJmOWI4M2ZmNjM0ZTMzMTE2MmNlNDZjOTllOSJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  16:
+    MenuItem:
+    - name:&aMule
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZkY2RhMjY1ZTU3ZTRmNTFiMTQ1YWFjYmY1YjU5YmRjNjA5OWZmZDNjY2UwYTY2MWIyYzAwNjVkODA5MzBkOCJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  17:
+    MenuItem:
+    - name:&aMushroom Cow
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDBiYzYxYjk3NTdhN2I4M2UwM2NkMjUwN2EyMTU3OTEzYzJjZjAxNmU3YzA5NmE0ZDZjZjFmZTFiOGRiIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  18:
+    MenuItem:
+    - name:&aOcelot
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY1N2NkNWMyOTg5ZmY5NzU3MGZlYzRkZGNkYzY5MjZhNjhhMzM5MzI1MGMxYmUxZjBiMTE0YTFkYjEifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  19:
+    MenuItem:
+    - name:&aPanda
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDE4OGM5ODBhYWNmYTk0Y2YzMzA4ODUxMmIxYjk1MTdiYTgyNmIxNTRkNGNhZmMyNjJhZmY2OTc3YmU4YSJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  20:
+    MenuItem:
+    - name:&aParrot
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZkNjQ3ZTY4OWQ5MTFjNGY4NTFhMWY2Zjg2MzQwYzU3MzdiMmI1ZjUxODBlZmI3Y2M4MTY1ZjNhZjY4ZDEifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  21:
+    MenuItem:
+    - name:&aPolar Bear
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQ2ZDIzZjA0ODQ2MzY5ZmEyYTM3MDJjMTBmNzU5MTAxYWY3YmZlODQxOTk2NjQyOTUzM2NkODFhMTFkMmIifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  22:
+    MenuItem:
+    - name:&aTrader Llama
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzA4N2E1NTZkNGZmYTk1ZWNkMjg0NGYzNTBkYzQzZTI1NGU1ZDUzNWZhNTk2ZjU0MGQ3ZTc3ZmE2N2RmNDY5NiJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  23:
+    MenuItem:
+    - name:&aTurtle
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMGE0MDUwZTdhYWNjNDUzOTIwMjY1OGZkYzMzOWRkMTgyZDdlMzIyZjlmYmNjNGQ1Zjk5YjU3MThhIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.25 ⛃'
+    - 'lore5:&f▪ Exp: &74.25'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  24:
+    MenuItem:
+    - name:&aVillager
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFiODMwZWI0MDgyYWNlYzgzNmJjODM1ZTQwYTExMjgyYmI1MTE5MzMxNWY5MTE4NDMzN2U4ZDM1NTU1ODMifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+  25:
+    MenuItem:
+    - name:&aWolf
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjlkMWQzMTEzZWM0M2FjMjk2MWRkNTlmMjgxNzVmYjQ3MTg4NzNjNmM0NDhkZmNhODcyMjMxN2Q2NyJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  27:
+    MenuItem:
+    - name:&aChicken
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZlNGNjOTYzZjI2MTcyYmFkNTM2NWFjYTIwOTExZGVkNzQ0YTJiNzQzNjc2YjExMmQ5YThjNDNlZjY1OSJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  28:
+    MenuItem:
+    - name:&aCow
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RmYTBhYzM3YmFiYTJhYTI5MGU0ZmFlZTQxOWE2MTNjZDYxMTdmYTU2OGU3MDlkOTAzNzQ3NTNjMDMyZGNiMCJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  29:
+    MenuItem:
+    - name:&aPig
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjIxNjY4ZWY3Y2I3OWRkOWMyMmNlM2QxZjNmNGNiNmUyNTU5ODkzYjZkZjRhNDY5NTE0ZTY2N2MxNmFhNCJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  30:
+    MenuItem:
+    - name:&aRabbit
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2QxMTY5YjI2OTRhNmFiYTgyNjM2MDk5MjM2NWJjZGE1YTEwYzg5YTNhYTJiNDhjNDM4NTMxZGQ4Njg1YzNhNyJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 56
+  31:
+    MenuItem:
+    - name:&aSheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjMxZjljY2M2YjNlMzJlY2YxM2I4YTExYWMyOWNkMzNkMThjOTVmYzczZGI4YTY2YzVkNjU3Y2NiOGJlNzAifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 57
+  31b:
+    MenuItem:
+    - name:&aAxolotl
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMxMzhmNDAxYzY3ZmMyZTFlMzg3ZDljOTBhOTY5MTc3MmVlNDg2ZThkZGJmMmVkMzc1ZmM4MzQ4NzQ2ZjkzNiJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Breed'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 58
+  32:
+    MenuItem:
+    - name:&aSweet Berries
+    - amount:1
+    - type:sweet_berries
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Collect'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 59
+  33:
+    MenuItem:
+    - name:&aComposter
+    - amount:1
+    - type:composter
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Collect'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 60
+  34:
+    MenuItem:
+    - name:&aBeehive
+    - amount:1
+    - type:Beehive
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Collect'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 61
+  35:
+    MenuItem:
+    - name:&aBee Nest
+    - amount:1
+    - type:Bee_nest
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Collect'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 62
+  36:
+    MenuItem:
+    - name:&aRed Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODM5YWY0NzdlYjYyNzgxNWY3MjNhNTY2MjU1NmVjOWRmY2JhYjVkNDk0ZDMzOGJkMjE0MjMyZjIzZTQ0NiJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 65
+  37:
+    MenuItem:
+    - name:&aOrange Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjA5ODM5N2EyNzBiNGMzZDJiMWU1NzRiOGNmZDNjYzRlYTM0MDkwNjZjZWZlMzFlYTk5MzYzM2M5ZDU3NiJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 66
+  38:
+    MenuItem:
+    - name:&aYellow Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZhNDExMmRmMWU0YmNlMmE1ZTI4NDE3ZjNhYWZmNzljZDY2ZTg4NWMzNzI0NTU0MTAyY2VmOGViOCJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 67
+  39:
+    MenuItem:
+    - name:&aGreen Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAxNzIxNWM3ZjhkYjgyMDQwYWEyYzQ3Mjk4YjY2NTQxYzJlYjVmN2Y5MzA0MGE1ZDIzZDg4ZjA2ODdkNGIzNCJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 68
+  40:
+    MenuItem:
+    - name:&aBlue Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDllYzIyODE4ZDFmYmZjODE2N2ZiZTM2NzI4YjI4MjQwZTM0ZTE2NDY5YTI5MjlkMDNmZGY1MTFiZjJjYTEifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 69
+  41:
+    MenuItem:
+    - name:&aLight Blue Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWE2MjRmNTk2NmJlZGQ2ZTY3ZjY1NGI1OWU5MjQ5YjJlY2YzMDdkOTAzMzM5YmMxOTk5MjM5NzdmNGM4YyJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 70
+  42:
+    MenuItem:
+    - name:&aMagenta Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTgzNjU2NWM3ODk3ZDQ5YTcxYmMxODk4NmQxZWE2NTYxMzIxYTBiYmY3MTFkNDFhNTZjZTNiYjJjMjE3ZTdhIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 71
+  43:
+    MenuItem:
+    - name:&aPink Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWU3MzhmNTZlYWZlNmZmYzE1ODNkZTgxMWFlMDU3ZmYzMDQ5MWM0MTc0OTA1OGJjNTI3NTMxN2U3MmU2NjkifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 74
+  44:
+    MenuItem:
+    - name:&aWhite Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjMxZjljY2M2YjNlMzJlY2YxM2I4YTExYWMyOWNkMzNkMThjOTVmYzczZGI4YTY2YzVkNjU3Y2NiOGJlNzAifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 75
+  45:
+    MenuItem:
+    - name:&aLight Gray Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2UxYWM2ODM5OTNiZTM1NTEyZTFiZTMxZDFmNGY5OGU1ODNlZGIxNjU4YTllMjExOTJjOWIyM2I1Y2NjZGMzIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 76
+  46:
+    MenuItem:
+    - name:&aBlack Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI2NTIwODNmMjhlZDFiNjFmOWI5NjVkZjFhYmYwMTBmMjM0NjgxYzIxNDM1OTUxYzY3ZDg4MzY0NzQ5ODIyIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 77
+  47:
+    MenuItem:
+    - name:&aBrown Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTU1YWQ2ZTVkYjU2OTJkODdmNTE1MTFmNGUwOWIzOWZmOWNjYjNkZTdiNDgxOWE3Mzc4ZmNlODU1M2I4In19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 78
+  48:
+    MenuItem:
+    - name:&aPurple Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWU1Mjg2N2FmZWYzOGJiMTRhMjZkMTQyNmM4YzBmMTE2YWQzNDc2MWFjZDkyZTdhYWUyYzgxOWEwZDU1Yjg1In19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 79
+  49:
+    MenuItem:
+    - name:&aCyan Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZmNmM3ZTdmZDUxNGNlMGFjYzY4NTkzMjI5ZTQwZmNjNDM1MmI4NDE2NDZlNGYwZWJjY2NiMGNlMjNkMTYifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 80
+  50:
+    MenuItem:
+    - name:&aGray Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDI4N2ViNTAxMzkxZjI3NTM4OWYxNjZlYzlmZWJlYTc1ZWM0YWU5NTFiODhiMzhjYWU4N2RmN2UyNGY0YyJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 83
+  51:
+    MenuItem:
+    - name:&aLime Sheep
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJhMjQ0OGY1OGE0OTEzMzI0MzRlODVjNDVkNzg2ZDg3NDM5N2U4MzBhM2E3ODk0ZTZkOTI2OTljNDJiMzAifX19
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Shear'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 84
+  52:
+    MenuItem:
+    - name:&aCow
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RmYTBhYzM3YmFiYTJhYTI5MGU0ZmFlZTQxOWE2MTNjZDYxMTdmYTU2OGU3MDlkOTAzNzQ3NTNjMDMyZGNiMCJ9fX0=
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Milk'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 85
+  53:
+    MenuItem:
+    - name:&aMushroom Cow
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDBiYzYxYjk3NTdhN2I4M2UwM2NkMjUwN2EyMTU3OTEzYzJjZjAxNmU3YzA5NmE0ZDZjZjFmZTFiOGRiIn19fQ==
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Milk'
+    - 'lore4:&f▪ Money: &a5 ⛃'
+    - 'lore5:&f▪ Exp: &710'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 86
+  54:
+    MenuItem:
+    - name:&aTube Coral Fan
+    - amount:1
+    - type:tube_coral_fan
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 87
+  55:
+    MenuItem:
+    - name:&aBrain Coral Fan
+    - amount:1
+    - type:brain_coral_fan
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 88
+  56:
+    MenuItem:
+    - name:&aBubble Coral Fan
+    - amount:1
+    - type:bubble_coral_fan
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 89
+  57:
+    MenuItem:
+    - name:&aFire Coral Fan 
+    - amount:1
+    - type:fire_coral_fan 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 101
+  58:
+    MenuItem:
+    - name:&aHorn Coral Fan 
+    - amount:1
+    - type:horn_coral_fan 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 102
+  59:
+    MenuItem:
+    - name:&aKelp Plant 
+    - amount:1
+    - type:kelp
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 103
+  60:
+    MenuItem:
+    - name:&aKelp 
+    - amount:1
+    - type:kelp 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 104
+  61:
+    MenuItem:
+    - name:&aSeagrass 
+    - amount:1
+    - type:seagrass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 105
+  62:
+    MenuItem:
+    - name:&aTall Seagrass 
+    - amount:1
+    - type:seagrass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 106
+  63:
+    MenuItem:
+    - name:&aSea Pickle 
+    - amount:1
+    - type:sea_pickle 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 107
+  64:
+    MenuItem:
+    - name:&aChorus Plant 
+    - amount:1
+    - type:chorus_plant 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 110
+  65:
+    MenuItem:
+    - name:&aChorus Flower 
+    - amount:1
+    - type:chorus_flower 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 111
+  66:
+    MenuItem:
+    - name:&aBeetroots-3 
+    - amount:1
+    - type:beetroot
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.2 ⛃'
+    - 'lore5:&f▪ Exp: &71.2'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 112
+  67:
+    MenuItem:
+    - name:&aWheat-7 
+    - amount:1
+    - type:wheat 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.0 ⛃'
+    - 'lore5:&f▪ Exp: &71.0'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 113
+  68:
+    MenuItem:
+    - name:&aCarrots-7 
+    - amount:1
+    - type:carrot
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.0 ⛃'
+    - 'lore5:&f▪ Exp: &71.0'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 114
+  69:
+    MenuItem:
+    - name:&aPotatoes-7 
+    - amount:1
+    - type:potato
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.0 ⛃'
+    - 'lore5:&f▪ Exp: &71.0'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 115
+  70:
+    MenuItem:
+    - name:&aPumpkin 
+    - amount:1
+    - type:pumpkin 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.8 ⛃'
+    - 'lore5:&f▪ Exp: &70.8'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 116
+  71:
+    MenuItem:
+    - name:&aMelon 
+    - amount:1
+    - type:melon 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.8 ⛃'
+    - 'lore5:&f▪ Exp: &70.8'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 119
+  72:
+    MenuItem:
+    - name:&aSugar Cane 
+    - amount:1
+    - type:sugar_cane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.7 ⛃'
+    - 'lore5:&f▪ Exp: &70.7'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 120
+  73:
+    MenuItem:
+    - name:&aCocoa-2 
+    - amount:1
+    - type:cocoa_beans
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 121
+  74:
+    MenuItem:
+    - name:&aLily Pad 
+    - amount:1
+    - type:lily_pad 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 122
+  75:
+    MenuItem:
+    - name:&aDandelion 
+    - amount:1
+    - type:dandelion 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 123
+  76:
+    MenuItem:
+    - name:&aPoppy 
+    - amount:1
+    - type:poppy 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 124
+  77:
+    MenuItem:
+    - name:&aBlue Orchid 
+    - amount:1
+    - type:blue_orchid 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 125
+  78:
+    MenuItem:
+    - name:&aAllium 
+    - amount:1
+    - type:allium 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 128
+  79:
+    MenuItem:
+    - name:&aAzure Bluet 
+    - amount:1
+    - type:azure_bluet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 129
+  80:
+    MenuItem:
+    - name:&aRed Tulip 
+    - amount:1
+    - type:red_tulip 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 130
+  81:
+    MenuItem:
+    - name:&aOrange Tulip 
+    - amount:1
+    - type:orange_tulip 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 131
+  82:
+    MenuItem:
+    - name:&aWhite Tulip 
+    - amount:1
+    - type:white_tulip 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 132
+  83:
+    MenuItem:
+    - name:&aPink Tulip 
+    - amount:1
+    - type:pink_tulip 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 133
+  84:
+    MenuItem:
+    - name:&aOxeye Daisy 
+    - amount:1
+    - type:oxeye_daisy 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 134
+  85:
+    MenuItem:
+    - name:&aBrown Mushroom 
+    - amount:1
+    - type:brown_mushroom 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 146
+  86:
+    MenuItem:
+    - name:&aRed Mushroom 
+    - amount:1
+    - type:red_mushroom 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 147
+  87:
+    MenuItem:
+    - name:&aVine 
+    - amount:1
+    - type:vine 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 148
+  88:
+    MenuItem:
+    - name:&aCactus 
+    - amount:1
+    - type:cactus 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.2 ⛃'
+    - 'lore5:&f▪ Exp: &71.2'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 149
+  89:
+    MenuItem:
+    - name:&aNether Wart 
+    - amount:1
+    - type:nether_wart 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.3 ⛃'
+    - 'lore5:&f▪ Exp: &71.3'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 150

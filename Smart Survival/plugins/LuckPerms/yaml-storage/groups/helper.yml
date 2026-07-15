@@ -1,0 +1,24 @@
+name: helper
+permissions:
+- chatmanager.broadcast
+- chatmanager.bypass.clearchat
+- chatmanager.bypass.mutechat
+- chatmanager.clearchat
+- chatmanager.colors
+- chatmanager.format
+- chatmanager.lists.staff
+- chatmanager.staff
+- chatmanager.staffchat
+- chatmanager.warning
+- displayname.
+- essentials.chat.color
+- essentials.helpop.receive
+- essentials.me
+- essentials.msg.color
+- essentials.msg.format
+- essentials.seen
+parents:
+- default
+prefixes:
+- '&f#1dda42':
+    priority: 999

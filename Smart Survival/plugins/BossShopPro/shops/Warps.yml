@@ -1,0 +1,306 @@
+ShopName: Warps
+DisplayName: '&f⻔⻔⻔⻔⻔⻔⻔⻔'
+Command: Warps:Warp
+signs:
+  text: '[Warps]'
+  NeedPermissionToCreateSign: true
+shop:
+  1cu1:
+    MenuItem:
+    - name:#ce5662ᴀᴜᴄᴛɪᴏɴꜱ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴛʜᴇ ʀɪᴄʜᴇꜱᴛ ᴍᴀɴ ᴡɪɴꜱ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp bids
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 6
+  1cu12:
+    MenuItem:
+    - name:#ce5662ᴀᴜᴄᴛɪᴏɴꜱ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴛʜᴇ ʀɪᴄʜᴇꜱᴛ ᴍᴀɴ ᴡɪɴꜱ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp bids
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 7
+  1cu13:
+    MenuItem:
+    - name:#ce5662ᴀᴜᴄᴛɪᴏɴꜱ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴛʜᴇ ʀɪᴄʜᴇꜱᴛ ᴍᴀɴ ᴡɪɴꜱ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp bids
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+####################################################################################################################
+  2cu2:
+    MenuItem:
+    - name:#8ccf28ᴄᴀꜱɪɴᴏ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴛʀʏ ʏᴏᴜʀ ʟᴜᴄᴋ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp casino
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+  2cu22:
+    MenuItem:
+    - name:#8ccf28ᴄᴀꜱɪɴᴏ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴛʀʏ ʏᴏᴜʀ ʟᴜᴄᴋ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp casino
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 3
+  2cu24:
+    MenuItem:
+    - name:#8ccf28ᴄᴀꜱɪɴᴏ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴛʀʏ ʏᴏᴜʀ ʟᴜᴄᴋ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp casino
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 4
+####################################################################################################################
+  2cu1:
+    MenuItem:
+    - name:#e0ba50ᴄʀᴀᴛᴇꜱ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ꜱᴘᴇᴄɪᴀʟ ɢɪꜰᴛꜱ ꜰᴏʀ ʏᴏᴜ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp crates
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  2cu12:
+    MenuItem:
+    - name:#e0ba50ᴄʀᴀᴛᴇꜱ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ꜱᴘᴇᴄɪᴀʟ ɢɪꜰᴛꜱ ꜰᴏʀ ʏᴏᴜ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp crates
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  2cu13:
+    MenuItem:
+    - name:#e0ba50ᴄʀᴀᴛᴇꜱ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ꜱᴘᴇᴄɪᴀʟ ɢɪꜰᴛꜱ ꜰᴏʀ ʏᴏᴜ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp crates
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+####################################################################################################################
+  3cu1:
+    MenuItem:
+    - name:#717070ᴅᴜɴɢᴇᴏɴ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴋɪʟʟ ᴍᴏɴꜱᴛᴇʀꜱ ꜰᴏʀ ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp dungeons
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  3cu12:
+    MenuItem:
+    - name:#717070ᴅᴜɴɢᴇᴏɴ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴋɪʟʟ ᴍᴏɴꜱᴛᴇʀꜱ ꜰᴏʀ ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp dungeons
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  3cu13:
+    MenuItem:
+    - name:#717070ᴅᴜɴɢᴇᴏɴ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴋɪʟʟ ᴍᴏɴꜱᴛᴇʀꜱ ꜰᴏʀ ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp dungeons
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+####################################################################################################################
+  6cu1:
+    MenuItem:
+    - name:#f5a839ᴍɪɴᴇ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴍɪɴᴇ ꜰᴏʀ ʙᴇɢɪɴɴᴇʀꜱ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp mine
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  6cu12:
+    MenuItem:
+    - name:#f5a839ᴍɪɴᴇ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴍɪɴᴇ ꜰᴏʀ ʙᴇɢɪɴɴᴇʀꜱ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp mine
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  6cu13:
+    MenuItem:
+    - name:#f5a839ᴍɪɴᴇ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴍɪɴᴇ ꜰᴏʀ ʙᴇɢɪɴɴᴇʀꜱ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp mine
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+####################################################################################################################
+  7cu1:
+    MenuItem:
+    - name:#fc453eᴘᴠᴘ ᴀʀᴇɴᴀ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ꜱʜᴏᴡ ʏᴏᴜʀ ꜱᴜᴘʀᴇᴍᴀᴄʏ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp pvparena
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  7cu12:
+    MenuItem:
+    - name:#fc453eᴘᴠᴘ ᴀʀᴇɴᴀ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ꜱʜᴏᴡ ʏᴏᴜʀ ꜱᴜᴘʀᴇᴍᴀᴄʏ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp pvparena
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  7cu13:
+    MenuItem:
+    - name:#fc453eᴘᴠᴘ ᴀʀᴇɴᴀ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ꜱʜᴏᴡ ʏᴏᴜʀ ꜱᴜᴘʀᴇᴍᴀᴄʏ'
+    - 'lore3:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - warp pvparena
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+####################################################################################################################
+  Back:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  Back2:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  Back3:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  glasxsgray6:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54

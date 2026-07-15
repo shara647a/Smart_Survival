@@ -1,0 +1,91 @@
+games:
+  European1:
+    model:
+      id: 8aeecefd-3dbc-42e6-852f-ca7a60f1e41e
+      type: EUROPEAN
+      wool-type: RED
+      wood-type: SPRUCE
+      deco-pattern:
+      - '#  '
+      - '## '
+      - '###'
+    location:
+      world: world
+      x: -3.5
+      y: 73.0
+      z: -76.5
+      yaw: 270.0
+      pitch: 0.0
+    rules:
+      la-partage: false
+      en-prison: false
+      surrender: false
+    settings:
+      bet-all: true
+      start-time: 30
+      min-players: 1
+      max-players: 10
+    npc:
+      name: §f §dHarry
+    other:
+      owner-id: a596f507-2d85-379d-9bde-09e2c3d6e039
+  European2:
+    model:
+      id: 9e5ff723-6827-48e0-b9dc-6d9fd0e56e55
+      type: EUROPEAN
+      wool-type: RED
+      wood-type: SPRUCE
+      deco-pattern:
+      - '#  '
+      - '###'
+      - '## '
+    location:
+      world: world
+      x: 4.5
+      y: 73.0
+      z: -76.5
+      yaw: 270.0
+      pitch: 0.0
+    rules:
+      la-partage: false
+      en-prison: false
+      surrender: false
+    settings:
+      bet-all: true
+      start-time: 30
+      min-players: 1
+      max-players: 10
+    npc:
+      name: §f §dArthur
+    other:
+      owner-id: a596f507-2d85-379d-9bde-09e2c3d6e039
+  American1:
+    model:
+      id: 57a6e721-57b8-4710-af47-340605e89e84
+      type: AMERICAN
+      wool-type: RED
+      wood-type: SPRUCE
+      deco-pattern:
+      - '#  '
+      - '###'
+      - '## '
+    location:
+      world: world
+      x: 0.5
+      y: 73.0
+      z: -96.5
+      yaw: 0.0
+      pitch: 0.0
+    rules:
+      la-partage: false
+      en-prison: false
+      surrender: false
+    settings:
+      bet-all: true
+      start-time: 30
+      min-players: 1
+      max-players: 10
+    npc:
+      name: §f §dGeorge
+    other:
+      owner-id: a596f507-2d85-379d-9bde-09e2c3d6e039

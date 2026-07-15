@@ -1,0 +1,9 @@
+name: owner
+permissions:
+- essentials.*
+- displayname.
+parents:
+- default
+prefixes:
+- '&f#ad003f':
+    priority: 999

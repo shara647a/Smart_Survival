@@ -1,0 +1,4 @@
+HandleLegacyColorCodes: true
+Messages:
+  Reload: '&eEditable signs has been reloaded!'
+  NoPermission: '&cYou do not have permission to use that command!'

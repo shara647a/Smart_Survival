@@ -1,0 +1,232 @@
+
+#		   Mines - Skript			#
+#		     by MihiBlu 			#
+
+on unload:
+	if {minaopen} is set:
+		set block at location at -81, 69, 105 in world "world" to iron_bars
+		set block at location at -81, 70, 105 in world "world" to iron_bars
+		set block at location at -81, 71, 105 in world "world" to iron_bars
+		set block at location at -83, 69, 105 in world "world" to iron_bars
+		set block at location at -83, 70, 105 in world "world" to iron_bars
+		set block at location at -83, 71, 105 in world "world" to iron_bars
+		set block at location at -83, 72, 105 in world "world" to iron_bars
+		set block at location at -85, 69, 105 in world "world" to iron_bars
+		set block at location at -85, 70, 105 in world "world" to iron_bars
+		set block at location at -85, 71, 105 in world "world" to iron_bars
+		set block at location at -85, 72, 105 in world "world" to iron_bars
+		set block at location at -87, 69, 105 in world "world" to iron_bars
+		set block at location at -87, 70, 105 in world "world" to iron_bars
+		set block at location at -87, 71, 105 in world "world" to iron_bars
+		delete {minaopen}
+	delete {mina::*}
+	set block at location -64.5, 72.5, 124.5 in world "world" to coal ore
+	set block at location -64.5, 72.5, 125.5 in world "world" to coal ore
+	set block at location -65.5, 71.5, 124.5 in world "world" to coal ore
+	set block at location -65.5, 71.5, 125.5 in world "world" to coal ore
+	set block at location -65.5, 70.5, 124.5 in world "world" to coal ore
+	set block at location -65.5, 70.5, 125.5 in world "world" to coal ore
+	set block at location -65.5, 70.5, 126.5 in world "world" to coal ore
+	set block at location -69.5, 71.5, 136.5 in world "world" to coal ore
+	set block at location -69.5, 70.5, 136.5 in world "world" to coal ore
+	set block at location -68.5, 70.5, 136.5 in world "world" to coal ore
+	set block at location -69.5, 69.5, 135.5 in world "world" to coal ore
+	set block at location -68.5, 69.5, 136.5 in world "world" to coal ore
+	set block at location -67.5, 69.5, 136.5 in world "world" to coal ore
+	set block at location -68.5, 68.5, 135.5 in world "world" to coal ore
+	set block at location -69.5, 68.5, 135.5 in world "world" to coal ore
+	set block at location -66.5, 69.5, 114.5 in world "world" to coal ore
+	set block at location -66.5, 70.5, 113.5 in world "world" to coal ore
+	set block at location -67.5, 70.5, 113.5 in world "world" to coal ore
+	set block at location -67.5, 71.5, 113.5 in world "world" to coal ore
+	set block at location -44.5, 67.5, 131.5 in world "world" to coal ore
+	set block at location -44.5, 66.5, 130.5 in world "world" to coal ore
+	set block at location -44.5, 66.5, 131.5 in world "world" to coal ore
+	set block at location -44.5, 66.5, 132.5 in world "world" to coal ore
+	set block at location -44.5, 65.5, 132.5 in world "world" to coal ore
+	set block at location -44.5, 65.5, 131.5 in world "world" to coal ore
+	set block at location -49.5, 67.5, 138.5 in world "world" to coal ore
+	set block at location -49.5, 66.5, 138.5 in world "world" to coal ore
+	set block at location -49.5, 65.5, 138.5 in world "world" to coal ore
+	set block at location -50.5, 66.5, 138.5 in world "world" to coal ore
+	set block at location -74.5, 68.5, 127.5 in world "world" to coal ore
+	set block at location -74.5, 67.5, 127.5 in world "world" to coal ore
+	set block at location -74.5, 67.5, 128.5 in world "world" to coal ore
+	set block at location -74.5, 66.5, 128.5 in world "world" to coal ore
+	set block at location -74.5, 66.5, 129.5 in world "world" to coal ore
+	set block at location -74.5, 66.5, 130.5 in world "world" to coal ore
+	set block at location -74.5, 65.5, 129.5 in world "world" to coal ore
+	set block at location -85.5, 65.5, 131.5 in world "world" to iron ore
+	set block at location -85.5, 65.5, 130.5 in world "world" to iron ore
+	set block at location -85.5, 66.5, 130.5 in world "world" to iron ore
+	set block at location -85.5, 66.5, 129.5 in world "world" to iron ore
+	set block at location -85.5, 65.5, 129.5 in world "world" to iron ore
+	set block at location -77.5, 65.5, 126.5 in world "world" to iron ore
+	set block at location -77.5, 65.5, 125.5 in world "world" to iron ore
+	set block at location -76.5, 66.5, 125.5 in world "world" to iron ore
+	set block at location -67.5, 67.5, 130.5 in world "world" to iron ore
+	set block at location -67.5, 67.5, 131.5 in world "world" to iron ore
+	set block at location -66.5, 67.5, 131.5 in world "world" to iron ore
+	set block at location -67.5, 67.5, 132.5 in world "world" to iron ore
+	set block at location -63.5, 70.5, 129.5 in world "world" to iron ore
+	set block at location -62.5, 70.5, 130.5 in world "world" to iron ore
+	set block at location -62.5, 70.5, 131.5 in world "world" to iron ore
+	set block at location -62.5, 71.5, 131.5 in world "world" to iron ore
+	set block at location -54.5, 66.5, 120.5 in world "world" to iron ore
+	set block at location -54.5, 66.5, 121.5 in world "world" to iron ore
+	set block at location -54.5, 65.5, 121.5 in world "world" to iron ore
+	set block at location -47.5, 65.5, 138.5 in world "world" to iron ore
+	set block at location -48.5, 65.5, 138.5 in world "world" to iron ore
+	set block at location -48.5, 66.5, 138.5 in world "world" to iron ore
+	set block at location -50.5, 63.5, 131.5 in world "world" to iron ore
+	set block at location -51.5, 63.5, 131.5 in world "world" to iron ore
+	set block at location -52.5, 63.5, 131.5 in world "world" to iron ore
+	set block at location -51.5, 63.5, 130.5 in world "world" to iron ore
+	set block at location -52.5, 63.5, 130.5 in world "world" to iron ore
+	set block at location -51.5, 63.5, 132.5 in world "world" to iron ore
+	set block at location -63.5, 69.5, 123.5 in world "world" to iron ore
+	set block at location -63.5, 70.5, 123.5 in world "world" to iron ore
+	set block at location -62.5, 69.5, 130.5 in world "world" to copper ore
+	set block at location -62.5, 69.5, 131.5 in world "world" to copper ore
+	set block at location -73.5, 69.5, 131.5 in world "world" to copper ore
+	set block at location -73.5, 70.5, 131.5 in world "world" to copper ore
+	set block at location -73.5, 71.5, 131.5 in world "world" to copper ore
+	set block at location -73.5, 70.5, 130.5 in world "world" to copper ore
+	set block at location -54.5, 66.5, 132.5 in world "world" to copper ore
+	set block at location -55.5, 67.5, 131.5 in world "world" to copper ore
+	set block at location -55.5, 66.5, 131.5 in world "world" to copper ore
+	set block at location -55.5, 65.5, 131.5 in world "world" to copper ore
+	set block at location -55.5, 65.5, 130.5 in world "world" to copper ore
+	set block at location -63.5, 68.5, 131.5 in world "world" to gold ore
+	set block at location -62.5, 69.5, 132.5 in world "world" to gold ore
+	set block at location -62.5, 70.5, 132.5 in world "world" to gold ore
+	set block at location -73.5, 69.5, 129.5 in world "world" to gold ore
+	set block at location -73.5, 69.5, 130.5 in world "world" to gold ore
+	set block at location -73.5, 68.5, 130.5 in world "world" to gold ore
+	set block at location -61.5, 66.5, 125.5 in world "world" to redstone ore
+	set block at location -61.5, 67.5, 125.5 in world "world" to redstone ore
+	set block at location -60.5, 67.5, 126.5 in world "world" to redstone ore
+	set block at location -73.5, 70.5, 124.5 in world "world" to lapis ore
+	set block at location -73.5, 71.5, 124.5 in world "world" to lapis ore
+	set block at location -74.5, 66.5, 133.5 in world "world" to emerald ore
+	set block at location -83.5, 69.5, 132.5 in world "world" to emerald ore
+	set block at location -46.5, 70.5, 134.5 in world "world" to emerald ore
+	set block at location -51.5, 64.5, 125.5 in world "world" to diamond ore
+	set block at location -51.5, 65.5, 125.5 in world "world" to diamond ore
+	set block at location -51.5, 66.5, 125.5 in world "world" to diamond ore
+	set block at location -57.5, 71.5, 126.5 in world "world" to diamond ore
+	set block at location -58.5, 71.5, 126.5 in world "world" to diamond ore
+	set block at location -58.5, 71.5, 125.5 in world "world" to diamond ore
+	set block at location -82.5, 66.5, 138.5 in world "world" to diamond ore
+	set block at location -83.5, 66.5, 138.5 in world "world" to diamond ore
+
+command /mina [<player>]:
+	permission: op
+	trigger:
+		if arg-1 have permission "unlock.mine":
+			if {minaopen} is not set:
+				wait 2 tick
+				set {minaopen} to 1
+				wait 2 seconds
+				set block at location at -81, 69, 105 in world "world" to air
+				set block at location at -81, 70, 105 in world "world" to air
+				set block at location at -81, 71, 105 in world "world" to air
+				set block at location at -83, 69, 105 in world "world" to air
+				set block at location at -83, 70, 105 in world "world" to air
+				set block at location at -83, 71, 105 in world "world" to air
+				set block at location at -83, 72, 105 in world "world" to air
+				set block at location at -85, 69, 105 in world "world" to air
+				set block at location at -85, 70, 105 in world "world" to air
+				set block at location at -85, 71, 105 in world "world" to air
+				set block at location at -85, 72, 105 in world "world" to air
+				set block at location at -87, 69, 105 in world "world" to air
+				set block at location at -87, 70, 105 in world "world" to air
+				set block at location at -87, 71, 105 in world "world" to air
+				wait 6 seconds
+				set block at location at -81, 69, 105 in world "world" to iron_bars
+				set block at location at -81, 70, 105 in world "world" to iron_bars
+				set block at location at -81, 71, 105 in world "world" to iron_bars
+				set block at location at -83, 69, 105 in world "world" to iron_bars
+				set block at location at -83, 70, 105 in world "world" to iron_bars
+				set block at location at -83, 71, 105 in world "world" to iron_bars
+				set block at location at -83, 72, 105 in world "world" to iron_bars
+				set block at location at -85, 69, 105 in world "world" to iron_bars
+				set block at location at -85, 70, 105 in world "world" to iron_bars
+				set block at location at -85, 71, 105 in world "world" to iron_bars
+				set block at location at -85, 72, 105 in world "world" to iron_bars
+				set block at location at -87, 69, 105 in world "world" to iron_bars
+				set block at location at -87, 70, 105 in world "world" to iron_bars
+				set block at location at -87, 71, 105 in world "world" to iron_bars
+				wait 2 seconds
+				delete {minaopen}
+			
+command /openmina [<player>]:
+	permission: op
+	trigger:
+		if {mina::%arg-1%} is not set:
+			set {mina::%arg-1%} to 1
+			if arg-1 have permission "unlock.mine":
+				if {minaopen} is not set:
+					wait 5 ticks
+					send "&f &dNoah: &7Now the gate opens. Increase work :d" to arg-1
+				else:
+					send "&f &dNoah: &7The mine gate is already open or has recently been opened." to arg-1
+			else:
+				send "&f &dNoah: &7You do not have the necessary permissions to open the gate!" to arg-1
+			wait 2 seconds
+			delete {mina::%arg-1%}
+			
+command /openmina2 [<player>]:
+	permission: op
+	trigger:
+		if {mina::%arg-1%} is not set:
+			set {mina::%arg-1%} to 1
+			if arg-1 have permission "unlock.mine":
+				if {minaopen} is not set:
+					wait 5 ticks
+					send "&f &dElijah: &7Are you done yet? Now the gate opens." to arg-1
+				else:
+					send "&f &dElijah: &7The mine gate is already open or has recently been opened." to arg-1
+			else:
+				send "&f &dElijah: &7You do not have the necessary permissions to open the gate!" to arg-1
+			wait 2 seconds
+			delete {mina::%arg-1%}
+
+on block break:
+	if "%region at player%" is "mine in world world, spawn in world world and spawn2 in world world":
+		if event-block is coal ore:
+			set event-block to cobblestone
+			wait 10 minutes
+			set event-block to coal ore
+		else if event-block is iron ore:
+			set event-block to cobblestone
+			wait 12 minutes
+			set event-block to iron ore
+		else if event-block is copper ore:
+			set event-block to cobblestone
+			wait 13 minutes
+			set event-block to copper ore
+		else if event-block is gold ore:
+			set event-block to cobblestone
+			wait 15 minutes
+			set event-block to gold ore
+		else if event-block is redstone ore:
+			set event-block to cobblestone
+			wait 3 minutes
+			set event-block to redstone ore
+		else if event-block is lapis ore:
+			set event-block to cobblestone
+			wait 5 minutes
+			set event-block to lapis ore
+		else if event-block is diamond ore:
+			set event-block to cobblestone
+			wait 25 minutes
+			set event-block to diamond ore
+		else if event-block is emerald ore:
+			set event-block to cobblestone
+			wait 20 minutes
+			set event-block to emerald ore
+		else:
+			if player don't have permission "op":
+				cancel event
+			

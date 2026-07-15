@@ -1,0 +1,13 @@
+Name: §dEpic Key
+Virtual: false
+Item:
+  Material: STICK
+  Custom_Model_Data: 144
+  Amount: 1
+  Durability: 0
+  Name: '&dEpic Key'
+  Lore:
+  - '&7With this key you'
+  - '&7can open epic crate'
+  Item_Flags: []
+  Unbreakable: false

@@ -1,0 +1,5691 @@
+ShopName: CrafterPayouts
+DisplayName: '&8Crafter Payouts'
+Command: CrafterPO
+signs:
+  text: '[CrafterPO]'
+  NeedPermissionToCreateSign: true
+shop:
+  1:
+    MenuItem:
+    - name:&aOak Planks 
+    - amount:1
+    - type:oak_planks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  2:
+    MenuItem:
+    - name:&aSpruce Planks 
+    - amount:1
+    - type:spruce_planks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  3:
+    MenuItem:
+    - name:&aBirch Planks 
+    - amount:1
+    - type:birch_planks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  4:
+    MenuItem:
+    - name:&aJungle Planks 
+    - amount:1
+    - type:jungle_planks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  5:
+    MenuItem:
+    - name:&aAcacia Planks 
+    - amount:1
+    - type:acacia_planks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  6:
+    MenuItem:
+    - name:&aDark Oak Planks 
+    - amount:1
+    - type:dark_oak_planks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  7:
+    MenuItem:
+    - name:&aCrimson Planks 
+    - amount:1
+    - type:crimson_planks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  8:
+    MenuItem:
+    - name:&aWarped Planks 
+    - amount:1
+    - type:warped_planks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  9:
+    MenuItem:
+    - name:&aStick 
+    - amount:1
+    - type:stick 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  10:
+    MenuItem:
+    - name:&aTorch 
+    - amount:1
+    - type:torch 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  11:
+    MenuItem:
+    - name:&aChest 
+    - amount:1
+    - type:chest 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  12:
+    MenuItem:
+    - name:&aFurnace 
+    - amount:1
+    - type:furnace 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.12 ⛃'
+    - 'lore5:&f▪ Exp: &70.12'
+    - 'lore6:&f▪ Points: &70.12'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  13:
+    MenuItem:
+    - name:&aLadder 
+    - amount:1
+    - type:ladder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  14:
+    MenuItem:
+    - name:&aPainting 
+    - amount:1
+    - type:painting 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.12 ⛃'
+    - 'lore5:&f▪ Exp: &70.12'
+    - 'lore6:&f▪ Points: &70.12'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  15:
+    MenuItem:
+    - name:&aOak Fence 
+    - amount:1
+    - type:oak_fence 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  16:
+    MenuItem:
+    - name:&aSpruce Fence 
+    - amount:1
+    - type:spruce_fence 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  17:
+    MenuItem:
+    - name:&aJungle Fence 
+    - amount:1
+    - type:jungle_fence 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  18:
+    MenuItem:
+    - name:&aBirch Fence 
+    - amount:1
+    - type:birch_fence 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  19:
+    MenuItem:
+    - name:&aAcacia Fence 
+    - amount:1
+    - type:acacia_fence 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  20:
+    MenuItem:
+    - name:&aDark Oak Fence 
+    - amount:1
+    - type:dark_oak_fence 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  21:
+    MenuItem:
+    - name:&aCrimson Fence 
+    - amount:1
+    - type:crimson_fence 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  22:
+    MenuItem:
+    - name:&aWarped Fence 
+    - amount:1
+    - type:warped_fence 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  23:
+    MenuItem:
+    - name:&aNether Brick Fence 
+    - amount:1
+    - type:nether_brick_fence 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  24:
+    MenuItem:
+    - name:&aOak Fence Gate 
+    - amount:1
+    - type:oak_fence_gate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+  25:
+    MenuItem:
+    - name:&aSpruce Fence Gate 
+    - amount:1
+    - type:spruce_fence_gate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  26:
+    MenuItem:
+    - name:&aBirch Fence Gate 
+    - amount:1
+    - type:birch_fence_gate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  27:
+    MenuItem:
+    - name:&aJungle Fence Gate 
+    - amount:1
+    - type:jungle_fence_gate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  28:
+    MenuItem:
+    - name:&aAcacia Fence Gate 
+    - amount:1
+    - type:acacia_fence_gate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  29:
+    MenuItem:
+    - name:&aDark Oak Fence Gate 
+    - amount:1
+    - type:dark_oak_fence_gate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 56
+  30:
+    MenuItem:
+    - name:&aCrimson Fence Gate 
+    - amount:1
+    - type:crimson_fence_gate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 57
+  31:
+    MenuItem:
+    - name:&aWarped Fence Gate 
+    - amount:1
+    - type:warped_fence_gate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 58
+  32:
+    MenuItem:
+    - name:&aOak Boat 
+    - amount:1
+    - type:oak_boat 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 59
+  33:
+    MenuItem:
+    - name:&aSpruce Boat 
+    - amount:1
+    - type:spruce_boat 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 60
+  34:
+    MenuItem:
+    - name:&aBirch Boat 
+    - amount:1
+    - type:birch_boat 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 61
+  35:
+    MenuItem:
+    - name:&aJungle Boat 
+    - amount:1
+    - type:jungle_boat 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 62
+  36:
+    MenuItem:
+    - name:&aAcacia Boat 
+    - amount:1
+    - type:acacia_boat 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 65
+  37:
+    MenuItem:
+    - name:&aDark Oak Boat 
+    - amount:1
+    - type:dark_oak_boat 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 66
+  38:
+    MenuItem:
+    - name:&aOak Slab 
+    - amount:1
+    - type:oak_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 67
+  39:
+    MenuItem:
+    - name:&aSpruce Slab 
+    - amount:1
+    - type:spruce_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 68
+  40:
+    MenuItem:
+    - name:&aBirch Slab 
+    - amount:1
+    - type:birch_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 69
+  41:
+    MenuItem:
+    - name:&aJungle Slab 
+    - amount:1
+    - type:jungle_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 70
+  42:
+    MenuItem:
+    - name:&aAcacia Slab 
+    - amount:1
+    - type:acacia_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 71
+  43:
+    MenuItem:
+    - name:&aDark Oak Slab 
+    - amount:1
+    - type:dark_oak_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 74
+  44:
+    MenuItem:
+    - name:&aCrimson Slab 
+    - amount:1
+    - type:crimson_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 75
+  45:
+    MenuItem:
+    - name:&aWarped Slab 
+    - amount:1
+    - type:warped_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 76
+  46:
+    MenuItem:
+    - name:&aPetrified Oak Slab 
+    - amount:1
+    - type:petrified_oak_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.07 ⛃'
+    - 'lore5:&f▪ Exp: &70.07'
+    - 'lore6:&f▪ Points: &70.07'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 77
+  47:
+    MenuItem:
+    - name:&aCobblestone Slab 
+    - amount:1
+    - type:cobblestone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.05 ⛃'
+    - 'lore5:&f▪ Exp: &70.05'
+    - 'lore6:&f▪ Points: &70.05'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 78
+  48:
+    MenuItem:
+    - name:&aStone Slab 
+    - amount:1
+    - type:stone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.08 ⛃'
+    - 'lore5:&f▪ Exp: &70.08'
+    - 'lore6:&f▪ Points: &70.08'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 79
+  49:
+    MenuItem:
+    - name:&aSmooth Stone Slab 
+    - amount:1
+    - type:smooth_stone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 80
+  50:
+    MenuItem:
+    - name:&aStone Brick Slab 
+    - amount:1
+    - type:stone_brick_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 83
+  51:
+    MenuItem:
+    - name:&aSandstone Slab 
+    - amount:1
+    - type:sandstone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 84
+  52:
+    MenuItem:
+    - name:&aCut Sandstone Slab 
+    - amount:1
+    - type:cut_sandstone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 85
+  53:
+    MenuItem:
+    - name:&aSmooth Sandstone Slab 
+    - amount:1
+    - type:smooth_sandstone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.12 ⛃'
+    - 'lore5:&f▪ Exp: &70.12'
+    - 'lore6:&f▪ Points: &70.12'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 86
+  54:
+    MenuItem:
+    - name:&aRed Sandstone Slab 
+    - amount:1
+    - type:red_sandstone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.12 ⛃'
+    - 'lore5:&f▪ Exp: &70.12'
+    - 'lore6:&f▪ Points: &70.12'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 87
+  55:
+    MenuItem:
+    - name:&aCut Red Sandstone Slab 
+    - amount:1
+    - type:cut_red_sandstone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.12 ⛃'
+    - 'lore5:&f▪ Exp: &70.12'
+    - 'lore6:&f▪ Points: &70.12'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 88
+  56:
+    MenuItem:
+    - name:&aSmooth Red Sandstone Slab 
+    - amount:1
+    - type:smooth_red_sandstone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.14 ⛃'
+    - 'lore5:&f▪ Exp: &70.14'
+    - 'lore6:&f▪ Points: &70.14'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 89
+  57:
+    MenuItem:
+    - name:&aBrick Slab 
+    - amount:1
+    - type:brick_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.12 ⛃'
+    - 'lore5:&f▪ Exp: &70.12'
+    - 'lore6:&f▪ Points: &70.12'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 101
+  58:
+    MenuItem:
+    - name:&aPrismarine Slab 
+    - amount:1
+    - type:prismarine_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 102
+  59:
+    MenuItem:
+    - name:&aPrismarine Brick Slab 
+    - amount:1
+    - type:prismarine_brick_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.17 ⛃'
+    - 'lore5:&f▪ Exp: &70.17'
+    - 'lore6:&f▪ Points: &70.17'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 103
+  60:
+    MenuItem:
+    - name:&aDark Prismarine Slab 
+    - amount:1
+    - type:dark_prismarine_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.17 ⛃'
+    - 'lore5:&f▪ Exp: &70.17'
+    - 'lore6:&f▪ Points: &70.17'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 104
+  61:
+    MenuItem:
+    - name:&aPolished Granite Slab 
+    - amount:1
+    - type:polished_granite_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 105
+  62:
+    MenuItem:
+    - name:&aPolished Andesite Slab 
+    - amount:1
+    - type:polished_andesite_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 106
+  63:
+    MenuItem:
+    - name:&aPolished Diorite Slab 
+    - amount:1
+    - type:polished_diorite_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 107
+  64:
+    MenuItem:
+    - name:&aGranite Slab 
+    - amount:1
+    - type:granite_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 110
+  65:
+    MenuItem:
+    - name:&aAndesite Slab 
+    - amount:1
+    - type:andesite_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 111
+  66:
+    MenuItem:
+    - name:&aDiorite Slab 
+    - amount:1
+    - type:diorite_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 112
+  67:
+    MenuItem:
+    - name:&aMossy Cobblestone Slab 
+    - amount:1
+    - type:mossy_cobblestone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.12 ⛃'
+    - 'lore5:&f▪ Exp: &70.12'
+    - 'lore6:&f▪ Points: &70.12'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 113
+  68:
+    MenuItem:
+    - name:&aMossy Stone Brick Slab 
+    - amount:1
+    - type:mossy_stone_brick_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.17 ⛃'
+    - 'lore5:&f▪ Exp: &70.17'
+    - 'lore6:&f▪ Points: &70.17'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 114
+  69:
+    MenuItem:
+    - name:&aQuartz Slab 
+    - amount:1
+    - type:quartz_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.13 ⛃'
+    - 'lore5:&f▪ Exp: &70.13'
+    - 'lore6:&f▪ Points: &70.13'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 115
+  70:
+    MenuItem:
+    - name:&aSmooth Quartz Slab 
+    - amount:1
+    - type:smooth_quartz_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 116
+  71:
+    MenuItem:
+    - name:&aNether Brick Slab 
+    - amount:1
+    - type:nether_brick_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.13 ⛃'
+    - 'lore5:&f▪ Exp: &70.13'
+    - 'lore6:&f▪ Points: &70.13'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 119
+  72:
+    MenuItem:
+    - name:&aRed Nether Brick Slab 
+    - amount:1
+    - type:red_nether_brick_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 120
+  73:
+    MenuItem:
+    - name:&aBlackstone Slab 
+    - amount:1
+    - type:blackstone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.13 ⛃'
+    - 'lore5:&f▪ Exp: &70.13'
+    - 'lore6:&f▪ Points: &70.13'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 121
+  74:
+    MenuItem:
+    - name:&aPolished Blackstone Slab 
+    - amount:1
+    - type:polished_blackstone_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 122
+  75:
+    MenuItem:
+    - name:&aPolished Blackstone Brick Slab 
+    - amount:1
+    - type:polished_blackstone_brick_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 123
+  76:
+    MenuItem:
+    - name:&aEnd Stone Brick Slab 
+    - amount:1
+    - type:end_stone_brick_slab 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 124
+  77:
+    MenuItem:
+    - name:&aOak Sign 
+    - amount:1
+    - type:oak_sign 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 125
+  78:
+    MenuItem:
+    - name:&aSpruce Sign 
+    - amount:1
+    - type:spruce_sign 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 128
+  79:
+    MenuItem:
+    - name:&aBirch Sign 
+    - amount:1
+    - type:birch_sign 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 129
+  80:
+    MenuItem:
+    - name:&aJungle Sign 
+    - amount:1
+    - type:jungle_sign 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 130
+  81:
+    MenuItem:
+    - name:&aAcacia Sign 
+    - amount:1
+    - type:acacia_sign 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 131
+  82:
+    MenuItem:
+    - name:&aDark Oak Sign 
+    - amount:1
+    - type:dark_oak_sign 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 132
+  83:
+    MenuItem:
+    - name:&aCrimson Sign 
+    - amount:1
+    - type:crimson_sign 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 133
+  84:
+    MenuItem:
+    - name:&aWarped Sign 
+    - amount:1
+    - type:warped_sign 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.15 ⛃'
+    - 'lore5:&f▪ Exp: &70.15'
+    - 'lore6:&f▪ Points: &70.15'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 134
+  85:
+    MenuItem:
+    - name:&aOak Door 
+    - amount:1
+    - type:oak_door 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 146
+  86:
+    MenuItem:
+    - name:&aSpruce Door 
+    - amount:1
+    - type:spruce_door 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 147
+  87:
+    MenuItem:
+    - name:&aBirch Door 
+    - amount:1
+    - type:birch_door 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 148
+  88:
+    MenuItem:
+    - name:&aJungle Door 
+    - amount:1
+    - type:jungle_door 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 149
+  89:
+    MenuItem:
+    - name:&aAcacia Door 
+    - amount:1
+    - type:acacia_door 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 150
+  90:
+    MenuItem:
+    - name:&aDark Oak Door 
+    - amount:1
+    - type:dark_oak_door 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 151
+  91:
+    MenuItem:
+    - name:&aCrimson Door 
+    - amount:1
+    - type:crimson_door 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 152
+  92:
+    MenuItem:
+    - name:&aWarped Door 
+    - amount:1
+    - type:warped_door 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.22 ⛃'
+    - 'lore5:&f▪ Exp: &70.22'
+    - 'lore6:&f▪ Points: &70.22'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 155
+  93:
+    MenuItem:
+    - name:&aWhite Bed 
+    - amount:1
+    - type:white_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 156
+  94:
+    MenuItem:
+    - name:&aOrange Bed 
+    - amount:1
+    - type:orange_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 157
+  95:
+    MenuItem:
+    - name:&aMagenta Bed 
+    - amount:1
+    - type:magenta_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 158
+  96:
+    MenuItem:
+    - name:&aLight Blue Bed 
+    - amount:1
+    - type:light_blue_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 159
+  97:
+    MenuItem:
+    - name:&aYellow Bed 
+    - amount:1
+    - type:yellow_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 160
+  98:
+    MenuItem:
+    - name:&aLime Bed 
+    - amount:1
+    - type:lime_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 161
+  99:
+    MenuItem:
+    - name:&aPink Bed 
+    - amount:1
+    - type:pink_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 164
+  100:
+    MenuItem:
+    - name:&aGray Bed 
+    - amount:1
+    - type:gray_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 165
+  101:
+    MenuItem:
+    - name:&aLight Gray Bed 
+    - amount:1
+    - type:light_gray_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 166
+  102:
+    MenuItem:
+    - name:&aCyan Bed 
+    - amount:1
+    - type:cyan_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 167
+  103:
+    MenuItem:
+    - name:&aPurple Bed 
+    - amount:1
+    - type:purple_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 168
+  104:
+    MenuItem:
+    - name:&aBlue Bed 
+    - amount:1
+    - type:blue_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 169
+  105:
+    MenuItem:
+    - name:&aBrown Bed 
+    - amount:1
+    - type:brown_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 170
+  106:
+    MenuItem:
+    - name:&aGreen Bed 
+    - amount:1
+    - type:green_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 173
+  107:
+    MenuItem:
+    - name:&aRed Bed 
+    - amount:1
+    - type:red_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 174
+  108:
+    MenuItem:
+    - name:&aBlack Bed 
+    - amount:1
+    - type:black_bed 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 175
+  109:
+    MenuItem:
+    - name:&aWhite Banner 
+    - amount:1
+    - type:white_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 176
+  110:
+    MenuItem:
+    - name:&aOrange Banner 
+    - amount:1
+    - type:orange_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 177
+  111:
+    MenuItem:
+    - name:&aMagenta Banner 
+    - amount:1
+    - type:magenta_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 178
+  112:
+    MenuItem:
+    - name:&aLight Blue Banner 
+    - amount:1
+    - type:light_blue_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 179
+  113:
+    MenuItem:
+    - name:&aYellow Banner 
+    - amount:1
+    - type:yellow_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 191
+  114:
+    MenuItem:
+    - name:&aLime Banner 
+    - amount:1
+    - type:lime_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 192
+  115:
+    MenuItem:
+    - name:&aPink Banner 
+    - amount:1
+    - type:pink_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 193
+  116:
+    MenuItem:
+    - name:&aGray Banner 
+    - amount:1
+    - type:gray_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 194
+  117:
+    MenuItem:
+    - name:&aLight Gray Banner 
+    - amount:1
+    - type:light_gray_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 195
+  118:
+    MenuItem:
+    - name:&aCyan Banner 
+    - amount:1
+    - type:cyan_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 196
+  119:
+    MenuItem:
+    - name:&aPurple Banner 
+    - amount:1
+    - type:purple_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 197
+  120:
+    MenuItem:
+    - name:&aBlue Banner 
+    - amount:1
+    - type:blue_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 200
+  121:
+    MenuItem:
+    - name:&aBrown Banner 
+    - amount:1
+    - type:brown_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 201
+  122:
+    MenuItem:
+    - name:&aGreen Banner 
+    - amount:1
+    - type:green_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 202
+  123:
+    MenuItem:
+    - name:&aRed Banner 
+    - amount:1
+    - type:red_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 203
+  124:
+    MenuItem:
+    - name:&aBlack Banner 
+    - amount:1
+    - type:black_banner 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.33 ⛃'
+    - 'lore5:&f▪ Exp: &70.33'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 204
+  125:
+    MenuItem:
+    - name:&aOak Wood 
+    - amount:1
+    - type:oak_wood 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 205
+  126:
+    MenuItem:
+    - name:&aSpruce Wood 
+    - amount:1
+    - type:spruce_wood 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 206
+  127:
+    MenuItem:
+    - name:&aBirch Wood 
+    - amount:1
+    - type:birch_wood 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 209
+  128:
+    MenuItem:
+    - name:&aJungle Wood 
+    - amount:1
+    - type:jungle_wood 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 210
+  129:
+    MenuItem:
+    - name:&aAcacia Wood 
+    - amount:1
+    - type:acacia_wood 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 211
+  130:
+    MenuItem:
+    - name:&aDark Oak Wood 
+    - amount:1
+    - type:dark_oak_wood 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 212
+  131:
+    MenuItem:
+    - name:&aGlowstone 
+    - amount:1
+    - type:glowstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 213
+  132:
+    MenuItem:
+    - name:&aSnow Block 
+    - amount:1
+    - type:snow_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 214
+  133:
+    MenuItem:
+    - name:&aStone Bricks 
+    - amount:1
+    - type:stone_bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 215
+  134:
+    MenuItem:
+    - name:&aBricks 
+    - amount:1
+    - type:bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 218
+  135:
+    MenuItem:
+    - name:&aSandstone 
+    - amount:1
+    - type:sandstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.27 ⛃'
+    - 'lore5:&f▪ Exp: &70.27'
+    - 'lore6:&f▪ Points: &70.27'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 219
+  136:
+    MenuItem:
+    - name:&aSmooth Sandstone 
+    - amount:1
+    - type:smooth_sandstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 220
+  137:
+    MenuItem:
+    - name:&aCut Sandstone 
+    - amount:1
+    - type:cut_sandstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 221
+  138:
+    MenuItem:
+    - name:&aChiseled Sandstone 
+    - amount:1
+    - type:chiseled_sandstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 222
+  139:
+    MenuItem:
+    - name:&aCoal Block 
+    - amount:1
+    - type:coal_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 223
+  140:
+    MenuItem:
+    - name:&aIron Block 
+    - amount:1
+    - type:iron_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1.2 ⛃'
+    - 'lore5:&f▪ Exp: &71.2'
+    - 'lore6:&f▪ Points: &71.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 224
+  141:
+    MenuItem:
+    - name:&aGold Block 
+    - amount:1
+    - type:gold_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1.7 ⛃'
+    - 'lore5:&f▪ Exp: &71.7'
+    - 'lore6:&f▪ Points: &71.7'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 236
+  142:
+    MenuItem:
+    - name:&aRedstone Block 
+    - amount:1
+    - type:redstone_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 237
+  143:
+    MenuItem:
+    - name:&aLapis Block 
+    - amount:1
+    - type:lapis_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 238
+  144:
+    MenuItem:
+    - name:&aDiamond Block 
+    - amount:1
+    - type:diamond_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 239
+  145:
+    MenuItem:
+    - name:&aEmerald Block 
+    - amount:1
+    - type:emerald_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 240
+  146:
+    MenuItem:
+    - name:&aNetherite Block 
+    - amount:1
+    - type:netherite_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a6 ⛃'
+    - 'lore5:&f▪ Exp: &76'
+    - 'lore6:&f▪ Points: &76'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 241
+  147:
+    MenuItem:
+    - name:&aWhite Wool 
+    - amount:1
+    - type:white_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 242
+  148:
+    MenuItem:
+    - name:&aOrange Wool 
+    - amount:1
+    - type:orange_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 245
+  149:
+    MenuItem:
+    - name:&aMagenta Wool 
+    - amount:1
+    - type:magenta_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 246
+  150:
+    MenuItem:
+    - name:&aLight Blue Wool 
+    - amount:1
+    - type:light_blue_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 247
+  151:
+    MenuItem:
+    - name:&aYellow Wool 
+    - amount:1
+    - type:yellow_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 248
+  152:
+    MenuItem:
+    - name:&aLime Wool 
+    - amount:1
+    - type:lime_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 249
+  153:
+    MenuItem:
+    - name:&aPink Wool 
+    - amount:1
+    - type:pink_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 250
+  154:
+    MenuItem:
+    - name:&aGray Wool 
+    - amount:1
+    - type:gray_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 251
+  155:
+    MenuItem:
+    - name:&aLight Gray Wool 
+    - amount:1
+    - type:light_gray_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 254
+  156:
+    MenuItem:
+    - name:&aCyan Wool 
+    - amount:1
+    - type:cyan_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 255
+  157:
+    MenuItem:
+    - name:&aPurple Wool 
+    - amount:1
+    - type:purple_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 256
+  158:
+    MenuItem:
+    - name:&aBlue Wool 
+    - amount:1
+    - type:blue_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 257
+  159:
+    MenuItem:
+    - name:&aBrown Wool 
+    - amount:1
+    - type:brown_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 258
+  160:
+    MenuItem:
+    - name:&aGreen Wool 
+    - amount:1
+    - type:green_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 259
+  161:
+    MenuItem:
+    - name:&aRed Wool 
+    - amount:1
+    - type:red_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 260
+  162:
+    MenuItem:
+    - name:&aBlack Wool 
+    - amount:1
+    - type:black_wool 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 263
+  163:
+    MenuItem:
+    - name:&aWhite Carpet 
+    - amount:1
+    - type:white_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 264
+  164:
+    MenuItem:
+    - name:&aOrange Carpet 
+    - amount:1
+    - type:orange_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 265
+  165:
+    MenuItem:
+    - name:&aMagenta Carpet 
+    - amount:1
+    - type:magenta_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 266
+  166:
+    MenuItem:
+    - name:&aLight Blue Carpet 
+    - amount:1
+    - type:light_blue_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 267
+  167:
+    MenuItem:
+    - name:&aYellow Carpet 
+    - amount:1
+    - type:yellow_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 268
+  168:
+    MenuItem:
+    - name:&aLime Carpet 
+    - amount:1
+    - type:lime_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 269
+  169:
+    MenuItem:
+    - name:&aPink Carpet 
+    - amount:1
+    - type:pink_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 281
+  170:
+    MenuItem:
+    - name:&aGray Carpet 
+    - amount:1
+    - type:gray_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 282
+  171:
+    MenuItem:
+    - name:&aLight Gray Carpet 
+    - amount:1
+    - type:light_gray_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 283
+  172:
+    MenuItem:
+    - name:&aCyan Carpet 
+    - amount:1
+    - type:cyan_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 284
+  173:
+    MenuItem:
+    - name:&aPurple Carpet 
+    - amount:1
+    - type:purple_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 285
+  174:
+    MenuItem:
+    - name:&aBlue Carpet 
+    - amount:1
+    - type:blue_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 286
+  175:
+    MenuItem:
+    - name:&aBrown Carpet 
+    - amount:1
+    - type:brown_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 287
+  176:
+    MenuItem:
+    - name:&aGreen Carpet 
+    - amount:1
+    - type:green_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 290
+  177:
+    MenuItem:
+    - name:&aRed Carpet 
+    - amount:1
+    - type:red_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 291
+  178:
+    MenuItem:
+    - name:&aBlack Carpet 
+    - amount:1
+    - type:black_carpet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.1 ⛃'
+    - 'lore5:&f▪ Exp: &70.1'
+    - 'lore6:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 292
+  179:
+    MenuItem:
+    - name:&aBookshelf 
+    - amount:1
+    - type:bookshelf 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 293
+  180:
+    MenuItem:
+    - name:&aClay 
+    - amount:1
+    - type:clay 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 294
+  181:
+    MenuItem:
+    - name:&aJack O Lantern 
+    - amount:1
+    - type:jack_o_lantern 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &70.6'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 295
+  182:
+    MenuItem:
+    - name:&aOak Stairs 
+    - amount:1
+    - type:oak_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 296
+  183:
+    MenuItem:
+    - name:&aSpruce Stairs 
+    - amount:1
+    - type:spruce_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 299
+  184:
+    MenuItem:
+    - name:&aBirch Stairs 
+    - amount:1
+    - type:birch_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 300
+  185:
+    MenuItem:
+    - name:&aJungle Stairs 
+    - amount:1
+    - type:jungle_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 301
+  186:
+    MenuItem:
+    - name:&aAcacia Stairs 
+    - amount:1
+    - type:acacia_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 302
+  187:
+    MenuItem:
+    - name:&aDark Oak Stairs 
+    - amount:1
+    - type:dark_oak_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 303
+  188:
+    MenuItem:
+    - name:&aCrimson Stairs 
+    - amount:1
+    - type:crimson_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 304
+  189:
+    MenuItem:
+    - name:&aWarped Stairs 
+    - amount:1
+    - type:warped_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 305
+  190:
+    MenuItem:
+    - name:&aCobblestone Stairs 
+    - amount:1
+    - type:cobblestone_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 308
+  191:
+    MenuItem:
+    - name:&aStone Stairs 
+    - amount:1
+    - type:stone_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 309
+  192:
+    MenuItem:
+    - name:&aStone Brick Stairs 
+    - amount:1
+    - type:stone_brick_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 310
+  193:
+    MenuItem:
+    - name:&aSandstone Stairs 
+    - amount:1
+    - type:sandstone_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 311
+  194:
+    MenuItem:
+    - name:&aSmooth Sandstone Stairs 
+    - amount:1
+    - type:smooth_sandstone_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 312
+  195:
+    MenuItem:
+    - name:&aRed Sandstone Stairs 
+    - amount:1
+    - type:red_sandstone_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 313
+  196:
+    MenuItem:
+    - name:&aSmooth Red Sandstone Stairs 
+    - amount:1
+    - type:smooth_red_sandstone_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 314
+  197:
+    MenuItem:
+    - name:&aBrick Stairs 
+    - amount:1
+    - type:brick_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 326
+  198:
+    MenuItem:
+    - name:&aPrismarine Stairs 
+    - amount:1
+    - type:prismarine_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 327
+  199:
+    MenuItem:
+    - name:&aPrismarine Brick Stairs 
+    - amount:1
+    - type:prismarine_brick_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 328
+  200:
+    MenuItem:
+    - name:&aDark Prismarine Stairs 
+    - amount:1
+    - type:dark_prismarine_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 329
+  201:
+    MenuItem:
+    - name:&aPolished Granite Stairs 
+    - amount:1
+    - type:polished_granite_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 330
+  202:
+    MenuItem:
+    - name:&aPolished Andesite Stairs 
+    - amount:1
+    - type:polished_andesite_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 331
+  203:
+    MenuItem:
+    - name:&aPolished Diorite Stairs 
+    - amount:1
+    - type:polished_diorite_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 332
+  204:
+    MenuItem:
+    - name:&aGranite Stairs 
+    - amount:1
+    - type:granite_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 335
+  205:
+    MenuItem:
+    - name:&aAndesite Stairs 
+    - amount:1
+    - type:andesite_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 336
+  206:
+    MenuItem:
+    - name:&aDiorite Stairs 
+    - amount:1
+    - type:diorite_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 337
+  207:
+    MenuItem:
+    - name:&aMossy Cobblestone Stairs 
+    - amount:1
+    - type:mossy_cobblestone_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 338
+  208:
+    MenuItem:
+    - name:&aMossy Stone Brick Stairs 
+    - amount:1
+    - type:mossy_stone_brick_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 339
+  209:
+    MenuItem:
+    - name:&aQuartz Stairs 
+    - amount:1
+    - type:quartz_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 340
+  210:
+    MenuItem:
+    - name:&aSmooth Quartz Stairs 
+    - amount:1
+    - type:smooth_quartz_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 341
+  211:
+    MenuItem:
+    - name:&aNether Brick Stairs 
+    - amount:1
+    - type:nether_brick_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 344
+  212:
+    MenuItem:
+    - name:&aRed Nether Brick Stairs 
+    - amount:1
+    - type:red_nether_brick_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 345
+  213:
+    MenuItem:
+    - name:&aBlackstone Stairs 
+    - amount:1
+    - type:blackstone_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 346
+  214:
+    MenuItem:
+    - name:&aPolished Blackstone Stairs 
+    - amount:1
+    - type:polished_blackstone_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 347
+  215:
+    MenuItem:
+    - name:&aPolished Blackstone Brick Stairs 
+    - amount:1
+    - type:polished_blackstone_brick_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 348
+  216:
+    MenuItem:
+    - name:&aEnd Stone Brick Stairs 
+    - amount:1
+    - type:end_stone_brick_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 349
+  217:
+    MenuItem:
+    - name:&aPurpur Stairs 
+    - amount:1
+    - type:purpur_stairs 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 350
+  218:
+    MenuItem:
+    - name:&aCobblestone Wall 
+    - amount:1
+    - type:cobblestone_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 353
+  219:
+    MenuItem:
+    - name:&aMossy Cobblestone Wall 
+    - amount:1
+    - type:mossy_cobblestone_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 354
+  220:
+    MenuItem:
+    - name:&aBrick Wall 
+    - amount:1
+    - type:brick_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 355
+  221:
+    MenuItem:
+    - name:&aPrismarine Wall 
+    - amount:1
+    - type:prismarine_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 356
+  222:
+    MenuItem:
+    - name:&aRed Sandstone Wall 
+    - amount:1
+    - type:red_sandstone_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 357
+  223:
+    MenuItem:
+    - name:&aStone Brick Wall 
+    - amount:1
+    - type:stone_brick_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 358
+  224:
+    MenuItem:
+    - name:&aMossy Stone Brick Wall 
+    - amount:1
+    - type:mossy_stone_brick_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 359
+  225:
+    MenuItem:
+    - name:&aGranite Wall 
+    - amount:1
+    - type:granite_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 371
+  226:
+    MenuItem:
+    - name:&aDiorite Wall 
+    - amount:1
+    - type:diorite_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 372
+  227:
+    MenuItem:
+    - name:&aAndesite Wall 
+    - amount:1
+    - type:andesite_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 373
+  228:
+    MenuItem:
+    - name:&aNether Brick Wall 
+    - amount:1
+    - type:nether_brick_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 374
+  229:
+    MenuItem:
+    - name:&aRed Nether Brick Wall 
+    - amount:1
+    - type:red_nether_brick_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 375
+  230:
+    MenuItem:
+    - name:&aSandstone Wall 
+    - amount:1
+    - type:sandstone_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 376
+  231:
+    MenuItem:
+    - name:&aEnd Stone Brick Wall 
+    - amount:1
+    - type:end_stone_brick_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 377
+  232:
+    MenuItem:
+    - name:&aBlackstone Wall 
+    - amount:1
+    - type:blackstone_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 380
+  233:
+    MenuItem:
+    - name:&aPolished Blackstone Wall 
+    - amount:1
+    - type:polished_blackstone_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 381
+  234:
+    MenuItem:
+    - name:&aPolished Blackstone Brick Wall 
+    - amount:1
+    - type:polished_blackstone_brick_wall 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 382
+  235:
+    MenuItem:
+    - name:&aNether Bricks 
+    - amount:1
+    - type:nether_bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 383
+  236:
+    MenuItem:
+    - name:&aRed Nether Bricks 
+    - amount:1
+    - type:red_nether_bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 384
+  237:
+    MenuItem:
+    - name:&aChiseled Nether Bricks 
+    - amount:1
+    - type:chiseled_nether_bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 385
+  238:
+    MenuItem:
+    - name:&aNether Wart Block 
+    - amount:1
+    - type:nether_wart_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 386
+  239:
+    MenuItem:
+    - name:&aQuartz Block 
+    - amount:1
+    - type:quartz_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 389
+  240:
+    MenuItem:
+    - name:&aChiseled Quartz Block 
+    - amount:1
+    - type:chiseled_quartz_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 390
+  241:
+    MenuItem:
+    - name:&aQuartz Pillar 
+    - amount:1
+    - type:quartz_pillar 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 391
+  242:
+    MenuItem:
+    - name:&aQuartz Bricks 
+    - amount:1
+    - type:quartz_bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 392
+  243:
+    MenuItem:
+    - name:&aSmooth Quartz 
+    - amount:1
+    - type:smooth_quartz 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 393
+  244:
+    MenuItem:
+    - name:&aWhite Terracotta 
+    - amount:1
+    - type:white_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 394
+  245:
+    MenuItem:
+    - name:&aOrange Terracotta 
+    - amount:1
+    - type:orange_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 395
+  246:
+    MenuItem:
+    - name:&aMagenta Terracotta 
+    - amount:1
+    - type:magenta_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 398
+  247:
+    MenuItem:
+    - name:&aLight Blue Terracotta 
+    - amount:1
+    - type:light_blue_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 399
+  248:
+    MenuItem:
+    - name:&aYellow Terracotta 
+    - amount:1
+    - type:yellow_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 400
+  249:
+    MenuItem:
+    - name:&aLime Terracotta 
+    - amount:1
+    - type:lime_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 401
+  250:
+    MenuItem:
+    - name:&aPink Terracotta 
+    - amount:1
+    - type:pink_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 402
+  251:
+    MenuItem:
+    - name:&aGray Terracotta 
+    - amount:1
+    - type:gray_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 403
+  252:
+    MenuItem:
+    - name:&aLight Gray Terracotta 
+    - amount:1
+    - type:light_gray_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 404
+  253:
+    MenuItem:
+    - name:&aCyan Terracotta 
+    - amount:1
+    - type:cyan_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 416
+  254:
+    MenuItem:
+    - name:&aPurple Terracotta 
+    - amount:1
+    - type:purple_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 417
+  255:
+    MenuItem:
+    - name:&aBlue Terracotta 
+    - amount:1
+    - type:blue_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 418
+  256:
+    MenuItem:
+    - name:&aBrown Terracotta 
+    - amount:1
+    - type:brown_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 419
+  257:
+    MenuItem:
+    - name:&aGreen Terracotta 
+    - amount:1
+    - type:green_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 420
+  258:
+    MenuItem:
+    - name:&aRed Terracotta 
+    - amount:1
+    - type:red_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 421
+  259:
+    MenuItem:
+    - name:&aBlack Terracotta 
+    - amount:1
+    - type:black_terracotta 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 422
+  260:
+    MenuItem:
+    - name:&aWhite Stained Glass 
+    - amount:1
+    - type:white_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 425
+  261:
+    MenuItem:
+    - name:&aOrange Stained Glass 
+    - amount:1
+    - type:orange_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 426
+  262:
+    MenuItem:
+    - name:&aMagenta Stained Glass 
+    - amount:1
+    - type:magenta_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 427
+  263:
+    MenuItem:
+    - name:&aLight Blue Stained Glass 
+    - amount:1
+    - type:light_blue_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 428
+  264:
+    MenuItem:
+    - name:&aYellow Stained Glass 
+    - amount:1
+    - type:yellow_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 429
+  265:
+    MenuItem:
+    - name:&aLime Stained Glass 
+    - amount:1
+    - type:lime_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 430
+  266:
+    MenuItem:
+    - name:&aPink Stained Glass 
+    - amount:1
+    - type:pink_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 431
+  267:
+    MenuItem:
+    - name:&aGray Stained Glass 
+    - amount:1
+    - type:gray_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 434
+  268:
+    MenuItem:
+    - name:&aLight Gray Stained Glass 
+    - amount:1
+    - type:light_gray_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 435
+  269:
+    MenuItem:
+    - name:&aCyan Stained Glass 
+    - amount:1
+    - type:cyan_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 436
+  270:
+    MenuItem:
+    - name:&aPurple Stained Glass 
+    - amount:1
+    - type:purple_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 437
+  271:
+    MenuItem:
+    - name:&aBlue Stained Glass 
+    - amount:1
+    - type:blue_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 438
+  272:
+    MenuItem:
+    - name:&aBrown Stained Glass 
+    - amount:1
+    - type:brown_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 439
+  273:
+    MenuItem:
+    - name:&aGreen Stained Glass 
+    - amount:1
+    - type:green_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 440
+  274:
+    MenuItem:
+    - name:&aRed Stained Glass 
+    - amount:1
+    - type:red_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 443
+  275:
+    MenuItem:
+    - name:&aBlack Stained Glass 
+    - amount:1
+    - type:black_stained_glass 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 444
+  276:
+    MenuItem:
+    - name:&aWhite Stained Glass Pane 
+    - amount:1
+    - type:white_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 445
+  277:
+    MenuItem:
+    - name:&aOrange Stained Glass Pane 
+    - amount:1
+    - type:orange_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 446
+  278:
+    MenuItem:
+    - name:&aMagenta Stained Glass Pane 
+    - amount:1
+    - type:magenta_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 447
+  279:
+    MenuItem:
+    - name:&aLight Blue Stained Glass Pane 
+    - amount:1
+    - type:light_blue_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 448
+  280:
+    MenuItem:
+    - name:&aYellow Stained Glass Pane 
+    - amount:1
+    - type:yellow_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 449
+  281:
+    MenuItem:
+    - name:&aLime Stained Glass Pane 
+    - amount:1
+    - type:lime_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 461
+  282:
+    MenuItem:
+    - name:&aPink Stained Glass Pane 
+    - amount:1
+    - type:pink_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 462
+  283:
+    MenuItem:
+    - name:&aGray Stained Glass Pane 
+    - amount:1
+    - type:gray_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 463
+  284:
+    MenuItem:
+    - name:&aLight Gray Stained Glass Pane 
+    - amount:1
+    - type:light_gray_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 464
+  285:
+    MenuItem:
+    - name:&aCyan Stained Glass Pane 
+    - amount:1
+    - type:cyan_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 465
+  286:
+    MenuItem:
+    - name:&aPurple Stained Glass Pane 
+    - amount:1
+    - type:purple_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 466
+  287:
+    MenuItem:
+    - name:&aBlue Stained Glass Pane 
+    - amount:1
+    - type:blue_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 467
+  288:
+    MenuItem:
+    - name:&aBrown Stained Glass Pane 
+    - amount:1
+    - type:brown_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 470
+  289:
+    MenuItem:
+    - name:&aGreen Stained Glass Pane 
+    - amount:1
+    - type:green_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 471
+  290:
+    MenuItem:
+    - name:&aRed Stained Glass Pane 
+    - amount:1
+    - type:red_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 472
+  291:
+    MenuItem:
+    - name:&aBlack Stained Glass Pane 
+    - amount:1
+    - type:black_stained_glass_pane 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 473
+  292:
+    MenuItem:
+    - name:&aGranite 
+    - amount:1
+    - type:granite 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 474
+  293:
+    MenuItem:
+    - name:&aDiorite 
+    - amount:1
+    - type:diorite 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 475
+  294:
+    MenuItem:
+    - name:&aAndesite 
+    - amount:1
+    - type:andesite 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 476
+  295:
+    MenuItem:
+    - name:&aPolished Granite 
+    - amount:1
+    - type:polished_granite 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 479
+  296:
+    MenuItem:
+    - name:&aPolished Diorite 
+    - amount:1
+    - type:polished_diorite 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 480
+  297:
+    MenuItem:
+    - name:&aPolished Andesite 
+    - amount:1
+    - type:polished_andesite 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 481
+  298:
+    MenuItem:
+    - name:&aPrismarine 
+    - amount:1
+    - type:prismarine 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 482
+  299:
+    MenuItem:
+    - name:&aPrismarine Bricks 
+    - amount:1
+    - type:prismarine_bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.7 ⛃'
+    - 'lore5:&f▪ Exp: &70.7'
+    - 'lore6:&f▪ Points: &70.7'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 483
+  300:
+    MenuItem:
+    - name:&aDark Prismarine 
+    - amount:1
+    - type:dark_prismarine 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.8 ⛃'
+    - 'lore5:&f▪ Exp: &70.8'
+    - 'lore6:&f▪ Points: &70.8'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 484
+  301:
+    MenuItem:
+    - name:&aSea Lantern 
+    - amount:1
+    - type:sea_lantern 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 485
+  302:
+    MenuItem:
+    - name:&aCoarse Dirt 
+    - amount:1
+    - type:coarse_dirt 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 488
+  303:
+    MenuItem:
+    - name:&aSlime Block 
+    - amount:1
+    - type:slime_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 489
+  304:
+    MenuItem:
+    - name:&aMossy Cobblestone 
+    - amount:1
+    - type:mossy_cobblestone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 490
+  305:
+    MenuItem:
+    - name:&aMossy Stone Bricks 
+    - amount:1
+    - type:mossy_stone_bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 491
+  306:
+    MenuItem:
+    - name:&aChiseled Stone Bricks 
+    - amount:1
+    - type:chiseled_stone_bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 492
+  307:
+    MenuItem:
+    - name:&aRed Sandstone 
+    - amount:1
+    - type:red_sandstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 493
+  308:
+    MenuItem:
+    - name:&aChiseled Red Sandstone 
+    - amount:1
+    - type:chiseled_red_sandstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 494
+  309:
+    MenuItem:
+    - name:&aCut Red Sandstone 
+    - amount:1
+    - type:cut_red_sandstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 506
+  310:
+    MenuItem:
+    - name:&aSmooth Red Sandstone 
+    - amount:1
+    - type:smooth_red_sandstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 507
+  311:
+    MenuItem:
+    - name:&aPurpur Block 
+    - amount:1
+    - type:purpur_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.55 ⛃'
+    - 'lore5:&f▪ Exp: &70.55'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 508
+  312:
+    MenuItem:
+    - name:&aPurpur Pillar 
+    - amount:1
+    - type:purpur_pillar 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &70.6'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 509
+  313:
+    MenuItem:
+    - name:&aMagma Block 
+    - amount:1
+    - type:magma_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 510
+  314:
+    MenuItem:
+    - name:&aBone Block 
+    - amount:1
+    - type:bone_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 511
+  315:
+    MenuItem:
+    - name:&aDried Kelp Block 
+    - amount:1
+    - type:dried_kelp_block 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 512
+  316:
+    MenuItem:
+    - name:&aPacked Ice 
+    - amount:1
+    - type:packed_ice 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 515
+  317:
+    MenuItem:
+    - name:&aBlue Ice 
+    - amount:1
+    - type:blue_ice 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &70.6'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 516
+  318:
+    MenuItem:
+    - name:&aPolished Basalt 
+    - amount:1
+    - type:polished_basalt 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 517
+  319:
+    MenuItem:
+    - name:&aPolished Blackstone 
+    - amount:1
+    - type:polished_blackstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 518
+  320:
+    MenuItem:
+    - name:&aChiseled Polished Blackstone 
+    - amount:1
+    - type:chiseled_polished_blackstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 519
+  321:
+    MenuItem:
+    - name:&aPolished Blackstone Bricks 
+    - amount:1
+    - type:polished_blackstone_bricks 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 520
+  322:
+    MenuItem:
+    - name:&aPaper 
+    - amount:1
+    - type:paper 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 521
+  323:
+    MenuItem:
+    - name:&aBook 
+    - amount:1
+    - type:book 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 524
+  324:
+    MenuItem:
+    - name:&aWritable Book 
+    - amount:1
+    - type:writable_book 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 525
+  325:
+    MenuItem:
+    - name:&aIron Bars 
+    - amount:1
+    - type:iron_bars 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 526
+  326:
+    MenuItem:
+    - name:&aEnchanting Table 
+    - amount:1
+    - type:enchanting_table 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 527
+  327:
+    MenuItem:
+    - name:&aEnder Chest 
+    - amount:1
+    - type:ender_chest 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.8 ⛃'
+    - 'lore5:&f▪ Exp: &70.8'
+    - 'lore6:&f▪ Points: &70.8'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 528
+  328:
+    MenuItem:
+    - name:&aBeacon 
+    - amount:1
+    - type:beacon 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a15 ⛃'
+    - 'lore5:&f▪ Exp: &715'
+    - 'lore6:&f▪ Points: &715'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 529
+  329:
+    MenuItem:
+    - name:&aAnvil 
+    - amount:1
+    - type:anvil 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 530
+  330:
+    MenuItem:
+    - name:&aFlower Pot 
+    - amount:1
+    - type:flower_pot 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 533
+  331:
+    MenuItem:
+    - name:&aItem Frame 
+    - amount:1
+    - type:item_frame 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 534
+  332:
+    MenuItem:
+    - name:&aCarrot On A Stick 
+    - amount:1
+    - type:carrot_on_a_stick 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 535
+  333:
+    MenuItem:
+    - name:&aWarped Fungus On A Stick 
+    - amount:1
+    - type:warped_fungus_on_a_stick 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 536
+  334:
+    MenuItem:
+    - name:&aLead 
+    - amount:1
+    - type:lead 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &70.6'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 537
+  335:
+    MenuItem:
+    - name:&aLeather 
+    - amount:1
+    - type:leather 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 538
+  336:
+    MenuItem:
+    - name:&aArmor Stand 
+    - amount:1
+    - type:armor_stand 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 539
+  337:
+    MenuItem:
+    - name:&aEnd Rod 
+    - amount:1
+    - type:end_rod 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &70.6'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 551
+  338:
+    MenuItem:
+    - name:&aWhite Concrete Powder 
+    - amount:1
+    - type:white_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 552
+  339:
+    MenuItem:
+    - name:&aOrange Concrete Powder 
+    - amount:1
+    - type:orange_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 553
+  340:
+    MenuItem:
+    - name:&aMagenta Concrete Powder 
+    - amount:1
+    - type:magenta_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 554
+  341:
+    MenuItem:
+    - name:&aLight Blue Concrete Powder 
+    - amount:1
+    - type:light_blue_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 555
+  342:
+    MenuItem:
+    - name:&aYellow Concrete Powder 
+    - amount:1
+    - type:yellow_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 556
+  343:
+    MenuItem:
+    - name:&aLime Concrete Powder 
+    - amount:1
+    - type:lime_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 557
+  344:
+    MenuItem:
+    - name:&aPink Concrete Powder 
+    - amount:1
+    - type:pink_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 560
+  345:
+    MenuItem:
+    - name:&aGray Concrete Powder 
+    - amount:1
+    - type:gray_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 561
+  346:
+    MenuItem:
+    - name:&aLight Gray Concrete Powder 
+    - amount:1
+    - type:light_gray_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 562
+  347:
+    MenuItem:
+    - name:&aCyan Concrete Powder 
+    - amount:1
+    - type:cyan_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 563
+  348:
+    MenuItem:
+    - name:&aPurple Concrete Powder 
+    - amount:1
+    - type:purple_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 564
+  349:
+    MenuItem:
+    - name:&aBlue Concrete Powder 
+    - amount:1
+    - type:blue_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 565
+  350:
+    MenuItem:
+    - name:&aBrown Concrete Powder 
+    - amount:1
+    - type:brown_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 566
+  351:
+    MenuItem:
+    - name:&aGreen Concrete Powder 
+    - amount:1
+    - type:green_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 569
+  352:
+    MenuItem:
+    - name:&aRed Concrete Powder 
+    - amount:1
+    - type:red_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 570
+  353:
+    MenuItem:
+    - name:&aBlack Concrete Powder 
+    - amount:1
+    - type:black_concrete_powder 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 571
+  354:
+    MenuItem:
+    - name:&aCampfire 
+    - amount:1
+    - type:campfire 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 572
+  355:
+    MenuItem:
+    - name:&aSoul Campfire 
+    - amount:1
+    - type:soul_campfire 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 573
+  356:
+    MenuItem:
+    - name:&aScaffolding 
+    - amount:1
+    - type:scaffolding 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 574
+  357:
+    MenuItem:
+    - name:&aBarrel 
+    - amount:1
+    - type:barrel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 575
+  358:
+    MenuItem:
+    - name:&aBlast Furnace 
+    - amount:1
+    - type:blast_furnace 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 578
+  359:
+    MenuItem:
+    - name:&aSmoker 
+    - amount:1
+    - type:smoker 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 579
+  360:
+    MenuItem:
+    - name:&aCartography Table 
+    - amount:1
+    - type:cartography_table 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 580
+  361:
+    MenuItem:
+    - name:&aComposter 
+    - amount:1
+    - type:composter 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 581
+  362:
+    MenuItem:
+    - name:&aFletching Table 
+    - amount:1
+    - type:fletching_table 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 582
+  363:
+    MenuItem:
+    - name:&aSmithing Table 
+    - amount:1
+    - type:smithing_table 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 583
+  364:
+    MenuItem:
+    - name:&aStonecutter 
+    - amount:1
+    - type:stonecutter 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 584
+  365:
+    MenuItem:
+    - name:&aGrindstone 
+    - amount:1
+    - type:grindstone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 596
+  366:
+    MenuItem:
+    - name:&aLantern 
+    - amount:1
+    - type:lantern 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 597
+  367:
+    MenuItem:
+    - name:&aSoul Lantern 
+    - amount:1
+    - type:soul_lantern 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 598
+  368:
+    MenuItem:
+    - name:&aLectern 
+    - amount:1
+    - type:lectern 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 599
+  369:
+    MenuItem:
+    - name:&aLoom 
+    - amount:1
+    - type:loom 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 600
+  370:
+    MenuItem:
+    - name:&aBeehive 
+    - amount:1
+    - type:beehive 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 601
+  371:
+    MenuItem:
+    - name:&aChain 
+    - amount:1
+    - type:chain 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 602
+  372:
+    MenuItem:
+    - name:&aSoul Torch 
+    - amount:1
+    - type:soul_torch 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 605
+  373:
+    MenuItem:
+    - name:&aRespawn Anchor 
+    - amount:1
+    - type:respawn_anchor 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 606
+  374:
+    MenuItem:
+    - name:&aLodestone 
+    - amount:1
+    - type:lodestone 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 607
+  375:
+    MenuItem:
+    - name:&aGlass
+    - amount:1
+    - type:glass
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 608
+  376:
+    MenuItem:
+    - name:&aStone
+    - amount:1
+    - type:stone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 609
+  377:
+    MenuItem:
+    - name:&aSmooth Sandstone
+    - amount:1
+    - type:Smooth_Sandstone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 610
+  378:
+    MenuItem:
+    - name:&aSmooth Red Sandstone
+    - amount:1
+    - type:Smooth_Red_Sandstone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 611
+  379:
+    MenuItem:
+    - name:&aSmooth Stone
+    - amount:1
+    - type:smooth_stone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 614
+  380:
+    MenuItem:
+    - name:&aSmooth Quartz
+    - amount:1
+    - type:smooth_quartz
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 615
+  381:
+    MenuItem:
+    - name:&aBrick
+    - amount:1
+    - type:brick
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 616
+  382:
+    MenuItem:
+    - name:&aNether Brick
+    - amount:1
+    - type:nether_brick
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 617
+  383:
+    MenuItem:
+    - name:&aCracked Nether Bricks
+    - amount:1
+    - type:cracked_nether_bricks
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 618
+  384:
+    MenuItem:
+    - name:&aTerracotta
+    - amount:1
+    - type:terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 619
+  385:
+    MenuItem:
+    - name:&aCracked Stone Bricks
+    - amount:1
+    - type:cracked_stone_bricks
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 620
+  386:
+    MenuItem:
+    - name:&aGreen Dye
+    - amount:1
+    - type:green_dye
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.35 ⛃'
+    - 'lore5:&f▪ Exp: &70.35'
+    - 'lore6:&f▪ Points: &70.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 623
+  387:
+    MenuItem:
+    - name:&aCharcoal
+    - amount:1
+    - type:charcoal
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 624
+  388:
+    MenuItem:
+    - name:&aPopped Chorus Fruit
+    - amount:1
+    - type:popped_chorus_fruit
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 625
+  389:
+    MenuItem:
+    - name:&aSponge
+    - amount:1
+    - type:sponge
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 626
+  390:
+    MenuItem:
+    - name:&aLime Dye
+    - amount:1
+    - type:lime_dye
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 627
+  391:
+    MenuItem:
+    - name:&aWhite Glazed Terracotta
+    - amount:1
+    - type:white_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 628
+  392:
+    MenuItem:
+    - name:&aOrange Glazed Terracotta
+    - amount:1
+    - type:orange_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 629
+  393:
+    MenuItem:
+    - name:&aMagenta Glazed Terracotta
+    - amount:1
+    - type:magenta_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 641
+  394:
+    MenuItem:
+    - name:&aLight Blue Glazed Terracotta
+    - amount:1
+    - type:light_blue_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 642
+  395:
+    MenuItem:
+    - name:&aYellow Glazed Terracotta
+    - amount:1
+    - type:yellow_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 643
+  396:
+    MenuItem:
+    - name:&aLime Glazed Terracotta
+    - amount:1
+    - type:lime_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 644
+  397:
+    MenuItem:
+    - name:&aPink Glazed Terracotta
+    - amount:1
+    - type:pink_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 645
+  398:
+    MenuItem:
+    - name:&aGray Glazed Terracotta
+    - amount:1
+    - type:gray_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 646
+  399:
+    MenuItem:
+    - name:&aLight Gray Glazed Terracotta
+    - amount:1
+    - type:light_gray_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 647
+  400:
+    MenuItem:
+    - name:&aCyan Glazed Terracotta
+    - amount:1
+    - type:cyan_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 650
+  401:
+    MenuItem:
+    - name:&aPurple Glazed Terracotta
+    - amount:1
+    - type:purple_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 651
+  402:
+    MenuItem:
+    - name:&aBlue Glazed Terracotta
+    - amount:1
+    - type:blue_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 652
+  403:
+    MenuItem:
+    - name:&aBrown Glazed Terracotta
+    - amount:1
+    - type:brown_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 653
+  404:
+    MenuItem:
+    - name:&aGreen Glazed Terracotta
+    - amount:1
+    - type:green_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 654
+  405:
+    MenuItem:
+    - name:&aRed Glazed Terracotta
+    - amount:1
+    - type:red_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 655
+  406:
+    MenuItem:
+    - name:&aBlack Glazed Terracotta
+    - amount:1
+    - type:black_glazed_terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 65

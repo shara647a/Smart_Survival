@@ -1,0 +1,97 @@
+
+#		   Farms - Skript			#
+#		     by MihiBlu 			#
+
+on unload:
+	if {farmopen} is set:
+		set block at location at -118, 68, 11 in world "world" to iron_bars
+		set block at location at -114, 68, 11 in world "world" to iron_bars
+		set block at location at -115, 68, 11 in world "world" to iron_bars
+		set block at location at -116, 68, 11 in world "world" to iron_bars
+		set block at location at -117, 68, 11 in world "world" to iron_bars
+		set block at location at -118, 67, 11 in world "world" to iron_bars
+		set block at location at -114, 67, 11 in world "world" to iron_bars
+		set block at location at -115, 67, 11 in world "world" to iron_bars
+		set block at location at -116, 67, 11 in world "world" to iron_bars
+		set block at location at -117, 67, 11 in world "world" to iron_bars
+		delete {farmopen}
+	delete {farm::*}
+    
+command /ferma [<player>]:
+	permission: op
+	trigger:
+		if arg-1 have permission "unlock.farm":
+			if {farmopen} is not set:
+				wait 2 tick
+				set {farmopen} to 1
+				wait 2 seconds
+				set block at location at -114, 68, 11 in world "world" to air
+				set block at location at -115, 68, 11 in world "world" to air
+				set block at location at -116, 68, 11 in world "world" to air
+				set block at location at -117, 68, 11 in world "world" to air
+				set block at location at -118, 68, 11 in world "world" to air
+				set block at location at -114, 67, 11 in world "world" to air
+				set block at location at -115, 67, 11 in world "world" to air
+				set block at location at -116, 67, 11 in world "world" to air
+				set block at location at -117, 67, 11 in world "world" to air
+				set block at location at -118, 67, 11 in world "world" to air
+				wait 6 seconds
+				set block at location at -114, 68, 11 in world "world" to iron_bars
+				set block at location at -115, 68, 11 in world "world" to iron_bars
+				set block at location at -116, 68, 11 in world "world" to iron_bars
+				set block at location at -117, 68, 11 in world "world" to iron_bars
+				set block at location at -118, 68, 11 in world "world" to iron_bars
+				set block at location at -114, 67, 11 in world "world" to iron_bars
+				set block at location at -115, 67, 11 in world "world" to iron_bars
+				set block at location at -116, 67, 11 in world "world" to iron_bars
+				set block at location at -117, 67, 11 in world "world" to iron_bars
+				set block at location at -118, 67, 11 in world "world" to iron_bars
+				wait 2 seconds
+				delete {farmopen}
+			
+command /openfarm [<player>]:
+	permission: op
+	trigger:
+		if {farm::%arg-1%} is not set:
+			set {farm::%arg-1%} to 1
+			if arg-1 have permission "unlock.farm":
+				if {farmopen} is not set:
+					wait 5 ticks
+					send "&f &dMarcus: &7Now the gate opens. Increase work :d" to arg-1
+				else:
+					send "&f &dMarcus: &7The farm gate is already open or has recently been opened." to arg-1
+			else:
+				send "&f &dMarcus: &7You do not have the necessary permissions to open the gate!" to arg-1
+			wait 2 seconds
+			delete {farm::%arg-1%}
+			
+command /openfarm2 [<player>]:
+	permission: op
+	trigger:
+		if {farm::%arg-1%} is not set:
+			set {farm::%arg-1%} to 1
+			if arg-1 have permission "unlock.farm":
+				if {farmopen} is not set:
+					wait 5 ticks
+					send "&f &dErik: &7Are you done yet? Now the gate opens." to arg-1
+				else:
+					send "&f &dErik: &7The farm gate is already open or has recently been opened." to arg-1
+			else:
+				send "&f &dErik: &7You do not have the necessary permissions to open the gate!" to arg-1
+			wait 2 seconds
+			delete {farm::%arg-1%}
+
+on block break:
+	if "%region at player%" is "spawn in world world, spawn2 in world world and farm in world world":
+		if event-block is carrots[age=7]:
+			set event-block to carrot plant
+		else if event-block is potatoes[age=7]:
+			set event-block to potato plant
+		else if event-block is wheat[age=7]:
+			set event-block to wheat plant
+		else if event-block is beetroots[age=3]:
+			set event-block to beetroot plant
+		else:
+			if player don't have permission "op":
+				cancel event
+			

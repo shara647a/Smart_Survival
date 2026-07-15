@@ -1,0 +1,1100 @@
+ShopName: Kits
+DisplayName: '&f⻔⻔⻔⻔⻔⻔⻔⻔'
+Command: Kits:Kit
+signs:
+  text: '[Kits]'
+  NeedPermissionToCreateSign: true
+shop:
+  Player:
+    MenuItem:
+    - name:#717070ᴘʟᴀʏᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴛʜɪꜱ ᴋɪᴛ ᴏɴʟʏ ᴏɴ#&7ꜰɪʀꜱᴛ ᴛɪᴍᴇ ᴊᴏɪɴ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    - 'lore3:&f'
+    - 'lore4:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit start
+    RewardType_right: SHOP
+    Reward_right: StartPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Start%:match:yes'
+    - type:permission
+    - match:essentials.kits.start
+  Player_2:
+    MenuItem:
+    - name:#717070ᴘʟᴀʏᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴛʜɪꜱ ᴋɪᴛ ᴏɴʟʏ ᴏɴ#&7ꜰɪʀꜱᴛ ᴛɪᴍᴇ ᴊᴏɪɴ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    - 'lore3:&f'
+    - 'lore4:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit start
+    RewardType_right: SHOP
+    Reward_right: StartPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 3
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Start%:match:yes'
+    - type:permission
+    - match:essentials.kits.start
+  Player_3:
+    MenuItem:
+    - name:#717070ᴘʟᴀʏᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴛʜɪꜱ ᴋɪᴛ ᴏɴʟʏ ᴏɴ#&7ꜰɪʀꜱᴛ ᴛɪᴍᴇ ᴊᴏɪɴ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    - 'lore3:&f'
+    - 'lore4:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit start
+    RewardType_right: SHOP
+    Reward_right: StartPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 4
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Start%:match:yes'
+    - type:permission
+    - match:essentials.kits.start
+################################################################################################
+  Worker:
+    MenuItem:
+    - name:#f8b753ᴡᴏʀᴋᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit worker
+    RewardType_right: SHOP
+    Reward_right: WorkerPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Worker%:match:yes'
+    - type:permission
+    - match:essentials.kits.worker
+  Worker_2:
+    MenuItem:
+    - name:#f8b753ᴡᴏʀᴋᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit worker
+    RewardType_right: SHOP
+    Reward_right: WorkerPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Worker%:match:yes'
+    - type:permission
+    - match:essentials.kits.worker
+  Worker_3:
+    MenuItem:
+    - name:#f8b753ᴡᴏʀᴋᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit worker
+    RewardType_right: SHOP
+    Reward_right: WorkerPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Worker%:match:yes'
+    - type:permission
+    - match:essentials.kits.worker
+################################################################################################
+  Fighter:
+    MenuItem:
+    - name:#1fe27fꜰɪɢʜᴛᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit fighter
+    RewardType_right: SHOP
+    Reward_right: FighterPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Fighter%:match:yes'
+    - type:permission
+    - match:essentials.kits.fighter
+  Fighter_2:
+    MenuItem:
+    - name:#1fe27fꜰɪɢʜᴛᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit fighter
+    RewardType_right: SHOP
+    Reward_right: FighterPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Fighter%:match:yes'
+    - type:permission
+    - match:essentials.kits.fighter
+  Fighter_3:
+    MenuItem:
+    - name:#1fe27fꜰɪɢʜᴛᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit fighter
+    RewardType_right: SHOP
+    Reward_right: FighterPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Fighter%:match:yes'
+    - type:permission
+    - match:essentials.kits.fighter
+################################################################################################
+  Vip:
+    MenuItem:
+    - name:#53f953ᴠɪᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴠɪᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit vip
+    RewardType_right: SHOP
+    Reward_right: VIPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 6
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_VIP%:match:yes'
+    - type:permission
+    - match:essentials.kits.vip
+  Vip_2:
+    MenuItem:
+    - name:#53f953ᴠɪᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴠɪᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit vip
+    RewardType_right: SHOP
+    Reward_right: VIPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 7
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_VIP%:match:yes'
+    - type:permission
+    - match:essentials.kits.vip
+  Vip_3:
+    MenuItem:
+    - name:#53f953ᴠɪᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴠɪᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit vip
+    RewardType_right: SHOP
+    Reward_right: VIPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_VIP%:match:yes'
+    - type:permission
+    - match:essentials.kits.vip
+################################################################################################
+  Mvp:
+    MenuItem:
+    - name:#53f9f9ᴍᴠᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴍᴠᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit mvp
+    RewardType_right: SHOP
+    Reward_right: MVPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_MVP%:match:yes'
+    - type:permission
+    - match:essentials.kits.mvp
+  Mvp_2:
+    MenuItem:
+    - name:#53f9f9ᴍᴠᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴍᴠᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit mvp
+    RewardType_right: SHOP
+    Reward_right: MVPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_MVP%:match:yes'
+    - type:permission
+    - match:essentials.kits.mvp
+  Mvp_3:
+    MenuItem:
+    - name:#53f9f9ᴍᴠᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴍᴠᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit mvp
+    RewardType_right: SHOP
+    Reward_right: MVPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_MVP%:match:yes'
+    - type:permission
+    - match:essentials.kits.mvp
+################################################################################################
+  Legend:
+    MenuItem:
+    - name:#f9a600ʟᴇɢᴇɴᴅ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ʟᴇɢᴇɴᴅ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit legend
+    RewardType_right: SHOP
+    Reward_right: LegendPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Legend%:match:yes'
+    - type:permission
+    - match:essentials.kits.legend
+  Legend_2:
+    MenuItem:
+    - name:#f9a600ʟᴇɢᴇɴᴅ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ʟᴇɢᴇɴᴅ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit legend
+    RewardType_right: SHOP
+    Reward_right: LegendPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Legend%:match:yes'
+    - type:permission
+    - match:essentials.kits.legend
+  Legend_3:
+    MenuItem:
+    - name:#f9a600ʟᴇɢᴇɴᴅ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ʟᴇɢᴇɴᴅ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: PlayerCommand
+    Reward:
+    - kit legend
+    RewardType_right: SHOP
+    Reward_right: LegendPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+    Condition:
+    - type:placeholdermatch
+    - '%essentials_kit_is_available_Legend%:match:yes'
+    - type:permission
+    - match:essentials.kits.legend
+################################################################################################
+  Player_Locked:
+    MenuItem:
+    - name:#717070ᴘʟᴀʏᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴛʜɪꜱ ᴋɪᴛ ᴏɴʟʏ ᴏɴ#&7ꜰɪʀꜱᴛ ᴛɪᴍᴇ ᴊᴏɪɴ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    - 'lore3:&f'
+    - 'lore4:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: StartPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+    Condition:
+    - type:permission
+    - match:essentials.kits.start
+  Player_2_Locked:
+    MenuItem:
+    - name:#717070ᴘʟᴀʏᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴛʜɪꜱ ᴋɪᴛ ᴏɴʟʏ ᴏɴ#&7ꜰɪʀꜱᴛ ᴛɪᴍᴇ ᴊᴏɪɴ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    - 'lore3:&f'
+    - 'lore4:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: StartPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 3
+    Condition:
+    - type:permission
+    - match:essentials.kits.start
+  Player_3_Locked:
+    MenuItem:
+    - name:#717070ᴘʟᴀʏᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴛʜɪꜱ ᴋɪᴛ ᴏɴʟʏ ᴏɴ#&7ꜰɪʀꜱᴛ ᴛɪᴍᴇ ᴊᴏɪɴ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    - 'lore3:&f'
+    - 'lore4:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: StartPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 4
+    Condition:
+    - type:permission
+    - match:essentials.kits.start
+################################################################################################
+  Worker_Locked:
+    MenuItem:
+    - name:#f8b753ᴡᴏʀᴋᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: WorkerPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+    Condition:
+    - type:permission
+    - match:essentials.kits.worker
+  Worker_2_Locked:
+    MenuItem:
+    - name:#f8b753ᴡᴏʀᴋᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: WorkerPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+    Condition:
+    - type:permission
+    - match:essentials.kits.worker
+  Worker_3_Locked:
+    MenuItem:
+    - name:#f8b753ᴡᴏʀᴋᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: WorkerPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+    Condition:
+    - type:permission
+    - match:essentials.kits.worker
+################################################################################################
+  Fighter_Locked:
+    MenuItem:
+    - name:#1fe27fꜰɪɢʜᴛᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: FighterPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+    Condition:
+    - type:permission
+    - match:essentials.kits.fighter
+  Fighter_2_Locked:
+    MenuItem:
+    - name:#1fe27fꜰɪɢʜᴛᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: FighterPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+    Condition:
+    - type:permission
+    - match:essentials.kits.fighter
+  Fighter_3_Locked:
+    MenuItem:
+    - name:#1fe27fꜰɪɢʜᴛᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: FighterPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+    Condition:
+    - type:permission
+    - match:essentials.kits.fighter
+################################################################################################
+  Vip_Locked:
+    MenuItem:
+    - name:#53f953ᴠɪᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴠɪᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: VIPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 6
+    Condition:
+    - type:permission
+    - match:essentials.kits.vip
+  Vip_2_Locked:
+    MenuItem:
+    - name:#53f953ᴠɪᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴠɪᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: VIPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 7
+    Condition:
+    - type:permission
+    - match:essentials.kits.vip
+  Vip_3_Locked:
+    MenuItem:
+    - name:#53f953ᴠɪᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴠɪᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: VIPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+    Condition:
+    - type:permission
+    - match:essentials.kits.vip
+################################################################################################
+  Mvp_Locked:
+    MenuItem:
+    - name:#53f9f9ᴍᴠᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴍᴠᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: MVPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+    Condition:
+    - type:permission
+    - match:essentials.kits.mvp
+  Mvp_2_Locked:
+    MenuItem:
+    - name:#53f9f9ᴍᴠᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴍᴠᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: MVPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+    Condition:
+    - type:permission
+    - match:essentials.kits.mvp
+  Mvp_3_Locked:
+    MenuItem:
+    - name:#53f9f9ᴍᴠᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴍᴠᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: MVPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+    Condition:
+    - type:permission
+    - match:essentials.kits.mvp
+################################################################################################
+  Legend_Locked:
+    MenuItem:
+    - name:#f9a600ʟᴇɢᴇɴᴅ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ʟᴇɢᴇɴᴅ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: LegendPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+    Condition:
+    - type:permission
+    - match:essentials.kits.legend
+  Legend_2_Locked:
+    MenuItem:
+    - name:#f9a600ʟᴇɢᴇɴᴅ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ʟᴇɢᴇɴᴅ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: LegendPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+    Condition:
+    - type:permission
+    - match:essentials.kits.legend
+  Legend_3_Locked:
+    MenuItem:
+    - name:#f9a600ʟᴇɢᴇɴᴅ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ʟᴇɢᴇɴᴅ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: LegendPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+    Condition:
+    - type:permission
+    - match:essentials.kits.legend
+################################################################################################
+  Player_noperm:
+    MenuItem:
+    - name:#717070ᴘʟᴀʏᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴛʜɪꜱ ᴋɪᴛ ᴏɴʟʏ ᴏɴ#&7ꜰɪʀꜱᴛ ᴛɪᴍᴇ ᴊᴏɪɴ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    - 'lore3:&fblk'
+    - 'lore4:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: StartPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+  Player_2_noperm:
+    MenuItem:
+    - name:#717070ᴘʟᴀʏᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴛʜɪꜱ ᴋɪᴛ ᴏɴʟʏ ᴏɴ#&7ꜰɪʀꜱᴛ ᴛɪᴍᴇ ᴊᴏɪɴ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    - 'lore3:&f'
+    - 'lore4:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: StartPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 3
+  Player_3_noperm:
+    MenuItem:
+    - name:#717070ᴘʟᴀʏᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴛʜɪꜱ ᴋɪᴛ ᴏɴʟʏ ᴏɴ#&7ꜰɪʀꜱᴛ ᴛɪᴍᴇ ᴊᴏɪɴ ᴏɴ ᴛʜᴇ ꜱᴇʀᴠᴇʀ'
+    - 'lore3:&f'
+    - 'lore4:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: StartPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 4
+################################################################################################
+  Worker_noperm:
+    MenuItem:
+    - name:#f8b753ᴡᴏʀᴋᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: WorkerPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  Worker_2_noperm:
+    MenuItem:
+    - name:#f8b753ᴡᴏʀᴋᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: WorkerPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  Worker_3_noperm:
+    MenuItem:
+    - name:#f8b753ᴡᴏʀᴋᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: WorkerPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+################################################################################################
+  Fighter_noperm:
+    MenuItem:
+    - name:#1fe27fꜰɪɢʜᴛᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: FighterPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  Fighter_2_noperm:
+    MenuItem:
+    - name:#1fe27fꜰɪɢʜᴛᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: FighterPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  Fighter_3_noperm:
+    MenuItem:
+    - name:#1fe27fꜰɪɢʜᴛᴇʀ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ɢᴇᴛ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴛʜɪꜱ ᴋɪᴛ#&7ꜰʀᴏᴍ /ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: FighterPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+################################################################################################
+  Vip_noperm:
+    MenuItem:
+    - name:#53f953ᴠɪᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴠɪᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: VIPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 6
+  Vip_2_noperm:
+    MenuItem:
+    - name:#53f953ᴠɪᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴠɪᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: VIPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 7
+  Vip_3_noperm:
+    MenuItem:
+    - name:#53f953ᴠɪᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴠɪᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: VIPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+################################################################################################
+  Mvp_noperm:
+    MenuItem:
+    - name:#53f9f9ᴍᴠᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴍᴠᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: MVPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  Mvp_2_noperm:
+    MenuItem:
+    - name:#53f9f9ᴍᴠᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴍᴠᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: MVPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  Mvp_3_noperm:
+    MenuItem:
+    - name:#53f9f9ᴍᴠᴘ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ᴍᴠᴘ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: MVPPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+################################################################################################
+  Legend_noperm:
+    MenuItem:
+    - name:#f9a600ʟᴇɢᴇɴᴅ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ʟᴇɢᴇɴᴅ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: LegendPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  Legend_2_noperm:
+    MenuItem:
+    - name:#f9a600ʟᴇɢᴇɴᴅ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ʟᴇɢᴇɴᴅ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: LegendPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  Legend_3_noperm:
+    MenuItem:
+    - name:#f9a600ʟᴇɢᴇɴᴅ ᴋɪᴛ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    - 'lore1:&7ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏꜱᴇ ᴡɪᴛʜ ʟᴇɢᴇɴᴅ ʀᴀɴᴋ'
+    - 'lore3:&f ▪ ᴅᴇʟᴀʏ:&b 3 ᴅᴀʏꜱ'
+    - 'lore5:&f'
+    - 'lore6:&f'
+    RewardType: NOTHING
+    RewardType_right: SHOP
+    Reward_right: LegendPreview
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  Back:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  Back2:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  Back3:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  glasxsgray6:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54

@@ -1,0 +1,8 @@
+name: streamer
+permissions:
+- displayname.
+parents:
+- default
+prefixes:
+- '&f#9146fe':
+    priority: 999

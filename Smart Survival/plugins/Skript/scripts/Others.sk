@@ -1,0 +1,311 @@
+
+#		   Orthers - Skript			#
+#		     by MihiBlu 			#
+		
+command /website:
+	trigger:
+		send "&f" to player
+		send " &e&lWEBSITE" to player
+		send "&f" to player
+		send " &7▪ https://www.yourwebsite.com" to player
+		
+command /store:
+	trigger:
+		send "&f" to player
+		send " &c&lSTORE" to player
+		send "&f" to player
+		send " &7▪ https://www.yourstore.com" to player
+		send "&f" to player
+		
+command /discord:
+	trigger:
+		send "&f" to player
+		send " &d&lDISORD" to player
+		send "&f" to player
+		send " &7▪ https://discord.gg/server" to player
+
+command /achelp:
+	trigger:
+		send "&f" to player
+		send "&aAngel Chest " to player
+		send " &7▪ /acinfo &8- &fLists all your AngelChests" to player
+		send " &7▪ /acunlock &8- &fUnlock your existing AngelChests for all other players" to player
+		send " &7▪ /actp delivery &8- &fTeleport yourself to your AngelChests" to player
+		send " &7▪ /acfetch delivery &8- &fTeleport your AngelChests to yourself" to player
+
+command /ahhelp:
+	trigger:
+		send "&f" to player
+		send "&aAuctions" to player
+		send " &7▪ /auctionhouse &8- &fOpen auctions menu" to player
+		send " &7▪ /ah <player name> &8- &fOpen a player''s auctions" to player
+		send " &7▪ /ah delivery &8- &fOpen delivery menu" to player
+		
+command /aihelp:
+	trigger:
+		send "&f" to player
+		send "&aAnimated Interactions" to player
+		send " &7▪ /iv toggle hologram <block> &8- &fToggle visual interaction with holograms" to player
+		send " &7▪ /iv toggle itemdrop <block> &8- &fToggle visual interaction with drop items" to player
+		send " &7▪ /iv toggle itemstand <block> &8- &fToggle visual interaction with static items" to player
+		
+command /athelp:
+	trigger:
+		send "&f" to player
+		send "&aAutomatic Tool" to player
+		send " &7▪ /autotool toggle &8- &fToggle automatic selection of the most suitable tool" to player
+		
+command /chelp:
+	trigger:
+		send "&f" to player
+		send "&aClaims" to player
+		send " &7▪ /c claim &8- &fClaim the land you are currently on" to player
+		send " &7▪ /c unclaim &8- &fUnclaim land from your claim" to player
+		send " &7▪ /c show &8- &fVisualize claims around you" to player
+		send " &7▪ /c invite <player> &8- &fInvite a player to join your claim" to player
+		send " &7▪ /c accept &8- &fAccept the latest claim invitation" to player
+		send " &7▪ /c kick <member> &8- &fKick a member from your claim" to player
+		send " &7▪ /c dissolve &8- &fDissolve your claim" to player
+		send " &7▪ /c leave <claim> &8- &fLeave a claim that you are a member of" to player
+		send " &7▪ /c lock &8- &fLock or unlock your claim" to player
+		send " &7▪ /c home <claim> &8- &fGo to a claims home" to player
+		send " &7▪ /c sethome &8- &fSet the home for your claim" to player
+		send " &7▪ /c ban <member> &8- &fBan a member for your claim" to player
+		send " &7▪ /c unban <member> &8- &fUnban a member from your claim" to player
+		send " &7▪ /c recipe &8- &fView the recipe for a powercell" to player
+		send " &7▪ /c name <name> &8- &fSet the display name for your claim" to player
+		
+command /dhelp:
+	permission: op
+	trigger:
+		send "&f" to player
+		send "&aDungeons" to player
+		send " &7▪ /dkey <player> <easy/medium/hard> &8- &fGive dungeon key to a player" to player
+		send " &7▪ /ddebug <arena> &8- &fSet the number of monsters to 0 &7(It can cause bugs if not used properly)" to player
+		send " &7▪ /dmobs <arena> &8- &fCheck the number of monsters" to player
+		send " &7▪ /dloc <add/remove> <arena> <number> &8- &fChange the spawn position of the monsters" to player
+		send " &7▪ /dspawn <arena> &8- &fChange the teleportation location to the arena" to player
+		
+command /ess help [<integer>]:
+	trigger:
+		if arg-1 is 2:
+			send "&f" to player
+			send "&aEssentials" to player
+			send " &7▪ /tpa &8- &fRequest to teleport to the specified player" to player
+			send " &7▪ /tpahere &8- &fRequest that the specified player teleport to you" to player
+			send " &7▪ /tpacancel &8- &fCancel all outstanding teleport requests" to player
+			send " &7▪ /tpaccept &8- &fAccept a teleport request" to player
+			send " &7▪ /tpdeny &8- &fReject a teleport request" to player
+			send " &7▪ /sethome &8- &fSet your home to your current location" to player
+			send " &7▪ /delhome &8- &fRemoves a home" to player
+			send " &7▪ /home &8- &fTeleport to your home" to player
+			send "&8 ▪ &fType &d/essentials help 3 &fto read the next page" to player
+		else if arg-1 is 3:
+			send "&f" to player
+			send "&aEssentials" to player
+			send " &7▪ /msg &8- &fSend a private message to the specified player" to player
+			send " &7▪ /msgtoggle &8- &fBlocks receiving all private messages" to player
+			send " &7▪ /ignore &8- &fIgnore or unignore other players" to player
+			send " &7▪ /mail &8- &fManages inter-player, intra-server mail" to player
+			send " &7▪ /fly &8- &fTake off, and soar" to player
+			send " &7▪ /jump &8- &fJumps to the nearesst block in the line of sight" to player
+			send " &7▪ /depth &8- &fStates current depth relative to sea level" to player
+			send " &7▪ /top &8- &fTeleport to the highest block at your current position" to player
+			send "&8 ▪ &fType &d/essentials help 4 &fto read the next page" to player
+		else if arg-1 is 4:
+			send "&f" to player
+			send "&assentials" to player
+			send " &7▪ /hat &8- &fGet some cool new headgear" to player
+			send " &7▪ /enderchest &8- &fLets you see inside an enderchest" to player
+			send " &7▪ /workbench &8- &fOpens up a workbench" to player
+			send " &7▪ /compass &8- &fDescribes your current bearing" to player
+			send " &7▪ /getpos &8- &fGet your current coordinates pr those of a player" to player
+			send " &7▪ /disposal &8- &fOpens a portable disposal menu" to player
+		else:
+			send "&f" to player
+			send "&aEssentials" to player
+			send " &7▪ /back &8- &fTeleports you to your previous location" to player
+			send " &7▪ /balance &8- &fStates the current balance of a player" to player
+			send " &7▪ /balancetop &8- &fGets the top balance values" to player
+			send " &7▪ /pay &8- &fPay another player from your balance" to player
+			send " &7▪ /helpop &8- &fMessage online admins" to player
+			send " &7▪ /kit &8- &fViews all available kits" to player
+			send " &7▪ /warp &8- &fList all warps" to player
+			send " &7▪ /spawn &8- &fTeleport to spawn" to player
+			send "&8 ▪ &fType &d/essentials help 2 &fto read the next page" to player
+		
+command /ichelp:
+	trigger:
+		make player execute command "ic list"
+		
+command /fhelp:
+	trigger:
+		send "&f" to player
+		send "&aFurnitures" to player
+		send " &7▪ /furniture manage &8- &fOpen the settings menu for furnitures" to player
+		send " &7▪ /furniture toggle &8- &fMake all furnitures visible/invisible" to player
+		
+command /iphelp:
+	trigger:
+		send "&f" to player
+		send "&aInventory Pickup" to player
+		send " &7▪ /drop2inv toggle &8- &fToggle automatic inventory pickup" to player
+		
+command /jhelp:
+	trigger:
+		send "&f" to player
+		send "&aJobs " to player
+		send " &7▪ /jobs browse &8- &fList the jobs available to you" to player
+		send " &7▪ /jobs gtop &8- &fShows top players by global jobs level" to player
+		send " &7▪ /jobs join <jobname> &8- &fJoin the selected job" to player
+		send " &7▪ /jobs leave <jobname> &8- &fLeave the selected job" to player
+		send " &7▪ /jobs points &8- &fShows how much points does a player have" to player
+		send " &7▪ /jobs shop &8- &fOpens special jobs shop" to player
+		send " &7▪ /jobs quests &8- &fList available quests" to player
+		send " &7▪ /jobs stats &8- &fShow the level you are in each job you are part of" to player
+		send " &7▪ /jobs top <job> &8- &fShows top players by jobs name" to player
+		
+command /mhhelp:
+	trigger:
+		send "&f" to player
+		send "&aAnimated Health" to player
+		send " &7▪ /holomobhealth toggle &8- &fToggle the holograms with health of entity" to player
+
+# 235286
+		
+command /pbhelp:
+	trigger:
+		send "&f" to player
+		send "&aPortable Blocks" to player
+		send " &7▪ /anvil &8- &fWill open an anvil inventory." to player
+		send " &7▪ /brewing &8- &fWill open an brewing inventory." to player
+		send " &7▪ /cartography &8- &fWill open an cartography table." to player
+		send " &7▪ /craft &8- &fWill open an crafting bench." to player
+		send " &7▪ /enchanttable &8- &fWill open an enchantment table." to player
+		send " &7▪ /enderchest &8- &fWill open your enderchest." to player
+		send " &7▪ /grindstone &8- &fWill open the grindstone." to player
+		send " &7▪ /loom &8- &fWill open the loom." to player
+		send " &7▪ /stonecutter &8- &fWill open the stone cutter." to player
+		send " &7▪ /furnace &8- &fWill open the virtual furnace." to player
+		send " &7▪ /blastfurnace &8- &fWill open the virtual blast furnace." to player
+		send " &7▪ /smoker &8- &fWill open the virtual smoker." to player
+		
+command /rthelp:
+	trigger:
+		send "&f" to player
+		send "&aRandom Teleport" to player
+		send " &7▪ /randomtp &8- &fRandomly teleports you" to player
+		
+command /rhelp:
+	trigger:
+		send "&f" to player
+		send "&aPlaytime Rewards" to player
+		send " &7▪ /rewards &8- &fSee the list of rewards" to player
+		send " &7▪ /daily &8- &fClaim your daily reward" to player
+		send " &7▪ /playtime &8- &fView the time played on the server" to player
+		
+command /schelp:
+	trigger:
+		send "&f" to player
+		send "&aScoreboard" to player
+		send " &7▪ /asb toggle &8- &fToggle the scoreboard" to player
+		
+command /skhelp:
+	trigger:
+		send "&f" to player
+		send "&aSkills" to player
+		send " &7▪ /skills &8- &fOpen skills menu" to player
+		send " &7▪ /skills rank &8- &fShow your skill rankings" to player
+		send " &7▪ /skills top &8- &fShows the top players in a skill" to player
+		
+command /thelp:
+	trigger:
+		send "&f" to player
+		send "&aTrade System" to player
+		send " &7▪ /trade <player> &8- &fGive a trade request" to player
+		send " &7▪ /trade accept &8- &fAccept a trade request" to player
+		send " &7▪ /trade deny &8- &fRefuse a trade request" to player
+		
+command /tfwhelp:
+	trigger:
+		send "&f" to player
+		send "&aTree Fall Down" to player
+		send " &7▪ /lumberjack &8- &fToggle tree gravity" to player
+		
+command /daily:
+	trigger:
+		if {reward::%player%} is not set:
+			make console execute command "crate key give %player% Daily 1"
+			send "&f &fYour reward for this day has been delivered!"
+			set {reward::%player%} to now
+		else if difference between now and {reward::%player%} is more than 24 hours:
+			make console execute command "crate key give %player% Daily 1"
+			send "&f &fYour reward for this day has been delivered!"
+			set {reward::%player%} to now
+		else:
+			send "&f &fYou have to wait 24 hours from the previous reward." to player
+
+on first join:
+	wait 3 second
+	make player execute command "kit start"
+
+on unload:
+	delete {dialog::*}
+	delete {rtp::*}
+
+command /tutorial [<player>]:
+	permission: op
+	trigger:
+		if {dialog::%arg-1%} is not set:
+			set {dialog::%arg-1%} to 1
+			wait 5 ticks
+			send "&f &dOliver: &7Howdy! How are you? I'm glad to see you here!" to arg-1
+			wait 3 seconds
+			send "&f &dOliver: &7Find more informations about our server in the &bGuide&7, you can find that in &aServer Menu&7 or by walking ahead!" to arg-1
+			delete {dialog::%arg-1%}
+
+on click on barrier:
+	if location of event-block is {guideloc}:
+		make player execute command "guide"
+	if location of event-block is {rtploc}:
+		make player execute command "rtp"
+
+command drop2inv:
+	trigger:
+		if player have permission "drop2inventory.use":
+			make player execute command "drop2inventory"
+		else:
+			send "&f &fYou don't have required permission!"
+
+on region exit:
+	if {rtp::%player%} is not set:
+		if "%event-region%" is "spawn in world world":
+			wait 1 tick
+			if "%region at player%" is "spawn2 in world world":
+				set {rtp::%player%} to "da"
+				make console execute command "lp user %player% permission set betterrtp.bypass.economy"
+				make console execute command "randomtp player %player% playworld"
+				wait 5 seconds
+				make console execute command "lp user %player% permission unset betterrtp.bypass.economy"
+				delete {rtp::%player%}
+				
+				
+on right click with stick:
+	if name of tool of player is "ʀᴇᴡᴀʀᴅ - $5,000":
+		make console execute command "/eco give %player% 5000"
+		remove 1 of tool of player from player's inventory
+	else if name of tool of player is "ʀᴇᴡᴀʀᴅ - Hat":
+		make console execute command "/lp user %player% permission set essentials.hat"
+		remove 1 of tool of player from player's inventory
+	else if name of tool of player is "ʀᴇᴡᴀʀᴅ - Enderchest":
+		make console execute command "/lp user %player% permission set pci.enderchest"
+		remove 1 of tool of player from player's inventory
+	else if name of tool of player is "ʀᴇᴡᴀʀᴅ - Fly 24h":
+		make console execute command "/lp user %player% permission settemp essentials.fly true 24h"
+		remove 1 of tool of player from player's inventory
+	else if name of tool of player is "ʀᴇᴡᴀʀᴅ - Nick":
+		make console execute command "/lp user %player% permission set essentials.nick"
+		remove 1 of tool of player from player's inventory
+	else if name of tool of player is "ʀᴇᴡᴀʀᴅ - AngelChest":
+		make console execute command "/lp user %player% permission set angelchest.use"
+		remove 1 of tool of player from player's inventory

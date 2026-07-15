@@ -1,0 +1,559 @@
+ShopName: CookPayouts
+DisplayName: '&8Cook Payouts'
+Command: CookPO
+signs:
+  text: '[CookPO]'
+  NeedPermissionToCreateSign: true
+shop:
+  Menu:
+    RewardType: shop
+    Reward: Jobs
+    PriceType: nothing
+    MenuItem:
+    - name:&eBack
+    - amount:1
+    - type:glowstone_dust
+    Message: ''
+    InventoryLocation: 50
+    ExtraPermission: ''
+  1:
+    MenuItem:
+    - name:&aCake
+    - amount:1
+    - type:cake
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  2:
+    MenuItem:
+    - name:&aBread
+    - amount:1
+    - type:bread
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.7 ⛃'
+    - 'lore5:&f▪ Exp: &70.7'
+    - 'lore6:&f▪ Points: &70.7'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  3:
+    MenuItem:
+    - name:&aCookie
+    - amount:1
+    - type:cookie
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.9 ⛃'
+    - 'lore5:&f▪ Exp: &70.9'
+    - 'lore6:&f▪ Points: &70.9'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  4:
+    MenuItem:
+    - name:&aMushroom stew
+    - amount:1
+    - type:mushroom_stew
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  5:
+    MenuItem:
+    - name:&aGolden Apple
+    - amount:1
+    - type:golden_apple
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  6:
+    MenuItem:
+    - name:&aSugar
+    - amount:1
+    - type:sugar
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &70.6'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  7:
+    MenuItem:
+    - name:&aPumpkin Pie
+    - amount:1
+    - type:pumpkin_pie
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.75 ⛃'
+    - 'lore5:&f▪ Exp: &70.75'
+    - 'lore6:&f▪ Points: &70.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  8:
+    MenuItem:
+    - name:&aGolden Carrot
+    - amount:1
+    - type:golden_carrot
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  9:
+    MenuItem:
+    - name:&aRabbit Stew
+    - amount:1
+    - type:rabbit_stew
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.9 ⛃'
+    - 'lore5:&f▪ Exp: &70.9'
+    - 'lore6:&f▪ Points: &70.9'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  10:
+    MenuItem:
+    - name:&aSuspicious Stew
+    - amount:1
+    - type:suspicious_stew
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.9 ⛃'
+    - 'lore5:&f▪ Exp: &70.9'
+    - 'lore6:&f▪ Points: &70.9'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  11:
+    MenuItem:
+    - name:&aHoney Bottle
+    - amount:1
+    - type:honey_bottle
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Craft'
+    - 'lore4:&f▪ Money: &a0.85 ⛃'
+    - 'lore5:&f▪ Exp: &70.85'
+    - 'lore6:&f▪ Points: &70.85'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  12:
+    MenuItem:
+    - name:&aCooked Porkchop
+    - amount:1
+    - type:cooked_porkchop
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  13:
+    MenuItem:
+    - name:&aSteak
+    - amount:1
+    - type:cooked_beef
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  14vlad:
+    MenuItem:
+    - name:&aCooked Chicken
+    - amount:1
+    - type:cooked_chicken
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  14:
+    MenuItem:
+    - name:&aCooked Cod
+    - amount:1
+    - type:cooked_cod
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  15:
+    MenuItem:
+    - name:&aCooked Salmon
+    - amount:1
+    - type:cooked_salmon
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  16:
+    MenuItem:
+    - name:&aBaked Potato
+    - amount:1
+    - type:baked_potato
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  17:
+    MenuItem:
+    - name:&aCooked Mutton
+    - amount:1
+    - type:cooked_mutton
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  18:
+    MenuItem:
+    - name:&aCooked Rabbit
+    - amount:1
+    - type:cooked_rabbit
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  19:
+    MenuItem:
+    - name:&aDried Kelp
+    - amount:1
+    - type:dried_kelp
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Smelt'
+    - 'lore4:&f▪ Money: &a0.45 ⛃'
+    - 'lore5:&f▪ Exp: &70.45'
+    - 'lore6:&f▪ Points: &70.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  glassgray1:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 1
+  glassgray2:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+  glassgray3:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 3
+  glassgray4:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 4
+  glassgray5:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 5
+  glassgray6:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 6
+  glassgray7:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 7
+  glassgray8:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+  glassgray9:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 9
+  glassgray10:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 10
+  glassgray11:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 18
+  glassgray12:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 19
+  glassgray13:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+  glassgray14:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+  glassgray15:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+  glassgray16:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 37
+  glassgray17:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 45
+  glassgray18:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 46
+  glassgray19:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 47
+  glassgray20:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 48
+  glassgray21:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  glassgray22:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  glassgray23:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  glassgray24:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 52
+  glassgray25:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 53
+  glassgray26:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:GRAY_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54
+

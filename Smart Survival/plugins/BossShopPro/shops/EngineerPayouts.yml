@@ -1,0 +1,889 @@
+ShopName: EngineerPayouts
+DisplayName: '&8Engineer Payouts'
+Command: EngineerPO
+signs:
+  text: '[EngineerPO]'
+  NeedPermissionToCreateSign: true
+shop:
+  1:
+    MenuItem:
+    - name:&aRedstone
+    - amount:1
+    - type:redstone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.2 ⛃'
+    - 'lore10:&f▪ Exp: &70.2'
+    - 'lore11:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  2:
+    MenuItem:
+    - name:&aRepeater
+    - amount:1
+    - type:repeater
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a1 ⛃'
+    - 'lore10:&f▪ Exp: &71'
+    - 'lore11:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  3:
+    MenuItem:
+    - name:&aComparator
+    - amount:1
+    - type:comparator
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a1.2 ⛃'
+    - 'lore5:&f▪ Exp: &71.2'
+    - 'lore6:&f▪ Points: &71.2'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a1.2 ⛃'
+    - 'lore10:&f▪ Exp: &71.2'
+    - 'lore11:&f▪ Points: &71.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  4:
+    MenuItem:
+    - name:&aDispenser
+    - amount:1
+    - type:dispenser
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &70.6'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.6 ⛃'
+    - 'lore10:&f▪ Exp: &70.6'
+    - 'lore11:&f▪ Points: &70.6'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  5:
+    MenuItem:
+    - name:&aNote Block
+    - amount:1
+    - type:note_block
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  6:
+    MenuItem:
+    - name:&aSticky Piston
+    - amount:1
+    - type:sticky_piston
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a3.5 ⛃'
+    - 'lore10:&f▪ Exp: &73.5'
+    - 'lore11:&f▪ Points: &73.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  7:
+    MenuItem:
+    - name:&aPiston
+    - amount:1
+    - type:Piston
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a3 ⛃'
+    - 'lore10:&f▪ Exp: &73'
+    - 'lore11:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  8:
+    MenuItem:
+    - name:&aTNT
+    - amount:1
+    - type:tnt
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a3 ⛃'
+    - 'lore10:&f▪ Exp: &73'
+    - 'lore11:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  9:
+    MenuItem:
+    - name:&aLever
+    - amount:1
+    - type:lever
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.2 ⛃'
+    - 'lore10:&f▪ Exp: &70.2'
+    - 'lore11:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  10:
+    MenuItem:
+    - name:&aRedstone Torch
+    - amount:1
+    - type:redstone_torch
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.2 ⛃'
+    - 'lore10:&f▪ Exp: &70.2'
+    - 'lore11:&f▪ Points: &70.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  11:
+    MenuItem:
+    - name:&aRedstone Lamp
+    - amount:1
+    - type:redstone_lamp
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a2.5 ⛃'
+    - 'lore10:&f▪ Exp: &72.5'
+    - 'lore11:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  12:
+    MenuItem:
+    - name:&aTripwire Hook
+    - amount:1
+    - type:tripwire_hook
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.3 ⛃'
+    - 'lore10:&f▪ Exp: &70.3'
+    - 'lore11:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  13:
+    MenuItem:
+    - name:&aTrapped Chest
+    - amount:1
+    - type:trapped_chest
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  14:
+    MenuItem:
+    - name:&aDaylight Detector
+    - amount:1
+    - type:daylight_detector
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a1.25 ⛃'
+    - 'lore5:&f▪ Exp: &71.25'
+    - 'lore6:&f▪ Points: &71.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a1.25 ⛃'
+    - 'lore10:&f▪ Exp: &71.25'
+    - 'lore11:&f▪ Points: &71.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  15:
+    MenuItem:
+    - name:&aHopper
+    - amount:1
+    - type:hopper
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a3 ⛃'
+    - 'lore10:&f▪ Exp: &73'
+    - 'lore11:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  16:
+    MenuItem:
+    - name:&aDropper
+    - amount:1
+    - type:dropper
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &70.6'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.6 ⛃'
+    - 'lore10:&f▪ Exp: &70.6'
+    - 'lore11:&f▪ Points: &70.6'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  17:
+    MenuItem:
+    - name:&aObserver
+    - amount:1
+    - type:observer
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a1 ⛃'
+    - 'lore10:&f▪ Exp: &71'
+    - 'lore11:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  18:
+    MenuItem:
+    - name:&aLectern
+    - amount:1
+    - type:lectern
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a1 ⛃'
+    - 'lore10:&f▪ Exp: &71'
+    - 'lore11:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  19:
+    MenuItem:
+    - name:&aTarget
+    - amount:1
+    - type:target
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a1 ⛃'
+    - 'lore10:&f▪ Exp: &71'
+    - 'lore11:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  20:
+    MenuItem:
+    - name:&aStone Pressure Plate
+    - amount:1
+    - type:stone_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  21:
+    MenuItem:
+    - name:&aOak Pressure Plate
+    - amount:1
+    - type:oak_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  22:
+    MenuItem:
+    - name:&aSpruce Pressure Plate
+    - amount:1
+    - type:spruce_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  23:
+    MenuItem:
+    - name:&aBirch Pressure Plate
+    - amount:1
+    - type:birch_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  24:
+    MenuItem:
+    - name:&aJungle Pressure Plate
+    - amount:1
+    - type:jungle_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+  25:
+    MenuItem:
+    - name:&aAcacia Pressure Plate
+    - amount:1
+    - type:acacia_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  26:
+    MenuItem:
+    - name:&aDark Oak Pressure Plate
+    - amount:1
+    - type:dark_oak_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  27:
+    MenuItem:
+    - name:&aCrimson Pressure Plate
+    - amount:1
+    - type:crimson_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  28:
+    MenuItem:
+    - name:&aWarped Pressure Plate
+    - amount:1
+    - type:warped_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  29:
+    MenuItem:
+    - name:&aPolished Blackstone Pressure Plate
+    - amount:1
+    - type:polished_blackstone_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 56
+  30:
+    MenuItem:
+    - name:&aLight Weighted Pressure Plate
+    - amount:1
+    - type:light_weighted_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 57
+  31:
+    MenuItem:
+    - name:&aHeavy Weighted Pressure Plate
+    - amount:1
+    - type:heavy_weighted_pressure_plate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.4 ⛃'
+    - 'lore5:&f▪ Exp: &70.4'
+    - 'lore6:&f▪ Points: &70.4'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.4 ⛃'
+    - 'lore10:&f▪ Exp: &70.4'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 58
+  32:
+    MenuItem:
+    - name:&aStone Button
+    - amount:1
+    - type:stone_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 59
+  33:
+    MenuItem:
+    - name:&aOak Button
+    - amount:1
+    - type:oak_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 60
+  34:
+    MenuItem:
+    - name:&aSpruce Button
+    - amount:1
+    - type:spruce_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 61
+  35:
+    MenuItem:
+    - name:&aBirch Button
+    - amount:1
+    - type:birch_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 62
+  36:
+    MenuItem:
+    - name:&aJungle Button
+    - amount:1
+    - type:jungle_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 65
+  37:
+    MenuItem:
+    - name:&aAcacia Button
+    - amount:1
+    - type:acacia_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 66
+  38:
+    MenuItem:
+    - name:&aDark Oak Button
+    - amount:1
+    - type:dark_oak_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 67
+  39:
+    MenuItem:
+    - name:&aCrimson Button
+    - amount:1
+    - type:crimson_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 68
+  40:
+    MenuItem:
+    - name:&aWarped Button
+    - amount:1
+    - type:warped_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 69
+  41:
+    MenuItem:
+    - name:&aPolished Blackstone Button
+    - amount:1
+    - type:polished_blackstone_button
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 70
+  42:
+    MenuItem:
+    - name:&aOak Trapdoor
+    - amount:1
+    - type:oak_trapdoor
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 71
+  43:
+    MenuItem:
+    - name:&aSpruce Trapdoor
+    - amount:1
+    - type:spruce_trapdoor
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 74
+  44:
+    MenuItem:
+    - name:&aBirch Trapdoor
+    - amount:1
+    - type:birch_trapdoor
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &7.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 75
+  45:
+    MenuItem:
+    - name:&aJungle Trapdoor
+    - amount:1
+    - type:jungle_trapdoor
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 76
+  46:
+    MenuItem:
+    - name:&aAcacia Trapdoor
+    - amount:1
+    - type:acacia_trapdoor
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 77
+  47:
+    MenuItem:
+    - name:&aDark Oak Trapdoor
+    - amount:1
+    - type:dark_oak_trapdoor
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 78
+  48:
+    MenuItem:
+    - name:&aCrimson Trapdoor
+    - amount:1
+    - type:crimson_trapdoor
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 79
+  49:
+    MenuItem:
+    - name:&aWarped Trapdoor
+    - amount:1
+    - type:warped_trapdoor
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Place'
+    - 'lore4:&f▪ Money: &a0.5 ⛃'
+    - 'lore5:&f▪ Exp: &70.5'
+    - 'lore6:&f▪ Points: &70.5'
+    - 'lore8:&f▪ Action: &7Craft'
+    - 'lore9:&f▪ Money: &a0.5 ⛃'
+    - 'lore10:&f▪ Exp: &70.5'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 80

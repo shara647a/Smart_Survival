@@ -1,0 +1,149 @@
+ShopName: Backpacks
+DisplayName: '&f⻔⻔⻔⻔⻔⻔⻔⻔'
+Command: Backpacks
+signs:
+  text: '[Backpacks]'
+  NeedPermissionToCreateSign: true
+shop:
+  bundle:
+    MenuItem:
+    - name:&7ʙᴜɴᴅʟᴇ
+    - 'lore1:&7ᴛʜɪꜱ ʙᴀɢ ᴀʟʟᴏᴡꜱ ᴛʜᴇ ꜱᴛᴏʀᴀɢᴇ ᴏꜰ#&7ᴀ ᴛᴏᴛᴀʟ ᴏꜰ &b64 ɪᴛᴇᴍꜱ&7 ɪɴ ᴛᴏᴛᴀʟ'
+    - 'lore3:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - amount:1
+    - type:Bundle
+    RewardType: command
+    Reward:
+    - 'give %player% bundle 1'
+    PriceType: MONEY
+    Price: 600
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  skull1:
+    MenuItem:
+    - name:&aʙᴀᴄᴋᴘᴀᴄᴋ ᴛɪᴇʀ ɪ
+    - 'lore1:&7ᴛʜɪꜱ ʙᴀᴄᴋᴘᴀᴄᴋ ʜᴀꜱ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ &b7 ꜱʟᴏᴛꜱ&7 ᴀᴠᴀɪʟᴀʙʟᴇ#&7ꜰᴏʀ ɪᴛᴇᴍꜱ, ᴀɴᴅ 2 ꜰᴏʀ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ 12 ʙᴜᴄᴋᴇᴛꜱ'
+    - 'lore3:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTg0NTlmM2I2NWIyM2NmYThjOWIxNDQzMjViOWJhODE0MDdiZTkzODJjZDg1OTkyZWY5NzljZjBlNzgzZjYifX19
+    RewardType: command
+    Reward:
+    - 'bbp give %player% 1'
+    PriceType: MONEY
+    Price: 2400
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  skull2:
+    MenuItem:
+    - name:&aʙᴀᴄᴋᴘᴀᴄᴋ ᴛɪᴇʀ ɪɪ
+    - 'lore1:&7ᴛʜɪꜱ ʙᴀᴄᴋᴘᴀᴄᴋ ʜᴀꜱ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ &b16 ꜱʟᴏᴛꜱ&7 ᴀᴠᴀɪʟᴀʙʟᴇ#&7ꜰᴏʀ ɪᴛᴇᴍꜱ, ᴀɴᴅ 2 ꜰᴏʀ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ 12 ʙᴜᴄᴋᴇᴛꜱ'
+    - 'lore3:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM3YTM1NTIyZjY3YjJhZjkyMzQ1NTkyODQ2YjcwMmI5YWZiOWQ3YzhkYmFkNWVhMTUwNjczYzllNDRkZTMifX19
+    RewardType: command
+    Reward:
+    - 'bbp give %player% 2'
+    PriceType: MONEY
+    Price: 3500
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  skull3:
+    MenuItem:
+    - name:&aʙᴀᴄᴋᴘᴀᴄᴋ ᴛɪᴇʀ ɪɪɪ
+    - 'lore1:&7ᴛʜɪꜱ ʙᴀᴄᴋᴘᴀᴄᴋ ʜᴀꜱ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ &b25 ꜱʟᴏᴛꜱ&7 ᴀᴠᴀɪʟᴀʙʟᴇ#&7ꜰᴏʀ ɪᴛᴇᴍꜱ, ᴀɴᴅ 2 ꜰᴏʀ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ 12 ʙᴜᴄᴋᴇᴛꜱ'
+    - 'lore3:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVlNGY5ZGE2OGM4MWZhNDgxZWVjZGNhNDhhMTM4Y2VjZGUyY2RkZmZlZWFlODRhYjFhZmQyNGEzNjNlMDI4In19fQ==
+    RewardType: command
+    Reward:
+    - 'bbp give %player% 3'
+    PriceType: MONEY
+    Price: 4800
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  skull4:
+    MenuItem:
+    - name:&aʙᴀᴄᴋᴘᴀᴄᴋ ᴛɪᴇʀ ɪᴠ
+    - 'lore1:&7ᴛʜɪꜱ ʙᴀᴄᴋᴘᴀᴄᴋ ʜᴀꜱ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ &b34 ꜱʟᴏᴛꜱ&7 ᴀᴠᴀɪʟᴀʙʟᴇ#&7ꜰᴏʀ ɪᴛᴇᴍꜱ, ᴀɴᴅ 2 ꜰᴏʀ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ 12 ʙᴜᴄᴋᴇᴛꜱ'
+    - 'lore3:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNjMTUzYzM5MWMzNGUyZDMyOGE2MDgzOWU2ODNhOWY4MmFkMzA0ODI5OWQ4YmM2YTM5ZTZmOTE1Y2M1YSJ9fX0=
+    RewardType: command
+    Reward:
+    - 'bbp give %player% 4'
+    PriceType: MONEY
+    Price: 6000
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  skull5:
+    MenuItem:
+    - name:&aʙᴀᴄᴋᴘᴀᴄᴋ ᴛɪᴇʀ ᴠ
+    - 'lore1:&7ᴛʜɪꜱ ʙᴀᴄᴋᴘᴀᴄᴋ ʜᴀꜱ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ &b43 ꜱʟᴏᴛꜱ&7 ᴀᴠᴀɪʟᴀʙʟᴇ#&7ꜰᴏʀ ɪᴛᴇᴍꜱ, ᴀɴᴅ 2 ꜰᴏʀ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ 12 ʙᴜᴄᴋᴇᴛꜱ'
+    - 'lore3:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhhMTI3ZjFjZmQ3OTk4NmU3YmQ5NWQ5MmRlNGY0ZjY4MDQwZTRmODk5ZjgxYjFmOGYzY2ExNWI2NGY1MGYzIn19fQ==
+    RewardType: command
+    Reward:
+    - 'bbp give %player% 5'
+    PriceType: MONEY
+    Price: 7300
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  skull6:
+    MenuItem:
+    - name:&aʙᴀᴄᴋᴘᴀᴄᴋ ᴛɪᴇʀ ᴠɪ
+    - 'lore1:&7ᴛʜɪꜱ ʙᴀᴄᴋᴘᴀᴄᴋ ʜᴀꜱ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ &b52 ꜱʟᴏᴛꜱ&7 ᴀᴠᴀɪʟᴀʙʟᴇ#&7ꜰᴏʀ ɪᴛᴇᴍꜱ, ᴀɴᴅ 2 ꜰᴏʀ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ 12 ʙᴜᴄᴋᴇᴛꜱ'
+    - 'lore3:&f ▪ ᴘʀɪᴄᴇ: #dad45e%price%#&f#&f'
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWViNjViYmU3NDQ5NDU4NDFlOTIzNGEzM2I1Y2U1Y2MyMzZmNmEyZmM5M2ExYTNhZTQyZGY3N2M5MDg0ZGYxZSJ9fX0=
+    RewardType: command
+    Reward:
+    - 'bbp give %player% 6'
+    PriceType: MONEY
+    Price: 9500
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+####################################################################################################################
+  Back:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  Back2:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  Back3:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Menu
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51

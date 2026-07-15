@@ -1,0 +1,42 @@
+name: moderator
+permissions:
+- chatmanager.announcement
+- chatmanager.commandspy
+- chatmanager.mutechat
+- chatmanager.socialspy
+- chatmanager.warning
+- displayname.
+- essentials.back
+- essentials.ban
+- essentials.ban.notify
+- essentials.broadcast
+- essentials.chat.magic
+- essentials.chat.spy
+- essentials.chat.url
+- essentials.clearinventory
+- essentials.fly
+- essentials.fly.safelogin
+- essentials.getpos
+- essentials.getpos.others
+- essentials.invsee
+- essentials.itemdb
+- essentials.kick
+- essentials.kick.notify
+- essentials.kill
+- essentials.mute
+- essentials.mute.notify
+- essentials.seen.banreason
+- essentials.seen.extra
+- essentials.tp
+- essentials.tphere
+- essentials.tppos
+- essentials.unban
+- essentials.vanish
+- essentials.vanish.effect
+- essentials.whois
+- essentials.world
+parents:
+- helper
+prefixes:
+- '&f#42d6fe':
+    priority: 999

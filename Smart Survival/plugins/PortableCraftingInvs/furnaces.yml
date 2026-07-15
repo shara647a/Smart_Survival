@@ -1,0 +1,61 @@
+furnaces:
+  a428c3b5-8bef-4343-8fb1-a39587132dcc:
+    ==: com.itsschatten.portablecrafting.libs.machine.Furnace
+    name: Furnace
+    uuid: a428c3b5-8bef-4343-8fb1-a39587132dcc
+    properties:
+      ==: com.itsschatten.portablecrafting.libs.property.FurnaceProperties
+      key: portablecraftinginvs:properties_furnace
+      cookX: 1.0
+      fuelX: 1.0
+    cookTime: 0
+    fuelTime: 0
+    xp: 0.0
+    fuel: null
+    input: null
+    output: null
+  4075384b-a82f-425f-bf70-bccc4a621728:
+    ==: com.itsschatten.portablecrafting.libs.machine.Furnace
+    name: Blast Furnace
+    uuid: 4075384b-a82f-425f-bf70-bccc4a621728
+    properties:
+      ==: com.itsschatten.portablecrafting.libs.property.FurnaceProperties
+      key: portablecraftinginvs:properties_blast_furnace
+      cookX: 2.0
+      fuelX: 2.0
+    cookTime: 0
+    fuelTime: 0
+    xp: 0.0
+    fuel: null
+    input: null
+    output: null
+  53155328-e7bc-4ef1-a374-b0c2b56e30e4:
+    ==: com.itsschatten.portablecrafting.libs.machine.Furnace
+    name: Smoker
+    uuid: 53155328-e7bc-4ef1-a374-b0c2b56e30e4
+    properties:
+      ==: com.itsschatten.portablecrafting.libs.property.FurnaceProperties
+      key: portablecraftinginvs:properties_smoker
+      cookX: 2.0
+      fuelX: 2.0
+    cookTime: 0
+    fuelTime: 0
+    xp: 0.0
+    fuel: null
+    input: null
+    output: null
+  1a1cc213-44d0-443b-8e91-02f7b1de164e:
+    ==: com.itsschatten.portablecrafting.libs.machine.Furnace
+    name: Furnace
+    uuid: 1a1cc213-44d0-443b-8e91-02f7b1de164e
+    properties:
+      ==: com.itsschatten.portablecrafting.libs.property.FurnaceProperties
+      key: portablecraftinginvs:properties_furnace
+      cookX: 1.0
+      fuelX: 1.0
+    cookTime: 0
+    fuelTime: 0
+    xp: 0.0
+    fuel: null
+    input: null
+    output: null

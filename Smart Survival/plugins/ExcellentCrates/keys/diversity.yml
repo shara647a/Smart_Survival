@@ -1,0 +1,13 @@
+Name: §bDiversity Key
+Virtual: false
+Item:
+  Material: STICK
+  Custom_Model_Data: 143
+  Amount: 1
+  Durability: 0
+  Name: '&bDiversity Key'
+  Lore:
+  - '&7With this key you'
+  - '&7can open diversity crate'
+  Item_Flags: []
+  Unbreakable: false

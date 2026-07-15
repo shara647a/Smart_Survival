@@ -1,0 +1,24 @@
+name: admin
+permissions:
+- bukkit.command.paper
+- bukkit.command.plugins
+- bukkit.command.reload
+- bukkit.command.restart
+- bukkit.command.spigot
+- bukkit.command.version
+- bukkit.command.whitelist
+- displayname.
+- essentials.backup
+- essentials.ban.offline
+- essentials.delwarp
+- essentials.god
+- essentials.jails
+- essentials.setjail
+- essentials.setwarp
+- essentials.tptoggle
+- minecraft.command.whitelist
+parents:
+- moderator
+prefixes:
+- '&f#fc54fc':
+    priority: 999

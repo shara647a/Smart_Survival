@@ -1,0 +1,657 @@
+ShopName: MinerPayouts
+DisplayName: '&8Miner Payouts'
+Command: MinerPO
+signs:
+  text: '[MinerPO]'
+  NeedPermissionToCreateSign: true
+shop:
+  5:
+    MenuItem:
+    - name:&aTube Coral Block
+    - amount:1
+    - type:tube_coral_block
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  6:
+    MenuItem:
+    - name:&aBrain Coral Block
+    - amount:1
+    - type:brain_coral_block
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  7:
+    MenuItem:
+    - name:&aBubble Coral Block
+    - amount:1
+    - type:bubble_coral_block
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  8:
+    MenuItem:
+    - name:&aFire Coral Block
+    - amount:1
+    - type:fire_coral_block
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  9:
+    MenuItem:
+    - name:&aHorn Coral Block
+    - amount:1
+    - type:horn_coral_block
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  10:
+    MenuItem:
+    - name:&aStone
+    - amount:1
+    - type:stone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.65 ⛃'
+    - 'lore5:&f▪ Exp: &70.65'
+    - 'lore6:&f▪ Points: &70.65'
+    - 'lore8:&f▪ Action: &7TNTBreak'
+    - 'lore9:&f▪ Money: &a0.2 ⛃'
+    - 'lore10:&f▪ Exp: &70.2'
+    - 'lore11:&f▪ Points: &70.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  11:
+    MenuItem:
+    - name:&aAndesite
+    - amount:1
+    - type:andesite
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.75 ⛃'
+    - 'lore5:&f▪ Exp: &70.75'
+    - 'lore8:&f▪ Points: &70.75'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  12:
+    MenuItem:
+    - name:&aGranite
+    - amount:1
+    - type:granite
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.75 ⛃'
+    - 'lore5:&f▪ Exp: &70.75'
+    - 'lore6:&f▪ Points: &70.75'
+    - 'lore8:&f▪ Action: &7TNTBreak'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  13:
+    MenuItem:
+    - name:&aDiorite
+    - amount:1
+    - type:diorite
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.75 ⛃'
+    - 'lore5:&f▪ Exp: &70.75'
+    - 'lore6:&f▪ Points: &70.75'
+    - 'lore8:&f▪ Action: &7TNTBreak'
+    - 'lore9:&f▪ Money: &a0.25 ⛃'
+    - 'lore10:&f▪ Exp: &70.25'
+    - 'lore11:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  14:
+    MenuItem:
+    - name:&aSandstone
+    - amount:1
+    - type:sandstone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.1 ⛃'
+    - 'lore5:&f▪ Exp: &71.1'
+    - 'lore6:&f▪ Points: &71.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  15:
+    MenuItem:
+    - name:&aRed Sandstone
+    - amount:1
+    - type:red_sandstone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.3 ⛃'
+    - 'lore5:&f▪ Exp: &71.3'
+    - 'lore6:&f▪ Points: &71.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  16:
+    MenuItem:
+    - name:&aCoal ore
+    - amount:1
+    - type:coal_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  17:
+    MenuItem:
+    - name:&aRedstone ore
+    - amount:1
+    - type:redstone_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  18:
+    MenuItem:
+    - name:&aIron ore
+    - amount:1
+    - type:iron_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  19:
+    MenuItem:
+    - name:&aGold ore
+    - amount:1
+    - type:gold_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a5 ⛃'
+    - 'lore5:&f▪ Exp: &74'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  20:
+    MenuItem:
+    - name:&aLapis ore
+    - amount:1
+    - type:lapis_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a5 ⛃'
+    - 'lore5:&f▪ Exp: &74'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  21:
+    MenuItem:
+    - name:&aDiamond ore
+    - amount:1
+    - type:diamond_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a8 ⛃'
+    - 'lore5:&f▪ Exp: &76'
+    - 'lore6:&f▪ Points: &75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  22:
+    MenuItem:
+    - name:&aEmerald ore
+    - amount:1
+    - type:emerald_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a12 ⛃'
+    - 'lore5:&f▪ Exp: &710'
+    - 'lore6:&f▪ Points: &715'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  24:
+    MenuItem:
+    - name:&aObsidian
+    - amount:1
+    - type:obsidian
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a8 ⛃'
+    - 'lore5:&f▪ Exp: &76'
+    - 'lore6:&f▪ Points: &75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  25:
+    MenuItem:
+    - name:&aNether Bricks
+    - amount:1
+    - type:nether_bricks
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.3 ⛃'
+    - 'lore5:&f▪ Exp: &71.3'
+    - 'lore6:&f▪ Points: &71.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  26:
+    MenuItem:
+    - name:&aNetherrack
+    - amount:1
+    - type:netherrack
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.2 ⛃'
+    - 'lore5:&f▪ Exp: &70.2'
+    - 'lore6:&f▪ Points: &70.2'
+    - 'lore8:&f▪ Action: &7TNTBreak'
+    - 'lore9:&f▪ Money: &a0.1 ⛃'
+    - 'lore10:&f▪ Exp: &70.1'
+    - 'lore11:&f▪ Points: &70.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  27:
+    MenuItem:
+    - name:&aPrismarine
+    - amount:1
+    - type:prismarine
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  28:
+    MenuItem:
+    - name:&aPrimarine Bricks
+    - amount:1
+    - type:prismarine_bricks
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2.75 ⛃'
+    - 'lore5:&f▪ Exp: &72.75'
+    - 'lore6:&f▪ Points: &72.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  29:
+    MenuItem:
+    - name:&aDark Prismarine
+    - amount:1
+    - type:dark_prismarine
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+  30:
+    MenuItem:
+    - name:&aNether Gold Ore
+    - amount:1
+    - type:nether_gold_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1 ⛃'
+    - 'lore5:&f▪ Exp: &71'
+    - 'lore6:&f▪ Points: &71'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  31:
+    MenuItem:
+    - name:&aNether Quartz Ore
+    - amount:1
+    - type:nether_quartz_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  32:
+    MenuItem:
+    - name:&aBasalt
+    - amount:1
+    - type:basalt
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.85 ⛃'
+    - 'lore5:&f▪ Exp: &70.85'
+    - 'lore6:&f▪ Points: &70.85'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  33:
+    MenuItem:
+    - name:&aQuartz Block
+    - amount:1
+    - type:quartz_block
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  34:
+    MenuItem:
+    - name:&aBlackstone
+    - amount:1
+    - type:blackstone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 56
+  35:
+    MenuItem:
+    - name:&aPolished Blackstone
+    - amount:1
+    - type:polished_blackstone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.75 ⛃'
+    - 'lore5:&f▪ Exp: &71.75'
+    - 'lore6:&f▪ Points: &71.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 57
+  36:
+    MenuItem:
+    - name:&aAncient Debris
+    - amount:1
+    - type:ancient_debris
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a8 ⛃'
+    - 'lore5:&f▪ Exp: &78'
+    - 'lore6:&f▪ Points: &78'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 58
+  37:
+    MenuItem:
+    - name:&aGilded Blackstone
+    - amount:1
+    - type:gilded_blackstone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.25 ⛃'
+    - 'lore5:&f▪ Exp: &71.25'
+    - 'lore6:&f▪ Points: &71.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 59
+  38:
+    MenuItem:
+    - name:&aTerracotta
+    - amount:1
+    - type:Terracotta
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.25 ⛃'
+    - 'lore5:&f▪ Exp: &71.25'
+    - 'lore6:&f▪ Points: &71.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 60
+  39:
+    MenuItem:
+    - name:&aEnd Stone
+    - amount:1
+    - type:end_stone
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 61
+  40:
+    MenuItem:
+    - name:&aCopper Ore
+    - amount:1
+    - type:copper_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a4 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 62
+  41:
+    MenuItem:
+    - name:&aDeepslate
+    - amount:1
+    - type:deepslate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.65 ⛃'
+    - 'lore5:&f▪ Exp: &70.65'
+    - 'lore6:&f▪ Points: &70.65'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 65
+  42:
+    MenuItem:
+    - name:&aCobbled Deepslate
+    - amount:1
+    - type:cobbled_deepslate
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 66
+  43:
+    MenuItem:
+    - name:&aDeepslate Coal Ore
+    - amount:1
+    - type:deepslate_coal_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72'
+    - 'lore6:&f▪ Points: &72'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 67
+  44:
+    MenuItem:
+    - name:&aDeepslate Redstone Ore
+    - amount:1
+    - type:deepslate_redstone_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 68
+  45:
+    MenuItem:
+    - name:&aDeepslate Iron Ore
+    - amount:1
+    - type:deepslate_iron_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 69
+  46:
+    MenuItem:
+    - name:&aDeepslate Gold Ore
+    - amount:1
+    - type:deepslate_gold_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a5 ⛃'
+    - 'lore5:&f▪ Exp: &74'
+    - 'lore6:&f▪ Points: &74'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 71
+  47:
+    MenuItem:
+    - name:&aDeepslate Copper Ore
+    - amount:1
+    - type:deepslate_copper_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a4 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 70
+  48:
+    MenuItem:
+    - name:&aDeepslate Lapis Ore
+    - amount:1
+    - type:deepslate_lapis_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a5 ⛃'
+    - 'lore5:&f▪ Exp: &74'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 74
+  49:
+    MenuItem:
+    - name:&aDeepslate Diamond Ore
+    - amount:1
+    - type:deepslate_diamond_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a8 ⛃'
+    - 'lore5:&f▪ Exp: &76'
+    - 'lore6:&f▪ Points: &75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 75
+  50:
+    MenuItem:
+    - name:&aDeepslate Emerald Ore
+    - amount:1
+    - type:deepslate_emerald_ore
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a12 ⛃'
+    - 'lore5:&f▪ Exp: &710'
+    - 'lore6:&f▪ Points: &715'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 76
+    

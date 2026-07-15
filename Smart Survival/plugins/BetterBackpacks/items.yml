@@ -1,0 +1,71 @@
+Items:
+  Tank:
+    Empty:
+      Displayname: "&aEmpty tank"
+      Lore:
+        - "&7fStore up to 6 buckets of"
+        - "&7water, lava, milk, honey"
+        - "&7or powder snow."
+    Filled:
+      Milk: "&7Milk tank"
+      Lava: "&7Lava tank"
+      Water: "&7Water tank"
+      Honey: "&7Honey tank"
+      Powder-snow: "&7Powder Snow tank"
+      Lore:
+        - "&f ▪ &fLevel: &e{LEVEL}&8/&e6"
+  Tiers-recipes:
+    Close:
+      Displayname: "&cClose"
+      Lore:
+        - "&7Close recipes"
+    1:
+      Displayname: "&aTier 1"
+      Lore:
+        - "&7Check Backpack Tier 1 recipe"
+    2:
+      Displayname: "&aTier 2"
+      Lore:
+        - "&7Check Backpack Tier 2 recipe"
+    3:
+      Displayname: "&aTier 3"
+      Lore:
+        - "&7Check Backpack Tier 3 recipe"
+    4:
+      Displayname: "&aTier 4"
+      Lore:
+        - "&7Check Backpack Tier 4 recipe"
+    5:
+      Displayname: "&aTier 5"
+      Lore:
+        - "&7Check Backpack Tier 5 recipe"
+    6:
+      Displayname: "&aTier 6"
+      Lore:
+        - "&7Check Backpack Tier 6 recipe"
+  Tiers-build:
+    Title: "&8Which tier you want?"
+    1:
+      Displayname: "&aSelect Tier 1"
+      Lore:
+        - "&7Get backpack with 7 slots."
+    2:
+      Displayname: "&aSelect Tier 2"
+      Lore:
+        - "&7Get backpack with 16 slots."
+    3:
+      Displayname: "&aSelect Tier 3"
+      Lore:
+        - "&7Get backpack with 25 slots."
+    4:
+      Displayname: "&aSelect Tier 4"
+      Lore:
+        - "&7Get backpack with 34 slots."
+    5:
+      Displayname: "&aSelect Tier 5"
+      Lore:
+        - "&7Get backpack with 43 slots."
+    6:
+      Displayname: "&aSelect Tier 6"
+      Lore:
+        - "&7Get backpack with 52 slots."

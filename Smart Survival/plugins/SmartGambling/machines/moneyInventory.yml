@@ -1,0 +1,47 @@
+GUI:
+    size: 45
+    title: '&8ᴄʜᴏᴏꜱᴇ ʙᴇᴛ ᴀᴍᴏᴜɴᴛ'
+    moneyButtons:
+        '100': [11]
+        '250': [12]
+        '500': [13]
+        '1000': [14]
+        '2500': [15]
+    customAmountButton: [31]
+    Items:
+        '2':
+            slots: [11]
+            material: IRON_NUGGET
+            name: '&e100'
+            lore:
+                - '&7ᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ'
+        '3':
+            slots: [12]
+            material: GOLD_NUGGET
+            name: '&e250'
+            lore:
+                - '&7ᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ'
+        '4':
+            slots: [13]
+            material: GOLD_INGOT
+            name: '&e500'
+            lore:
+                - '&7ᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ'
+        '5':
+            slots: [14]
+            material: DIAMOND
+            name: '&e1000'
+            lore:
+                - '&7ᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ'
+        '6':
+            slots: [15]
+            material: EMERALD
+            name: '&e2500'
+            lore:
+                - '&7ᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ'
+        '7':
+            slots: [31]
+            material: HONEYCOMB
+            name: '&eᴄᴜꜱᴛᴏᴍ ᴀᴍᴏᴜɴᴛ'
+            lore:
+                - '&7ᴄʟɪᴄᴋ ᴛᴏ ɪɴᴘᴜᴛ!'

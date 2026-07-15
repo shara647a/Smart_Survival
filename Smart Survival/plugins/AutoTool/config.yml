@@ -1,0 +1,18 @@
+KeepPlayerDataDays: 30
+UseJoinMessage: false
+OnlyCheckToolBar: true
+OnlySwitchWithToolInHand: false
+DontUseItemWithOneDurability: true
+SwitchSoundEnabled: true
+Messages:
+    Prefix: " "
+    JoinMessage:
+        Enabled: "§fAutomatic tool selection is §aenabled§f."
+        Disabled: "§fAutomatic tool selection is §cdisable§f."
+    SwitchMessage:
+        Enabled: "§fYou §aenable §fautomatic tool selection."
+        Disabled: "§fYou §cdisable §fautomatic tool selection."
+    Common:
+        Yes: "Yes"
+        No: "No"
+        Enabled: "enabled"

@@ -1,0 +1,8 @@
+name: tiktoker
+permissions:
+- displayname.
+parents:
+- default
+prefixes:
+- '&f#25f5ef':
+    priority: 999

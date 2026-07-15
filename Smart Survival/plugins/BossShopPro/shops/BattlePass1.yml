@@ -1,0 +1,916 @@
+ShopName: BattlePass
+DisplayName: '&f⻔⻔⻔⻔⻔⻔⻔⻔'
+Command: Battlepass
+signs:
+  text: '[Battle Pass]'
+  NeedPermissionToCreateSign: true
+shop:
+  Taken1:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Acacia Wood &7x12'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+    Condition:
+    - type:permission
+    - match:rift.take.1
+  Reward1:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Acacia Wood &7x12'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.1
+    - give %player% acacia_wood 12
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  Taken2:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Potato &7x12'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+    Condition:
+    - type:permission
+    - match:rift.take.2
+  Reward2:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Potato &7x12'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.2
+    - give %player% potato 12
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+    Condition:
+    - type:permission
+    - match:rift.ready.2
+  Taken3:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Dark Oak Sapling &7x8'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+    Condition:
+    - type:permission
+    - match:rift.take.3
+  Reward3:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Dark Oak Sapling &7x8'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.3
+    - give %player% dark_oak_sapling 8
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+    Condition:
+    - type:permission
+    - match:rift.ready.3
+  Taken4:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Iron Pickaxe &7x1 # &7(Efficiency I)'
+    - 'lore5:&f'
+    - amount:1
+    - hideflags:HIDE_ATTRIBUTES#HIDE_ENCHANTS
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+    Condition:
+    - type:permission
+    - match:rift.take.4
+  Reward4:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Iron Pickaxe &7x1 # &7(Efficiency I)'
+    - 'lore5:&f'
+    - amount:1
+    - hideflags:HIDE_ATTRIBUTES#HIDE_ENCHANTS
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.4
+    - give %player% iron_pickaxe 1 efficiency:1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+    Condition:
+    - type:permission
+    - match:rift.ready.4
+  Taken5:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Coal Block &7x3'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+    Condition:
+    - type:permission
+    - match:rift.take.5
+  Reward5:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Coal Block &7x3'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.5
+    - give %player% coal_block 3
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+    Condition:
+    - type:permission
+    - match:rift.ready.5
+  Taken6:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Brewing Stand &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+    Condition:
+    - type:permission
+    - match:rift.take.6
+  Reward6:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Brewing Stand &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.6
+    - give %player% brewing_stand 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+    Condition:
+    - type:permission
+    - match:rift.ready.6
+  Taken7:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Diamond Sword &7x1 # &7(Sharpness III)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+    Condition:
+    - type:permission
+    - match:rift.take.7
+  Reward7:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Diamond Sword &7x1 # &7(Sharpness III)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.7
+    - give %player% diamond_sword 1 sharpness:3
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+    Condition:
+    - type:permission
+    - match:rift.ready.7
+  Item_Block2:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Potato &7x12'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  Item_Block3:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Dark Oak Sapling &7x8'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  Item_Block4:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Iron Pickaxe &7x1 # &7(Efficiency I)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  Item_Block5:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Coal Block &7x3'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  Item_Block6:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Brewing Stand &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  Item_Block7:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Diamond Sword &7x1 # &7(Sharpness III)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+  TakenP1:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Iron Ingot &7x12'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+    Condition:
+    - type:permission
+    - match:rift.take.p1
+  RewardP1:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Iron Ingot &7x12'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p1
+    - give %player% iron_ingot 12
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+    Condition:
+    - type:permission
+    - match:battlepass
+  TakenP2:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Warped Stem &7x16'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+    Condition:
+    - type:permission
+    - match:rift.take.p2
+  RewardP2:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Warped Stem &7x16'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p2
+    - give %player% warped_stem 16
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+    Condition:
+    - type:permission
+    - match:rift.ready.2
+    - type:permission
+    - match:battlepass
+  TakenP3:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Cooked Salmon &7x24'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+    Condition:
+    - type:permission
+    - match:rift.take.p3
+  RewardP3:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Cooked Salmon &7x24'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p3
+    - give %player% cooked_salmon 24
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+    Condition:
+    - type:permission
+    - match:rift.ready.3
+    - type:permission
+    - match:battlepass
+  TakenP4:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ End Rod &7x24'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+    Condition:
+    - type:permission
+    - match:rift.take.p4
+  RewardP4:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ End Rod &7x24'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p4
+    - give %player% end_rod 24
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+    Condition:
+    - type:permission
+    - match:rift.ready.4
+    - type:permission
+    - match:battlepass
+  TakenP5:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Enchanting Table &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+    Condition:
+    - type:permission
+    - match:rift.take.p6
+  RewardP5:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Enchanting Table &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p6
+    - give %player% enchanting_table 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+    Condition:
+    - type:permission
+    - match:rift.ready.6
+    - type:permission
+    - match:battlepass
+  TakenP6:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Powered Rail &7x40'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+    Condition:
+    - type:permission
+    - match:rift.take.p5
+  RewardP6:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Powered Rail &7x40'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p5
+    - give %player% powered_rail 40
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+    Condition:
+    - type:permission
+    - match:rift.ready.5
+    - type:permission
+    - match:battlepass
+  TakenP7:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Diamond Chestplate &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+    Condition:
+    - type:permission
+    - match:rift.take.p7
+  RewardP7:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Diamond Chestplate &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p7
+    - give %player% diamond_chestplate 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+    Condition:
+    - type:permission
+    - match:rift.ready.7
+    - type:permission
+    - match:battlepass
+  Item_BlockP2:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Warped Stem &7x16'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+    Condition:
+    - type:permission
+    - match:battlepass
+  Item_BlockP3:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Cooked Salmon &7x24'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+    Condition:
+    - type:permission
+    - match:battlepass
+  Item_BlockP4:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ɪᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ End Rod &7x24'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+    Condition:
+    - type:permission
+    - match:battlepass
+  Item_BlockP5:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Enchanting Table &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+    Condition:
+    - type:permission
+    - match:battlepass
+  Item_BlockP6:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Powered Rail &7x40'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+    Condition:
+    - type:permission
+    - match:battlepass
+  Item_BlockP7:
+    MenuItem:
+    - name:&aᴛɪᴇʀ ᴠɪɪ
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Diamond Chestplate &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium1:
+    MenuItem:
+    - 'name:&aᴛɪᴇʀ ɪ'
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Iron Ingot &7x12'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  NoPremium2:
+    MenuItem:
+    - 'name:&aᴛɪᴇʀ ɪɪ'
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Warped Stem &7x16'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  NoPremium3:
+    MenuItem:
+    - 'name:&aᴛɪᴇʀ ɪɪɪ'
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Cooked Salmon &7x24'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  NoPremium4:
+    MenuItem:
+    - 'name:&aᴛɪᴇʀ ɪᴠ'
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ End Rod &7x24'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  NoPremium5:
+    MenuItem:
+    - 'name:&aᴛɪᴇʀ ᴠɪ'
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Enchanting Table &7x1'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  NoPremium6:
+    MenuItem:
+    - 'name:&aᴛɪᴇʀ ᴠ'
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Powered Rail &7x40'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  NoPremium7:
+    MenuItem:
+    - 'name:&aᴛɪᴇʀ ᴠɪɪ'
+    - 'lore2:&bʀᴇᴡᴀʀᴅꜱ:'
+    - 'lore3:&f ▪ Diamond Chestplate &7x1'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+  Info:
+    MenuItem:
+    - name:&aᴛʜᴇ ʀɪꜰᴛ
+    - 'lore1:&7ʏᴏᴜ ᴏʙᴛᴀɪɴ ᴘᴏɪɴᴛꜱ ʙʏ ᴄᴏᴍᴘʟᴇᴛɪɴɢ#&7ʀɪꜰᴛ ᴍɪꜱꜱɪᴏɴꜱ, ᴡɪᴛʜ ᴛʜɪꜱ ᴘᴏɪɴᴛꜱ ʏᴏᴜ#&7ᴄᴀɴ ᴜɴʟᴏᴄᴋ ʙᴀᴛᴛʟᴇᴘᴀꜱꜱ ʀᴇᴡᴀʀᴅꜱ'
+    - 'lore3:&f'
+    - amount:1
+    - type:stick
+    - custommodeldata:148
+    RewardType: SHOP
+    Reward: TheRift
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 1
+  Free:
+    MenuItem:
+    - name:&aꜰʀᴇᴇ ᴘᴀꜱꜱ
+    - 'lore1:&8ʙᴀᴛᴛʟᴇᴘᴀꜱꜱ'
+    - 'lore3:&f ▪ ᴘᴏɪɴᴛꜱ: &b%skript_points::%player%%'
+    - 'lore5:&7ᴇᴀᴄʜ 10 ᴘᴏɪɴᴛꜱ ᴜɴʟᴏᴄᴋꜱ ᴀ ʟᴇᴠᴇʟ'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:7
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 19
+  Premium2:
+    MenuItem:
+    - name:&aᴘʀᴇᴍɪᴜᴍ ᴘᴀꜱꜱ
+    - 'lore1:&8ʙᴀᴛᴛʟᴇᴘᴀꜱꜱ'
+    - 'lore3:&f ▪ ᴘᴏɪɴᴛꜱ: &b%skript_points::%player%%'
+    - 'lore5:&7ᴇᴀᴄʜ 10 ᴘᴏɪɴᴛꜱ ᴜɴʟᴏᴄᴋꜱ ᴀ ʟᴇᴠᴇʟ'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:8
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+    Condition:
+    - type:permission
+    - match:battlepass
+  Premium:
+    MenuItem:
+    - name:&aᴘʀᴇᴍɪᴜᴍ ᴘᴀꜱꜱ
+    - 'lore1:&8ʙᴀᴛᴛʟᴇᴘᴀꜱꜱ'
+    - 'lore3: &7ᴜɴʟᴏᴄᴋ ᴘʀᴇᴍɪᴜᴍ ᴘᴀꜱꜱ ꜰʀᴏᴍ ᴏᴜʀ ꜱᴛᴏʀᴇ'
+    - 'lore4: &d▪ ꜱᴛᴏʀᴇ.ꜱᴇʀᴠᴇʀ.ɴᴇᴛ'
+    - amount:1
+    - type:stick
+    - type:lime_wool
+    - custommodeldata:9
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+####################################################################################################################
+  Back:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  Back2:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  Back3:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  Next:
+    MenuItem:
+    - name:&8ɴᴇxᴛ ᴘᴀɢᴇ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: BattlePass2
+    PriceType: NOTHING
+    ExtraPermission: ''
+    InventoryLocation: 53
+    

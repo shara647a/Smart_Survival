@@ -1,0 +1,26 @@
+location: world:-69.503:67.200:-13.539
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: ''
+    height: 0.2
+  - content: '&6ꜱᴋɪʟʟꜱ'
+    height: 0.3
+  - content: ''
+    height: 0.2
+  - content: '&7ᴀᴅᴠᴀɴᴄɪɴɢ ɪɴ ᴠᴀʀɪᴏᴜꜱ'
+    height: 0.3
+  - content: '&7ᴀᴄᴛɪᴠɪᴛɪᴇꜱ ᴄᴀɴ ʙʀɪɴɢ ʏᴏᴜ'
+    height: 0.3
+  - content: '&7ꜱᴜᴘᴇʀɴᴀᴛᴜʀᴀʟ ᴘᴏᴡᴇʀꜱ'
+    height: 0.3
+  - content: ''
+    height: 0.1
+  - content: '#ICON: wooden_pickaxe'
+    height: 0.1
+  actions: {}

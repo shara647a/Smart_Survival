@@ -1,0 +1,220 @@
+angelchest-saveversion: 2
+uniqueId: b4f3ffae-b829-4c0e-97b1-a47015027265
+worldid: 5691d948-7217-48a4-8edb-69b52cf7f281
+x: 2200
+y: 166
+z: 2623
+infinite: false
+owner: a690f470-5ddd-4af8-a24e-265f91a6c597
+isProtected: false
+secondsLeft: 19
+unlockIn: -1
+created: 1668806278244
+experience: 28
+levels: 0
+price: 0.0
+customblock:
+  entities: []
+  location:
+    worldid: 5691d948-7217-48a4-8edb-69b52cf7f281
+    x: 2200
+    y: 166
+    z: 2623
+  id: minecraft:CHEST
+  originalBlockData: minecraft:air
+deathCause:
+  damageCause: FALL
+  killer: null
+opened-by: []
+logfile: MihiBlu_playworld_2022-11-18_23-17-58.log
+storageInv:
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: DIAMOND_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Legend
+      "},{"italic":false,"color":"white","text":"axe"}],"text":""}'
+    enchants:
+      DIG_SPEED: 3
+      DURABILITY: 1
+    Damage: 15
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: NETHERITE_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Legend
+      "},{"italic":false,"color":"white","text":"pickaxe"}],"text":""}'
+    enchants:
+      DIG_SPEED: 1
+      DURABILITY: 1
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: DIAMOND_SHOVEL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Legend
+      "},{"italic":false,"color":"white","text":"shovel"}],"text":""}'
+    enchants:
+      DIG_SPEED: 3
+      DURABILITY: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: APPLE
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: FLINT_AND_STEEL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 4
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: DIAMOND_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Legend
+      "},{"italic":false,"color":"white","text":"helmet"}],"text":""}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+      DURABILITY: 2
+    Damage: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: NETHERITE_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Legend
+      "},{"italic":false,"color":"white","text":"chestplate"}],"text":""}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 1
+    Damage: 6
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: DIAMOND_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Legend
+      "},{"italic":false,"color":"white","text":"leggings"}],"text":""}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+      DURABILITY: 2
+    Damage: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: NETHERITE_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Legend
+      "},{"italic":false,"color":"white","text":"boots"}],"text":""}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 1
+      DURABILITY: 1
+    Damage: 8
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: SPECTRAL_ARROW
+  amount: 48
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Legend
+      "},{"italic":false,"color":"white","text":"arrows"}],"text":""}'
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+armorInv:
+- null
+- null
+- null
+- null
+extraInv:
+- null
+overflowInv:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

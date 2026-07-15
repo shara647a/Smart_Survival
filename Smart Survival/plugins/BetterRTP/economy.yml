@@ -1,0 +1,11 @@
+Economy:
+  Enabled: true
+  Price: 500
+Hunger:
+  Enabled: true
+  Honches: 4
+CustomWorlds:
+  Enabled: false
+  Prices:
+  - world: 0
+  - world_end: 0

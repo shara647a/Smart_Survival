@@ -1,0 +1,26 @@
+location: world:-12.5:73.0:-86.5
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&f'
+    height: 0.2
+  - content: '&bᴄᴀꜱɪɴᴏ'
+    height: 0.3
+  - content: ''
+    height: 0.2
+  - content: '&7ᴀ ɢᴀᴍᴇ ᴏꜰ ᴄʜᴀɴᴄᴇ ᴛʜᴀᴛ ᴏꜰꜰᴇʀꜱ ʏᴏᴜ ᴛʜᴇ'
+    height: 0.3
+  - content: '&7ᴄʜᴀɴᴄᴇ ᴛᴏ ɢᴇᴛ ʀɪᴄʜ ꜰᴀꜱᴛ.'
+    height: 0.3
+  - content: '&7ʀᴏᴜʟᴇᴛᴛᴇ ɪꜱ ᴡᴀɪᴛɪɴɢ ꜰᴏʀ ʏᴏᴜ!'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  - content: '#ICON: amethyst_shard'
+    height: 0.3
+  actions: {}

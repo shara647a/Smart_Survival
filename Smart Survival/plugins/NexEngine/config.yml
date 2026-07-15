@@ -1,0 +1,15 @@
+locale:
+  world-names:
+    world: World
+    world_nether: Nether
+    world_the_end: The End
+Plugin:
+  Prefix: NexEngine
+  Command_Aliases: nexengine
+  Language: en
+  Name: NexEngine
+Locale:
+  World_Names:
+    world: World
+    world_nether: Nether
+    world_the_end: The End

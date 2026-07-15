@@ -1,0 +1,21 @@
+winners:
+  35b9d5c4-e3a6-31d3-938a-1305bd7f6864:
+    '1':
+      game: Test
+      map-id: 3
+      money: 5000.0
+      date: 1666120974484
+      slot: SLOT_RED
+      winner: SLOT_9
+      win-type: NORMAL
+      original-money: 2500.0
+  a596f507-2d85-379d-9bde-09e2c3d6e039:
+    '1':
+      game: European2
+      map-id: 24
+      money: 10000.0
+      date: 1667932316390
+      slot: SLOT_RED
+      winner: SLOT_23
+      win-type: NORMAL
+      original-money: 5000.0

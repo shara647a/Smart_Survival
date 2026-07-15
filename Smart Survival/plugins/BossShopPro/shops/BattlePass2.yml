@@ -1,0 +1,1156 @@
+ShopName: BattlePass2
+DisplayName: '&f⻔⻔⻔⻔⻔⻔⻔⻔'
+signs:
+  text: '[Battle Pass]'
+  NeedPermissionToCreateSign: true
+shop:
+  Taken1:
+    MenuItem:
+    - name:&aTier VIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Bundle &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 19
+    Condition:
+    - type:permission
+    - match:rift.take.8
+  Reward1:
+    MenuItem:
+    - name:&aTier VIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Bundle &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.8
+    - give %player% bundle 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 19
+    Condition:
+    - type:permission
+    - match:rift.ready.8
+  Item_Block1:
+    MenuItem:
+    - name:&aTier VIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Bundle &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 19
+  Taken2:
+    MenuItem:
+    - name:&aTier IX
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Rail &7x24'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+    Condition:
+    - type:permission
+    - match:rift.take.9
+  Reward2:
+    MenuItem:
+    - name:&aTier IX
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Rail &7x24'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.9
+    - give %player% rail 24
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+    Condition:
+    - type:permission
+    - match:rift.ready.9
+  Item_Block2:
+    MenuItem:
+    - name:&aTier IX
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Rail &7x24'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  Taken3:
+    MenuItem:
+    - name:&aTier X
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Terracotta &7x32'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+    Condition:
+    - type:permission
+    - match:rift.take.10
+  Reward3:
+    MenuItem:
+    - name:&aTier X
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Terracotta &7x32'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.10
+    - give %player% terracotta 32
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+    Condition:
+    - type:permission
+    - match:rift.ready.10
+  Item_Block3:
+    MenuItem:
+    - name:&aTier X
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Terracotta &7x32'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  Taken4:
+    MenuItem:
+    - name:&aTier XI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Dungeons Key &8- &eMedium &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+    Condition:
+    - type:permission
+    - match:rift.take.11
+  Reward4:
+    MenuItem:
+    - name:&aTier XI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Dungeons Key &8- &eMedium &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.11
+    - dkey %player% medium
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+    Condition:
+    - type:permission
+    - match:rift.ready.11
+  Item_Block4:
+    MenuItem:
+    - name:&aTier XI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Dungeons Key &8- &eMedium &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  Taken5:
+    MenuItem:
+    - name:&aTier XII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1 # &7(Efficiency IV)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+    Condition:
+    - type:permission
+    - match:rift.take.12
+  Reward5:
+    MenuItem:
+    - name:&aTier XII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1 # &7(Efficiency IV)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.12
+    - give %player% enchanted_book 1 efficiency:4
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+    Condition:
+    - type:permission
+    - match:rift.ready.12
+  Item_Block5:
+    MenuItem:
+    - name:&aTier XII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1 # &7(Efficiency IV)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  Taken6:
+    MenuItem:
+    - name:&aTier XIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sticky Piston &7x3'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+    Condition:
+    - type:permission
+    - match:rift.take.13
+  Reward6:
+    MenuItem:
+    - name:&aTier XIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sticky Piston &7x3'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.13
+    - give %player% sticky_piston 3
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+    Condition:
+    - type:permission
+    - match:rift.ready.13
+  Item_Block6:
+    MenuItem:
+    - name:&aTier XIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sticky Piston &7x3'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  Taken7:
+    MenuItem:
+    - name:&aTier XIV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sofa &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+    Condition:
+    - type:permission
+    - match:rift.take.14
+  Reward7:
+    MenuItem:
+    - name:&aTier XIV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sofa &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.14
+    - furniture give sofa %player%
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+    Condition:
+    - type:permission
+    - match:rift.ready.14
+  Item_Block7:
+    MenuItem:
+    - name:&aTier XIV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sofa &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  Taken8:
+    MenuItem:
+    - name:&aTier XV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Deepslate Diamond Ore &7x4'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+    Condition:
+    - type:permission
+    - match:rift.take.15
+  Reward8:
+    MenuItem:
+    - name:&aTier XV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Deepslate Diamond Ore &7x4'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.15
+    - give %player% deepslate_diamond_ore 4
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+    Condition:
+    - type:permission
+    - match:rift.ready.15
+  Item_Block8:
+    MenuItem:
+    - name:&aTier XV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Deepslate Diamond Ore &7x4'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  Taken9:
+    MenuItem:
+    - name:&aTier XVI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Anvil &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+    Condition:
+    - type:permission
+    - match:rift.take.16
+  Reward9:
+    MenuItem:
+    - name:&aTier XVI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Anvil &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.16
+    - give %player% anvil 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+    Condition:
+    - type:permission
+    - match:rift.ready.16
+  Item_Block9:
+    MenuItem:
+    - name:&aTier XVI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Anvil &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+  TakenP1:
+    MenuItem:
+    - name:&aTier VIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Saddle &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+    Condition:
+    - type:permission
+    - match:rift.take.p8
+  RewardP1:
+    MenuItem:
+    - name:&aTier VIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Saddle &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p8
+    - give %player% saddle 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+    Condition:
+    - type:permission
+    - match:rift.ready.8
+    - type:permission
+    - match:battlepass
+  Item_BlockP1:
+    MenuItem:
+    - name:&aTier VIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Saddle &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium1:
+    MenuItem:
+    - name:&aTier VIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Saddle &7x1'
+
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+  TakenP2:
+    MenuItem:
+    - name:&aTier IX
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sea Lantern &7x16'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+    Condition:
+    - type:permission
+    - match:rift.take.p9
+  RewardP2:
+    MenuItem:
+    - name:&aTier IX
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sea Lantern &7x16'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p9
+    - give %player% sea_lantern 16
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+    Condition:
+    - type:permission
+    - match:rift.ready.9
+    - type:permission
+    - match:battlepass
+  Item_BlockP2:
+    MenuItem:
+    - name:&aTier IX
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sea Lantern &7x16'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium2:
+    MenuItem:
+    - name:&aTier IX
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Sea Lantern &7x16'
+
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  TakenP3:
+    MenuItem:
+    - name:&aTier X
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Block of Quartz &7x32'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+    Condition:
+    - type:permission
+    - match:rift.take.p10
+  RewardP3:
+    MenuItem:
+    - name:&aTier X
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Block of Quartz &7x32'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p10
+    - give %player% quartz_block 32
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+    Condition:
+    - type:permission
+    - match:rift.ready.10
+    - type:permission
+    - match:battlepass
+  Item_BlockP3:
+    MenuItem:
+    - name:&aTier X
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Quartz Block &7x32'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium3:
+    MenuItem:
+    - name:&aTier X
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Quartz Block &7x32'
+
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  TakenP4:
+    MenuItem:
+    - name:&aTier XI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Hammock &7x1'
+    - 'lore4:&f▪ Dungeons Key &8- &aEasy &7x2'
+    - 'lore6:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+    Condition:
+    - type:permission
+    - match:rift.take.p11
+  RewardP4:
+    MenuItem:
+    - name:&aTier XI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Hammock &7x1'
+    - 'lore4:&f▪ Dungeons Key &8- &aEasy &7x2'
+    - 'lore6:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p11
+    - furniture give hammock %player%
+    - dkey %player% easy
+    - dkey %player% easy
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+    Condition:
+    - type:permission
+    - match:rift.ready.11
+    - type:permission
+    - match:battlepass
+  Item_BlockP4:
+    MenuItem:
+    - name:&aTier XI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Hammock &7x1'
+    - 'lore4:&f▪ Dungeons Key &8- &aEasy &7x2'
+    - 'lore6:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium4:
+    MenuItem:
+    - name:&aTier XI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Hammock &7x1'
+    - 'lore4:&f▪ Dungeons Key &8- &aEasy &7x2'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  TakenP5:
+    MenuItem:
+    - name:&aTier XII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Name Tag &7x1'
+    - 'lore4:&f▪ Diversity Key &7x1'
+    - 'lore6:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+    Condition:
+    - type:permission
+    - match:rift.take.p12
+  RewardP5:
+    MenuItem:
+    - name:&aTier XII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Name Tag &7x1'
+    - 'lore4:&f▪ Diversity Key &7x1'
+    - 'lore6:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p12
+    - give %player% name_tag 1
+    - crate key give %player% diversity 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+    Condition:
+    - type:permission
+    - match:rift.ready.12
+    - type:permission
+    - match:battlepass
+  Item_BlockP5:
+    MenuItem:
+    - name:&aTier XII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Name Tag &7x1'
+    - 'lore4:&f▪ Diversity Key &7x1'
+    - 'lore6:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium5:
+    MenuItem:
+    - name:&aTier XII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Name Tag &7x1'
+    - 'lore4:&f▪ Diversity Key &7x1'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  TakenP6:
+    MenuItem:
+    - name:&aTier XIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Netherite Boots &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+    Condition:
+    - type:permission
+    - match:rift.take.p13
+  RewardP6:
+    MenuItem:
+    - name:&aTier XIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Netherite Boots &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p13
+    - give %player% netherite_boots 1
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+    Condition:
+    - type:permission
+    - match:rift.ready.13
+    - type:permission
+    - match:battlepass
+  Item_BlockP6:
+    MenuItem:
+    - name:&aTier XIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Netherite Boots &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium6:
+    MenuItem:
+    - name:&aTier XIII
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Netherite Boots &7x1'
+
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  TakenP7:
+    MenuItem:
+    - name:&aTier XIV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Dungeons Key &8- &eMedium x2'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+    Condition:
+    - type:permission
+    - match:rift.take.p14
+  RewardP7:
+    MenuItem:
+    - name:&aTier XIV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Dungeons Key &8- &eMedium x2'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p14
+    - dkey %player% medium
+    - dkey %player% medium
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+    Condition:
+    - type:permission
+    - match:rift.ready.14
+    - type:permission
+    - match:battlepass
+  Item_BlockP7:
+    MenuItem:
+    - name:&aTier XIV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Dungeons Key &8- &eMedium x2'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium7:
+    MenuItem:
+    - name:&aTier XIV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Dungeons Key &8- &eMedium x2'
+
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  TakenP8:
+    MenuItem:
+    - name:&aTier XV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1 # &7(Respiration III)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+    Condition:
+    - type:permission
+    - match:rift.take.p15
+  RewardP8:
+    MenuItem:
+    - name:&aTier XV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1 # &7(Respiration III)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p15
+    - give %player% enchanted_book 1 respiration:3
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+    Condition:
+    - type:permission
+    - match:rift.ready.15
+    - type:permission
+    - match:battlepass
+  Item_BlockP8:
+    MenuItem:
+    - name:&aTier XV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1 # &7(Respiration III)'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium8:
+    MenuItem:
+    - name:&aTier XV
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Enchanted Book &7x1 # &7(Respiration III)'
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  TakenP9:
+    MenuItem:
+    - name:&aTier XVI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Studio &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:11
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+    Condition:
+    - type:permission
+    - match:rift.take.p16
+  RewardP9:
+    MenuItem:
+    - name:&aTier XVI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Studio &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:12
+    RewardType: COMMAND
+    Reward:
+    - lp user %player% permission set rift.take.p16
+    - furniture give studio %player% 
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+    Condition:
+    - type:permission
+    - match:rift.ready.16
+    - type:permission
+    - match:battlepass
+  Item_BlockP9:
+    MenuItem:
+    - name:&aTier XVI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Studio &7x1'
+    - 'lore5:&f'
+    - amount:1
+    - type:lime_wool
+    - custommodeldata:10
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+    Condition:
+    - type:permission
+    - match:battlepass
+  NoPremium9:
+    MenuItem:
+    - name:&aTier XVI
+    - 'lore2:&bRewards:'
+    - 'lore3:&f▪ Studio &7x1'
+
+    - amount:1
+    - type:paper
+    - custommodeldata:34
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+  Back123:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  Back2:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  Back3:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  Next:
+    MenuItem:
+    - name:&8ɴᴇxᴛ ᴘᴀɢᴇ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: BattlePass3
+    PriceType: NOTHING
+    ExtraPermission: ''
+    InventoryLocation: 53
+  Back:
+    MenuItem:
+    - name:&8ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: BattlePass
+    PriceType: NOTHING
+    ExtraPermission: ''
+    InventoryLocation: 47

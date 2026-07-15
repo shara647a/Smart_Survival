@@ -1,0 +1,112 @@
+# All messages are customizable, you can use HEX colors using &#RRGGBB (1.16+).
+
+# NPC related messages.
+#
+# Available placeholders:
+# %croupier% - the croupier name. (@croupier-prefix)
+npc:
+  croupier-prefix: "&b%croupier%: "
+  bets:
+    - "&7Place your bets, ladies and gentlemen, please!"
+    - "&7Place your bets, my friends."
+    - "&7Ladies and gentlemen, place your bets."
+    - "&7Place your bets and take your seats."
+  no-bets:
+    - "&7And the wheel goes round and round, no more bets, no more bets."
+    - "&7No more bets, no more bets!"
+    - "&7All right, that's it."
+  winner:
+    - "&7We have a winner."
+    - "&7Listen, we got a winner here."
+    - "&7We've got a winner, ladies and gentlemen!"
+
+# Command related messages.
+#
+# Avalaible placeholders:
+# %name% - the name of the game. (for all except @creating and @wait)
+command:
+  create: "&f The game &e%name% &fhas been created!"
+  delete: "&f The game &e%name% &fhas been deleted!"
+  exist: "&f The game &e%name% &falready exists!"
+  unknown: "&f The &e%name% &fgame doesn't exist!"
+  sintax: "&f Invalid command! check the correct syntax with /roulette."
+  from-console: "&f This command can't be executed from the console!"
+  not-permission: "&f You don't have permission to execute this command!"
+  reload: "&f The configuration files have been reloaded!"
+
+# Game related messages.
+#
+# Available placeholders:
+# %seconds% - the countdown time involved. (@starting and @spinning)
+# %bet% - the selected bet of the player. (@your-bet)
+# %numbers% - the numbers that belongs to the slot. (@your-bet)
+# %chance% - chance of winning. (@your-bet)
+# %player% - the player involved. (@join and @leave)
+# %playing% - amount of players in the game. (@join and @leave)
+# %max% - the maximum amount of players allowed. (@join and @leave)
+# %amount% - the amount of winners in the game. (@winners and @price)
+# %winners% - a list with the names of the winners, separated by commas. (@winners)
+# %multiplier% - the prize multiplier, depending on the slot. (@price)
+# %winner% - the winning slot. (@no-winner & @winner)
+game:
+  starting: "&f Starting the game in &e%seconds% &fseconds..."
+  select-bet: "&f Please, select your bet."
+  spinning: "&f Spinning the roulette in &e%seconds% &fseconds..."
+  out-of-time: "&f You haven't made your bet, you're out of the game."
+  your-bet:
+    - "&7"
+    - "&7 ▪ &fYour bet: %bet% &f%numbers%"
+    - "&7 ▪ &fChance of winning: &e%chance%"
+    - "&7"
+  spinning-start: "&f Spinning..."
+  join: "&f &e%player% &fhas joined the game. &8(%playing%&8/%max%)"
+  leave: "&f &e%player% &fhas left the game. &8(%playing%&8/%max%)"
+  no-winner: "&f The winner is... the casino! %winner%"
+  winners:
+    - "&7"
+    - "&7 ▪ &fWinners (%amount%): &e%winners%"
+    - "&7 ▪ &fWhat are you waiting to play? You can earn a lot of money!"
+    - "&7 ▪ &fWinner slot: &e%winner%"
+    - "&7"
+  price: "&f You won &e%amount% &8(x%multiplier% MULTIPLIER)!"
+  restart: "&f Restarting game, please wait..."
+  leave-player: "&f You've left the game!"
+  la-partage: "&f You've earned half your money due to &eLa Partage &frule!"
+  en-prison: "&f You've earned your money original due to &eEn Prison &frule!"
+  surrender: "&f You've earned half your money due to &eSurrender &frule!"
+
+# Avalaible placeholders.
+# %money% - the money involved. (@min-required, @selected-amount and @received)
+# %name% - the name of the game. (@received)
+other:
+  already-ingame: "&f You're already in game!"
+  already-started: "&f The game is already started."
+  min-required: "&f Sorry, but you need at least &e%money% &fto play."
+  selected-amount: "&f &e%money% &fwill be taken from your account."
+  control: "&f Use the WASD keys to choose a bet."
+  account: "&f The account has been changed!"
+  no-account: "&f The game account has been deleted!"
+  unknown-account: "&f The player couldn't be found!"
+  received: "&f You've received &e%money% &ffrom the game &e%name%&f."
+  vanish: "&f You can't join the game in vanish mode."
+  full: "&f This game is full!"
+  restarting: "&f The game is being restarted!"
+  model-not-loaded: "&f Please, wait for the model to be loaded!"
+  only-american: "&f This rule can only be applied in american roulette!"
+  prison-error: "&f To apply this rule, the minimum amount of players must be 1."
+  can-not-hit: "&f You can't hit players on a game!"
+  account-name: "&f Type the name of the account, or 'cancel' to exit."
+  npc-name: "&f Type the new name of the NPC, or 'cancel' to exit."
+  npc-texture: "&f Type the URL from minesk.in, or 'cancel' to exit."
+  request-cancelled: "&f The request has been cancelled!"
+  request-invalid: "&f The given input is invalid!"
+  npc-renamed: "&f The name of the NPC has been changed!"
+  npc-texturized: "&f The texture of the NPC has been changed!"
+
+help:
+  - "&7"
+  - "&aRoulette"
+  - " &7▪ /roulette create <name> <type> &8- &fCreate a new roulette."
+  - " &7▪ /roulette delete <name> &8- &fDelete a game."
+  - " &7▪ /roulette reload &8- &fReload configuration files."
+  - " &7▪ /roulette map &8- &fGives a win voucher."

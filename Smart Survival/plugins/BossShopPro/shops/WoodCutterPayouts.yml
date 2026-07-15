@@ -1,0 +1,568 @@
+ShopName: WoodcutterPayouts
+DisplayName: '&8Woodcutter Payouts'
+Command: WoodcutterPO
+signs:
+  text: '[WoodcutterPO]'
+  NeedPermissionToCreateSign: true
+shop:
+  1sus:
+    MenuItem:
+    - name:&aOak Wood
+    - amount:1
+    - type:oak_wood
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.25 ⛃'
+    - 'lore5:&f▪ Exp: &71.25'
+    - 'lore6:&f▪ Points: &71.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  1jos:
+    MenuItem:
+    - name:&aSpruce Wood
+    - amount:1
+    - type:spruce_wood
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.3 ⛃'
+    - 'lore5:&f▪ Exp: &71.3'
+    - 'lore6:&f▪ Points: &71.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  2sus:
+    MenuItem:
+    - name:&aBirch Wood
+    - amount:1
+    - type:birch_wood
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.35 ⛃'
+    - 'lore5:&f▪ Exp: &71.35'
+    - 'lore6:&f▪ Points: &71.35'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  2jos:
+    MenuItem:
+    - name:&aJungle Wood
+    - amount:1
+    - type:jungle_wood
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.25 ⛃'
+    - 'lore5:&f▪ Exp: &71.25'
+    - 'lore6:&f▪ Points: &71.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  3sus:
+    MenuItem:
+    - name:&aAcacia Wood
+    - amount:1
+    - type:acacia_wood
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.4 ⛃'
+    - 'lore5:&f▪ Exp: &71.4'
+    - 'lore6:&f▪ Points: &71.4'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  3jos:
+    MenuItem:
+    - name:&aDark Oak Wood
+    - amount:1
+    - type:dark_oak_wood
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.3 ⛃'
+    - 'lore5:&f▪ Exp: &71.3'
+    - 'lore6:&f▪ Points: &71.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  4:
+    MenuItem:
+    - name:&aOak Log
+    - amount:1
+    - type:oak_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.95 ⛃'
+    - 'lore5:&f▪ Exp: &70.95'
+    - 'lore6:&f▪ Points: &70.95'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  5:
+    MenuItem:
+    - name:&aSpruce Log
+    - amount:1
+    - type:spruce_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.0 ⛃'
+    - 'lore5:&f▪ Exp: &71.0'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  6:
+    MenuItem:
+    - name:&aBirch Log
+    - amount:1
+    - type:birch_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.05 ⛃'
+    - 'lore5:&f▪ Exp: &71.05'
+    - 'lore6:&f▪ Points: &71.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  7:
+    MenuItem:
+    - name:&aJungle Log
+    - amount:1
+    - type:jungle_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.0 ⛃'
+    - 'lore5:&f▪ Exp: &71.0'
+    - 'lore6:&f▪ Points: &71.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  8:
+    MenuItem:
+    - name:&aAcacia Log
+    - amount:1
+    - type:acacia_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.1 ⛃'
+    - 'lore5:&f▪ Exp: &71.1'
+    - 'lore6:&f▪ Points: &71.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  9:
+    MenuItem:
+    - name:&aDark Oak Log
+    - amount:1
+    - type:dark_oak_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.1 ⛃'
+    - 'lore5:&f▪ Exp: &71.1'
+    - 'lore6:&f▪ Points: &71.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  10:
+    MenuItem:
+    - name:&aStripped Spruce Log
+    - amount:1
+    - type:stripped_oak_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.7 ⛃'
+    - 'lore5:&f▪ Exp: &70.7'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  11:
+    MenuItem:
+    - name:&aStripped Spruce Log
+    - amount:1
+    - type:stripped_spruce_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.75 ⛃'
+    - 'lore5:&f▪ Exp: &70.75'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  12:
+    MenuItem:
+    - name:&aStripped Birch Log
+    - amount:1
+    - type:stripped_birch_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.8 ⛃'
+    - 'lore5:&f▪ Exp: &70.8'
+    - 'lore6:&f▪ Points: &70.6'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  13:
+    MenuItem:
+    - name:&aStripped Jungle Log
+    - amount:1
+    - type:stripped_jungle_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.7 ⛃'
+    - 'lore5:&f▪ Exp: &70.7'
+    - 'lore6:&f▪ Points: &70.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  14:
+    MenuItem:
+    - name:&aStripped Acacia Log
+    - amount:1
+    - type:stripped_acacia_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.85 ⛃'
+    - 'lore5:&f▪ Exp: &70.85'
+    - 'lore6:&f▪ Points: &70.65'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  15:
+    MenuItem:
+    - name:&aStripped Dark Oak Log
+    - amount:1
+    - type:stripped_dark_oak_log
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.75 ⛃'
+    - 'lore5:&f▪ Exp: &70.75'
+    - 'lore6:&f▪ Points: &70.55'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  16:
+    MenuItem:
+    - name:&aOak Sapling
+    - amount:1
+    - type:oak_sapling
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a-2.0 ⛃'
+    - 'lore5:&f▪ Exp: &7-2.0'
+    - 'lore6:&f▪ Points: &7-2.0'
+    - 'lore8:&f▪ Action: &7Place'
+    - 'lore9:&f▪ Money: &a2.00 ⛃'
+    - 'lore10:&f▪ Exp: &72.00'
+    - 'lore11:&f▪ Points: &72.00'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  17:
+    MenuItem:
+    - name:&aSpruce Sapling
+    - amount:1
+    - type:Spruce_sapling
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a-2.1 ⛃'
+    - 'lore5:&f▪ Exp: &7-2.1'
+    - 'lore6:&f▪ Points: &7-2.1'
+    - 'lore8:&f▪ Action: &7Place'
+    - 'lore9:&f▪ Money: &a2.1 ⛃'
+    - 'lore10:&f▪ Exp: &72.1'
+    - 'lore11:&f▪ Points: &72.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  18:
+    MenuItem:
+    - name:&aBirch Sapling
+    - amount:1
+    - type:Birch_sapling
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a-2.2 ⛃'
+    - 'lore5:&f▪ Exp: &7-2.2'
+    - 'lore6:&f▪ Points: &7-2.2'
+    - 'lore8:&f▪ Action: &7Place'
+    - 'lore9:&f▪ Money: &a2.2 ⛃'
+    - 'lore10:&f▪ Exp: &72.2'
+    - 'lore11:&f▪ Points: &72.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  19:
+    MenuItem:
+    - name:&aJungle Sapling
+    - amount:1
+    - type:jungle_sapling
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a-2.1 ⛃'
+    - 'lore5:&f▪ Exp: &7-2.1'
+    - 'lore6:&f▪ Points: &7-2.1'
+    - 'lore8:&f▪ Action: &7Place'
+    - 'lore9:&f▪ Money: &a2.1 ⛃'
+    - 'lore10:&f▪ Exp: &72.1'
+    - 'lore11:&f▪ Points: &72.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  20:
+    MenuItem:
+    - name:&aAcacia Sapling
+    - amount:1
+    - type:acacia_sapling
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a-2.3 ⛃'
+    - 'lore5:&f▪ Exp: &7-2.3'
+    - 'lore6:&f▪ Points: &7-2.3'
+    - 'lore8:&f▪ Action: &7Place'
+    - 'lore9:&f▪ Money: &a2.3 ⛃'
+    - 'lore10:&f▪ Exp: &72.3'
+    - 'lore11:&f▪ Points: &72.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  21:
+    MenuItem:
+    - name:&aDark Oak Sapling
+    - amount:1
+    - type:dark_oak_sapling
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a-2.3 ⛃'
+    - 'lore5:&f▪ Exp: &7-2.3'
+    - 'lore6:&f▪ Points: &7-2.3'
+    - 'lore8:&f▪ Action: &7Place'
+    - 'lore9:&f▪ Money: &a2.3 ⛃'
+    - 'lore10:&f▪ Exp: &72.3'
+    - 'lore11:&f▪ Points: &72.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40  
+  22:
+    MenuItem:
+    - name:&aOak Leaves
+    - amount:1
+    - type:oak_leaves
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  23:
+    MenuItem:
+    - name:&aSpruce Leaves
+    - amount:1
+    - type:spruce_leaves
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.3 ⛃'
+    - 'lore5:&f▪ Exp: &70.3'
+    - 'lore6:&f▪ Points: &70.3'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  24:
+    MenuItem:
+    - name:&aBirch Leaves
+    - amount:1
+    - type:birch_leaves
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  25:
+    MenuItem:
+    - name:&aJungle Leaves
+    - amount:1
+    - type:jungle_leaves
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  26:
+    MenuItem:
+    - name:&aAcacia Leaves
+    - amount:1
+    - type:acacia_leaves
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a3 ⛃'
+    - 'lore5:&f▪ Exp: &73'
+    - 'lore6:&f▪ Points: &73'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 56
+  27:
+    MenuItem:
+    - name:&aDark Oak Leaves
+    - amount:1
+    - type:dark_oak_leaves
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.25 ⛃'
+    - 'lore5:&f▪ Exp: &70.25'
+    - 'lore6:&f▪ Points: &70.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 57
+  28:
+    MenuItem:
+    - name:&aCrimson Stem
+    - amount:1
+    - type:crimson_stem
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.1 ⛃'
+    - 'lore5:&f▪ Exp: &71.1'
+    - 'lore6:&f▪ Points: &71.1'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 59
+  29:
+    MenuItem:
+    - name:&aCrimson Hyphae
+    - amount:1
+    - type:crimson_hyphae
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.25 ⛃'
+    - 'lore5:&f▪ Exp: &71.25'
+    - 'lore6:&f▪ Points: &71.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 58
+  30:
+    MenuItem:
+    - name:&aStripped Crimson Hyphae
+    - amount:1
+    - type:stripped_crimson_hyphae
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.75 ⛃'
+    - 'lore5:&f▪ Exp: &70.75'
+    - 'lore6:&f▪ Points: &70.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 60
+  31:
+    MenuItem:
+    - name:&aStripped Crimson Stem
+    - amount:1
+    - type:stripped_crimson_stem
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.75 ⛃'
+    - 'lore5:&f▪ Exp: &70.75'
+    - 'lore6:&f▪ Points: &70.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 61
+  32:
+    MenuItem:
+    - name:&aWarped Hyphae
+    - amount:1
+    - type:warped_hyphae
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.45 ⛃'
+    - 'lore5:&f▪ Exp: &71.45'
+    - 'lore6:&f▪ Points: &71.45'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 62
+  33:
+    MenuItem:
+    - name:&aWarped Stem
+    - amount:1
+    - type:warped_stem
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a1.2 ⛃'
+    - 'lore5:&f▪ Exp: &71.2'
+    - 'lore6:&f▪ Points: &71.2'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 65
+  34:
+    MenuItem:
+    - name:&aStripped Warped Hyphae
+    - amount:1
+    - type:stripped_warped_hyphae
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.85 ⛃'
+    - 'lore5:&f▪ Exp: &70.85'
+    - 'lore6:&f▪ Points: &70.85'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 66
+  35:
+    MenuItem:
+    - name:&aStripped Warped Stem
+    - amount:1
+    - type:stripped_warped_stem
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Break'
+    - 'lore4:&f▪ Money: &a0.75 ⛃'
+    - 'lore5:&f▪ Exp: &70.75'
+    - 'lore6:&f▪ Points: &70.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 67
+
+  
+   
+
+    

@@ -1,0 +1,315 @@
+ShopName: Menu
+DisplayName: '&f⻔⻔⻔⻔⻔⻔⻔⻔'
+signs:
+  text: '[Menu]'
+  NeedPermissionToCreateSign: true
+shop: 
+  pblocks:
+    MenuItem:
+    - 'lore1:&7ʙᴀꜱɪᴄ ʙʟᴏᴄᴋꜱ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʀʀᴀɪɴ #&7ᴀɴᴅ ᴜɴᴅᴇʀɢʀᴏᴜɴᴅ.# # &f▪ ꜱᴛᴏɴᴇ# &f▪ ᴅɪʀᴛ# &f▪ ꜱᴀɴᴅ'
+    - 'lore3:&f'
+    - name:&aᴘʀɪᴍᴀʀʏ ʙʟᴏᴄᴋꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM1MTEyOThkN2ZmZDRjOWJhNmY4ZGNhNzFkMzNiMWQyOTE2Y2VjMzExOGRjNGFmMDFjNmRhNjk1NjcwMjczZSJ9fX0=
+    RewardType: SHOP
+    Reward: PrimaryBlocks
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  wood:
+    MenuItem:
+    - 'lore1:&7ᴀʟʟ ᴛʏᴘᴇꜱ ᴏꜰ ʀᴀᴡ ᴡᴏᴏᴅ ᴍᴀᴛᴇʀɪᴀʟꜱ.# # &f▪ ᴡᴏᴏᴅ# &f▪ ʟᴏɢꜱ# &f▪ ᴘʟᴀɴᴋꜱ'
+    - 'lore3:&f'
+    - name:&aᴡᴏᴏᴅ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODQ1NzY3ZmEzYjE5YWQyM2ExMTcxNThmZGZiOWQ1ODdiMGNjYjIyODIzYmI1ZDQyMWQxNjE2MTAyN2U4NjRkNCJ9fX0=
+    RewardType: SHOP
+    Reward: Wood
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  ores:
+    MenuItem:
+    - 'lore1:&7ᴏʀᴇꜱ ᴛʜᴀᴛ ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴜɴᴅᴇʀɢʀᴏᴜɴᴅ.# # &f▪ ɪʀᴏɴ# &f▪ ᴅɪᴀᴍᴏɴᴅ# &f▪ ɴᴇᴛʜᴇʀɪᴛᴇ# &f▪ Qᴜᴀʀᴛᴢ'
+    - 'lore3:&f'
+    - name:&aᴏʀᴇꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2JmNWM1MDhlYzQ2MDY0ZTAwODc4MTZjZjYzYjdlNzA4YjI5MDVjOWJhYzRjM2IwNWY0MzZmZjFjNmRkMzc1OCJ9fX0=
+    RewardType: SHOP
+    Reward: Ores
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  peblocks:
+    MenuItem:
+    - 'lore1:&7ʙʟᴏᴄᴋꜱ ᴏɴʟʏ ꜰᴏᴜɴᴅ ɪɴ ᴏᴛʜᴇʀ ᴅɪᴍᴇɴꜱɪᴏɴꜱ.# # &f▪ ɴᴇᴛʜᴇʀʀᴀᴄᴋ# &f▪ ᴇɴᴅ ꜱᴛᴏɴᴇ# &f▪ ᴡᴀʀᴘᴇᴅ ꜱᴛᴇᴍ'
+    - 'lore3:&f'
+    - name:&aᴘᴇᴄᴜʟɪᴀʀ ʙʟᴏᴄᴋꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQyNmFiODg4Mjk4YWRmMWVmZmQ4MTFjODA3NGRlZjA5NzgwZTdkOWQxMmJhNGM3N2I3M2ZkYTk5ODJkZDBmZSJ9fX0=
+    RewardType: SHOP
+    Reward: PeculiarBlocks
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  fblocks:
+    MenuItem:
+    - 'lore1:&7ʙʟᴏᴄᴋꜱ ᴛʜᴀᴛ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ᴛᴏ ʙᴜɪʟᴅ #&7ᴇxᴛʀᴀᴠᴀɢᴀɴᴛ ʜᴏᴜꜱᴇꜱ. # # &f▪ ᴡᴏᴏʟ# &f▪ ɪᴄᴇ# &f▪ ᴄᴏʀᴀʟ'
+    - 'lore3:&f'
+    - name:&aꜰᴀɴᴄʏ ʙʟᴏᴄᴋꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2I1ZjNhOGE3YTUzMzhmZjhjMDFiZGQ0ZjViM2E1Y2FmNTQ5OWY0YzA0ZTg0ZTQyMzBkMDNmNDRjMzUyNWQ2ZCJ9fX0=
+    RewardType: SHOP
+    Reward: FancyBlocks
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  garden:
+    MenuItem:
+    - 'lore1:&7ᴠᴀʀʏɪɴɢ ɪᴛᴇᴍꜱ ᴛʜᴀᴛ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ᴛᴏ #&7ᴅᴇᴄᴏʀᴀᴛᴇ ɢᴀʀᴅᴇɴꜱ. # # &f▪ ʟᴇᴀᴠᴇꜱ# &f▪ ꜱᴀᴘʟɪɴɢꜱ# &f▪ ꜰʟᴏᴡᴇʀꜱ'
+    - 'lore3:&f'
+    - name:&aɢᴀʀᴅᴇɴ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc0OWZmMTBjZDA3MDQ5N2ZkOTFiOTZlMWVlNzBjOTM5MmMzN2QwYjA0N2VjYjJhYTcwMGFlOThkNTIwODAyNCJ9fX0=
+    RewardType: SHOP
+    Reward: Garden
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  UsefulBlocks:
+    MenuItem:
+    - 'lore1:&7ʙʟᴏᴄᴋꜱ ᴛʜᴀᴛ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ꜰᴏʀ ᴇɪᴛʜᴇʀ #&7ᴅᴇꜱɪɢɴ ᴏʀ ᴜᴛɪʟɪᴛʏ. # # &f▪ ʙᴇᴅ# &f▪ ᴄʀᴀꜰᴛɪɴɢ# &f▪ ꜰᴜʀɴᴀᴄᴇ'
+    - 'lore3:&f'
+    - name:&aᴜꜱᴇꜰᴜʟ ʙʟᴏᴄᴋꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTk3MTNlMWNkYzIzZmRhZjM4NDA5NWMzYTNhZDY0YzY3MGQyOGFlOWVlZjkyZDEwZjFlYTA1NWE4NWQ5MGQ0OSJ9fX0=
+    RewardType: SHOP
+    Reward: UsefulBlocks
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  Food:
+    MenuItem:
+    - 'lore1:&7ꜰᴏᴏᴅ ᴛᴏ ꜰɪʟʟ ʏᴏᴜ ᴜᴘ. # # &f▪ ʙʀᴇᴀᴅ# &f▪ ꜱᴛᴇᴀᴋ# &f▪ ᴄᴏᴏᴋɪᴇ'
+    - 'lore3:&f'
+    - name:&aꜰᴏᴏᴅ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjU0YmZiZjVhNWI5MzNjNWJlZThkM2ZjNzc1YjhhYmJjYWNlODU2YzBkZjBjMDU3MjlmMzcxYWIzMWY1OTZhOSJ9fX0=
+    RewardType: SHOP
+    Reward: Food
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  Farms:
+    MenuItem:
+    - 'lore1:&7ᴠᴀʀʏɪɴɢ ɪᴛᴇᴍꜱ ᴛʜᴀᴛ ᴄᴀɴ ʙᴇ ɢʀᴏᴡɴ #&7ᴏɴ ʟᴀɴᴅ. # # &f▪ ꜱᴇᴇᴅꜱ# &f▪ ᴄᴀᴄᴛᴜꜱ# &f▪ ᴍᴜꜱʜʀᴏᴏᴍ'
+    - 'lore3:&f'
+    - name:&aꜰᴀʀᴍꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDkxYWMzMTNkN2UwODZkNmNjOTRhODQzNWY2NDNmMTcxOWYxYjNiMzc4YjA0ZWIxYzQyNzJlNWMzNjZkMGZjMiJ9fX0=
+    RewardType: SHOP
+    Reward: Farms
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  MobDrops:
+    MenuItem:
+    - 'lore1:&7ʀᴇᴡᴀʀᴅꜱ ꜰᴏʀ ꜱʟᴀʏɪɴɢ ᴍᴏʙꜱ. # # &f▪ ʙᴏɴᴇꜱ# &f▪ ᴇɢɢꜱ# &f▪ ʟᴇᴀᴛʜᴇʀ'
+    - 'lore3:&f'
+    - name:&aᴍᴏʙ ᴅʀᴏᴘꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmUzMDBhNzMwYTE4ZGQ2ZDJmNmY5MGM5NzlmOTY3ZDQyODc2NTVhNjUyNjg4NDVlMTU3ODRkYzQ2Zjg4YmYzNSJ9fX0=
+    RewardType: SHOP
+    Reward: MobDrops
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  RedStone:
+    MenuItem:
+    - 'lore1:&7ʙʟᴏᴄᴋꜱ ᴛʜᴀᴛ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ᴛᴏ ᴄʀᴇᴀᴛᴇ #&7ᴀᴜᴛᴏᴍᴀᴛɪᴄ ᴍᴇᴄʜᴀɴɪꜱᴍ. # # &f▪ ᴘɪꜱᴛᴏɴ# &f▪ ʀᴇᴘᴇᴀᴛᴇʀ# &f▪ ᴛɴᴛ'
+    - 'lore3:&f'
+    - name:&aʀᴇᴅꜱᴛᴏɴᴇ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTk1ZWFhOTJkMmViOTY5NDI4NGI0ZTk4Y2FkZWNmZDdhODIzMjU2YmFkNWEzOTQ1OThmNjMyNGNmZTdmNzM3YiJ9fX0=
+    RewardType: SHOP
+    Reward: Redstone
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  Miscellaneous:
+    MenuItem:
+    - 'lore1:&7ᴠᴀʀʏɪɴɢ ɪᴛᴇᴍꜱ ᴛʜᴀᴛ ᴅᴏɴ''ᴛ ꜰɪᴛ ɪɴ #&7ᴀɴʏ ᴏᴛʜᴇʀ ᴄᴀᴛᴇɢᴏʀʏ. # # &f▪ ꜱᴀᴅᴅʟᴇ# &f▪ ᴇʟʏᴛʀᴀ# &f▪ ᴅʏᴇꜱ'
+    - 'lore3:&f'
+    - name:&aᴍɪꜱᴄᴇʟʟᴀɴᴇᴏᴜꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQwMDZhYTk2MTY2OGYzYWVhMGRiZmFmNGIwM2Y0MTA0ZTAzZmVlODQxZDEwM2U0ODJiZTIwZmM5MzdkNGM3MCJ9fX0=
+    RewardType: SHOP
+    Reward: Miscellaneous
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  Weapons:
+    MenuItem:
+    - 'lore1:&7ɪᴛᴇᴍꜱ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴄᴏᴍʙᴀᴛ ᴍᴏʙꜱ#&7ᴀɴᴅ ᴇɴᴇᴍɪᴇꜱ. # # &f▪ ꜱᴡᴏʀᴅ# &f▪ ʜᴇʟᴍᴇᴛ# &f▪ ꜱʜɪᴇʟᴅ'
+    - 'lore3:&f'
+    - name:&aᴡᴇᴀᴘᴏɴꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTVkNzZkOTBiMzc4MDgzZDE0Nzc1NjgwNTA1ZGRiMWU2YzJjNmRjZjRkZGU3ZjliMWY1ODgwOWJlYzZjNjVjOCJ9fX0=
+    - hideflags:all
+    RewardType: SHOP
+    Reward: Weapons
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  Tools:
+    MenuItem:
+    - 'lore1:&7ᴠᴀʀʏɪɴɢ ɪᴛᴇᴍꜱ ᴛᴏ ʜᴇʟᴘ ᴇᴀꜱᴇ#&7ʏᴏᴜʀ ᴡᴏʀᴋ. # # &f▪ ᴘɪᴄᴋᴀxᴇ# &f▪ ꜱʜᴇᴀʀꜱ# &f▪ ᴄʟᴏᴄᴋ'
+    - 'lore3:&f'
+    - name:&aᴛᴏᴏʟꜱ
+    - amount:1
+    - type:player_head
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjZlYTIxMzU4Mzg0NjE1MzQzNzJmMmRhNmM4NjJkMjFjZDVmM2QyYzcxMTlmMmJiNjc0YmJkNDI3OTEifX19
+    RewardType: SHOP
+    Reward: Tools
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  Commands:
+    MenuItem:
+    - 'lore1:&7ᴏʀᴅᴇʀꜱ ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ ʙᴇɴᴇꜰɪᴛ#&7ꜰʀᴏᴍ ꜰᴏʀ ᴛʜᴇ ᴍᴏᴍᴇɴᴛ ᴏʀ ᴛᴇᴍᴘᴏʀᴀʀɪʟʏ. # # &f▪ /ᴅᴀʏ# &f▪ /ꜰʟʏ# &f▪ /ꜰᴇᴇᴅ'
+    - 'lore3:&f'
+    - name:&aᴄᴏᴍᴍᴀɴᴅꜱ
+    - amount:1
+    - type:player_head
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTlmOGM4NDdiZTZmMGViNjM1ZGIzZGY1NjYyNzRhMjE4N2EyM2M4NDY3NTE1ZGZlMDk5MjZhYTYyZWRmOTA4YiJ9fX0=
+    RewardType: SHOP
+    Reward: Commands
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  Cosmetics:
+    MenuItem:
+    - 'lore1:&7ᴡᴀɴɴᴀ ʙᴇ ꜱᴘᴇᴄɪᴀʟ ᴏɴ ᴏᴜʀ ꜱᴇʀᴠᴇʀ?#&7ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ꜱᴏᴍᴇ ᴄᴜꜱᴛᴏᴍ ᴄᴏꜱᴍᴇᴛɪᴄꜱ! ## &f▪ ʜᴀᴛꜱ# &f▪ ᴍᴏʀᴇ ꜱᴏᴏɴ'
+    - 'lore3:&f'
+    - name:&aᴄᴏꜱᴍᴇᴛɪᴄꜱ
+    - amount:1
+    - type:player_head
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGZhMDY1ZjA0MjkwZWNmNDMxZjlhYTkwMGFiNmVhMTdiYzM1NGY3MGE1OTZmMTgyNmJiMjM1OTJmODdkZGJhNyJ9fX0=
+    RewardType: SHOP
+    Reward: hatsshop
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  Spawner:
+    MenuItem:
+    - 'lore1:&7ɪᴛᴇᴍꜱ ᴛʜᴀᴛ ᴄᴀɴ ꜱᴘᴀᴡɴ ᴠᴀʀʏɪɴɢ ᴍᴏʙꜱ. # # &f▪ ᴄᴀᴛ ꜱᴘᴀᴡɴ ᴇɢɢ# &f▪ ᴢᴏᴍʙɪᴇ ꜱᴘᴀᴡɴᴇʀ'
+    - 'lore3:&f'
+    - name:&aꜱᴘᴀᴡɴᴇʀꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTdiMjE4OTMwMGYzMzliYTA1MGUwMWFlMmE1NDBiN2U4OWVmODk2YTU1Yzc5MTZkY2M5ZTU4NTFhZjg2NDExZSJ9fX0=
+    RewardType: SHOP
+    Reward: Spawners
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  Furniture:
+    MenuItem:
+    - 'lore1:&7ɪᴛᴇᴍꜱ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴅᴇᴄᴏʀᴀᴛᴇ ʏᴏᴜʀ#&7ʜᴏᴜꜱᴇ ᴀɴᴅ ɢᴀʀᴅᴇɴ ᴡɪᴛʜ ꜱᴛʏʟᴇ. # # &f▪ ꜱᴏꜰᴀ# &f▪ ʜᴀᴍᴍᴏᴄᴋ# &f▪ ᴄᴏᴍᴘᴜᴛᴇʀ'
+    - 'lore3:&f'
+    - name:&aꜰᴜʀɴɪᴛᴜʀᴇ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI4NzU2NWVkNTQ4ZTFlMWQ2YmFmMDQzZTZlY2NkYTFjNTViMGM2M2RiMGE3MTdiYzk0NTNiMjhkIn19fQ==
+    RewardType: SHOP
+    Reward: Furniture
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  Backpacks: 
+    MenuItem:
+    - 'lore1:&7ꜰʀᴏᴍ ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ʙᴀᴄᴋᴘᴀᴄᴋꜱ,#&7ᴡɪᴛʜ ᴠᴀʀɪᴏᴜꜱ ꜱᴘᴇᴄɪꜰɪᴄᴀᴛɪᴏɴꜱ ᴀɴᴅ ꜱɪᴢᴇꜱ,#&7ᴜꜱᴇꜰᴜʟ ɪɴ ꜱᴛᴏʀɪɴɢ ɪᴛᴇᴍꜱ. # # &f▪ ʙᴜɴᴅʟᴇ# &f▪ ʙᴀᴄᴋᴘᴀᴄᴋꜱ'
+    - 'lore3:&f'
+    - name:&aʙᴀᴄᴋᴘᴀᴄᴋꜱ
+    - amount:1
+    - type:PLAYER_HEAD
+    - customskull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTg0NTlmM2I2NWIyM2NmYThjOWIxNDQzMjViOWJhODE0MDdiZTkzODJjZDg1OTkyZWY5NzljZjBlNzgzZjYifX19
+    RewardType: SHOP
+    Reward: backpacks
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+####################################################################################################################
+  Back:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  Back2:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  Back3:
+    MenuItem:
+    - name:&cʙᴀᴄᴋ
+    - type:stick
+    - custommodeldata:3
+    RewardType: SHOP
+    Reward: Profile
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  glasxsgray6:
+    MenuItem:
+    - name:&f
+    - amount:1
+    - type:stick
+    - custommodeldata:3
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54

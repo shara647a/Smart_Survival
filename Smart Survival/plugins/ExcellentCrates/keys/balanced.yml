@@ -1,0 +1,13 @@
+Name: §aBalanced Key
+Virtual: false
+Item:
+  Material: STICK
+  Custom_Model_Data: 142
+  Amount: 1
+  Durability: 0
+  Name: '&aBalanced Key'
+  Lore:
+  - '&7With this key you'
+  - '&7can open balanced crate'
+  Item_Flags: []
+  Unbreakable: false

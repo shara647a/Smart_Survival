@@ -1,0 +1,1800 @@
+ShopName: EnchanterPayouts
+DisplayName: '&8Enchanter Payouts'
+Command: EnchanterPO
+signs:
+  text: '[EnchanterPO]'
+  NeedPermissionToCreateSign: true
+shop:
+  1:
+    MenuItem:
+    - name:&aBook 
+    - amount:1
+    - type:book 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  2:
+    MenuItem:
+    - name:&aWooden Sword 
+    - amount:1
+    - type:wooden_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a1.0 ⛃'
+    - 'lore5:&f▪ Exp: &71.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  3:
+    MenuItem:
+    - name:&aWooden Pickaxe 
+    - amount:1
+    - type:wooden_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  4:
+    MenuItem:
+    - name:&aWooden Axe 
+    - amount:1
+    - type:wooden_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  5:
+    MenuItem:
+    - name:&aWooden Shovel 
+    - amount:1
+    - type:wooden_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a0.6 ⛃'
+    - 'lore5:&f▪ Exp: &70.6'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  6:
+    MenuItem:
+    - name:&aWooden Hoe 
+    - amount:1
+    - type:wooden_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a1.1 ⛃'
+    - 'lore5:&f▪ Exp: &71.1'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  7:
+    MenuItem:
+    - name:&aLeather Boots 
+    - amount:1
+    - type:leather_boots 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  8:
+    MenuItem:
+    - name:&aLeather Chestplate 
+    - amount:1
+    - type:leather_chestplate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  9:
+    MenuItem:
+    - name:&aLeather Helmet 
+    - amount:1
+    - type:leather_helmet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  10:
+    MenuItem:
+    - name:&aLeather Leggings 
+    - amount:1
+    - type:leather_leggings 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a1.5 ⛃'
+    - 'lore5:&f▪ Exp: &71.5'
+    - 'lore6:&f▪ Points: &71.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  11:
+    MenuItem:
+    - name:&aStone Sword 
+    - amount:1
+    - type:stone_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  12:
+    MenuItem:
+    - name:&aStone Pickaxe 
+    - amount:1
+    - type:stone_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  13:
+    MenuItem:
+    - name:&aStone Axe 
+    - amount:1
+    - type:stone_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  14:
+    MenuItem:
+    - name:&aStone Shovel 
+    - amount:1
+    - type:stone_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  15:
+    MenuItem:
+    - name:&aStone Hoe 
+    - amount:1
+    - type:stone_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  16:
+    MenuItem:
+    - name:&aIron Sword 
+    - amount:1
+    - type:iron_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  17:
+    MenuItem:
+    - name:&aIron Pickaxe 
+    - amount:1
+    - type:iron_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  18:
+    MenuItem:
+    - name:&aIron Axe 
+    - amount:1
+    - type:iron_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  19:
+    MenuItem:
+    - name:&aIron Shovel 
+    - amount:1
+    - type:iron_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  20:
+    MenuItem:
+    - name:&aIron Hoe 
+    - amount:1
+    - type:iron_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  21:
+    MenuItem:
+    - name:&aIron Boots 
+    - amount:1
+    - type:iron_boots 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  22:
+    MenuItem:
+    - name:&aIron Chestplate 
+    - amount:1
+    - type:iron_chestplate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  23:
+    MenuItem:
+    - name:&aIron Helmet 
+    - amount:1
+    - type:iron_helmet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  24:
+    MenuItem:
+    - name:&aIron Leggings 
+    - amount:1
+    - type:iron_leggings 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+  25:
+    MenuItem:
+    - name:&aGolden Sword 
+    - amount:1
+    - type:golden_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  26:
+    MenuItem:
+    - name:&aGolden Pickaxe 
+    - amount:1
+    - type:golden_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  27:
+    MenuItem:
+    - name:&aGolden Axe 
+    - amount:1
+    - type:golden_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  28:
+    MenuItem:
+    - name:&aGolden Shovel 
+    - amount:1
+    - type:golden_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  29:
+    MenuItem:
+    - name:&aGolden Hoe 
+    - amount:1
+    - type:golden_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 56
+  30:
+    MenuItem:
+    - name:&aGold Boots 
+    - amount:1
+    - type:gold_boots 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 57
+  31:
+    MenuItem:
+    - name:&aGolden Chestplate 
+    - amount:1
+    - type:golden_chestplate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 58
+  32:
+    MenuItem:
+    - name:&aGolden Helmet 
+    - amount:1
+    - type:golden_helmet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 59
+  33:
+    MenuItem:
+    - name:&aGolden Leggings 
+    - amount:1
+    - type:golden_leggings 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 60
+  34:
+    MenuItem:
+    - name:&aDiamond Sword 
+    - amount:1
+    - type:diamond_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 61
+  35:
+    MenuItem:
+    - name:&aDiamond Pickaxe 
+    - amount:1
+    - type:diamond_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 62
+  36:
+    MenuItem:
+    - name:&aDiamond Axe 
+    - amount:1
+    - type:diamond_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 65
+  37:
+    MenuItem:
+    - name:&aDiamond Shovel 
+    - amount:1
+    - type:diamond_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 66
+  38:
+    MenuItem:
+    - name:&aDiamond Hoe 
+    - amount:1
+    - type:diamond_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 67
+  39:
+    MenuItem:
+    - name:&aDiamond Helmet 
+    - amount:1
+    - type:diamond_helmet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 68
+  40:
+    MenuItem:
+    - name:&aDiamond Chestplate 
+    - amount:1
+    - type:diamond_chestplate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 69
+  41:
+    MenuItem:
+    - name:&aDiamond Leggings 
+    - amount:1
+    - type:diamond_leggings 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 70
+  42:
+    MenuItem:
+    - name:&aDiamond Boots 
+    - amount:1
+    - type:diamond_boots 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 71
+  43:
+    MenuItem:
+    - name:&aNetherite Sword 
+    - amount:1
+    - type:netherite_sword 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 74
+  44:
+    MenuItem:
+    - name:&aNetherite Pickaxe 
+    - amount:1
+    - type:netherite_pickaxe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 75
+  45:
+    MenuItem:
+    - name:&aNetherite Axe 
+    - amount:1
+    - type:netherite_axe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 76
+  46:
+    MenuItem:
+    - name:&aNetherite Shovel 
+    - amount:1
+    - type:netherite_shovel 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 77
+  47:
+    MenuItem:
+    - name:&aNetherite Hoe 
+    - amount:1
+    - type:netherite_hoe 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 78
+  48:
+    MenuItem:
+    - name:&aNetherite Helmet 
+    - amount:1
+    - type:netherite_helmet 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 79
+  49:
+    MenuItem:
+    - name:&aNetherite Chestplate 
+    - amount:1
+    - type:netherite_chestplate 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 80
+  50:
+    MenuItem:
+    - name:&aNetherite Leggings 
+    - amount:1
+    - type:netherite_leggings 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 83
+  51:
+    MenuItem:
+    - name:&aNetherite Boots 
+    - amount:1
+    - type:netherite_boots 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 84
+  52:
+    MenuItem:
+    - name:&aBow 
+    - amount:1
+    - type:bow 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 85
+  53:
+    MenuItem:
+    - name:&aCrossbow 
+    - amount:1
+    - type:crossbow 
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 86
+  54:
+    MenuItem:
+    - name:&aArrow Damage-1
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.0 ⛃'
+    - 'lore5:&f▪ Exp: &72.0'
+    - 'lore6:&f▪ Points: &72.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 87
+  55:
+    MenuItem:
+    - name:&aArrow Damage-2
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.25 ⛃'
+    - 'lore5:&f▪ Exp: &73.25'
+    - 'lore6:&f▪ Points: &73.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 88
+  56:
+    MenuItem:
+    - name:&aArrow Damage-3
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 89
+  58:
+    MenuItem:
+    - name:&aArrow Damage-4 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.75 ⛃'
+    - 'lore5:&f▪ Exp: &75.75'
+    - 'lore6:&f▪ Points: &75.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 101
+  59:
+    MenuItem:
+    - name:&aArrow Damage-5 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 102
+  60:
+    MenuItem:
+    - name:&aArrow Fire-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 103
+  61:
+    MenuItem:
+    - name:&aArrow Infinite-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 104
+  62:
+    MenuItem:
+    - name:&aArrow Knockback-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 105
+  63:
+    MenuItem:
+    - name:&aArrow Knockback-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 106
+  64:
+    MenuItem:
+    - name:&aBinding Curse-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 107
+  65:
+    MenuItem:
+    - name:&aChanneling-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.25 ⛃'
+    - 'lore5:&f▪ Exp: &74.25'
+    - 'lore6:&f▪ Points: &74.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 110
+  66:
+    MenuItem:
+    - name:&aDamage All-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.25 ⛃'
+    - 'lore5:&f▪ Exp: &73.25'
+    - 'lore6:&f▪ Points: &73.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 111
+  67:
+    MenuItem:
+    - name:&aDamage All-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 112
+  68:
+    MenuItem:
+    - name:&aDamage All-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.75 ⛃'
+    - 'lore5:&f▪ Exp: &75.75'
+    - 'lore6:&f▪ Points: &75.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 113
+  69:
+    MenuItem:
+    - name:&aDamage All-4 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 114
+  70:
+    MenuItem:
+    - name:&aDamage All-5 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a8.25 ⛃'
+    - 'lore5:&f▪ Exp: &78.25'
+    - 'lore6:&f▪ Points: &78.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 115
+  71:
+    MenuItem:
+    - name:&aDamage Arthropods-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.75 ⛃'
+    - 'lore5:&f▪ Exp: &72.75'
+    - 'lore6:&f▪ Points: &70.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 116
+  72:
+    MenuItem:
+    - name:&aDamage Arthropods-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 119
+  73:
+    MenuItem:
+    - name:&aDamage Arthropods-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.25 ⛃'
+    - 'lore5:&f▪ Exp: &75.25'
+    - 'lore6:&f▪ Points: &75.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 120
+  74:
+    MenuItem:
+    - name:&aDamage Arthropods-4 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.5 ⛃'
+    - 'lore5:&f▪ Exp: &76.5'
+    - 'lore6:&f▪ Points: &76.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 121
+  75:
+    MenuItem:
+    - name:&aDamage Arthropods-5 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.5 ⛃'
+    - 'lore5:&f▪ Exp: &77.5'
+    - 'lore6:&f▪ Points: &77.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 122
+  76:
+    MenuItem:
+    - name:&aDamage Undead-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a2.5 ⛃'
+    - 'lore5:&f▪ Exp: &72.5'
+    - 'lore6:&f▪ Points: &72.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 123
+  77:
+    MenuItem:
+    - name:&aDamage Undead-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.75 ⛃'
+    - 'lore5:&f▪ Exp: &73.75'
+    - 'lore6:&f▪ Points: &73.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 124
+  78:
+    MenuItem:
+    - name:&aDamage Undead-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 125
+  79:
+    MenuItem:
+    - name:&aDamage Undead-4 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.0 ⛃'
+    - 'lore5:&f▪ Exp: &76.0'
+    - 'lore6:&f▪ Points: &76.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 128
+  80:
+    MenuItem:
+    - name:&aDamage Undead-5 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.0 ⛃'
+    - 'lore5:&f▪ Exp: &77.0'
+    - 'lore6:&f▪ Points: &77.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 129
+  81:
+    MenuItem:
+    - name:&aDepth Strider-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 130
+  82:
+    MenuItem:
+    - name:&aDepth Strider-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.5 ⛃'
+    - 'lore5:&f▪ Exp: &75.5'
+    - 'lore6:&f▪ Points: &75.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 131
+  83:
+    MenuItem:
+    - name:&aDepth Strider-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a8.0 ⛃'
+    - 'lore5:&f▪ Exp: &78.0'
+    - 'lore6:&f▪ Points: &78.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 132
+  84:
+    MenuItem:
+    - name:&aDig Speed-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 133
+  85:
+    MenuItem:
+    - name:&aDig Speed-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.25 ⛃'
+    - 'lore5:&f▪ Exp: &75.25'
+    - 'lore6:&f▪ Points: &75.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 134
+  86:
+    MenuItem:
+    - name:&aDig Speed-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.5 ⛃'
+    - 'lore5:&f▪ Exp: &76.5'
+    - 'lore6:&f▪ Points: &76.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 146
+  87:
+    MenuItem:
+    - name:&aDig Speed-4 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.75 ⛃'
+    - 'lore5:&f▪ Exp: &77.75'
+    - 'lore6:&f▪ Points: &77.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 147
+  88:
+    MenuItem:
+    - name:&aDig Speed-5 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a9.0 ⛃'
+    - 'lore5:&f▪ Exp: &79.0'
+    - 'lore6:&f▪ Points: &79.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 148
+  89:
+    MenuItem:
+    - name:&aDurability-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 149
+  90:
+    MenuItem:
+    - name:&aDurability-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 150
+  91:
+    MenuItem:
+    - name:&aDurability-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.0 ⛃'
+    - 'lore5:&f▪ Exp: &76.0'
+    - 'lore6:&f▪ Points: &76.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 151
+  92:
+    MenuItem:
+    - name:&aFire Aspect-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 152
+  93:
+    MenuItem:
+    - name:&aFire Aspect-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.0 ⛃'
+    - 'lore5:&f▪ Exp: &76.0'
+    - 'lore6:&f▪ Points: &76.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 155
+  94:
+    MenuItem:
+    - name:&aFrost Walker-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 156
+  95:
+    MenuItem:
+    - name:&aFrost Walker-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.5 ⛃'
+    - 'lore5:&f▪ Exp: &76.5'
+    - 'lore6:&f▪ Points: &76.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 157
+  96:
+    MenuItem:
+    - name:&aImpaling-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.0 ⛃'
+    - 'lore5:&f▪ Exp: &73.0'
+    - 'lore6:&f▪ Points: &73.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 158
+  97:
+    MenuItem:
+    - name:&aImpaling-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.25 ⛃'
+    - 'lore5:&f▪ Exp: &74.25'
+    - 'lore6:&f▪ Points: &74.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 159
+  98:
+    MenuItem:
+    - name:&aImpaling-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.5 ⛃'
+    - 'lore5:&f▪ Exp: &75.5'
+    - 'lore6:&f▪ Points: &75.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 160
+  99:
+    MenuItem:
+    - name:&aImpaling-4 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.75 ⛃'
+    - 'lore5:&f▪ Exp: &76.75'
+    - 'lore6:&f▪ Points: &76.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 161
+  100:
+    MenuItem:
+    - name:&aImpaling-5 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a8.0 ⛃'
+    - 'lore5:&f▪ Exp: &78.0'
+    - 'lore6:&f▪ Points: &78.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 164
+  101:
+    MenuItem:
+    - name:&aKnockback-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 165
+  102:
+    MenuItem:
+    - name:&aKnockback-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.0 ⛃'
+    - 'lore5:&f▪ Exp: &75.0'
+    - 'lore6:&f▪ Points: &75.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 166
+  103:
+    MenuItem:
+    - name:&aLoot Bonus Blocks-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 167
+  104:
+    MenuItem:
+    - name:&aLoot Bonus Blocks-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.0 ⛃'
+    - 'lore5:&f▪ Exp: &76.0'
+    - 'lore6:&f▪ Points: &76.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 168
+  105:
+    MenuItem:
+    - name:&aLoot Bonus Blocks-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a8.0 ⛃'
+    - 'lore5:&f▪ Exp: &78.0'
+    - 'lore6:&f▪ Points: &78.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 169
+  106:
+    MenuItem:
+    - name:&aLoot Bonus Mobs-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.5 ⛃'
+    - 'lore5:&f▪ Exp: &74.5'
+    - 'lore6:&f▪ Points: &74.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 170
+  107:
+    MenuItem:
+    - name:&aLoot Bonus Mobs-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.5 ⛃'
+    - 'lore5:&f▪ Exp: &76.5'
+    - 'lore6:&f▪ Points: &76.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 173
+  108:
+    MenuItem:
+    - name:&aLoot Bonus Mobs-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a8.5 ⛃'
+    - 'lore5:&f▪ Exp: &78.5'
+    - 'lore6:&f▪ Points: &78.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 174
+  109:
+    MenuItem:
+    - name:&aLoyalty-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 175
+  110:
+    MenuItem:
+    - name:&aLoyalty-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.75 ⛃'
+    - 'lore5:&f▪ Exp: &74.75'
+    - 'lore6:&f▪ Points: &74.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 176
+  111:
+    MenuItem:
+    - name:&aLoyalty-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.0 ⛃'
+    - 'lore5:&f▪ Exp: &76.0'
+    - 'lore6:&f▪ Points: &76.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 177
+  112:
+    MenuItem:
+    - name:&aLuck-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.0 ⛃'
+    - 'lore5:&f▪ Exp: &74.0'
+    - 'lore6:&f▪ Points: &74.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 178
+  113:
+    MenuItem:
+    - name:&aLuck-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6.0 ⛃'
+    - 'lore5:&f▪ Exp: &76.0'
+    - 'lore6:&f▪ Points: &76.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 179
+  114:
+    MenuItem:
+    - name:&aLuck-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a8.0 ⛃'
+    - 'lore5:&f▪ Exp: &78.0'
+    - 'lore6:&f▪ Points: &78.0'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 191
+  115:
+    MenuItem:
+    - name:&aLure-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 192
+  116:
+    MenuItem:
+    - name:&aLure-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.75 ⛃'
+    - 'lore5:&f▪ Exp: &74.75'
+    - 'lore6:&f▪ Points: &74.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 193
+  117:
+    MenuItem:
+    - name:&aLure-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6 ⛃'
+    - 'lore5:&f▪ Exp: &76'
+    - 'lore6:&f▪ Points: &76'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 194
+  118:
+    MenuItem:
+    - name:&aMending 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a10 ⛃'
+    - 'lore5:&f▪ Exp: &710'
+    - 'lore6:&f▪ Points: &710'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 195
+  119:
+    MenuItem:
+    - name:&aOxygen-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4 ⛃'
+    - 'lore5:&f▪ Exp: &74'
+    - 'lore6:&f▪ Points: &74'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 196
+  120:
+    MenuItem:
+    - name:&aOxygen-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.5 ⛃'
+    - 'lore5:&f▪ Exp: &75.5'
+    - 'lore6:&f▪ Points: &75.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 197
+  121:
+    MenuItem:
+    - name:&aOxygen-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7 ⛃'
+    - 'lore5:&f▪ Exp: &77'
+    - 'lore6:&f▪ Points: &77'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 200
+  122:
+    MenuItem:
+    - name:&aPiercing-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a3.5 ⛃'
+    - 'lore5:&f▪ Exp: &73.5'
+    - 'lore6:&f▪ Points: &73.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 201
+  123:
+    MenuItem:
+    - name:&aPiercing-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4.75 ⛃'
+    - 'lore5:&f▪ Exp: &74.75'
+    - 'lore6:&f▪ Points: &74.75'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 202
+  124:
+    MenuItem:
+    - name:&aPiercing-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a6 ⛃'
+    - 'lore5:&f▪ Exp: &76'
+    - 'lore6:&f▪ Points: &76'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 203
+  125:
+    MenuItem:
+    - name:&aPiercing-4 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7.25 ⛃'
+    - 'lore5:&f▪ Exp: &77.25'
+    - 'lore6:&f▪ Points: &77.25'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 204
+  126:
+    MenuItem:
+    - name:&aProtection Environmental-1 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a4 ⛃'
+    - 'lore5:&f▪ Exp: &74'
+    - 'lore6:&f▪ Points: &74'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 205
+  127:
+    MenuItem:
+    - name:&aProtection Environmental-2 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a5.5 ⛃'
+    - 'lore5:&f▪ Exp: &75.5'
+    - 'lore6:&f▪ Points: &75.5'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 206
+  128:
+    MenuItem:
+    - name:&aProtection Environmental-3 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a7 ⛃'
+    - 'lore5:&f▪ Exp: &77'
+    - 'lore6:&f▪ Points: &77'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 209
+  129:
+    MenuItem:
+    - name:&aProtection Environmental-4 
+    - amount:1
+    - type:enchanted_book
+    - 'lore2:&bEarnings:'
+    - 'lore3:&f▪ Action: &7Enchant'
+    - 'lore4:&f▪ Money: &a8.5 ⛃'
+    - 'lore5:&f▪ Exp: &78.5'
+    - 'lore6:&f▪ Points: &7LOSION'
+    RewardType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 210
+

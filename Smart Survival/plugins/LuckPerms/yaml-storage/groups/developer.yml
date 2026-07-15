@@ -1,0 +1,6 @@
+name: developer
+permissions:
+- displayname.
+prefixes:
+- '&f#f44a4d':
+    priority: 999

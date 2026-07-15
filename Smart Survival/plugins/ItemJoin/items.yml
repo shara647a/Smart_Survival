@@ -1,0 +1,26 @@
+# --{ =-=-=-=-=-=-=-=-=-= ItemJoin's Custom Item Configurations, by RockinChaos =-=-=-=-=-=-=-=-=-= }--
+# See the tutorial page for a more in-depth explanation; https://github.com/RockinChaos/ItemJoin/wiki
+# Join the discord for easy plugin support; https://discord.gg/D5FnJ7C
+# 
+# Modifying this will cause this file to break and regenerate.
+items-Version: 8
+items-Delay: 2
+items-Overwrite: false
+items-Spamming: false
+items-RestrictCount: false
+items:
+  menu1:
+    id: PLAYER_HEAD
+    skull-texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWY1MjQ5ZmQxZDdmZjI5YmFmYzZjMzdlMDNjNmU5NDE1ODU1OGZkNmNlZDdiMjk2ZGEyMDEwNmE2MjFjNTkwNSJ9fX0='
+    slot: 8
+    name: '&f '
+    lore:
+    - '&7 ᴀᴄᴄᴇꜱꜱ ᴛʜᴇ ᴍᴇɴᴜꜱ '
+    - '&7  ʏᴏᴜ ɴᴇᴇᴅ ꜰᴀꜱᴛᴇʀ '
+    interact:
+      - 'player: menu'
+    inventory:
+      - 'player: menu'
+    itemflags: animate, death-drops, self-drops, inventory-modify, placement
+    triggers: join, respawn, world-switch
+    enabled-worlds: world, playworld, playworld_nether, playworld_the_end

@@ -1,0 +1,39 @@
+Messages:
+  prefix: '&f'
+  noPermission: '%prefix% &fYou dont have permission to use this command!'
+  reload: '%prefix% &fConfig successfully reloaded!'
+  slotsAddCorrectUsage: '%prefix% &fUse: /sg add <machine_type_name>'
+  slotsAddStart: '%prefix% &fLeft click on the blocks you want to add!'
+  selectBlockMessage: '%prefix% &fBlock added at %s %s %s. '
+  cancelButton: '&c[Cancel] '
+  confirmButton: '&a[Confirm] '
+  click: '&7click'
+  canceledRoutine: '&cCanceled.'
+  createdSlotMachine: '%prefix% &fMachine created successfully!'
+  listSlots: '%prefix% &fMachines in your chunk:'
+  listSlotsNoResult: '%prefix% &fNo machines found in your chunk.'
+  listSlotsResult: '%prefix% &fMachine &e(%s) &fbat: &e%s&b. '
+  removeButton: '&c[REMOVE] '
+  removedSlotMachines: '%prefix% &fRemoved &e%s &fmachines!'
+  removeSlotInvalidAddress: '%prefix% &fTheres no machine with that address in your chunk. Use &e/sg list&f.'
+  slotsRemoveCorrectUsage: '&fUse: /sg remove <all/chunkDataAddress>'
+  chooseMoneyAmount: '%prefix% &fType the amount of money you want to bet:'
+  invalidMoneyAmount: '%prefix% &fInvalid money amount! Please enter a number:'
+  wonMoneyBossBar: '&fYou''ve won &e%s$&f!'
+  wonMoney: '%prefix% &fYou have won &e%s&f! &fYour new balance: &e%s&f'
+  moneyExtracted: '%prefix% &e%s&f &fpaid. &fYour new balance: &e%s&f'
+  notEnoughMoneyBossBar: 'You do not have enough money!'
+  machineAlreadyInUse: '&cThis machine is already being used.'
+Sounds:
+  slotsWin:
+    - BLOCK_NOTE_BLOCK_CHIME 2 1 0
+    - BLOCK_NOTE_BLOCK_CHIME 2 1.2 10
+    - BLOCK_NOTE_BLOCK_CHIME 2 1.4 10
+  rareWin:
+    - BLOCK_NOTE_BLOCK_BELL 2 0.8 0
+    - BLOCK_NOTE_BLOCK_BELL 2 1 5
+    - BLOCK_NOTE_BLOCK_BELL 2 1.2 5
+    - BLOCK_NOTE_BLOCK_BELL 2 1.4 5
+    - BLOCK_NOTE_BLOCK_BELL 2 1.6 5
+  jackpot:
+    - UI_TOAST_CHALLENGE_COMPLETE 1 1 0

@@ -1,0 +1,26 @@
+location: world:-37.485:69.000:-77.529
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&f'
+    height: 0.2
+  - content: '&f&aᴊᴏʙꜱ'
+    height: 0.3
+  - content: ''
+    height: 0.1
+  - content: '&7ᴀɴʏ ʀᴇɢᴜʟᴀʀ ᴀᴄᴛɪᴠɪᴛʏ ɪꜱ ᴀɴ'
+    height: 0.3
+  - content: '&7ᴀᴅᴅɪᴛɪᴏɴᴀʟ ꜱᴏᴜʀᴄᴇ ᴏꜰ ɪɴᴄᴏᴍᴇ,'
+    height: 0.3
+  - content: '&7ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴛʜᴇ ɴᴇᴄᴇꜱꜱᴀʀʏ ᴊᴏʙ'
+    height: 0.3
+  - content: ''
+    height: 0.1
+  - content: '#ICON: wooden_axe'
+    height: 0.1
+  actions: {}
